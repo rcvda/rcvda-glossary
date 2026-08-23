@@ -1,0 +1,600 @@
+[
+  {
+    "id": "adverse-childhood-experiences-aces",
+    "term": "Adverse Childhood Experiences (ACEs)",
+    "abbr": "ACEs",
+    "full_term": "Adverse Childhood Experiences",
+    "aliases": [
+      "ACE",
+      "ACEs",
+      "Adverse Childhood Experience"
+    ],
+    "type": "substantive",
+    "definition": "Potentially traumatic events or conditions occurring before the age of 18 (e.g. abuse, neglect, household adversity) associated with poorer health and social outcomes across the life course.",
+    "source": "Felitti, V. et al. (1998), American Journal of Preventive Medicine; Bellis, M. et al. (2014), Journal of Public Health.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "a-e",
+    "term": "A&E",
+    "abbr": "A&E",
+    "full_term": "Accident and Emergency",
+    "aliases": [
+      "Accident and Emergency"
+    ],
+    "type": "acronym",
+    "definition": "The NHS hospital service for serious injuries and emergencies: the consultant-led, 24-hour 'Type 1' A&E. Locally provided at James Cook University Hospital.",
+    "source": null,
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "bold",
+    "term": "BOLD",
+    "abbr": "BOLD",
+    "full_term": "Better Outcomes through Linked Data",
+    "aliases": [
+      "BOLD"
+    ],
+    "type": "substantive",
+    "definition": "The Ministry of Justice programme that links administrative data across homelessness, reoffending, substance misuse and victims pathways to study people with overlapping needs.",
+    "source": "GOV.UK (Ministry of Justice) — Better Outcomes through Linked Data (BOLD)",
+    "source_url": "https://www.gov.uk/government/publications/ministry-of-justice-better-outcomes-through-linked-data-bold/ministry-of-justice-better-outcomes-through-linked-data-bold",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "changing-futures-cf",
+    "term": "Changing Futures (CF)",
+    "abbr": "CF",
+    "full_term": "Changing Futures",
+    "aliases": [
+      "Changing Futures",
+      "CF"
+    ],
+    "type": "substantive",
+    "definition": "The national programme testing system-change approaches for adults facing multiple disadvantage, jointly funded by Ministry of Housing, Communities and Local Government (MHCLG) and The National Lottery Community Fund (TNLCF); £91.8m across fifteen areas of England, 2021–2026. 'Changing Futures' on its own means this national programme; the local delivery is the South Tees Changing Futures Programme.",
+    "source": "MHCLG (2020) Changing Futures: changing systems to support adults experiencing multiple disadvantage — Prospectus. London: MHCLG.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "cjs",
+    "term": "CJS",
+    "abbr": "CJS",
+    "full_term": "Criminal Justice System",
+    "aliases": [
+      "CJS"
+    ],
+    "type": "acronym",
+    "definition": "One of the five disadvantage domains in the Changing Futures working cohort definition.",
+    "source": null,
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "clrp",
+    "term": "ClRP",
+    "abbr": "ClRP",
+    "full_term": "Community-led Research Programme",
+    "aliases": [
+      "ClRP"
+    ],
+    "type": "local-programme",
+    "definition": "Redcar and Cleveland Voluntary Development Agency (RCVDA)'s programme of community-led research, delivered in partnership with Teesside University on behalf of the Health Determinants Research Collaboration South Tees (HDRC ST); the vehicle through which this deep-dive series is produced.",
+    "source": "RCVDA Community-led Research Programme (ClRP), delivered with Teesside University under the NIHR Health Determinants Research Collaboration (HDRC) South Tees.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "dluhc",
+    "term": "DLUHC",
+    "abbr": "DLUHC",
+    "full_term": "Department for Levelling Up, Housing and Communities",
+    "aliases": [
+      "DLUHC"
+    ],
+    "type": "acronym",
+    "definition": "UK government department from 2021-2024, succeeded by the Ministry of Housing, Communities and Local Government (MHCLG). Co-funder with The National Lottery Community Fund of the Changing Futures Programme.",
+    "source": "GOV.UK — Department for Levelling Up, Housing and Communities (renamed the Ministry of Housing, Communities and Local Government in 2024).",
+    "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+    "org_ref": "findthatcharity org ID GB-GOVUK-department-for-levelling-up-housing-and-communities",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-department-for-levelling-up-housing-and-communities"
+  },
+  {
+    "id": "domestic-abuse",
+    "term": "Domestic abuse",
+    "abbr": "DA",
+    "full_term": "Domestic abuse",
+    "aliases": [
+      "domestic abuse",
+      "DA"
+    ],
+    "type": "statutory",
+    "definition": "Behaviour by a person towards another to whom they are personally connected, where both are aged 16 or over and the behaviour is abusive — physical or sexual abuse, violent or threatening behaviour, controlling or coercive behaviour, economic abuse, or psychological, emotional or other abuse.",
+    "source": "Domestic Abuse Act 2021, s.1",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2021/17/section/1",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "dwp",
+    "term": "DWP",
+    "abbr": "DWP",
+    "full_term": "Department for Work and Pensions",
+    "aliases": [
+      "DWP",
+      "Department for Work and Pensions"
+    ],
+    "type": "organisation",
+    "definition": "The UK government department responsible for welfare, pensions and employment support.",
+    "source": "GOV.UK — Department for Work and Pensions.",
+    "source_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+    "org_ref": "findthatcharity org ID GB-GOR-D10",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D10"
+  },
+  {
+    "id": "ebe",
+    "term": "EbE",
+    "abbr": "EbE",
+    "full_term": "Expert by Experience",
+    "aliases": [
+      "EBE"
+    ],
+    "type": "local-programme",
+    "definition": "A person whose contribution to a service, partnership or research draws on their living experience of the system being studied. Used in this report rather than “peer” or “service user” except where the latter is the established statutory term.",
+    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "ecw-enhanced-case-worker",
+    "term": "ECW (Enhanced Case Worker)",
+    "abbr": "ECW",
+    "full_term": "Enhanced Case Worker",
+    "aliases": [
+      "ECW",
+      "Enhanced Case Worker"
+    ],
+    "type": "local-programme",
+    "definition": "The role that delivers the programme's Enhanced Case Management workstream. Enhanced Case Workers support people who are already in the system, using a multi-agency 'team around the individual' approach, and reach out to people rather than waiting for referrals. It is a higher-intensity role than the Key Worker.",
+    "source": "South Tees Delivery Plan (Version 2), Workstream 2 (Enhanced Case Management).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "fdac",
+    "term": "FDAC",
+    "abbr": "FDAC",
+    "full_term": "Family Drug and Alcohol Court",
+    "aliases": [
+      "FDAC"
+    ],
+    "type": "substantive",
+    "definition": "A problem-solving court model for parents at risk of having children removed because of substance use.",
+    "source": "FDAC national website — Family Drug and Alcohol Court, the national model maintained by the Centre for Justice Innovation",
+    "source_url": "https://fdac.org.uk",
+    "org_ref": "findthatcharity org ID GB-CHC-1151939 (Centre for Justice Innovation)",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1151939"
+  },
+  {
+    "id": "fte",
+    "term": "FTE",
+    "abbr": "FTE",
+    "full_term": "Full-time equivalent",
+    "aliases": [
+      "FTE",
+      "full-time equivalent"
+    ],
+    "type": "method",
+    "definition": "Staffing expressed as a proportion of full-time hours.",
+    "source": "GOV.UK Analysis Function (2018) — Employment variables: Hours and FTE.",
+    "source_url": "https://analysisfunction.civilservice.gov.uk/wp-content/uploads/2019/04/Employment-variables-Hours-and-FTE-April-18.pdf",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "fulfilling-lives",
+    "term": "Fulfilling Lives",
+    "abbr": "FL",
+    "full_term": "Fulfilling Lives",
+    "aliases": [
+      "Fulfilling Lives",
+      "FL"
+    ],
+    "type": "substantive",
+    "definition": "The 2014–2022 National Lottery Community Fund programme that preceded Changing Futures and piloted the multiple-disadvantage navigator role. Cited by site (e.g. Fulfilling Lives South East, Blackpool) where the source is site-specific.",
+    "source": "CFE Research, Cordis Bright and University of Sheffield (2022) The Fulfilling Lives Programme: Final evaluation. London: The National Lottery Community Fund.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "gdpr",
+    "term": "GDPR",
+    "abbr": "GDPR",
+    "full_term": "General Data Protection Regulation",
+    "aliases": [
+      "GDPR",
+      "General Data Protection Regulation"
+    ],
+    "type": "statutory",
+    "definition": "The data-protection framework governing personal data, given effect in the UK by the Data Protection Act 2018 (UK GDPR).",
+    "source": "Data Protection Act 2018 (UK GDPR)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2018/12/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "hdrc-st",
+    "term": "HDRC ST",
+    "abbr": "HDRC ST",
+    "full_term": "Health Determinants Research Collaboration South Tees",
+    "aliases": [
+      "HDRC ST",
+      "HDRC South Tees",
+      "HDRC (HDRC South Tees)",
+      "HDRC"
+    ],
+    "type": "local-programme",
+    "definition": "The National Institute for Health and Care Research (NIHR)-funded local Health Determinants Research Collaboration South Tees (HDRC ST) delivered in partnership with Teesside University; the programme within which this deep-dive series (and Redcar and Cleveland Voluntary Development Agency (RCVDA)'s Community-led Research Programme) is produced.",
+    "source": "The South Tees Health Determinants Research Collaboration programme website (NIHR-funded).",
+    "source_url": "https://hdrcsouthtees.co.uk",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "hi",
+    "term": "HI",
+    "abbr": "HI",
+    "full_term": "Health Inequalities",
+    "aliases": [
+      "HI",
+      "Health Inequalities"
+    ],
+    "type": "substantive",
+    "definition": "Unfair and avoidable differences in health across the population.",
+    "source": "Public-health term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "housing-first",
+    "term": "Housing First",
+    "abbr": "HF",
+    "full_term": "Housing First",
+    "aliases": [
+      "Housing First",
+      "HF"
+    ],
+    "type": "substantive",
+    "definition": "A model that gives someone a permanent, unconditional home first, then wraps open-ended, person-led, trauma-informed support around them. In England it follows Homeless Link's seven principles (2017); it was originated by Sam Tsemberis and Pathways to Housing in New York in 1992.",
+    "source": "Homeless Link (2017) The Principles for Housing First in England (seven principles); locally, STCFP Housing First Service Specification (Draft V1, Feb 2024 Board). Origin: Tsemberis, S. (1999), Pathways to Housing, New York.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "icb",
+    "term": "ICB",
+    "abbr": "ICB",
+    "full_term": "Integrated Care Board",
+    "aliases": [
+      "ICB"
+    ],
+    "type": "organisation",
+    "definition": "The statutory NHS body that plans and commissions health services for a defined area.",
+    "source": "Health and Care Act 2022 (ICBs, Part 1)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "ips",
+    "term": "IPS",
+    "abbr": "IPS",
+    "full_term": "Individual Placement and Support",
+    "aliases": [
+      "IPS"
+    ],
+    "type": "substantive",
+    "definition": "An employment model in which specialists are embedded in mental-health teams; the strongest-evidenced employment intervention for adults with severe mental illness.",
+    "source": "Evidence-based supported employment (Centre for Mental Health).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "isc",
+    "term": "ISC",
+    "abbr": "ISC",
+    "full_term": "Intensive Supervision Court",
+    "aliases": [
+      "ISC",
+      "ISCs",
+      "Intensive Supervision Court",
+      "Intensive Supervision Courts"
+    ],
+    "type": "statutory",
+    "definition": "A problem-solving court combining judicial oversight with probation and case-worker support as an alternative to short custodial sentences; piloted in England and Wales from 2023.",
+    "source": "Sentencing Act 2020 (powers as amended by the Police, Crime, Sentencing and Courts Act 2022); ISC pilot framework via the Sentencing Act 2020 (Special Procedures for Community and Suspended Sentence Orders) Regulations 2023 (SI 2023/559)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2020/17/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "meam",
+    "term": "MEAM",
+    "abbr": "MEAM",
+    "full_term": "Making Every Adult Matter",
+    "aliases": [
+      "MEAM"
+    ],
+    "type": "substantive",
+    "definition": "The England-wide coalition and partnership approach coordinating local responses for adults facing multiple disadvantage. The closest comparator approach to Changing Futures; each local MEAM partnership defines its own cohort within a shared frame.",
+    "source": "Making Every Adult Matter (MEAM) — the England-wide coalition (Clinks, Homeless Link and Mind)",
+    "source_url": "https://meam.org.uk",
+    "org_ref": "findthatcharity org ID GB-CHC-1209508",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1209508"
+  },
+  {
+    "id": "mhclg",
+    "term": "MHCLG",
+    "abbr": "MHCLG",
+    "full_term": "Ministry of Housing, Communities and Local Government",
+    "aliases": [
+      "MHCLG"
+    ],
+    "type": "acronym",
+    "definition": "The UK government department co-funding Changing Futures. Named MHCLG to 2021, the Department for Levelling Up, Housing and Communities (DLUHC) 2021–2024, and MHCLG again from 9 July 2024.",
+    "source": "GOV.UK — Ministry of Housing, Communities and Local Government.",
+    "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+    "org_ref": "findthatcharity org ID GB-GOR-D4",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4"
+  },
+  {
+    "id": "multiple-disadvantage-md",
+    "term": "Multiple disadvantage (MD)",
+    "abbr": "MD",
+    "full_term": "Multiple disadvantage",
+    "aliases": [
+      "multiple disadvantage",
+      "MD"
+    ],
+    "type": "substantive",
+    "definition": "The programme's cohort: in South Tees, adults in contact with two or more of five intersecting areas of complex need — criminal justice, mental health, homelessness, domestic abuse and substance use (the national Changing Futures cohort, per the MHCLG 2020 Prospectus, is three or more). The series adopts this working cohort definition as its primary frame. Hard Edges 'severe and multiple disadvantage (SMD)' is the foundational prevalence comparator.",
+    "source": "South Tees Delivery Plan (Version 2) / MHCLG (2020) Changing Futures Prospectus (working cohort definition); comparator: Bramley et al. (2015) Hard Edges, Lankelly Chase Foundation.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "nihr",
+    "term": "NIHR",
+    "abbr": "NIHR",
+    "full_term": "National Institute for Health and Care Research",
+    "aliases": [
+      "NIHR"
+    ],
+    "type": "organisation",
+    "definition": "The national funder of the Health Determinants Research Collaboration (HDRC) infrastructure.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID XI-ROR-0187kwz08",
+    "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-0187kwz08"
+  },
+  {
+    "id": "no-wrong-door",
+    "term": "No Wrong Door",
+    "abbr": null,
+    "full_term": "No Wrong Door",
+    "aliases": [
+      "NO"
+    ],
+    "type": "local-programme",
+    "definition": "The principle that any agency contact should lead to coordinated support rather than bounce-back. A design rule the wider literature converges on; rigorously-evaluated operational forms are scarce.",
+    "source": "A recognised system-design principle in the multiple-disadvantage / systems-change field (e.g. MEAM); adopted locally by the programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "ohid",
+    "term": "OHID",
+    "abbr": "OHID",
+    "full_term": "Office for Health Improvement and Disparities",
+    "aliases": [
+      "OHID"
+    ],
+    "type": "acronym",
+    "definition": "The Department of Health and Social Care unit that published the 2022 working definition of trauma-informed practice.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-GOVUK-office-for-health-improvement-and-disparities",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-office-for-health-improvement-and-disparities"
+  },
+  {
+    "id": "rct",
+    "term": "RCT",
+    "abbr": "RCT",
+    "full_term": "Randomised Controlled Trial",
+    "aliases": [
+      "RCT"
+    ],
+    "type": "method",
+    "definition": "The evidence design most multiple-disadvantage programmes do not have, for ethical and practical reasons. The report names the evidence type on first citation.",
+    "source": null,
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "rcvda",
+    "term": "RCVDA",
+    "abbr": "RCVDA",
+    "full_term": "Redcar and Cleveland Voluntary Development Agency",
+    "aliases": [
+      "RCVDA"
+    ],
+    "type": "organisation",
+    "definition": "The publishing host of this deep-dive series.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-CHC-1135959",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959"
+  },
+  {
+    "id": "rea",
+    "term": "REA",
+    "abbr": "REA",
+    "full_term": "Rapid Evidence Assessment",
+    "aliases": [
+      "REA"
+    ],
+    "type": "method",
+    "definition": "A structured evidence review with a defined search strategy and inclusion criteria, briefer than a full systematic review.",
+    "source": "UK Parliament POST (Parliamentary Office of Science and Technology) — Rapid Evidence Assessments",
+    "source_url": "https://post.parliament.uk/rapid-evidence-assessments/",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "reqol",
+    "term": "ReQoL",
+    "abbr": "ReQoL",
+    "full_term": "Recovering Quality of Life",
+    "aliases": [
+      "REQOL"
+    ],
+    "type": "method",
+    "definition": "A patient-reported outcome measure (Keetharuth et al.) of quality of life for people with mental health conditions, used in the Changing Futures national evaluation.",
+    "source": "Recovering Quality of Life measure (Keetharuth et al.).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "roi",
+    "term": "ROI",
+    "abbr": "ROI",
+    "full_term": "Return on investment",
+    "aliases": [
+      "ROI",
+      "return on investment"
+    ],
+    "type": "acronym",
+    "definition": "The financial return of an intervention relative to its cost.",
+    "source": "Standard economic-appraisal term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "severe-and-multiple-disadvantage-smd",
+    "term": "Severe and multiple disadvantage (SMD)",
+    "abbr": "SMD",
+    "full_term": "Severe and multiple disadvantage",
+    "aliases": [
+      "severe and multiple disadvantage",
+      "SMD"
+    ],
+    "type": "substantive",
+    "definition": "The Hard Edges framing, built around the overlap of homelessness, substance misuse and offending, with mental ill-health and poverty as cross-cutting factors. The foundational UK prevalence study; used in the series as a comparator to the Changing Futures cohort definition.",
+    "source": "Bramley, G. and Fitzpatrick, S. et al. (2015) Hard Edges: Mapping Severe and Multiple Disadvantage in England. London: Lankelly Chase Foundation.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "system-flex",
+    "term": "System flex",
+    "abbr": null,
+    "full_term": "System flex",
+    "aliases": [
+      "SYSTEM"
+    ],
+    "type": "local-programme",
+    "definition": "The principle that the system adapts to the person rather than the person navigating the system. Used throughout the multiple-disadvantage literature; the report’s working definition of “the system” is set out in its own entry (see The system).",
+    "source": "A principle used across the multiple-disadvantage literature; adopted as a working term by the programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "trauma-informed-practice-tip",
+    "term": "Trauma-informed practice (TIP)",
+    "abbr": "TIP",
+    "full_term": "Trauma-informed practice",
+    "aliases": [
+      "trauma-informed practice",
+      "TIP"
+    ],
+    "type": "substantive",
+    "definition": "A whole-system approach to realising the prevalence of trauma, recognising its effects, responding by embedding that knowledge in practice, and resisting re-traumatisation. The series adopts the Office for Health Improvement and Disparities (OHID) (2022) England working definition, with Substance Abuse and Mental Health Services Administration (SAMHSA)'s (2014) four assumptions and six principles as the underlying framework.",
+    "source": "OHID (2022) Working definition of trauma-informed practice (GOV.UK)",
+    "source_url": "https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "vcfse",
+    "term": "VCFSE",
+    "abbr": "VCFSE",
+    "full_term": "Voluntary, Community, Faith and Social Enterprise",
+    "aliases": [
+      "VCFSE",
+      "VCSE",
+      "voluntary, community and social enterprise",
+      "voluntary, community, faith and social enterprise"
+    ],
+    "type": "acronym",
+    "definition": "The sector Redcar and Cleveland Voluntary Development Agency (RCVDA) works within and holds the deep-dive work on behalf of.",
+    "source": "Sector-standard term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "the-national-lottery-community-fund-tnlcf",
+    "term": "The National Lottery Community Fund (TNLCF)",
+    "abbr": "TNLCF",
+    "full_term": "The National Lottery Community Fund",
+    "aliases": [
+      "The National Lottery Community Fund",
+      "National Lottery Community Fund",
+      "TNLCF",
+      "Big Lottery Fund"
+    ],
+    "type": "statutory",
+    "definition": "The operating name since 2019 of the Big Lottery Fund: the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players. Joint funder of Changing Futures with MHCLG.",
+    "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "ministry-of-justice",
+    "term": "Ministry of Justice",
+    "abbr": "MoJ",
+    "full_term": "Ministry of Justice",
+    "aliases": [
+      "Ministry of Justice",
+      "MoJ"
+    ],
+    "type": "organisation",
+    "definition": "The UK government department responsible for the courts, prisons, probation and sentencing policy in England and Wales; commissioned the Intensive Supervision Courts pilot and published the process evaluation cited in the Multiple Disadvantage report.",
+    "source": "Ministry of Justice (GOV.UK)",
+    "source_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+    "org_ref": "findthatcharity org ID GB-GOR-D18",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D18"
+  }
+]

@@ -1,0 +1,21 @@
+# contexts.yml — the registry of glossary LENSES across the RCVDA estate.
+# Each context is one lens into glossary.yml. A term's `scope` lists the context codes it appears in.
+# register: authoritative = use canonical `definition` + sources; plain = prefer reading-age-10 `plain`.
+# outputs: which artefacts build.py emits for this lens (md, json). The estate master always builds all.
+
+programmes:
+  clr:   { title: "Community-Led Research — Changing Futures Deep Dives", site: "rcvda.org.uk (CLR)" }
+  bof:   { title: "Building Our Futures", site: "buildingourfutures.org.uk" }
+  rcvda: { title: "RCVDA (organisation-wide)", site: "rcvda.org.uk" }
+
+contexts:
+  # --- Community-Led Research deep-dive strands (populated now, from the CF glossary) ---
+  clr.da:  { title: "Domestic Abuse deep dive",        programme: clr,   register: authoritative, outputs: [md, json], owner: clr }
+  clr.kw:  { title: "Key Worker deep dive",            programme: clr,   register: authoritative, outputs: [md, json], owner: clr }
+  clr.tip: { title: "Trauma-Informed Practice deep dive", programme: clr, register: authoritative, outputs: [md, json], owner: clr }
+  clr.hf:  { title: "Housing First / Homelessness deep dive", programme: clr, register: authoritative, outputs: [md, json], owner: clr }
+  clr.md:  { title: "Multiple Disadvantage deep dive", programme: clr,   register: authoritative, outputs: [md, json], owner: clr }
+
+  # --- Other estate lenses (registered now; entries added in later phases) ---
+  rcvda:   { title: "RCVDA organisation-wide glossary", programme: rcvda, register: authoritative, outputs: [md, json], owner: rcvda }
+  bof:     { title: "Building Our Futures glossary",    programme: bof,   register: plain,         outputs: [md, json], owner: bof }

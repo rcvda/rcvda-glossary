@@ -1,0 +1,3451 @@
+[
+  {
+    "id": "act-middlesbrough",
+    "term": "ACT Middlesbrough",
+    "abbr": "ACT",
+    "full_term": "Accessing Change Together",
+    "aliases": [
+      "ACT Middlesbrough",
+      "ACT",
+      "Accessing Change Together"
+    ],
+    "type": "local-programme",
+    "definition": "Middlesbrough Council's integrated adult social care service that brings support together for people facing domestic abuse, homelessness and substance use; trained advisers assess need and connect people to the right teams.",
+    "source": "Middlesbrough Council — Accessing Change Together (ACT)",
+    "source_url": "https://www.middlesbrough.gov.uk/adult-social-care/accessing-change-together/",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "adult-social-care",
+    "term": "Adult Social Care",
+    "abbr": "ASC",
+    "full_term": "Adult Social Care",
+    "aliases": [
+      "Adult Social Care",
+      "ASC"
+    ],
+    "type": "statutory",
+    "definition": "The statutory function of a local authority to provide care and support for adults with care and support needs, governed by the Care Act 2014 (the s.1 'promoting individual well-being' principle underpins it).",
+    "source": "Care Act 2014 (Part 1; s.1)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "adverse-childhood-experiences-aces",
+    "term": "Adverse Childhood Experiences (ACEs)",
+    "abbr": "ACEs",
+    "full_term": "Adverse Childhood Experiences",
+    "aliases": [
+      "ACE",
+      "ACEs",
+      "Adverse Childhood Experience"
+    ],
+    "type": "substantive",
+    "definition": "Potentially traumatic events or conditions occurring before the age of 18 (e.g. abuse, neglect, household adversity) associated with poorer health and social outcomes across the life course.",
+    "source": "Felitti, V. et al. (1998), American Journal of Preventive Medicine; Bellis, M. et al. (2014), Journal of Public Health.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "advocate-educator-ae",
+    "term": "Advocate Educator (AE)",
+    "abbr": "AE",
+    "full_term": "Advocate Educator",
+    "aliases": [
+      "Advocate Educator"
+    ],
+    "type": "local-programme",
+    "definition": "The Identification and Referral to Improve Safety (IRIS)-embedded specialist domestic-abuse worker who delivers whole-practice training to a GP practice and provides one-to-one advocacy to patients. In Middlesbrough the role is based at My Sister's Place.",
+    "source": "The Identification and Referral to Improve Safety (IRIS) programme, which defines the Advocate Educator (AE) role; delivered locally at My Sister's Place, Middlesbrough (the postholder holds the SafeLives Older Persons Violence Advisor qualification).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "a-e",
+    "term": "A&E",
+    "abbr": "A&E",
+    "full_term": "Accident and Emergency",
+    "aliases": [
+      "Accident and Emergency"
+    ],
+    "type": "acronym",
+    "definition": "The NHS hospital service for serious injuries and emergencies: the consultant-led, 24-hour 'Type 1' A&E. Locally provided at James Cook University Hospital.",
+    "source": null,
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw",
+      "clr.hf",
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "areas-of-complex-need-five-areas-of-work",
+    "term": "Areas of complex need (five areas of work)",
+    "abbr": null,
+    "full_term": "Areas of complex need (five areas of work)",
+    "aliases": [
+      "areas of complex need",
+      "areas of work",
+      "five areas"
+    ],
+    "type": "local-programme",
+    "definition": "The five overlapping areas of need that define who the programme works with: criminal justice, mental health, homelessness, domestic abuse and substance use. In South Tees a person must be in contact with two or more of these to access the service (South Tees Delivery Plan); the national Changing Futures cohort (MHCLG 2020 Prospectus) is defined more narrowly as three or more. These are the areas of work (the 'what'), distinct from the six delivery workstreams (the 'how').",
+    "source": "South Tees Delivery Plan (Version 2); MHCLG (2020) Changing Futures Prospectus (cohort definition).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [],
+    "overrides": {}
+  },
+  {
+    "id": "ask-me-ambassadors",
+    "term": "ASK ME Ambassadors",
+    "abbr": null,
+    "full_term": "ASK ME Ambassadors",
+    "aliases": [
+      "ASK"
+    ],
+    "type": "local-programme",
+    "definition": "The local delivery of Women's Aid's national 'Ask Me' community ambassador scheme (part of Change That Lasts), Middlesbrough Council-funded, training community members to recognise and signpost on domestic abuse.",
+    "source": "Women's Aid — the national 'Ask Me' community ambassador scheme (part of Change That Lasts); delivered locally with Middlesbrough Council funding.",
+    "source_url": "https://womensaid.org.uk/what-we-do/change-that-lasts/askme/",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "beyond-housing",
+    "term": "Beyond Housing",
+    "abbr": null,
+    "full_term": "Beyond Housing",
+    "aliases": [
+      "Beyond Housing"
+    ],
+    "type": "organisation",
+    "definition": "A registered provider of social housing operating across South Tees and the wider region; a named partner on the South Tees Changing Futures Programme Board.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-SHPE-LH4401",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-SHPE-LH4401",
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "bold",
+    "term": "BOLD",
+    "abbr": "BOLD",
+    "full_term": "Better Outcomes through Linked Data",
+    "aliases": [
+      "BOLD"
+    ],
+    "type": "substantive",
+    "definition": "The Ministry of Justice programme that links administrative data across homelessness, reoffending, substance misuse and victims pathways to study people with overlapping needs.",
+    "source": "GOV.UK (Ministry of Justice) — Better Outcomes through Linked Data (BOLD)",
+    "source_url": "https://www.gov.uk/government/publications/ministry-of-justice-better-outcomes-through-linked-data-bold/ministry-of-justice-better-outcomes-through-linked-data-bold",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "brief-intervention",
+    "term": "Brief intervention",
+    "abbr": null,
+    "full_term": "Brief intervention",
+    "aliases": [
+      "BRIEF"
+    ],
+    "type": "local-programme",
+    "definition": "A shorter touchpoint that does not move onto an Enhanced Case Worker (ECW) caseload. Counted in the team's attendance-reduction figures alongside intensive 1:1 intervention.",
+    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "capva",
+    "term": "CAPVA",
+    "abbr": "CAPVA",
+    "full_term": "Child / Adolescent to Parent Violence and Abuse",
+    "aliases": [
+      "CAPVA"
+    ],
+    "type": "substantive",
+    "definition": "Abuse perpetrated by a child or adolescent against a parent or carer. Where those involved are both aged 16 or over it also falls within the statutory definition of domestic abuse (Domestic Abuse Act 2021, s.1).",
+    "source": "Tees Child Protection Partnership — Child to Parent Violence and Abuse guidance; the national concept is set out in the Home Office (2015) Information guide: Adolescent to Parent Violence and Abuse",
+    "source_url": "https://www.teescpp.org.uk/procedures-and-guidance-on-specific-issues-that-affect-children/child-to-parent-violence-and-abuse/",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "caseworker",
+    "term": "Caseworker",
+    "abbr": null,
+    "full_term": "Caseworker",
+    "aliases": [
+      "CASEWORKER"
+    ],
+    "type": "local-programme",
+    "definition": "Lower case. Used in the wider national literature and by the Ministry of Housing, Communities and Local Government (MHCLG) for the same role South Tees calls 'Key Worker'. Where this report quotes national source material it preserves 'caseworker'.",
+    "source": "National usage (Ministry of Housing, Communities and Local Government and the wider Changing Futures literature) for the role South Tees calls Key Worker.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "cba",
+    "term": "CBA",
+    "abbr": "CBA",
+    "full_term": "Cost-Benefit Analysis",
+    "aliases": [
+      "CBA",
+      "Cost-Benefit Analysis"
+    ],
+    "type": "method",
+    "definition": "A method for weighing the costs of an intervention against the monetary value of its outcomes.",
+    "source": "Economic appraisal method; see HM Treasury Green Book.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "cdpsoft",
+    "term": "CDPSOFT",
+    "abbr": "CDP",
+    "full_term": "CDPSOFT",
+    "aliases": [
+      "CDPSOFT",
+      "CDP"
+    ],
+    "type": "organisation",
+    "definition": "The software supplier behind the HOAMS case-management system / SHARP platform used locally.",
+    "source": "cdpsoft — the supplier's HOAMS (Housing Options case-management) product page.",
+    "source_url": "https://www.cdpsoft.com/hoams/",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "cfe-research-cfe",
+    "term": "CFE Research (CFE)",
+    "abbr": "CFE",
+    "full_term": "CFE Research",
+    "aliases": [
+      "CFE",
+      "CFE Research"
+    ],
+    "type": "organisation",
+    "definition": "A research and evaluation consultancy; part of the national Changing Futures evaluation team (with Cordis Bright).",
+    "source": "CFE Research — an independent research and evaluation company (Leicester); part of the national Changing Futures evaluation team with Cordis Bright.",
+    "source_url": "https://cfe.org.uk",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "trauma-informed-champion",
+    "term": "Trauma-Informed Champion",
+    "abbr": null,
+    "full_term": "Trauma-Informed Champion",
+    "aliases": [
+      "champion",
+      "TIP champion",
+      "Trauma-Informed Champion"
+    ],
+    "type": "local-programme",
+    "definition": "A trained practitioner who has committed, via the Trauma-Informed Champions Charter, to embedding trauma-informed practice within their employing organisation. South Tees identified 67 named champions across 11 services.",
+    "source": "Trauma-Informed Champions Charter (South Tees; funded through Changing Futures).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "changing-futures-cf",
+    "term": "Changing Futures (CF)",
+    "abbr": "CF",
+    "full_term": "Changing Futures",
+    "aliases": [
+      "Changing Futures",
+      "CF"
+    ],
+    "type": "substantive",
+    "definition": "The national programme testing system-change approaches for adults facing multiple disadvantage, jointly funded by Ministry of Housing, Communities and Local Government (MHCLG) and The National Lottery Community Fund (TNLCF); £91.8m across fifteen areas of England, 2021–2026. 'Changing Futures' on its own means this national programme; the local delivery is the South Tees Changing Futures Programme.",
+    "source": "MHCLG (2020) Changing Futures: changing systems to support adults experiencing multiple disadvantage — Prospectus. London: MHCLG.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf",
+      "clr.kw",
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "cjs",
+    "term": "CJS",
+    "abbr": "CJS",
+    "full_term": "Criminal Justice System",
+    "aliases": [
+      "CJS"
+    ],
+    "type": "acronym",
+    "definition": "One of the five disadvantage domains in the Changing Futures working cohort definition.",
+    "source": null,
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "cleveland",
+    "term": "Cleveland",
+    "abbr": null,
+    "full_term": "Cleveland",
+    "aliases": [
+      "Cleveland"
+    ],
+    "type": "statutory",
+    "definition": "The former county of Cleveland (1974–1996), created by the Local Government Act 1972 and abolished by the Cleveland (Structural Change) Order 1995, which replaced it with four unitary authorities — Middlesbrough, Redcar & Cleveland, Stockton-on-Tees and Hartlepool. The name survives in bodies whose footprint still covers that geography, notably Cleveland Police and its Office of the Police and Crime Commissioner (OPCC).",
+    "source": "The Cleveland (Structural Change) Order 1995 (SI 1995/187), which abolished the county created by the Local Government Act 1972; the geography survives as the Cleveland Police / OPCC footprint.",
+    "source_url": "https://www.legislation.gov.uk/uksi/1995/187",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.hf",
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "clrp",
+    "term": "ClRP",
+    "abbr": "ClRP",
+    "full_term": "Community-led Research Programme",
+    "aliases": [
+      "ClRP"
+    ],
+    "type": "local-programme",
+    "definition": "Redcar and Cleveland Voluntary Development Agency (RCVDA)'s programme of community-led research, delivered in partnership with Teesside University on behalf of the Health Determinants Research Collaboration South Tees (HDRC ST); the vehicle through which this deep-dive series is produced.",
+    "source": "RCVDA Community-led Research Programme (ClRP), delivered with Teesside University under the NIHR Health Determinants Research Collaboration (HDRC) South Tees.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "com-b",
+    "term": "COM-B",
+    "abbr": "COM-B",
+    "full_term": "Capability, Opportunity, Motivation–Behaviour",
+    "aliases": [
+      "COM-B"
+    ],
+    "type": "substantive",
+    "definition": "A behaviour-change framework (Michie et al. 2011) used in implementation-science analysis of why training does or does not change practice.",
+    "source": "Michie, S., van Stralen, M. and West, R. (2011) Implementation Science.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "cqc",
+    "term": "CQC",
+    "abbr": "CQC",
+    "full_term": "Care Quality Commission",
+    "aliases": [
+      "CQC",
+      "Care Quality Commission"
+    ],
+    "type": "organisation",
+    "definition": "The independent regulator of health and adult social care in England.",
+    "source": "Health and Social Care Act 2008 (established the Care Quality Commission)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2008/14/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "crisis-suite",
+    "term": "Crisis Suite",
+    "abbr": null,
+    "full_term": "Crisis Suite",
+    "aliases": [
+      "CRISIS"
+    ],
+    "type": "local-programme",
+    "definition": "The Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) Crisis Assessment Suite — a mental-health crisis walk-in and assessment facility at Roseberry Park Hospital, Marton Road, Middlesbrough. One of the four Enhanced Case Worker (ECW) touchpoints.",
+    "source": "Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) — Crisis Assessment Suite, Roseberry Park Hospital, Middlesbrough.",
+    "source_url": "https://www.southtees.nhs.uk/services/maternity/perinatal-mental-health-and-wellbeing/help-and-support/",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "csew",
+    "term": "CSEW",
+    "abbr": "CSEW",
+    "full_term": "Crime Survey for England and Wales",
+    "aliases": [
+      "CSEW",
+      "Crime Survey for England and Wales"
+    ],
+    "type": "substantive",
+    "definition": "The Office for National Statistics (ONS) victimisation survey; nationally representative but not robust at local-authority level.",
+    "source": "Crime Survey for England and Wales (Office for National Statistics) — a National Statistic governed by the Statistics and Registration Service Act 2007",
+    "source_url": "https://www.crimesurvey.co.uk/en/index.html",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "dapn",
+    "term": "DAPN",
+    "abbr": "DAPN",
+    "full_term": "Domestic Abuse Protection Notice",
+    "aliases": [
+      "DAPN",
+      "Domestic Abuse Protection Notice"
+    ],
+    "type": "statutory",
+    "definition": "An immediate, short-term notice issued directly by the police to give a victim of domestic abuse emergency protection.",
+    "source": "Domestic Abuse Act 2021, Part 3",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2021/17/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "dapo",
+    "term": "DAPO",
+    "abbr": "DAPO",
+    "full_term": "Domestic Abuse Protection Order",
+    "aliases": [
+      "DAPO",
+      "Domestic Abuse Protection Order",
+      "DAPO / DAPN",
+      "DAPO/DAPN"
+    ],
+    "type": "statutory",
+    "definition": "A longer-term, flexible protective order granted by a court to protect a victim of domestic abuse.",
+    "source": "Domestic Abuse Act 2021, Part 3",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2021/17/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "dara",
+    "term": "DARA",
+    "abbr": "DARA",
+    "full_term": "Domestic Abuse Risk Assessment",
+    "aliases": [
+      "DARA"
+    ],
+    "type": "substantive",
+    "definition": "Domestic Abuse Risk Assessment tool, developed by the College of Policing as the successor to Domestic Abuse, Stalking and Honour-Based Violence (DASH).",
+    "source": "College of Policing — the Domestic Abuse Risk Assessment (DARA), which replaces DASH",
+    "source_url": "https://www.college.police.uk/article/police-better-equipped-spot-controlling-behaviour",
+    "org_ref": "findthatcharity org ID GB-GOVUK-college-of-policing (College of Policing)",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-college-of-policing",
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "dare",
+    "term": "DARE",
+    "abbr": "DARE",
+    "full_term": "Domestic Abuse Routine Enquiry",
+    "aliases": [
+      "DARE",
+      "Domestic Abuse Routine Enquiry"
+    ],
+    "type": "substantive",
+    "definition": "The practice of routinely asking service users about domestic abuse, regardless of whether abuse is suspected.",
+    "source": "Cleveland Office of the Police and Crime Commissioner — Decision Notice 2025-26-018: Domestic Abuse Routine Enquiry.",
+    "source_url": "https://www.cleveland.pcc.police.uk/working-for-you/decisions/decision-notices/decision-2025-26-018-domestic-abuse-routine-enquiry/",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "dash",
+    "term": "DASH",
+    "abbr": "DASH",
+    "full_term": "Domestic Abuse, Stalking and Honour-Based Violence",
+    "aliases": [
+      "DASH"
+    ],
+    "type": "substantive",
+    "definition": "The risk-assessment checklist formerly used by police and partners to identify high-risk domestic abuse cases; held by the College of Policing and since replaced by the Domestic Abuse Risk Assessment (DARA).",
+    "source": "College of Policing — DASH risk assessment (now replaced by DARA)",
+    "source_url": "https://www.college.police.uk/article/police-better-equipped-spot-controlling-behaviour",
+    "org_ref": "findthatcharity org ID GB-GOVUK-college-of-policing (College of Policing)",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-college-of-policing",
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "dhr",
+    "term": "DHR",
+    "abbr": "DHR",
+    "full_term": "Domestic Homicide Review",
+    "aliases": [
+      "DHR"
+    ],
+    "type": "statutory",
+    "definition": "Statutory multi-agency review after a death in which abuse is suspected.",
+    "source": "Domestic Violence, Crime and Victims Act 2004, s.9",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2004/28/section/9",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "dhsc",
+    "term": "DHSC",
+    "abbr": "DHSC",
+    "full_term": "Department of Health and Social Care",
+    "aliases": [
+      "DHSC"
+    ],
+    "type": "acronym",
+    "definition": "The UK government department responsible for health and adult social care policy in England.",
+    "source": "GOV.UK — Department of Health and Social Care.",
+    "source_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+    "org_ref": "findthatcharity org ID GB-GOR-D12",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D12",
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "dluhc",
+    "term": "DLUHC",
+    "abbr": "DLUHC",
+    "full_term": "Department for Levelling Up, Housing and Communities",
+    "aliases": [
+      "DLUHC"
+    ],
+    "type": "acronym",
+    "definition": "UK government department from 2021-2024, succeeded by the Ministry of Housing, Communities and Local Government (MHCLG). Co-funder with The National Lottery Community Fund of the Changing Futures Programme.",
+    "source": "GOV.UK — Department for Levelling Up, Housing and Communities (renamed the Ministry of Housing, Communities and Local Government in 2024).",
+    "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+    "org_ref": "findthatcharity org ID GB-GOVUK-department-for-levelling-up-housing-and-communities",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-department-for-levelling-up-housing-and-communities",
+    "plain": null,
+    "scope": [
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "domestic-abuse",
+    "term": "Domestic abuse",
+    "abbr": "DA",
+    "full_term": "Domestic abuse",
+    "aliases": [
+      "domestic abuse",
+      "DA"
+    ],
+    "type": "statutory",
+    "definition": "Behaviour by a person towards another to whom they are personally connected, where both are aged 16 or over and the behaviour is abusive — physical or sexual abuse, violent or threatening behaviour, controlling or coercive behaviour, economic abuse, or psychological, emotional or other abuse.",
+    "source": "Domestic Abuse Act 2021, s.1",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2021/17/section/1",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "dph",
+    "term": "DPH",
+    "abbr": "DPH",
+    "full_term": "Director of Public Health",
+    "aliases": [
+      "DPH"
+    ],
+    "type": "statutory",
+    "definition": "The senior officer each local authority must appoint (jointly with the Secretary of State) to lead its public health functions.",
+    "source": "National Health Service Act 2006, s.73A",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/73A",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "duty-worker",
+    "term": "Duty Worker",
+    "abbr": null,
+    "full_term": "Duty Worker",
+    "aliases": [
+      "DUTY"
+    ],
+    "type": "local-programme",
+    "definition": "A Key Worker on rota providing the walk-in service at Redcar & Cleveland House (since August 2024) and Middlesbrough House (since 17 March 2025).",
+    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "dwp",
+    "term": "DWP",
+    "abbr": "DWP",
+    "full_term": "Department for Work and Pensions",
+    "aliases": [
+      "DWP",
+      "Department for Work and Pensions"
+    ],
+    "type": "organisation",
+    "definition": "The UK government department responsible for welfare, pensions and employment support.",
+    "source": "GOV.UK — Department for Work and Pensions.",
+    "source_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+    "org_ref": "findthatcharity org ID GB-GOR-D10",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D10",
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "ebe",
+    "term": "EbE",
+    "abbr": "EbE",
+    "full_term": "Expert by Experience",
+    "aliases": [
+      "EBE"
+    ],
+    "type": "local-programme",
+    "definition": "A person whose contribution to a service, partnership or research draws on their living experience of the system being studied. Used in this report rather than “peer” or “service user” except where the latter is the established statutory term.",
+    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "ecw-enhanced-case-worker",
+    "term": "ECW (Enhanced Case Worker)",
+    "abbr": "ECW",
+    "full_term": "Enhanced Case Worker",
+    "aliases": [
+      "ECW",
+      "Enhanced Case Worker"
+    ],
+    "type": "local-programme",
+    "definition": "The role that delivers the programme's Enhanced Case Management workstream. Enhanced Case Workers support people who are already in the system, using a multi-agency 'team around the individual' approach, and reach out to people rather than waiting for referrals. It is a higher-intensity role than the Key Worker.",
+    "source": "South Tees Delivery Plan (Version 2), Workstream 2 (Enhanced Case Management).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.hf",
+      "clr.kw",
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "entry-exit-questionnaire-eeq",
+    "term": "Entry / Exit Questionnaire (EEQ)",
+    "abbr": "EEQ",
+    "full_term": "Entry / Exit Questionnaire",
+    "aliases": [
+      "EEQ"
+    ],
+    "type": "local-programme",
+    "definition": "The internal pre/post survey the team gives to allocated adults at entry and again at case closure, covering three months of service contacts. Costed via the Greater Manchester Unit (GMU) Cost Database.",
+    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "eric",
+    "term": "ERIC",
+    "abbr": "ERIC",
+    "full_term": "Expert Recommendations for Implementing Change",
+    "aliases": [
+      "ERIC"
+    ],
+    "type": "substantive",
+    "definition": "A compilation of discrete implementation strategies (Powell et al. 2015) used in implementation-science literature cited in this report.",
+    "source": "Powell, B. et al. (2015) Implementation Science (Expert Recommendations for Implementing Change).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "fdac",
+    "term": "FDAC",
+    "abbr": "FDAC",
+    "full_term": "Family Drug and Alcohol Court",
+    "aliases": [
+      "FDAC"
+    ],
+    "type": "substantive",
+    "definition": "A problem-solving court model for parents at risk of having children removed because of substance use.",
+    "source": "FDAC national website — Family Drug and Alcohol Court, the national model maintained by the Centre for Justice Innovation",
+    "source_url": "https://fdac.org.uk",
+    "org_ref": "findthatcharity org ID GB-CHC-1151939 (Centre for Justice Innovation)",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1151939",
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "frequent-attender",
+    "term": "Frequent attender",
+    "abbr": null,
+    "full_term": "Frequent attender",
+    "aliases": [
+      "FREQUENT"
+    ],
+    "type": "substantive",
+    "definition": "A person with five or more A&E attendances in a rolling 12-month period — the definition used in the British Red Cross (2024) Seen and Heard Dorset linked-data study, which the South Tees threshold matches (applied at both A&E and the Crisis Suite). The broader clinical convention (Royal College of Emergency Medicine) is five or more attendances in a year. A threshold, not a label for the person.",
+    "source": "British Red Cross (2024), Seen and Heard: understanding frequent attendance at A&E — Dorset linked-data study (five or more A&E attendances in a rolling 12-month period).",
+    "source_url": "https://assets-eu-01.kc-usercontent.com/82b1e254-5524-0172-0612-9ce813c7824c/ec0baeca-ebaa-4d49-8395-457991fe8ffb/Seen-and-Heard-Report-2024.pdf",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "ft",
+    "term": "FT",
+    "abbr": "FT",
+    "full_term": "NHS Foundation Trust",
+    "aliases": [
+      "FT",
+      "Foundation Trust"
+    ],
+    "type": "organisation",
+    "definition": "A semi-autonomous NHS provider organisation (NHS foundation trust).",
+    "source": "National Health Service Act 2006, s.30 (NHS foundation trusts)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "fte",
+    "term": "FTE",
+    "abbr": "FTE",
+    "full_term": "Full-time equivalent",
+    "aliases": [
+      "FTE",
+      "full-time equivalent"
+    ],
+    "type": "method",
+    "definition": "Staffing expressed as a proportion of full-time hours.",
+    "source": "GOV.UK Analysis Function (2018) — Employment variables: Hours and FTE.",
+    "source_url": "https://analysisfunction.civilservice.gov.uk/wp-content/uploads/2019/04/Employment-variables-Hours-and-FTE-April-18.pdf",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf",
+      "clr.kw",
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "fulfilling-lives",
+    "term": "Fulfilling Lives",
+    "abbr": "FL",
+    "full_term": "Fulfilling Lives",
+    "aliases": [
+      "Fulfilling Lives",
+      "FL"
+    ],
+    "type": "substantive",
+    "definition": "The 2014–2022 National Lottery Community Fund programme that preceded Changing Futures and piloted the multiple-disadvantage navigator role. Cited by site (e.g. Fulfilling Lives South East, Blackpool) where the source is site-specific.",
+    "source": "CFE Research, Cordis Bright and University of Sheffield (2022) The Fulfilling Lives Programme: Final evaluation. London: The National Lottery Community Fund.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf",
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "gdpr",
+    "term": "GDPR",
+    "abbr": "GDPR",
+    "full_term": "General Data Protection Regulation",
+    "aliases": [
+      "GDPR",
+      "General Data Protection Regulation"
+    ],
+    "type": "statutory",
+    "definition": "The data-protection framework governing personal data, given effect in the UK by the Data Protection Act 2018 (UK GDPR).",
+    "source": "Data Protection Act 2018 (UK GDPR)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2018/12/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "girft",
+    "term": "GIRFT",
+    "abbr": "GIRFT",
+    "full_term": "Getting It Right First Time",
+    "aliases": [
+      "GIRFT"
+    ],
+    "type": "substantive",
+    "definition": "An NHS England improvement programme. Cited in this report for its inspection feedback on the Crisis Suite Enhanced Case Worker (ECW) work.",
+    "source": "Get It Right First Time (GIRFT) — national NHS England programme",
+    "source_url": "https://gettingitrightfirsttime.co.uk",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "gmca",
+    "term": "GMCA",
+    "abbr": "GMCA",
+    "full_term": "Greater Manchester Combined Authority",
+    "aliases": [
+      "GMCA",
+      "Greater Manchester Combined Authority"
+    ],
+    "type": "organisation",
+    "definition": "The combined authority for Greater Manchester and author of the Cost-Benefit Analysis model the team uses.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-LAE-GMCA (Greater Manchester Combined Authority)",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-GMCA",
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "greater-manchester-cba-model",
+    "term": "Greater Manchester CBA model",
+    "abbr": "GMU",
+    "full_term": "Greater Manchester CBA model",
+    "aliases": [
+      "Greater Manchester CBA model",
+      "GM CBA model",
+      "GMCA CBA",
+      "GMU Cost Database",
+      "GMU",
+      "Unit Cost Database"
+    ],
+    "type": "method",
+    "definition": "The Greater Manchester Combined Authority's Cost-Benefit Analysis (CBA) model — a framework, with an associated unit cost database, for estimating the fiscal and social value of interventions.",
+    "source": "Greater Manchester Combined Authority — Cost-Benefit Analysis (CBA) model",
+    "source_url": "https://www.greatermanchester-ca.gov.uk/what-we-do/research/research-cost-benefit-analysis/",
+    "org_ref": "findthatcharity org ID GB-LAE-GMCA (Greater Manchester Combined Authority)",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-GMCA",
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "harbour",
+    "term": "Harbour",
+    "abbr": null,
+    "full_term": "Harbour",
+    "aliases": [
+      "Harbour"
+    ],
+    "type": "organisation",
+    "definition": "Harbour Support Services — the specialist domestic-abuse charity delivering the Redcar & Cleveland model; with Changing Futures funding it hosts the GP Link Worker.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-CHC-1086897",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1086897",
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "h-clic",
+    "term": "H-CLIC",
+    "abbr": "H-CLIC",
+    "full_term": "Homelessness Case Level Information Collection",
+    "aliases": [
+      "H-CLIC",
+      "HCLIC",
+      "HCLIC / H-CLIC",
+      "Homelessness Case Level Information Collection"
+    ],
+    "type": "substantive",
+    "definition": "The Ministry of Housing, Communities and Local Government (MHCLG) case-level reporting system for statutory homelessness. The published statutory-homelessness dataset derived from it is the Homelessness Assessment (HAE) series. Subject to known gaps and reporting lag.",
+    "source": "Ministry of Housing, Communities and Local Government (MHCLG) statutory homelessness statistics.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "hae",
+    "term": "HAE",
+    "abbr": "HAE",
+    "full_term": "Homelessness Assessment",
+    "aliases": [
+      "HAE",
+      "Homelessness Assessment"
+    ],
+    "type": "acronym",
+    "definition": "The published Ministry of Housing, Communities and Local Government (MHCLG) statutory-homelessness dataset (the live tables), derived from the Homelessness Case Level Information Collection (H-CLIC). Subject to known gaps and reporting lag.",
+    "source": "Ministry of Housing, Communities and Local Government (MHCLG) statutory homelessness statistics (live tables).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "hcpc",
+    "term": "HCPC",
+    "abbr": "HCPC",
+    "full_term": "Health and Care Professions Council",
+    "aliases": [
+      "HCPC"
+    ],
+    "type": "organisation",
+    "definition": "The statutory regulator for a range of health and care professions in the UK (not doctors or nurses), established as the Health Professions Council by the Health Professions Order 2001 and renamed the HCPC in 2012.",
+    "source": "Health Professions Order 2001 (SI 2002/254)",
+    "source_url": "https://www.legislation.gov.uk/uksi/2002/254/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "hdrc",
+    "term": "HDRC",
+    "abbr": "HDRC",
+    "full_term": "Health Determinants Research Collaboration",
+    "aliases": [
+      "HDRC"
+    ],
+    "type": "substantive",
+    "definition": "The national National Institute for Health and Care Research (NIHR) programme funding local authorities and their partners to build research capacity on the wider determinants of health. South Tees is one such collaboration (see Health Determinants Research Collaboration South Tees (HDRC ST)).",
+    "source": "National Institute for Health and Care Research (NIHR) — HDRC programme.",
+    "source_url": "https://www.nihr.ac.uk/about-us/what-we-do/core-workstreams/working-with-partners/local-authorities/health-determinants-research-collaborations",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [],
+    "overrides": {}
+  },
+  {
+    "id": "hdrc-st",
+    "term": "HDRC ST",
+    "abbr": "HDRC ST",
+    "full_term": "Health Determinants Research Collaboration South Tees",
+    "aliases": [
+      "HDRC ST",
+      "HDRC South Tees",
+      "HDRC (HDRC South Tees)",
+      "HDRC"
+    ],
+    "type": "local-programme",
+    "definition": "The National Institute for Health and Care Research (NIHR)-funded local Health Determinants Research Collaboration South Tees (HDRC ST) delivered in partnership with Teesside University; the programme within which this deep-dive series (and Redcar and Cleveland Voluntary Development Agency (RCVDA)'s Community-led Research Programme) is produced.",
+    "source": "The South Tees Health Determinants Research Collaboration programme website (NIHR-funded).",
+    "source_url": "https://hdrcsouthtees.co.uk",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw",
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "hes",
+    "term": "HES",
+    "abbr": "HES",
+    "full_term": "Hospital Episode Statistics",
+    "aliases": [
+      "HES"
+    ],
+    "type": "substantive",
+    "definition": "NHS England activity dataset; historically under-coded for domestic abuse.",
+    "source": "NHS England / NHS Digital — Hospital Episode Statistics (HES)",
+    "source_url": "https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "hi",
+    "term": "HI",
+    "abbr": "HI",
+    "full_term": "Health Inequalities",
+    "aliases": [
+      "HI",
+      "Health Inequalities"
+    ],
+    "type": "substantive",
+    "definition": "Unfair and avoidable differences in health across the population.",
+    "source": "Public-health term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw",
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "hiu",
+    "term": "HIU",
+    "abbr": "HIU",
+    "full_term": "High Intensity Use",
+    "aliases": [
+      "HIU",
+      "High Intensity Use"
+    ],
+    "type": "substantive",
+    "definition": "A pattern of very frequent, high-cost contact across services by a small number of people.",
+    "source": "Service-demand term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "hmpps",
+    "term": "HMPPS",
+    "abbr": "HMPPS",
+    "full_term": "HM Prison and Probation Service",
+    "aliases": [
+      "HMPPS",
+      "HM Prison and Probation Service",
+      "His Majesty's Prison and Probation Service"
+    ],
+    "type": "organisation",
+    "definition": "The executive agency running prisons and probation in England and Wales.",
+    "source": "GOV.UK — HM Prison and Probation Service (Ministry of Justice agency).",
+    "source_url": "https://www.gov.uk/government/organisations/hm-prison-and-probation-service",
+    "org_ref": "findthatcharity org ID XI-ROR-03e5xvd80",
+    "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-03e5xvd80",
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "homeless-link",
+    "term": "Homeless Link",
+    "abbr": null,
+    "full_term": "Homeless Link",
+    "aliases": [
+      "Homeless Link"
+    ],
+    "type": "organisation",
+    "definition": "The English national membership body for frontline homelessness organisations; custodian of the Housing First England network and author of the 2017 seven-principles statement the series uses.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-CHC-1089173",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1089173",
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "housing-first",
+    "term": "Housing First",
+    "abbr": "HF",
+    "full_term": "Housing First",
+    "aliases": [
+      "Housing First",
+      "HF"
+    ],
+    "type": "substantive",
+    "definition": "A model that gives someone a permanent, unconditional home first, then wraps open-ended, person-led, trauma-informed support around them. In England it follows Homeless Link's seven principles (2017); it was originated by Sam Tsemberis and Pathways to Housing in New York in 1992.",
+    "source": "Homeless Link (2017) The Principles for Housing First in England (seven principles); locally, STCFP Housing First Service Specification (Draft V1, Feb 2024 Board). Origin: Tsemberis, S. (1999), Pathways to Housing, New York.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf",
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "hr",
+    "term": "HR",
+    "abbr": "HR",
+    "full_term": "Human resources",
+    "aliases": [
+      "HR",
+      "human resources"
+    ],
+    "type": "acronym",
+    "definition": "The function dealing with staffing, employment and people management.",
+    "source": "Standard management term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "hra17",
+    "term": "HRA17",
+    "abbr": "HRA17",
+    "full_term": "Homelessness Reduction Act 2017",
+    "aliases": [
+      "HRA17"
+    ],
+    "type": "statutory",
+    "definition": "Introduced the prevention duty (s.195, threatened with homelessness within 56 days) and the relief duty (s.189B, homeless and eligible).",
+    "source": "Homelessness Reduction Act 2017",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2017/13/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "icb",
+    "term": "ICB",
+    "abbr": "ICB",
+    "full_term": "Integrated Care Board",
+    "aliases": [
+      "ICB"
+    ],
+    "type": "organisation",
+    "definition": "The statutory NHS body that plans and commissions health services for a defined area.",
+    "source": "Health and Care Act 2022 (ICBs, Part 1)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.hf",
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "icp",
+    "term": "ICP",
+    "abbr": "ICP",
+    "full_term": "Integrated Care Partnership",
+    "aliases": [
+      "ICP",
+      "Integrated Care Partnership"
+    ],
+    "type": "substantive",
+    "definition": "The statutory joint committee of an integrated care system that agrees a health-and-care strategy for the area, bringing the NHS and local partners together.",
+    "source": "Health and Care Act 2022 (integrated care partnerships)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "ics",
+    "term": "ICS",
+    "abbr": "ICS",
+    "full_term": "Integrated Care System",
+    "aliases": [
+      "ICS",
+      "Integrated Care System"
+    ],
+    "type": "substantive",
+    "definition": "The partnership of NHS and local organisations that plans and delivers joined-up health and care for an area; made up of an Integrated Care Board and an Integrated Care Partnership.",
+    "source": "Health and Care Act 2022 (integrated care systems)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "idva",
+    "term": "IDVA",
+    "abbr": "IDVA",
+    "full_term": "Independent Domestic Violence Advocate / Advisor",
+    "aliases": [
+      "IDVA"
+    ],
+    "type": "substantive",
+    "definition": "A specialist domestic-abuse support worker for survivors at high risk of harm.",
+    "source": "SafeLives.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "ig",
+    "term": "IG",
+    "abbr": "IG",
+    "full_term": "Information governance",
+    "aliases": [
+      "IG",
+      "information governance"
+    ],
+    "type": "acronym",
+    "definition": "The framework for handling information, especially personal data, lawfully, securely and appropriately.",
+    "source": "Data-protection / NHS IG term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "ips",
+    "term": "IPS",
+    "abbr": "IPS",
+    "full_term": "Individual Placement and Support",
+    "aliases": [
+      "IPS"
+    ],
+    "type": "substantive",
+    "definition": "An employment model in which specialists are embedded in mental-health teams; the strongest-evidenced employment intervention for adults with severe mental illness.",
+    "source": "Evidence-based supported employment (Centre for Mental Health).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "iris",
+    "term": "IRIS",
+    "abbr": "IRIS",
+    "full_term": "Identification and Referral to Improve Safety",
+    "aliases": [
+      "IRIS / IRISi",
+      "IRIS/IRISi"
+    ],
+    "type": "substantive",
+    "definition": "The evidence-based primary-care domestic-abuse training and referral programme developed by Gene Feder and colleagues at the University of Bristol; general practices are trained and given a direct referral pathway to a specialist advocate. National Institute for Health and Care Excellence (NICE)-endorsed; licensed and supported by the social enterprise IRISi.",
+    "source": "Identification and Referral to Improve Safety (IRIS) — Feder et al. (2011), University of Bristol; NICE-endorsed; licensed by IRISi.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "iris-plus",
+    "term": "IRIS+",
+    "abbr": "IRIS+",
+    "full_term": "Identification and Referral to Improve Safety — extended version (children and men)",
+    "aliases": [
+      "IRIS"
+    ],
+    "type": "substantive",
+    "definition": "An Identification and Referral to Improve Safety (IRIS) adaptation extending to men, children and perpetrators. Not delivered in Middlesbrough as of May 2026.",
+    "source": "University of Bristol, Centre for Academic Primary Care (2024) — IRIS+ extends the health-care response (with IRISi)",
+    "source_url": "https://www.bristol.ac.uk/primaryhealthcare/news/2024/iris-programme-extends-the-health-care-response.html",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "irisi",
+    "term": "IRISi",
+    "abbr": null,
+    "full_term": "IRISi",
+    "aliases": [
+      "IRISi"
+    ],
+    "type": "organisation",
+    "definition": "The social enterprise (established 2017) that owns, licenses and supports the Identification and Referral to Improve Safety (IRIS) programme and its extension IRIS+ across the UK. Not an acronym: the name derives from IRIS.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-CHC-1214477",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1214477",
+    "plain": null,
+    "scope": [],
+    "overrides": {}
+  },
+  {
+    "id": "isc",
+    "term": "ISC",
+    "abbr": "ISC",
+    "full_term": "Intensive Supervision Court",
+    "aliases": [
+      "ISC",
+      "ISCs",
+      "Intensive Supervision Court",
+      "Intensive Supervision Courts"
+    ],
+    "type": "statutory",
+    "definition": "A problem-solving court combining judicial oversight with probation and case-worker support as an alternative to short custodial sentences; piloted in England and Wales from 2023.",
+    "source": "Sentencing Act 2020 (powers as amended by the Police, Crime, Sentencing and Courts Act 2022); ISC pilot framework via the Sentencing Act 2020 (Special Procedures for Community and Suspended Sentence Orders) Regulations 2023 (SI 2023/559)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2020/17/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "jcuh",
+    "term": "JCUH",
+    "abbr": "JCUH",
+    "full_term": "James Cook University Hospital",
+    "aliases": [
+      "JCUH"
+    ],
+    "type": "organisation",
+    "definition": "The main acute hospital in Middlesbrough, operated by South Tees Hospitals NHS Foundation Trust.",
+    "source": "South Tees Hospitals NHS Foundation Trust — hospital webpage.",
+    "source_url": "https://www.southtees.nhs.uk/hospitals/james-cook/",
+    "org_ref": "findthatcharity org ID XI-ROR-02vqh3346",
+    "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-02vqh3346",
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "jsna",
+    "term": "JSNA",
+    "abbr": "JSNA",
+    "full_term": "Joint Strategic Needs Assessment",
+    "aliases": [
+      "JSNA"
+    ],
+    "type": "statutory",
+    "definition": "The statutory assessment of the current and future health and care needs of a local population, prepared for each area by the responsible local authority and its partner integrated care board — discharged locally through the Health and Wellbeing Board.",
+    "source": "Local Government and Public Involvement in Health Act 2007, s.116",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2007/28/section/116",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [],
+    "overrides": {}
+  },
+  {
+    "id": "key-worker-kw",
+    "term": "Key Worker (KW)",
+    "abbr": "KW",
+    "full_term": "Key Worker",
+    "aliases": [
+      "Key Worker",
+      "KW"
+    ],
+    "type": "local-programme",
+    "definition": "A Changing Futures worker who holds a small, relationship-based caseload, helping people navigate services and surfacing what needs to change in the system. In South Tees these are peer-mentor posts held by people with relevant lived experience. The Enhanced Case Worker is the higher-intensity version.",
+    "source": "South Tees Delivery Plan (Version 2), Workstream 4 (Key Worker Support).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "kpi",
+    "term": "KPI",
+    "abbr": "KPI",
+    "full_term": "Key performance indicator",
+    "aliases": [
+      "KPI",
+      "key performance indicator"
+    ],
+    "type": "acronym",
+    "definition": "A measure used to track progress against an objective.",
+    "source": "Standard performance-management term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "la",
+    "term": "LA",
+    "abbr": "LA",
+    "full_term": "Local authority",
+    "aliases": [
+      "LA"
+    ],
+    "type": "organisation",
+    "definition": "A body responsible for local-government functions in its area; in England, the principal councils established under the Local Government Act 1972.",
+    "source": "Local Government Act 1972 (principal councils in England)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1972/70/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "lgps",
+    "term": "LGPS",
+    "abbr": "LGPS",
+    "full_term": "Local Government Pension Scheme",
+    "aliases": [
+      "LGPS",
+      "Local Government Pension Scheme"
+    ],
+    "type": "acronym",
+    "definition": "The funded pension scheme for local-government employees.",
+    "source": "Local Government Pension Scheme Regulations 2013 (SI 2013/2356)",
+    "source_url": "https://www.legislation.gov.uk/uksi/2013/2356/contents/made",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "lha",
+    "term": "LHA",
+    "abbr": "LHA",
+    "full_term": "Local Housing Allowance",
+    "aliases": [
+      "LHA"
+    ],
+    "type": "statutory",
+    "definition": "The rate of Housing Benefit / Universal Credit housing element paid to private renters.",
+    "source": "Housing Benefit Regulations 2006 (SI 2006/213), regs 12D–13E (maximum rent (LHA))",
+    "source_url": "https://www.legislation.gov.uk/uksi/2006/213/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "lived-experience-board",
+    "term": "Lived Experience Board",
+    "abbr": null,
+    "full_term": "Lived Experience Board",
+    "aliases": [
+      "Lived Experience Board"
+    ],
+    "type": "local-programme",
+    "definition": "The programme body through which people with lived experience gather, coordinate and prioritise what needs to change; the main hub feeding system- and service-change requests to the Programme Board. Underpins the co-production model that runs across all workstreams.",
+    "source": "STCFP Board Terms of Reference; South Tees Delivery Plan (Version 2).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [],
+    "overrides": {}
+  },
+  {
+    "id": "live-well-south-tees-board",
+    "term": "Live Well South Tees Board",
+    "abbr": null,
+    "full_term": "Live Well South Tees Board",
+    "aliases": [
+      "Live Well South Tees Board"
+    ],
+    "type": "organisation",
+    "definition": "The statutory Health and Wellbeing Board discharging the section 194 duty jointly for Middlesbrough and Redcar & Cleveland; the political-level governance board for the joint South Tees Public Health function, co-chaired by the political leaders of the two authorities.",
+    "source": "Health and Social Care Act 2012, s.194 (Health and Wellbeing Boards)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/section/194",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "live-well-south-tees-executive-board",
+    "term": "Live Well South Tees Executive Board",
+    "abbr": null,
+    "full_term": "Live Well South Tees Executive Board",
+    "aliases": [
+      "Live Well South Tees Executive Board"
+    ],
+    "type": "local-programme",
+    "definition": "The executive arm of the Live Well South Tees governance structure — the single forum where joint Public Health and each authority's Adult Social Care meet.",
+    "source": "Executive arm of the Live Well South Tees Board (the statutory Health and Wellbeing Board, HSCA 2012 s.194); constituted by local terms of reference.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "lvrn",
+    "term": "LVRN",
+    "abbr": "LVRN",
+    "full_term": "Lancashire Violence Reduction Network",
+    "aliases": [
+      "LVRN"
+    ],
+    "type": "substantive",
+    "definition": "Cited in the implementation literature as a comparator example of trauma-informed practice in a policing context.",
+    "source": "Lancashire Violence Reduction Network",
+    "source_url": "https://lancsvrn.co.uk",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "lw-gp-link-worker",
+    "term": "LW / GP Link Worker",
+    "abbr": null,
+    "full_term": "LW / GP Link Worker",
+    "aliases": [
+      "LW"
+    ],
+    "type": "local-programme",
+    "definition": "The Harbour-employed GP Independent Domestic Violence Advocate / Advisor (IDVA) in Redcar & Cleveland. Dual-remit covering domestic abuse and substance use within the THRIVE partnership. 3.",
+    "source": "Harbour — the GP-based Independent Domestic Violence Advocate role in Redcar & Cleveland, within the THRIVE partnership.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "marac",
+    "term": "MARAC",
+    "abbr": "MARAC",
+    "full_term": "Multi-Agency Risk Assessment Conference",
+    "aliases": [
+      "MARAC"
+    ],
+    "type": "substantive",
+    "definition": "The multi-agency forum for managing the highest-risk domestic abuse cases.",
+    "source": "SafeLives — What is a MARAC? (SafeLives stewards the national MARAC model and holds the definition)",
+    "source_url": "https://safelives.org.uk/about-domestic-abuse/domestic-abuse-response-in-the-uk/what-is-a-marac/",
+    "org_ref": "findthatcharity org ID GB-CHC-1106864 (SafeLives)",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864",
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "mdt",
+    "term": "MDT",
+    "abbr": "MDT",
+    "full_term": "Multidisciplinary team",
+    "aliases": [
+      "MDT",
+      "multidisciplinary team"
+    ],
+    "type": "acronym",
+    "definition": "A team drawing together practitioners from different disciplines around a person.",
+    "source": "Standard health-and-care term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "meam",
+    "term": "MEAM",
+    "abbr": "MEAM",
+    "full_term": "Making Every Adult Matter",
+    "aliases": [
+      "MEAM"
+    ],
+    "type": "substantive",
+    "definition": "The England-wide coalition and partnership approach coordinating local responses for adults facing multiple disadvantage. The closest comparator approach to Changing Futures; each local MEAM partnership defines its own cohort within a shared frame.",
+    "source": "Making Every Adult Matter (MEAM) — the England-wide coalition (Clinks, Homeless Link and Mind)",
+    "source_url": "https://meam.org.uk",
+    "org_ref": "findthatcharity org ID GB-CHC-1209508",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1209508",
+    "plain": null,
+    "scope": [
+      "clr.hf",
+      "clr.kw",
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "mhclg",
+    "term": "MHCLG",
+    "abbr": "MHCLG",
+    "full_term": "Ministry of Housing, Communities and Local Government",
+    "aliases": [
+      "MHCLG"
+    ],
+    "type": "acronym",
+    "definition": "The UK government department co-funding Changing Futures. Named MHCLG to 2021, the Department for Levelling Up, Housing and Communities (DLUHC) 2021–2024, and MHCLG again from 9 July 2024.",
+    "source": "GOV.UK — Ministry of Housing, Communities and Local Government.",
+    "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+    "org_ref": "findthatcharity org ID GB-GOR-D4",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4",
+    "plain": null,
+    "scope": [
+      "clr.hf",
+      "clr.kw",
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "middlesbrough-council",
+    "term": "Middlesbrough Council",
+    "abbr": null,
+    "full_term": "Middlesbrough Council",
+    "aliases": [
+      "Middlesbrough Council",
+      "MBC"
+    ],
+    "type": "organisation",
+    "definition": "One of the two unitary local authorities that make up South Tees; a member of the Tees Valley Lettings Partnership.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-LAE-MDB",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-MDB",
+    "plain": null,
+    "scope": [],
+    "overrides": {}
+  },
+  {
+    "id": "multiple-disadvantage-md",
+    "term": "Multiple disadvantage (MD)",
+    "abbr": "MD",
+    "full_term": "Multiple disadvantage",
+    "aliases": [
+      "multiple disadvantage",
+      "MD"
+    ],
+    "type": "substantive",
+    "definition": "The programme's cohort: in South Tees, adults in contact with two or more of five intersecting areas of complex need — criminal justice, mental health, homelessness, domestic abuse and substance use (the national Changing Futures cohort, per the MHCLG 2020 Prospectus, is three or more). The series adopts this working cohort definition as its primary frame. Hard Edges 'severe and multiple disadvantage (SMD)' is the foundational prevalence comparator.",
+    "source": "South Tees Delivery Plan (Version 2) / MHCLG (2020) Changing Futures Prospectus (working cohort definition); comparator: Bramley et al. (2015) Hard Edges, Lankelly Chase Foundation.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf",
+      "clr.kw",
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "mutually-agreed-outcome",
+    "term": "Mutually agreed outcome",
+    "abbr": null,
+    "full_term": "Mutually agreed outcome",
+    "aliases": [
+      "MUTUALLY"
+    ],
+    "type": "acronym",
+    "definition": "Closure category recording that both the Key Worker and the adult agreed the support goals were met.",
+    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "my-sister-s-place-msp",
+    "term": "My Sister's Place (MSP)",
+    "abbr": "MSP",
+    "full_term": "My Sister's Place",
+    "aliases": [
+      "MSP",
+      "My Sister's Place"
+    ],
+    "type": "organisation",
+    "definition": "A commissioned specialist domestic-abuse service in Middlesbrough; hosts the Identification and Referral to Improve Safety (IRIS) Advocate Educator.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-CHC-1137319",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1137319",
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "nenc-nenc-icb",
+    "term": "NENC / NENC ICB",
+    "abbr": "NENC ICB",
+    "full_term": "North East and North Cumbria Integrated Care Board",
+    "aliases": [
+      "NENC",
+      "NENC ICB"
+    ],
+    "type": "organisation",
+    "definition": "North East and North Cumbria — the NHS Integrated Care System area covering South Tees. The NENC Integrated Care Board (NENC ICB) is the relevant NHS commissioning body for this geography.",
+    "source": "Health and Care Act 2022 (integrated care boards, Part 1)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
+    "org_ref": "findthatcharity org ID GB-NHS-01H",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-01H",
+    "plain": null,
+    "scope": [
+      "clr.kw",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "nes",
+    "term": "NES",
+    "abbr": "NES",
+    "full_term": "NHS Education for Scotland",
+    "aliases": [
+      "NES"
+    ],
+    "type": "substantive",
+    "definition": "Author of the 2017 (refreshed 2024) Transforming Psychological Trauma Knowledge and Skills Framework.",
+    "source": "NHS Education for Scotland (2017, refreshed 2024) Transforming Psychological Trauma Knowledge and Skills Framework.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "nhs",
+    "term": "NHS",
+    "abbr": "NHS",
+    "full_term": "National Health Service",
+    "aliases": [
+      "NHS"
+    ],
+    "type": "organisation",
+    "definition": "The publicly funded health system, created by the National Health Service Act 1946 (operational 5 July 1948) and now governed by the consolidating National Health Service Act 2006.",
+    "source": "National Health Service Act 1946 (established the NHS; now consolidated in the NHS Act 2006)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1946/81/contents/enacted",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "nice",
+    "term": "NICE",
+    "abbr": "NICE",
+    "full_term": "National Institute for Health and Care Excellence",
+    "aliases": [
+      "NICE"
+    ],
+    "type": "organisation",
+    "definition": "The statutory body (established by s.232 of the Health and Social Care Act 2012) that produces evidence-based guidance and quality standards for health and social care in England.",
+    "source": "Health and Social Care Act 2012, s.232",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/section/232",
+    "org_ref": "findthatcharity org ID GB-GOR-PB474",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB474",
+    "plain": null,
+    "scope": [],
+    "overrides": {}
+  },
+  {
+    "id": "nice-ph50",
+    "term": "NICE PH50",
+    "abbr": "NICE PH50",
+    "full_term": "NICE Public Health Guideline 50 (Domestic violence and abuse: multi-agency working)",
+    "aliases": [
+      "NICE PH50",
+      "PH50"
+    ],
+    "type": "substantive",
+    "definition": "National Institute for Health and Care Excellence (NICE) Public Health Guideline 50, Domestic violence and abuse: multi-agency working (2014); names Identification and Referral to Improve Safety (IRIS) and concludes domestic-abuse interventions are broadly cost-effective.",
+    "source": "NICE PH50 (2014), Domestic violence and abuse: multi-agency working",
+    "source_url": "https://www.nice.org.uk/guidance/ph50",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "nihr",
+    "term": "NIHR",
+    "abbr": "NIHR",
+    "full_term": "National Institute for Health and Care Research",
+    "aliases": [
+      "NIHR"
+    ],
+    "type": "organisation",
+    "definition": "The national funder of the Health Determinants Research Collaboration (HDRC) infrastructure.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID XI-ROR-0187kwz08",
+    "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-0187kwz08",
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "nlp",
+    "term": "NLP",
+    "abbr": "NLP",
+    "full_term": "Neuro-Linguistic Programming",
+    "aliases": [
+      "NLP"
+    ],
+    "type": "substantive",
+    "definition": "A communication and personal-development approach based on a claimed relationship between neurological processes, language and learned behaviour patterns.",
+    "source": "ANLP (Association for NLP) — Definition of NLP",
+    "source_url": "https://anlp.org/knowledge-base/definition-of-nlp",
+    "org_ref": "findthatcharity org ID GB-COH-05383959 (ANLP)",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-COH-05383959",
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "nmc",
+    "term": "NMC",
+    "abbr": "NMC",
+    "full_term": "Nursing and Midwifery Council",
+    "aliases": [
+      "NMC"
+    ],
+    "type": "organisation",
+    "definition": "The statutory regulator for nurses, midwives and nursing associates in the UK, established by the Nursing and Midwifery Order 2001.",
+    "source": "Nursing and Midwifery Order 2001 (SI 2002/253)",
+    "source_url": "https://www.legislation.gov.uk/uksi/2002/253/contents",
+    "org_ref": "findthatcharity org ID GB-CHC-1091434",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1091434",
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "north-star",
+    "term": "North Star",
+    "abbr": null,
+    "full_term": "North Star",
+    "aliases": [
+      "North Star",
+      "North Star Housing"
+    ],
+    "type": "organisation",
+    "definition": "A housing association (registered provider of social housing) operating across the Tees Valley; a member of the Tees Valley Lettings Partnership.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-MPR-21256R",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-MPR-21256R",
+    "plain": null,
+    "scope": [],
+    "overrides": {}
+  },
+  {
+    "id": "not-ready-to-engage",
+    "term": "Not ready to engage",
+    "abbr": null,
+    "full_term": "Not ready to engage",
+    "aliases": [
+      "NOT"
+    ],
+    "type": "local-programme",
+    "definition": "Closure category for adults who disengaged either before or after allocation. A closure category, not a description of the person.",
+    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "no-wrong-door",
+    "term": "No Wrong Door",
+    "abbr": null,
+    "full_term": "No Wrong Door",
+    "aliases": [
+      "NO"
+    ],
+    "type": "local-programme",
+    "definition": "The principle that any agency contact should lead to coordinated support rather than bounce-back. A design rule the wider literature converges on; rigorously-evaluated operational forms are scarce.",
+    "source": "A recognised system-design principle in the multiple-disadvantage / systems-change field (e.g. MEAM); adopted locally by the programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "nrpf",
+    "term": "NRPF",
+    "abbr": "NRPF",
+    "full_term": "No Recourse to Public Funds",
+    "aliases": [
+      "NRPF"
+    ],
+    "type": "statutory",
+    "definition": "An immigration condition that excludes a person from most welfare benefits and from statutory homelessness assistance; significant for some cohorts in Middlesbrough.",
+    "source": "Immigration and Asylum Act 1999, s.115(9) (defines a person subject to immigration control, on condition of no recourse to public funds)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1999/33/section/115",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "ohid",
+    "term": "OHID",
+    "abbr": "OHID",
+    "full_term": "Office for Health Improvement and Disparities",
+    "aliases": [
+      "OHID"
+    ],
+    "type": "acronym",
+    "definition": "The Department of Health and Social Care unit that published the 2022 working definition of trauma-informed practice.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-GOVUK-office-for-health-improvement-and-disparities",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-office-for-health-improvement-and-disparities",
+    "plain": null,
+    "scope": [
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "opcc",
+    "term": "OPCC",
+    "abbr": "OPCC",
+    "full_term": "Office of the Police and Crime Commissioner",
+    "aliases": [
+      "OPCC"
+    ],
+    "type": "organisation",
+    "definition": "The elected office responsible for the governance of policing in a force area — setting the police and crime plan and holding the Chief Constable to account; created by the Police Reform and Social Responsibility Act 2011.",
+    "source": "Police Reform and Social Responsibility Act 2011",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.hf",
+      "clr.kw",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "pathfinder-toolkit",
+    "term": "Pathfinder Toolkit",
+    "abbr": null,
+    "full_term": "Pathfinder Toolkit",
+    "aliases": [
+      "Pathfinder Toolkit"
+    ],
+    "type": "substantive",
+    "definition": "Good-practice guidance on the health-service response to domestic abuse (Pathfinder Consortium, 2020), cited in the statutory guidance as good practice.",
+    "source": "Pathfinder Consortium (2020).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "pathways",
+    "term": "Pathways",
+    "abbr": null,
+    "full_term": "Pathways",
+    "aliases": [
+      "PATHWAYS"
+    ],
+    "type": "local-programme",
+    "definition": "The original Housing First model developed in New York by Sam Tsemberis and Pathways to Housing in 1992 (Tsemberis, 1999). The Pathways model is the high-fidelity baseline against which the seven principles are derived.",
+    "source": "Tsemberis, S. (1999) — the Pathways to Housing model, New York; the origin of Housing First.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "pcc",
+    "term": "PCC",
+    "abbr": "PCC",
+    "full_term": "Police and Crime Commissioner",
+    "aliases": [
+      "PCC",
+      "Police and Crime Commissioner"
+    ],
+    "type": "organisation",
+    "definition": "The elected office holder responsible for the governance of policing in a force area, setting the police and crime plan and holding the Chief Constable to account.",
+    "source": "Police Reform and Social Responsibility Act 2011",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "pcn",
+    "term": "PCN",
+    "abbr": "PCN",
+    "full_term": "Primary Care Network",
+    "aliases": [
+      "PCN",
+      "Primary Care Network"
+    ],
+    "type": "substantive",
+    "definition": "A group of neighbouring GP practices working together, sitting beneath the Integrated Care Board (ICB). Established in England from 2019/20 through the Network Contract Directed Enhanced Service (DES) under the GP contract, as set out in the NHS Long Term Plan.",
+    "source": "Network Contract DES (NHS England, 2019/20), under the NHS Act 2006",
+    "source_url": "https://www.england.nhs.uk/primary-care/primary-care-networks/network-contract-des/",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "persistent-caller",
+    "term": "Persistent caller",
+    "abbr": null,
+    "full_term": "Persistent caller",
+    "aliases": [
+      "PERSISTENT"
+    ],
+    "type": "local-programme",
+    "definition": "Operational threshold used in the Police HQ Call Centre context: 5 or more calls in a one-month period. A threshold, not a label for the person.",
+    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "phst",
+    "term": "PHST",
+    "abbr": "PHST",
+    "full_term": "Public Health South Tees",
+    "aliases": [
+      "PHST"
+    ],
+    "type": "local-programme",
+    "definition": "The joint Public Health function across Middlesbrough and Redcar & Cleveland.",
+    "source": null,
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "r-c",
+    "term": "R&C",
+    "abbr": "R&C",
+    "full_term": "Redcar & Cleveland",
+    "aliases": [
+      "R&C",
+      "Redcar & Cleveland"
+    ],
+    "type": "acronym",
+    "definition": "Local shorthand for the Borough of Redcar & Cleveland (and its council).",
+    "source": "Local shorthand.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf",
+      "clr.kw",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "rct",
+    "term": "RCT",
+    "abbr": "RCT",
+    "full_term": "Randomised Controlled Trial",
+    "aliases": [
+      "RCT"
+    ],
+    "type": "method",
+    "definition": "The evidence design most multiple-disadvantage programmes do not have, for ethical and practical reasons. The report names the evidence type on first citation.",
+    "source": null,
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "rcvda",
+    "term": "RCVDA",
+    "abbr": "RCVDA",
+    "full_term": "Redcar and Cleveland Voluntary Development Agency",
+    "aliases": [
+      "RCVDA"
+    ],
+    "type": "organisation",
+    "definition": "The publishing host of this deep-dive series.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-CHC-1135959",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
+    "plain": null,
+    "scope": [
+      "clr.kw",
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "rea",
+    "term": "REA",
+    "abbr": "REA",
+    "full_term": "Rapid Evidence Assessment",
+    "aliases": [
+      "REA"
+    ],
+    "type": "method",
+    "definition": "A structured evidence review with a defined search strategy and inclusion criteria, briefer than a full systematic review.",
+    "source": "UK Parliament POST (Parliamentary Office of Science and Technology) — Rapid Evidence Assessments",
+    "source_url": "https://post.parliament.uk/rapid-evidence-assessments/",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "re-aim",
+    "term": "RE-AIM",
+    "abbr": "RE-AIM",
+    "full_term": "Reach, Effectiveness, Adoption, Implementation, Maintenance",
+    "aliases": [
+      "RE-AIM"
+    ],
+    "type": "method",
+    "definition": "The comparative implementation-science framework (Glasgow, Vogt and Boles, 1999) used to structure the cross-cutting analysis.",
+    "source": "Glasgow, Vogt and Boles (1999) — Reach, Effectiveness, Adoption, Implementation, Maintenance evaluation framework.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "redcar-and-cleveland-borough-council",
+    "term": "Redcar and Cleveland Borough Council",
+    "abbr": null,
+    "full_term": "Redcar and Cleveland Borough Council",
+    "aliases": [
+      "Redcar and Cleveland Borough Council",
+      "Redcar & Cleveland Borough Council",
+      "RCBC"
+    ],
+    "type": "organisation",
+    "definition": "One of the two unitary local authorities that make up South Tees; a member of the Tees Valley Lettings Partnership.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-LAE-RCC",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-RCC",
+    "plain": null,
+    "scope": [],
+    "overrides": {}
+  },
+  {
+    "id": "registered-provider-rp",
+    "term": "Registered Provider (RP)",
+    "abbr": "RP",
+    "full_term": "Registered Provider",
+    "aliases": [
+      "Registered Provider",
+      "RP"
+    ],
+    "type": "statutory",
+    "definition": "Registered Provider of social housing. The statutory term for a social-housing provider (including housing associations) registered with and regulated by the Regulator of Social Housing under the Housing and Regeneration Act 2008. Preferred to 'housing association' where a statutory or commissioning point is being made.",
+    "source": "Housing and Regeneration Act 2008, Part 2",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2008/17/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "reqol",
+    "term": "ReQoL",
+    "abbr": "ReQoL",
+    "full_term": "Recovering Quality of Life",
+    "aliases": [
+      "REQOL"
+    ],
+    "type": "method",
+    "definition": "A patient-reported outcome measure (Keetharuth et al.) of quality of life for people with mental health conditions, used in the Changing Futures national evaluation.",
+    "source": "Recovering Quality of Life measure (Keetharuth et al.).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "roi",
+    "term": "ROI",
+    "abbr": "ROI",
+    "full_term": "Return on investment",
+    "aliases": [
+      "ROI",
+      "return on investment"
+    ],
+    "type": "acronym",
+    "definition": "The financial return of an intervention relative to its cost.",
+    "source": "Standard economic-appraisal term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "rsap",
+    "term": "RSAP",
+    "abbr": "RSAP",
+    "full_term": "Rough Sleeping Accommodation Programme",
+    "aliases": [
+      "RSAP"
+    ],
+    "type": "substantive",
+    "definition": "A Ministry of Housing, Communities and Local Government capital programme funding move-on accommodation for people who sleep rough or are at risk of doing so; a predecessor to later rough-sleeping programmes.",
+    "source": "GOV.UK (MHCLG) — Rough Sleeping Accommodation Programme 2021-24",
+    "source_url": "https://www.gov.uk/government/publications/rough-sleeping-accommodation-programme-2021-24",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "rsi",
+    "term": "RSI",
+    "abbr": "RSI",
+    "full_term": "Rough Sleeping Initiative",
+    "aliases": [
+      "RSI"
+    ],
+    "type": "substantive",
+    "definition": "Central government revenue funding for rough-sleeping support, allocated in rounds.",
+    "source": "GOV.UK (MHCLG) — Rough Sleeping Initiative: 2022 to 2025 funding allocations",
+    "source_url": "https://www.gov.uk/government/publications/rough-sleeping-initiative-2022-to-2025-funding-allocations",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "samhsa",
+    "term": "SAMHSA",
+    "abbr": "SAMHSA",
+    "full_term": "Substance Abuse and Mental Health Services Administration",
+    "aliases": [
+      "SAMHSA"
+    ],
+    "type": "organisation",
+    "definition": "The US federal agency (part of the Department of Health and Human Services) whose 2014 report 'Concept of Trauma and Guidance for a Trauma-Informed Approach' underpins much UK trauma-informed practice.",
+    "source": "SAMHSA (US federal agency, part of Health and Human Services) — Trauma-Informed Approaches; underpinned by SAMHSA (2014) Concept of Trauma and Guidance for a Trauma-Informed Approach",
+    "source_url": "https://www.samhsa.gov/mental-health/trauma-violence/trauma-informed-approaches-programs",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "secondary-trauma",
+    "term": "Secondary trauma",
+    "abbr": null,
+    "full_term": "Secondary trauma",
+    "aliases": [
+      "Secondary trauma",
+      "Secondary traumatic stress",
+      "STS",
+      "Secondary / vicarious trauma"
+    ],
+    "type": "substantive",
+    "definition": "Secondary trauma (secondary traumatic stress) — the trauma symptoms a worker can develop from exposure to the details of another person's traumatic experience; often relatively sudden in onset and closely mirroring post-traumatic stress.",
+    "source": "Figley, C.R. (1995) Compassion Fatigue: Coping with Secondary Traumatic Stress Disorder.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "section-21-housing-act-1988",
+    "term": "Section 21 (Housing Act 1988)",
+    "abbr": null,
+    "full_term": "Section 21 (Housing Act 1988)",
+    "aliases": [
+      "Section 21"
+    ],
+    "type": "statutory",
+    "definition": "The 'no-fault' route by which a landlord could recover possession of an assured shorthold tenancy after the fixed term, without having to establish a ground. Abolished by the Renters' Rights Act 2025 (in force from 1 May 2026), which ended assured shorthold tenancies.",
+    "source": "Housing Act 1988, s.21 (repealed by the Renters' Rights Act 2025, in force 1 May 2026)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1988/50/section/21",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "section-8-housing-act-1988",
+    "term": "Section 8 (Housing Act 1988)",
+    "abbr": null,
+    "full_term": "Section 8 (Housing Act 1988)",
+    "aliases": [
+      "Section 8"
+    ],
+    "type": "statutory",
+    "definition": "The route by which a landlord seeks possession of an assured tenancy on one or more of the statutory grounds set out in Schedule 2 to the Act (for example rent arrears or breach of tenancy). The Schedule 2 grounds were amended and expanded by the Renters' Rights Act 2025.",
+    "source": "Housing Act 1988, s.8 (and Schedule 2)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1988/50/section/8",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "severe-and-multiple-disadvantage-smd",
+    "term": "Severe and multiple disadvantage (SMD)",
+    "abbr": "SMD",
+    "full_term": "Severe and multiple disadvantage",
+    "aliases": [
+      "severe and multiple disadvantage",
+      "SMD"
+    ],
+    "type": "substantive",
+    "definition": "The Hard Edges framing, built around the overlap of homelessness, substance misuse and offending, with mental ill-health and poverty as cross-cutting factors. The foundational UK prevalence study; used in the series as a comparator to the Changing Futures cohort definition.",
+    "source": "Bramley, G. and Fitzpatrick, S. et al. (2015) Hard Edges: Mapping Severe and Multiple Disadvantage in England. London: Lankelly Chase Foundation.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "shap",
+    "term": "SHAP",
+    "abbr": "SHAP",
+    "full_term": "Single Homelessness Accommodation Programme",
+    "aliases": [
+      "SHAP"
+    ],
+    "type": "substantive",
+    "definition": "A Ministry of Housing, Communities and Local Government capital programme funding accommodation and support for single people who are homeless or at risk, including young people.",
+    "source": "GOV.UK (MHCLG) — Single Homelessness Accommodation Programme",
+    "source_url": "https://www.gov.uk/government/publications/single-homelessness-accommodation-programme",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "shapley-additive-explanations",
+    "term": "SHapley Additive exPlanations",
+    "abbr": "SHAP",
+    "full_term": "SHapley Additive exPlanations",
+    "aliases": [
+      "SHapley Additive exPlanations",
+      "Shapley values"
+    ],
+    "type": "method",
+    "definition": "A machine-learning method that explains how much each input feature contributes to a model's prediction, based on Shapley values.",
+    "source": "Lundberg & Lee (2017), SHAP.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "siro",
+    "term": "SIRO",
+    "abbr": "SIRO",
+    "full_term": "Senior Information Risk Owner",
+    "aliases": [
+      "SIRO"
+    ],
+    "type": "acronym",
+    "definition": "The designated officer in an organisation responsible for information governance and data risk; referenced in this report in the context of data-sharing arrangements.",
+    "source": "an information-governance role defined in government data-security policy; not created by a specific statute.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "south-tees",
+    "term": "South Tees",
+    "abbr": null,
+    "full_term": "South Tees",
+    "aliases": [
+      "South Tees"
+    ],
+    "type": "local-programme",
+    "definition": "Middlesbrough and Redcar & Cleveland together — the two-local-authority geography of the South Tees Changing Futures Programme. Distinct from Cleveland.",
+    "source": "South Tees Changing Futures programme geography; BRAND.md §4.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "south-tees-changing-futures-programme-board",
+    "term": "South Tees Changing Futures Programme Board",
+    "abbr": null,
+    "full_term": "South Tees Changing Futures Programme Board",
+    "aliases": [
+      "South Tees Changing Futures Programme Board",
+      "Programme Board",
+      "STCFP Board"
+    ],
+    "type": "local-programme",
+    "definition": "The programme's governance board — chaired by a senior Redcar & Cleveland Borough Council officer and meeting monthly. It brings the partners together and acts on the change requests raised by the Lived Experience Board; day-to-day management sits with a Programme Management Sub-Group.",
+    "source": "STCFP Board Terms of Reference.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "south-tees-changing-futures-programme-stcfp",
+    "term": "South Tees Changing Futures Programme (STCFP)",
+    "abbr": "STCFP",
+    "full_term": "South Tees Changing Futures Programme",
+    "aliases": [
+      "STCFP",
+      "STCF",
+      "South Tees Changing Futures Programme",
+      "South Tees Changing Futures"
+    ],
+    "type": "local-programme",
+    "definition": "The local delivery of Changing Futures across Middlesbrough and Redcar & Cleveland (population ~278,000), governed by the South Tees Changing Futures Programme Board.",
+    "source": "STCFP Board Terms of Reference; South Tees Delivery Plan (Version 2); later phase: Draft Housing Prospectus (Dec 2024).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "south-tees-hospitals-nhs-foundation-trust",
+    "term": "South Tees Hospitals NHS Foundation Trust",
+    "abbr": null,
+    "full_term": "South Tees Hospitals NHS Foundation Trust",
+    "aliases": [
+      "South Tees Hospitals NHS Foundation Trust",
+      "South Tees Hospitals"
+    ],
+    "type": "organisation",
+    "definition": "The NHS foundation trust that operates James Cook University Hospital and other acute and community services across South Tees.",
+    "source": "National Health Service Act 2006, s.30 (NHS foundation trusts)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
+    "org_ref": "findthatcharity org ID GB-NHS-RTR",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-RTR",
+    "plain": null,
+    "scope": [],
+    "overrides": {}
+  },
+  {
+    "id": "spoc",
+    "term": "SPOC",
+    "abbr": "SPOC",
+    "full_term": "Single point of contact",
+    "aliases": [
+      "SPOC",
+      "single point of contact"
+    ],
+    "type": "acronym",
+    "definition": "One named contact or route through which people reach a service.",
+    "source": "Service-design term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "stockton-on-tees-borough-council",
+    "term": "Stockton-on-Tees Borough Council",
+    "abbr": null,
+    "full_term": "Stockton-on-Tees Borough Council",
+    "aliases": [
+      "Stockton-on-Tees Borough Council",
+      "Stockton Council",
+      "SBC"
+    ],
+    "type": "organisation",
+    "definition": "A Tees Valley unitary local authority; a member of the Tees Valley Lettings Partnership (outside the South Tees programme footprint).",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-LAE-STT",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-STT",
+    "plain": null,
+    "scope": [],
+    "overrides": {}
+  },
+  {
+    "id": "swe",
+    "term": "SWE",
+    "abbr": "SWE",
+    "full_term": "Social Work England",
+    "aliases": [
+      "SWE"
+    ],
+    "type": "organisation",
+    "definition": "The statutory regulator for social workers in England, established under Part 2 of the Children and Social Work Act 2017.",
+    "source": "Children and Social Work Act 2017, Part 2 (s.36)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2017/16/contents",
+    "org_ref": "findthatcharity org ID GB-GOVUK-social-work-england",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-social-work-england",
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "system-flex",
+    "term": "System flex",
+    "abbr": null,
+    "full_term": "System flex",
+    "aliases": [
+      "SYSTEM"
+    ],
+    "type": "local-programme",
+    "definition": "The principle that the system adapts to the person rather than the person navigating the system. Used throughout the multiple-disadvantage literature; the report’s working definition of “the system” is set out in its own entry (see The system).",
+    "source": "A principle used across the multiple-disadvantage literature; adopted as a working term by the programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.md"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "tees-valley",
+    "term": "Tees Valley",
+    "abbr": null,
+    "full_term": "Tees Valley",
+    "aliases": [
+      "Tees Valley"
+    ],
+    "type": "local-programme",
+    "definition": "The five-local-authority combined-authority area: Middlesbrough, Redcar & Cleveland, Stockton-on-Tees, Hartlepool and Darlington.",
+    "source": "Tees Valley Combined Authority geography.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "tees-valley-lettings-partnership-tvlp",
+    "term": "Tees Valley Lettings Partnership (TVLP)",
+    "abbr": "TVLP",
+    "full_term": "Tees Valley Lettings Partnership",
+    "aliases": [
+      "Tees Valley Lettings Partnership",
+      "TVLP"
+    ],
+    "type": "local-programme",
+    "definition": "The partnership that provides Tees Valley Home Finder (the sub-regional choice-based lettings scheme) and operates the Common Allocation Policy (TVLP CAP). Members: Middlesbrough Council, Redcar and Cleveland Borough Council, Stockton-on-Tees Borough Council, Beyond Housing and North Star.",
+    "source": "A partnership of five member organisations providing Tees Valley Home Finder.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "temporary-accommodation-ta",
+    "term": "Temporary accommodation (TA)",
+    "abbr": "TA",
+    "full_term": "Temporary accommodation",
+    "aliases": [
+      "TA"
+    ],
+    "type": "statutory",
+    "definition": "Bed-and-breakfast, nightly-paid self-contained, hostel, or Local authority (LA)-/Registered Provider (RP)-managed accommodation provided to households owed a homelessness duty. Distinct from supported housing.",
+    "source": "Housing Act 1996, s.188 (interim duty to accommodate)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1996/52/section/188",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "tewv",
+    "term": "TEWV",
+    "abbr": "TEWV",
+    "full_term": "Tees, Esk and Wear Valleys NHS Foundation Trust",
+    "aliases": [
+      "TEWV"
+    ],
+    "type": "organisation",
+    "definition": "The specialist mental-health and learning-disability trust serving the Tees Valley.",
+    "source": "National Health Service Act 2006, s.30 (NHS foundation trusts; originally the Health and Social Care (Community Health and Standards) Act 2003)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
+    "org_ref": "findthatcharity org ID GB-NHS-RX3",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-RX3",
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "the-system",
+    "term": "The system",
+    "abbr": null,
+    "full_term": "The system",
+    "aliases": [
+      "the system"
+    ],
+    "type": "substantive",
+    "definition": "All the services around a person — health, housing, social care, justice, substance use, domestic abuse and welfare, whether statutory, commissioned or voluntary-sector — seen from the person's point of view rather than any one agency's. The related principle is that the system should adapt to the person, not the person to the system.",
+    "source": "Working definition adopted in this deep-dive series.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "thrive-partnership",
+    "term": "Thrive Partnership",
+    "abbr": "THRIVE",
+    "full_term": "Thrive Partnership",
+    "aliases": [
+      "Thrive Partnership",
+      "THRIVE",
+      "Thrive"
+    ],
+    "type": "local-programme",
+    "definition": "The Redcar and Cleveland partnership delivering England's first integrated Domestic Abuse and Substance Use (IDAS) service model: collaborative, trauma-informed support. THRIVE stands for Trusting, Hopeful, Resilient, Involved, Valued and Empowered. Partners: We Are With You (drug and alcohol support), Redcar and Cleveland Borough Council, Harbour Support Services (domestic abuse), Recovery Connections and Intuitive Thinking Skills.",
+    "source": "We Are With You — the Thrive Partnership (Redcar and Cleveland; England's first integrated Domestic Abuse and Substance Use model); Thrive Impact Report 2024–2025",
+    "source_url": "https://www.wearewithyou.org.uk/latest/news-and-views/women-stronger-together-a-three-way-conversation-with-the-thrive-partnership",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "tica",
+    "term": "TICA",
+    "abbr": "TICA",
+    "full_term": "Trauma Informed Community of Action",
+    "aliases": [
+      "TICA",
+      "Trauma Informed Community of Action"
+    ],
+    "type": "organisation",
+    "definition": "A UK membership network and community of practice that builds trauma-informed training, resources and connections across health, mental-health and wellbeing services. Originally NHS-supported, now an independent community interest company (TICA C.I.C.).",
+    "source": "Trauma Informed Community of Action (TICA C.I.C.)",
+    "source_url": "https://www.traumainformedcommunityaction.org/community",
+    "org_ref": "findthatcharity org ID GB-COH-15441846",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-COH-15441846",
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "tipc",
+    "term": "TIPC",
+    "abbr": "TIPC",
+    "full_term": "Trauma-Informed Practice Co-ordinator",
+    "aliases": [
+      "TIPC",
+      "Trauma-Informed Practice Co-ordinator",
+      "Trauma-Informed Practice Coordinator"
+    ],
+    "type": "local-programme",
+    "definition": "The named South Tees Changing Futures role responsible for running the Trauma-Informed Practice workstream.",
+    "source": "South Tees Changing Futures — Trauma-Informed Practice workstream (programme role).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "trauma-aware-curious-informed-responsive",
+    "term": "Trauma-aware / -curious / -informed / -responsive",
+    "abbr": null,
+    "full_term": "Trauma-aware / -curious / -informed / -responsive",
+    "aliases": [
+      "TRAUMA-AWARE"
+    ],
+    "type": "local-programme",
+    "definition": "The four developmental phases in the South Tees framework. An organisation is trauma-responsive when Trauma-informed practice (TIP) is the norm and no longer dependent on champions. No South Tees organisation in the evidence base has reached this phase.",
+    "source": "South Tees Changing Futures programme — the local trauma-informed maturity framework (four developmental phases).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "trauma-informed-care-tic",
+    "term": "Trauma-informed care (TIC)",
+    "abbr": "TIC",
+    "full_term": "Trauma-informed care",
+    "aliases": [
+      "TIC"
+    ],
+    "type": "substantive",
+    "definition": "Retained only when quoting source documents that use 'care' rather than 'practice'; the series uses trauma-informed practice (TIP) by default.",
+    "source": "SAMHSA (2014) SAMHSA's Concept of Trauma and Guidance for a Trauma-Informed Approach. Rockville, MD: SAMHSA.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [],
+    "overrides": {}
+  },
+  {
+    "id": "trauma-informed-champions-charter",
+    "term": "Trauma-Informed Champions Charter",
+    "abbr": null,
+    "full_term": "Trauma-Informed Champions Charter",
+    "aliases": [
+      "Charter",
+      "Champions Charter"
+    ],
+    "type": "local-programme",
+    "definition": "South Tees's local commitment to trauma-informed practice, funded through Changing Futures. It asks every service to recognise the impact of trauma and respond with kindness and compassion, built on six principles: safety; trust and transparency; choice and voice; collaboration; empowerment; and inclusivity.",
+    "source": "Trauma-Informed Champions Charter (South Tees; funded through Changing Futures).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "trauma-informed-practice-tip",
+    "term": "Trauma-informed practice (TIP)",
+    "abbr": "TIP",
+    "full_term": "Trauma-informed practice",
+    "aliases": [
+      "trauma-informed practice",
+      "TIP"
+    ],
+    "type": "substantive",
+    "definition": "A whole-system approach to realising the prevalence of trauma, recognising its effects, responding by embedding that knowledge in practice, and resisting re-traumatisation. The series adopts the Office for Health Improvement and Disparities (OHID) (2022) England working definition, with Substance Abuse and Mental Health Services Administration (SAMHSA)'s (2014) four assumptions and six principles as the underlying framework.",
+    "source": "OHID (2022) Working definition of trauma-informed practice (GOV.UK)",
+    "source_url": "https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf",
+      "clr.kw",
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "tsab",
+    "term": "TSAB",
+    "abbr": "TSAB",
+    "full_term": "Teeswide Safeguarding Adults Board",
+    "aliases": [
+      "TSAB",
+      "Teeswide Safeguarding Adults Board"
+    ],
+    "type": "organisation",
+    "definition": "The multi-agency statutory board that coordinates adult safeguarding across the Tees area.",
+    "source": "Care Act 2014, s.43 (Safeguarding Adults Boards)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/43",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "tvca",
+    "term": "TVCA",
+    "abbr": "TVCA",
+    "full_term": "Tees Valley Combined Authority",
+    "aliases": [
+      "TVCA",
+      "Tees Valley Combined Authority"
+    ],
+    "type": "organisation",
+    "definition": "The sub-regional combined authority covering the five Tees Valley boroughs (Middlesbrough, Redcar & Cleveland, Stockton-on-Tees, Hartlepool and Darlington), led by the Tees Valley Mayor.",
+    "source": "Tees Valley Combined Authority Order 2016 (SI 2016/449), under the Local Democracy, Economic Development and Construction Act 2009",
+    "source_url": "https://www.legislation.gov.uk/uksi/2016/449/contents/made",
+    "org_ref": "findthatcharity org ID GB-LAE-TVCA",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-TVCA",
+    "plain": null,
+    "scope": [
+      "clr.hf"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "tvhf-tees-valley-home-finder",
+    "term": "TVHF (Tees Valley Home Finder)",
+    "abbr": "TVHF",
+    "full_term": "Tees Valley Home Finder",
+    "aliases": [
+      "TVHF",
+      "Tees Valley Home Finder"
+    ],
+    "type": "local-programme",
+    "definition": "The sub-regional choice-based lettings scheme for social housing across the Tees Valley, commissioned by the Tees Valley Lettings Partnership and operating its Common Allocation Policy (TVLP CAP).",
+    "source": "Tees Valley Home Finder service portal — a service commissioned by the Tees Valley Lettings Partnership (TVLP)",
+    "source_url": "https://teesvalleyhomefinder.housingjigsaw.co.uk",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.hf",
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "vcfse",
+    "term": "VCFSE",
+    "abbr": "VCFSE",
+    "full_term": "Voluntary, Community, Faith and Social Enterprise",
+    "aliases": [
+      "VCFSE",
+      "VCSE",
+      "voluntary, community and social enterprise",
+      "voluntary, community, faith and social enterprise"
+    ],
+    "type": "acronym",
+    "definition": "The sector Redcar and Cleveland Voluntary Development Agency (RCVDA) works within and holds the deep-dive work on behalf of.",
+    "source": "Sector-standard term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.kw",
+      "clr.hf",
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "vicarious-trauma",
+    "term": "Vicarious trauma",
+    "abbr": null,
+    "full_term": "Vicarious trauma",
+    "aliases": [
+      "Vicarious trauma",
+      "Vicarious traumatisation",
+      "Vicarious traumatization",
+      "VT"
+    ],
+    "type": "substantive",
+    "definition": "Vicarious trauma (vicarious traumatisation) — the cumulative, gradual transformation in a worker's own inner experience and worldview that results from empathic engagement with trauma survivors over time.",
+    "source": "McCann, I.L. and Pearlman, L.A. (1990) Vicarious traumatisation: a framework for understanding the psychological effects of working with victims.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "victims-and-prisoners-act-2024",
+    "term": "Victims and Prisoners Act 2024",
+    "abbr": null,
+    "full_term": "Victims and Prisoners Act 2024",
+    "aliases": [
+      "VICTIMS"
+    ],
+    "type": "local-programme",
+    "definition": "Creates a statutory duty for local authorities, OPCCs and ICBs to collaborate on commissioning Domestic abuse (DA), sexual abuse and serious violence support, from April 2026.",
+    "source": "Victims and Prisoners Act 2024",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2024/21/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "vru",
+    "term": "VRU",
+    "abbr": "VRU",
+    "full_term": "Violence Reduction Unit",
+    "aliases": [
+      "VRU"
+    ],
+    "type": "substantive",
+    "definition": "Regional bodies established to coordinate approaches to serious violence; the VRU 2021–2023 learning paper on trauma-informed policing is cited in this report.",
+    "source": "Home Office-funded regional body.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "vulnerabilities-service",
+    "term": "Vulnerabilities Service",
+    "abbr": null,
+    "full_term": "Vulnerabilities Service",
+    "aliases": [
+      "VULNERABILITIES"
+    ],
+    "type": "local-programme",
+    "definition": "The Public Health South Tees (PHST) service that houses the Changing Futures Key Working Team. Operationally led by the Vulnerabilities Manager.",
+    "source": "Public Health South Tees (PHST) — the service that houses the Changing Futures Key Working Team.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.kw"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "wawy-we-are-with-you",
+    "term": "WAWY (We Are With You)",
+    "abbr": "WAWY",
+    "full_term": "We Are With You",
+    "aliases": [
+      "WAWY",
+      "We Are With You"
+    ],
+    "type": "organisation",
+    "definition": "We Are With You (formerly Addaction) — the commissioned substance-use service across Redcar & Cleveland.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-CHC-1001957",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1001957",
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "workstream",
+    "term": "Workstream",
+    "abbr": null,
+    "full_term": "Workstream",
+    "aliases": [
+      "workstream"
+    ],
+    "type": "local-programme",
+    "definition": "One of the strands the programme is organised into. The Delivery Plan sets out six: a governance strand (Programme Management and Ideas Factory) and five delivery strands — Enhanced Case Management, Innovation Fund, Key Worker Support, VCS Infrastructure, and Embedding Trauma-Informed Services. Workstreams are how the programme delivers, as distinct from the five areas of complex need that define who it works with.",
+    "source": "South Tees Delivery Plan (Version 2); STCFP Board Terms of Reference.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "the-national-lottery-community-fund-tnlcf",
+    "term": "The National Lottery Community Fund (TNLCF)",
+    "abbr": "TNLCF",
+    "full_term": "The National Lottery Community Fund",
+    "aliases": [
+      "The National Lottery Community Fund",
+      "National Lottery Community Fund",
+      "TNLCF",
+      "Big Lottery Fund"
+    ],
+    "type": "statutory",
+    "definition": "The operating name since 2019 of the Big Lottery Fund: the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players. Joint funder of Changing Futures with MHCLG.",
+    "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da",
+      "clr.hf",
+      "clr.kw",
+      "clr.md",
+      "clr.tip"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "safelives",
+    "term": "SafeLives",
+    "abbr": null,
+    "full_term": "SafeLives",
+    "aliases": [
+      "SafeLives",
+      "CAADA",
+      "Co-ordinated Action Against Domestic Abuse"
+    ],
+    "type": "organisation",
+    "definition": "National domestic-abuse charity that develops and stewards the evidence base and models for the high-risk response, including the Multi-Agency Risk Assessment Conference (MARAC) and the Independent Domestic Violence Advisor (IDVA) models. Known as Co-ordinated Action Against Domestic Abuse (CAADA) until it was renamed SafeLives in 2014.",
+    "source": "SafeLives — Our history",
+    "source_url": "https://safelives.org.uk/about-us/our-history/",
+    "org_ref": "findthatcharity org ID GB-CHC-1106864",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864",
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "overrides": {}
+  },
+  {
+    "id": "ministry-of-justice",
+    "term": "Ministry of Justice",
+    "abbr": "MoJ",
+    "full_term": "Ministry of Justice",
+    "aliases": [
+      "Ministry of Justice",
+      "MoJ"
+    ],
+    "type": "organisation",
+    "definition": "The UK government department responsible for the courts, prisons, probation and sentencing policy in England and Wales; commissioned the Intensive Supervision Courts pilot and published the process evaluation cited in the Multiple Disadvantage report.",
+    "source": "Ministry of Justice (GOV.UK)",
+    "source_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+    "org_ref": "findthatcharity org ID GB-GOR-D18",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D18",
+    "plain": null,
+    "scope": [
+      "clr.md",
+      "clr.kw"
+    ],
+    "overrides": {}
+  }
+]

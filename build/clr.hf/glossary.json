@@ -1,0 +1,682 @@
+[
+  {
+    "id": "act-middlesbrough",
+    "term": "ACT Middlesbrough",
+    "abbr": "ACT",
+    "full_term": "Accessing Change Together",
+    "aliases": [
+      "ACT Middlesbrough",
+      "ACT",
+      "Accessing Change Together"
+    ],
+    "type": "local-programme",
+    "definition": "Middlesbrough Council's integrated adult social care service that brings support together for people facing domestic abuse, homelessness and substance use; trained advisers assess need and connect people to the right teams.",
+    "source": "Middlesbrough Council — Accessing Change Together (ACT)",
+    "source_url": "https://www.middlesbrough.gov.uk/adult-social-care/accessing-change-together/",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "a-e",
+    "term": "A&E",
+    "abbr": "A&E",
+    "full_term": "Accident and Emergency",
+    "aliases": [
+      "Accident and Emergency"
+    ],
+    "type": "acronym",
+    "definition": "The NHS hospital service for serious injuries and emergencies: the consultant-led, 24-hour 'Type 1' A&E. Locally provided at James Cook University Hospital.",
+    "source": null,
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "beyond-housing",
+    "term": "Beyond Housing",
+    "abbr": null,
+    "full_term": "Beyond Housing",
+    "aliases": [
+      "Beyond Housing"
+    ],
+    "type": "organisation",
+    "definition": "A registered provider of social housing operating across South Tees and the wider region; a named partner on the South Tees Changing Futures Programme Board.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-SHPE-LH4401",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-SHPE-LH4401"
+  },
+  {
+    "id": "cdpsoft",
+    "term": "CDPSOFT",
+    "abbr": "CDP",
+    "full_term": "CDPSOFT",
+    "aliases": [
+      "CDPSOFT",
+      "CDP"
+    ],
+    "type": "organisation",
+    "definition": "The software supplier behind the HOAMS case-management system / SHARP platform used locally.",
+    "source": "cdpsoft — the supplier's HOAMS (Housing Options case-management) product page.",
+    "source_url": "https://www.cdpsoft.com/hoams/",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "changing-futures-cf",
+    "term": "Changing Futures (CF)",
+    "abbr": "CF",
+    "full_term": "Changing Futures",
+    "aliases": [
+      "Changing Futures",
+      "CF"
+    ],
+    "type": "substantive",
+    "definition": "The national programme testing system-change approaches for adults facing multiple disadvantage, jointly funded by Ministry of Housing, Communities and Local Government (MHCLG) and The National Lottery Community Fund (TNLCF); £91.8m across fifteen areas of England, 2021–2026. 'Changing Futures' on its own means this national programme; the local delivery is the South Tees Changing Futures Programme.",
+    "source": "MHCLG (2020) Changing Futures: changing systems to support adults experiencing multiple disadvantage — Prospectus. London: MHCLG.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "cleveland",
+    "term": "Cleveland",
+    "abbr": null,
+    "full_term": "Cleveland",
+    "aliases": [
+      "Cleveland"
+    ],
+    "type": "statutory",
+    "definition": "The former county of Cleveland (1974–1996), created by the Local Government Act 1972 and abolished by the Cleveland (Structural Change) Order 1995, which replaced it with four unitary authorities — Middlesbrough, Redcar & Cleveland, Stockton-on-Tees and Hartlepool. The name survives in bodies whose footprint still covers that geography, notably Cleveland Police and its Office of the Police and Crime Commissioner (OPCC).",
+    "source": "The Cleveland (Structural Change) Order 1995 (SI 1995/187), which abolished the county created by the Local Government Act 1972; the geography survives as the Cleveland Police / OPCC footprint.",
+    "source_url": "https://www.legislation.gov.uk/uksi/1995/187",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "ecw-enhanced-case-worker",
+    "term": "ECW (Enhanced Case Worker)",
+    "abbr": "ECW",
+    "full_term": "Enhanced Case Worker",
+    "aliases": [
+      "ECW",
+      "Enhanced Case Worker"
+    ],
+    "type": "local-programme",
+    "definition": "The role that delivers the programme's Enhanced Case Management workstream. Enhanced Case Workers support people who are already in the system, using a multi-agency 'team around the individual' approach, and reach out to people rather than waiting for referrals. It is a higher-intensity role than the Key Worker.",
+    "source": "South Tees Delivery Plan (Version 2), Workstream 2 (Enhanced Case Management).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "fte",
+    "term": "FTE",
+    "abbr": "FTE",
+    "full_term": "Full-time equivalent",
+    "aliases": [
+      "FTE",
+      "full-time equivalent"
+    ],
+    "type": "method",
+    "definition": "Staffing expressed as a proportion of full-time hours.",
+    "source": "GOV.UK Analysis Function (2018) — Employment variables: Hours and FTE.",
+    "source_url": "https://analysisfunction.civilservice.gov.uk/wp-content/uploads/2019/04/Employment-variables-Hours-and-FTE-April-18.pdf",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "fulfilling-lives",
+    "term": "Fulfilling Lives",
+    "abbr": "FL",
+    "full_term": "Fulfilling Lives",
+    "aliases": [
+      "Fulfilling Lives",
+      "FL"
+    ],
+    "type": "substantive",
+    "definition": "The 2014–2022 National Lottery Community Fund programme that preceded Changing Futures and piloted the multiple-disadvantage navigator role. Cited by site (e.g. Fulfilling Lives South East, Blackpool) where the source is site-specific.",
+    "source": "CFE Research, Cordis Bright and University of Sheffield (2022) The Fulfilling Lives Programme: Final evaluation. London: The National Lottery Community Fund.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "h-clic",
+    "term": "H-CLIC",
+    "abbr": "H-CLIC",
+    "full_term": "Homelessness Case Level Information Collection",
+    "aliases": [
+      "H-CLIC",
+      "HCLIC",
+      "HCLIC / H-CLIC",
+      "Homelessness Case Level Information Collection"
+    ],
+    "type": "substantive",
+    "definition": "The Ministry of Housing, Communities and Local Government (MHCLG) case-level reporting system for statutory homelessness. The published statutory-homelessness dataset derived from it is the Homelessness Assessment (HAE) series. Subject to known gaps and reporting lag.",
+    "source": "Ministry of Housing, Communities and Local Government (MHCLG) statutory homelessness statistics.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "hae",
+    "term": "HAE",
+    "abbr": "HAE",
+    "full_term": "Homelessness Assessment",
+    "aliases": [
+      "HAE",
+      "Homelessness Assessment"
+    ],
+    "type": "acronym",
+    "definition": "The published Ministry of Housing, Communities and Local Government (MHCLG) statutory-homelessness dataset (the live tables), derived from the Homelessness Case Level Information Collection (H-CLIC). Subject to known gaps and reporting lag.",
+    "source": "Ministry of Housing, Communities and Local Government (MHCLG) statutory homelessness statistics (live tables).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "hmpps",
+    "term": "HMPPS",
+    "abbr": "HMPPS",
+    "full_term": "HM Prison and Probation Service",
+    "aliases": [
+      "HMPPS",
+      "HM Prison and Probation Service",
+      "His Majesty's Prison and Probation Service"
+    ],
+    "type": "organisation",
+    "definition": "The executive agency running prisons and probation in England and Wales.",
+    "source": "GOV.UK — HM Prison and Probation Service (Ministry of Justice agency).",
+    "source_url": "https://www.gov.uk/government/organisations/hm-prison-and-probation-service",
+    "org_ref": "findthatcharity org ID XI-ROR-03e5xvd80",
+    "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-03e5xvd80"
+  },
+  {
+    "id": "homeless-link",
+    "term": "Homeless Link",
+    "abbr": null,
+    "full_term": "Homeless Link",
+    "aliases": [
+      "Homeless Link"
+    ],
+    "type": "organisation",
+    "definition": "The English national membership body for frontline homelessness organisations; custodian of the Housing First England network and author of the 2017 seven-principles statement the series uses.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-CHC-1089173",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1089173"
+  },
+  {
+    "id": "housing-first",
+    "term": "Housing First",
+    "abbr": "HF",
+    "full_term": "Housing First",
+    "aliases": [
+      "Housing First",
+      "HF"
+    ],
+    "type": "substantive",
+    "definition": "A model that gives someone a permanent, unconditional home first, then wraps open-ended, person-led, trauma-informed support around them. In England it follows Homeless Link's seven principles (2017); it was originated by Sam Tsemberis and Pathways to Housing in New York in 1992.",
+    "source": "Homeless Link (2017) The Principles for Housing First in England (seven principles); locally, STCFP Housing First Service Specification (Draft V1, Feb 2024 Board). Origin: Tsemberis, S. (1999), Pathways to Housing, New York.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "hra17",
+    "term": "HRA17",
+    "abbr": "HRA17",
+    "full_term": "Homelessness Reduction Act 2017",
+    "aliases": [
+      "HRA17"
+    ],
+    "type": "statutory",
+    "definition": "Introduced the prevention duty (s.195, threatened with homelessness within 56 days) and the relief duty (s.189B, homeless and eligible).",
+    "source": "Homelessness Reduction Act 2017",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2017/13/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "icb",
+    "term": "ICB",
+    "abbr": "ICB",
+    "full_term": "Integrated Care Board",
+    "aliases": [
+      "ICB"
+    ],
+    "type": "organisation",
+    "definition": "The statutory NHS body that plans and commissions health services for a defined area.",
+    "source": "Health and Care Act 2022 (ICBs, Part 1)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "icp",
+    "term": "ICP",
+    "abbr": "ICP",
+    "full_term": "Integrated Care Partnership",
+    "aliases": [
+      "ICP",
+      "Integrated Care Partnership"
+    ],
+    "type": "substantive",
+    "definition": "The statutory joint committee of an integrated care system that agrees a health-and-care strategy for the area, bringing the NHS and local partners together.",
+    "source": "Health and Care Act 2022 (integrated care partnerships)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "lha",
+    "term": "LHA",
+    "abbr": "LHA",
+    "full_term": "Local Housing Allowance",
+    "aliases": [
+      "LHA"
+    ],
+    "type": "statutory",
+    "definition": "The rate of Housing Benefit / Universal Credit housing element paid to private renters.",
+    "source": "Housing Benefit Regulations 2006 (SI 2006/213), regs 12D–13E (maximum rent (LHA))",
+    "source_url": "https://www.legislation.gov.uk/uksi/2006/213/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "meam",
+    "term": "MEAM",
+    "abbr": "MEAM",
+    "full_term": "Making Every Adult Matter",
+    "aliases": [
+      "MEAM"
+    ],
+    "type": "substantive",
+    "definition": "The England-wide coalition and partnership approach coordinating local responses for adults facing multiple disadvantage. The closest comparator approach to Changing Futures; each local MEAM partnership defines its own cohort within a shared frame.",
+    "source": "Making Every Adult Matter (MEAM) — the England-wide coalition (Clinks, Homeless Link and Mind)",
+    "source_url": "https://meam.org.uk",
+    "org_ref": "findthatcharity org ID GB-CHC-1209508",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1209508"
+  },
+  {
+    "id": "mhclg",
+    "term": "MHCLG",
+    "abbr": "MHCLG",
+    "full_term": "Ministry of Housing, Communities and Local Government",
+    "aliases": [
+      "MHCLG"
+    ],
+    "type": "acronym",
+    "definition": "The UK government department co-funding Changing Futures. Named MHCLG to 2021, the Department for Levelling Up, Housing and Communities (DLUHC) 2021–2024, and MHCLG again from 9 July 2024.",
+    "source": "GOV.UK — Ministry of Housing, Communities and Local Government.",
+    "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+    "org_ref": "findthatcharity org ID GB-GOR-D4",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4"
+  },
+  {
+    "id": "multiple-disadvantage-md",
+    "term": "Multiple disadvantage (MD)",
+    "abbr": "MD",
+    "full_term": "Multiple disadvantage",
+    "aliases": [
+      "multiple disadvantage",
+      "MD"
+    ],
+    "type": "substantive",
+    "definition": "The programme's cohort: in South Tees, adults in contact with two or more of five intersecting areas of complex need — criminal justice, mental health, homelessness, domestic abuse and substance use (the national Changing Futures cohort, per the MHCLG 2020 Prospectus, is three or more). The series adopts this working cohort definition as its primary frame. Hard Edges 'severe and multiple disadvantage (SMD)' is the foundational prevalence comparator.",
+    "source": "South Tees Delivery Plan (Version 2) / MHCLG (2020) Changing Futures Prospectus (working cohort definition); comparator: Bramley et al. (2015) Hard Edges, Lankelly Chase Foundation.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "nrpf",
+    "term": "NRPF",
+    "abbr": "NRPF",
+    "full_term": "No Recourse to Public Funds",
+    "aliases": [
+      "NRPF"
+    ],
+    "type": "statutory",
+    "definition": "An immigration condition that excludes a person from most welfare benefits and from statutory homelessness assistance; significant for some cohorts in Middlesbrough.",
+    "source": "Immigration and Asylum Act 1999, s.115(9) (defines a person subject to immigration control, on condition of no recourse to public funds)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1999/33/section/115",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "opcc",
+    "term": "OPCC",
+    "abbr": "OPCC",
+    "full_term": "Office of the Police and Crime Commissioner",
+    "aliases": [
+      "OPCC"
+    ],
+    "type": "organisation",
+    "definition": "The elected office responsible for the governance of policing in a force area — setting the police and crime plan and holding the Chief Constable to account; created by the Police Reform and Social Responsibility Act 2011.",
+    "source": "Police Reform and Social Responsibility Act 2011",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "pathways",
+    "term": "Pathways",
+    "abbr": null,
+    "full_term": "Pathways",
+    "aliases": [
+      "PATHWAYS"
+    ],
+    "type": "local-programme",
+    "definition": "The original Housing First model developed in New York by Sam Tsemberis and Pathways to Housing in 1992 (Tsemberis, 1999). The Pathways model is the high-fidelity baseline against which the seven principles are derived.",
+    "source": "Tsemberis, S. (1999) — the Pathways to Housing model, New York; the origin of Housing First.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "r-c",
+    "term": "R&C",
+    "abbr": "R&C",
+    "full_term": "Redcar & Cleveland",
+    "aliases": [
+      "R&C",
+      "Redcar & Cleveland"
+    ],
+    "type": "acronym",
+    "definition": "Local shorthand for the Borough of Redcar & Cleveland (and its council).",
+    "source": "Local shorthand.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "registered-provider-rp",
+    "term": "Registered Provider (RP)",
+    "abbr": "RP",
+    "full_term": "Registered Provider",
+    "aliases": [
+      "Registered Provider",
+      "RP"
+    ],
+    "type": "statutory",
+    "definition": "Registered Provider of social housing. The statutory term for a social-housing provider (including housing associations) registered with and regulated by the Regulator of Social Housing under the Housing and Regeneration Act 2008. Preferred to 'housing association' where a statutory or commissioning point is being made.",
+    "source": "Housing and Regeneration Act 2008, Part 2",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2008/17/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "rsap",
+    "term": "RSAP",
+    "abbr": "RSAP",
+    "full_term": "Rough Sleeping Accommodation Programme",
+    "aliases": [
+      "RSAP"
+    ],
+    "type": "substantive",
+    "definition": "A Ministry of Housing, Communities and Local Government capital programme funding move-on accommodation for people who sleep rough or are at risk of doing so; a predecessor to later rough-sleeping programmes.",
+    "source": "GOV.UK (MHCLG) — Rough Sleeping Accommodation Programme 2021-24",
+    "source_url": "https://www.gov.uk/government/publications/rough-sleeping-accommodation-programme-2021-24",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "rsi",
+    "term": "RSI",
+    "abbr": "RSI",
+    "full_term": "Rough Sleeping Initiative",
+    "aliases": [
+      "RSI"
+    ],
+    "type": "substantive",
+    "definition": "Central government revenue funding for rough-sleeping support, allocated in rounds.",
+    "source": "GOV.UK (MHCLG) — Rough Sleeping Initiative: 2022 to 2025 funding allocations",
+    "source_url": "https://www.gov.uk/government/publications/rough-sleeping-initiative-2022-to-2025-funding-allocations",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "section-21-housing-act-1988",
+    "term": "Section 21 (Housing Act 1988)",
+    "abbr": null,
+    "full_term": "Section 21 (Housing Act 1988)",
+    "aliases": [
+      "Section 21"
+    ],
+    "type": "statutory",
+    "definition": "The 'no-fault' route by which a landlord could recover possession of an assured shorthold tenancy after the fixed term, without having to establish a ground. Abolished by the Renters' Rights Act 2025 (in force from 1 May 2026), which ended assured shorthold tenancies.",
+    "source": "Housing Act 1988, s.21 (repealed by the Renters' Rights Act 2025, in force 1 May 2026)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1988/50/section/21",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "section-8-housing-act-1988",
+    "term": "Section 8 (Housing Act 1988)",
+    "abbr": null,
+    "full_term": "Section 8 (Housing Act 1988)",
+    "aliases": [
+      "Section 8"
+    ],
+    "type": "statutory",
+    "definition": "The route by which a landlord seeks possession of an assured tenancy on one or more of the statutory grounds set out in Schedule 2 to the Act (for example rent arrears or breach of tenancy). The Schedule 2 grounds were amended and expanded by the Renters' Rights Act 2025.",
+    "source": "Housing Act 1988, s.8 (and Schedule 2)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1988/50/section/8",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "shap",
+    "term": "SHAP",
+    "abbr": "SHAP",
+    "full_term": "Single Homelessness Accommodation Programme",
+    "aliases": [
+      "SHAP"
+    ],
+    "type": "substantive",
+    "definition": "A Ministry of Housing, Communities and Local Government capital programme funding accommodation and support for single people who are homeless or at risk, including young people.",
+    "source": "GOV.UK (MHCLG) — Single Homelessness Accommodation Programme",
+    "source_url": "https://www.gov.uk/government/publications/single-homelessness-accommodation-programme",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "south-tees-changing-futures-programme-stcfp",
+    "term": "South Tees Changing Futures Programme (STCFP)",
+    "abbr": "STCFP",
+    "full_term": "South Tees Changing Futures Programme",
+    "aliases": [
+      "STCFP",
+      "STCF",
+      "South Tees Changing Futures Programme",
+      "South Tees Changing Futures"
+    ],
+    "type": "local-programme",
+    "definition": "The local delivery of Changing Futures across Middlesbrough and Redcar & Cleveland (population ~278,000), governed by the South Tees Changing Futures Programme Board.",
+    "source": "STCFP Board Terms of Reference; South Tees Delivery Plan (Version 2); later phase: Draft Housing Prospectus (Dec 2024).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "spoc",
+    "term": "SPOC",
+    "abbr": "SPOC",
+    "full_term": "Single point of contact",
+    "aliases": [
+      "SPOC",
+      "single point of contact"
+    ],
+    "type": "acronym",
+    "definition": "One named contact or route through which people reach a service.",
+    "source": "Service-design term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "tees-valley",
+    "term": "Tees Valley",
+    "abbr": null,
+    "full_term": "Tees Valley",
+    "aliases": [
+      "Tees Valley"
+    ],
+    "type": "local-programme",
+    "definition": "The five-local-authority combined-authority area: Middlesbrough, Redcar & Cleveland, Stockton-on-Tees, Hartlepool and Darlington.",
+    "source": "Tees Valley Combined Authority geography.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "tees-valley-lettings-partnership-tvlp",
+    "term": "Tees Valley Lettings Partnership (TVLP)",
+    "abbr": "TVLP",
+    "full_term": "Tees Valley Lettings Partnership",
+    "aliases": [
+      "Tees Valley Lettings Partnership",
+      "TVLP"
+    ],
+    "type": "local-programme",
+    "definition": "The partnership that provides Tees Valley Home Finder (the sub-regional choice-based lettings scheme) and operates the Common Allocation Policy (TVLP CAP). Members: Middlesbrough Council, Redcar and Cleveland Borough Council, Stockton-on-Tees Borough Council, Beyond Housing and North Star.",
+    "source": "A partnership of five member organisations providing Tees Valley Home Finder.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "temporary-accommodation-ta",
+    "term": "Temporary accommodation (TA)",
+    "abbr": "TA",
+    "full_term": "Temporary accommodation",
+    "aliases": [
+      "TA"
+    ],
+    "type": "statutory",
+    "definition": "Bed-and-breakfast, nightly-paid self-contained, hostel, or Local authority (LA)-/Registered Provider (RP)-managed accommodation provided to households owed a homelessness duty. Distinct from supported housing.",
+    "source": "Housing Act 1996, s.188 (interim duty to accommodate)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1996/52/section/188",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "thrive-partnership",
+    "term": "Thrive Partnership",
+    "abbr": "THRIVE",
+    "full_term": "Thrive Partnership",
+    "aliases": [
+      "Thrive Partnership",
+      "THRIVE",
+      "Thrive"
+    ],
+    "type": "local-programme",
+    "definition": "The Redcar and Cleveland partnership delivering England's first integrated Domestic Abuse and Substance Use (IDAS) service model: collaborative, trauma-informed support. THRIVE stands for Trusting, Hopeful, Resilient, Involved, Valued and Empowered. Partners: We Are With You (drug and alcohol support), Redcar and Cleveland Borough Council, Harbour Support Services (domestic abuse), Recovery Connections and Intuitive Thinking Skills.",
+    "source": "We Are With You — the Thrive Partnership (Redcar and Cleveland; England's first integrated Domestic Abuse and Substance Use model); Thrive Impact Report 2024–2025",
+    "source_url": "https://www.wearewithyou.org.uk/latest/news-and-views/women-stronger-together-a-three-way-conversation-with-the-thrive-partnership",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "trauma-informed-practice-tip",
+    "term": "Trauma-informed practice (TIP)",
+    "abbr": "TIP",
+    "full_term": "Trauma-informed practice",
+    "aliases": [
+      "trauma-informed practice",
+      "TIP"
+    ],
+    "type": "substantive",
+    "definition": "A whole-system approach to realising the prevalence of trauma, recognising its effects, responding by embedding that knowledge in practice, and resisting re-traumatisation. The series adopts the Office for Health Improvement and Disparities (OHID) (2022) England working definition, with Substance Abuse and Mental Health Services Administration (SAMHSA)'s (2014) four assumptions and six principles as the underlying framework.",
+    "source": "OHID (2022) Working definition of trauma-informed practice (GOV.UK)",
+    "source_url": "https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "tsab",
+    "term": "TSAB",
+    "abbr": "TSAB",
+    "full_term": "Teeswide Safeguarding Adults Board",
+    "aliases": [
+      "TSAB",
+      "Teeswide Safeguarding Adults Board"
+    ],
+    "type": "organisation",
+    "definition": "The multi-agency statutory board that coordinates adult safeguarding across the Tees area.",
+    "source": "Care Act 2014, s.43 (Safeguarding Adults Boards)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/43",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "tvca",
+    "term": "TVCA",
+    "abbr": "TVCA",
+    "full_term": "Tees Valley Combined Authority",
+    "aliases": [
+      "TVCA",
+      "Tees Valley Combined Authority"
+    ],
+    "type": "organisation",
+    "definition": "The sub-regional combined authority covering the five Tees Valley boroughs (Middlesbrough, Redcar & Cleveland, Stockton-on-Tees, Hartlepool and Darlington), led by the Tees Valley Mayor.",
+    "source": "Tees Valley Combined Authority Order 2016 (SI 2016/449), under the Local Democracy, Economic Development and Construction Act 2009",
+    "source_url": "https://www.legislation.gov.uk/uksi/2016/449/contents/made",
+    "org_ref": "findthatcharity org ID GB-LAE-TVCA",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-TVCA"
+  },
+  {
+    "id": "tvhf-tees-valley-home-finder",
+    "term": "TVHF (Tees Valley Home Finder)",
+    "abbr": "TVHF",
+    "full_term": "Tees Valley Home Finder",
+    "aliases": [
+      "TVHF",
+      "Tees Valley Home Finder"
+    ],
+    "type": "local-programme",
+    "definition": "The sub-regional choice-based lettings scheme for social housing across the Tees Valley, commissioned by the Tees Valley Lettings Partnership and operating its Common Allocation Policy (TVLP CAP).",
+    "source": "Tees Valley Home Finder service portal — a service commissioned by the Tees Valley Lettings Partnership (TVLP)",
+    "source_url": "https://teesvalleyhomefinder.housingjigsaw.co.uk",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "vcfse",
+    "term": "VCFSE",
+    "abbr": "VCFSE",
+    "full_term": "Voluntary, Community, Faith and Social Enterprise",
+    "aliases": [
+      "VCFSE",
+      "VCSE",
+      "voluntary, community and social enterprise",
+      "voluntary, community, faith and social enterprise"
+    ],
+    "type": "acronym",
+    "definition": "The sector Redcar and Cleveland Voluntary Development Agency (RCVDA) works within and holds the deep-dive work on behalf of.",
+    "source": "Sector-standard term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "the-national-lottery-community-fund-tnlcf",
+    "term": "The National Lottery Community Fund (TNLCF)",
+    "abbr": "TNLCF",
+    "full_term": "The National Lottery Community Fund",
+    "aliases": [
+      "The National Lottery Community Fund",
+      "National Lottery Community Fund",
+      "TNLCF",
+      "Big Lottery Fund"
+    ],
+    "type": "statutory",
+    "definition": "The operating name since 2019 of the Big Lottery Fund: the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players. Joint funder of Changing Futures with MHCLG.",
+    "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  }
+]
