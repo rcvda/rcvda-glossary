@@ -12,8 +12,8 @@
     "definition": "The independent regulator of health and adult social care in England.",
     "source": "Health and Social Care Act 2008 (established the Care Quality Commission)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2008/14/contents",
-    "org_ref": null,
-    "org_ref_url": null
+    "org_ref": "findthatcharity org ID GB-GOR-PB251",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB251"
   },
   {
     "id": "dhsc",
@@ -358,8 +358,8 @@
     "definition": "The unitary local authority for the Borough of Darlington in the Tees Valley.",
     "source": "Darlington Borough Council",
     "source_url": "https://www.darlington.gov.uk",
-    "org_ref": null,
-    "org_ref_url": null
+    "org_ref": "findthatcharity org ID GB-LAE-DAL",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-DAL"
   },
   {
     "id": "hartlepool-borough-council",
@@ -373,8 +373,8 @@
     "definition": "The unitary local authority for the Borough of Hartlepool in the Tees Valley.",
     "source": "Hartlepool Borough Council",
     "source_url": "https://www.hartlepool.gov.uk",
-    "org_ref": null,
-    "org_ref_url": null
+    "org_ref": "findthatcharity org ID GB-LAE-HPL",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-HPL"
   },
   {
     "id": "sustrans",
@@ -405,8 +405,8 @@
     "definition": "The rural community council for the Tees Valley, supporting rural communities and voluntary organisations.",
     "source": "Tees Valley Rural Action",
     "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null
+    "org_ref": "findthatcharity org ID GB-CHC-1080282",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1080282"
   },
   {
     "id": "vonne",
@@ -421,8 +421,8 @@
     "definition": "The regional infrastructure body representing and supporting the voluntary, community and social enterprise sector across the North East.",
     "source": "VONNE",
     "source_url": "https://www.vonne.org.uk",
-    "org_ref": null,
-    "org_ref_url": null
+    "org_ref": "findthatcharity org ID GB-CHC-1084083",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1084083"
   },
   {
     "id": "navca",
@@ -437,8 +437,8 @@
     "definition": "The national membership body for local infrastructure organisations supporting the voluntary and community sector in England.",
     "source": "NAVCA",
     "source_url": "https://www.navca.org.uk",
-    "org_ref": null,
-    "org_ref_url": null
+    "org_ref": "findthatcharity org ID GB-CHC-1001635",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1001635"
   },
   {
     "id": "neas",
@@ -469,8 +469,8 @@
     "definition": "The national body that led the NHS in England and oversaw commissioning; its functions are being brought back into the Department of Health and Social Care following the March 2025 decision to abolish it.",
     "source": "GOV.UK — NHS England",
     "source_url": "https://www.gov.uk/government/organisations/nhs-england",
-    "org_ref": null,
-    "org_ref_url": null
+    "org_ref": "findthatcharity org ID GB-GOR-PB481",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB481"
   },
   {
     "id": "ccg",
@@ -501,8 +501,8 @@
     "definition": "The principal public agency for conducting criminal prosecutions in England and Wales, established under the Prosecution of Offences Act 1985.",
     "source": "Prosecution of Offences Act 1985",
     "source_url": "https://www.legislation.gov.uk/ukpga/1985/23/contents",
-    "org_ref": null,
-    "org_ref_url": null
+    "org_ref": "findthatcharity org ID GB-GOR-D101",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D101"
   },
   {
     "id": "lawn-tennis-association",
@@ -535,8 +535,8 @@
     "definition": "The UK government department responsible for education and children's services in England.",
     "source": "GOV.UK — Department for Education",
     "source_url": "https://www.gov.uk/government/organisations/department-for-education",
-    "org_ref": null,
-    "org_ref_url": null
+    "org_ref": "findthatcharity org ID GB-GOR-D6",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D6"
   },
   {
     "id": "children-and-young-people",

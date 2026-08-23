@@ -1,5 +1,15 @@
 # Changelog — rcvda-glossary
 
+## 2026-08-23 — Org references resolved (Find That Charity)
+- Ran the FTC multi-type resolver (`tools/resolve_orgs.py`) over the 30 organisation entries lacking an
+  `org_ref`. **Applied 9 verified matches**: CQC (GB-GOR-PB251), CPS (GB-GOR-D101), DfE (GB-GOR-D6),
+  NHS England (GB-GOR-PB481), Darlington BC (GB-LAE-DAL), Hartlepool BC (GB-LAE-HPL), Tees Valley Rural
+  Action (GB-CHC-1080282), VONNE (GB-CHC-1084083), NAVCA (GB-CHC-1001635).
+- Held back 21 by design: NHS/LA/FT/CCG/OPCC/PCC and local boards left blank on purpose; ICB, NEAS,
+  Sustrans, HCPC need by-hand `GB-NHS`/`GB-CHC`/regulator codes; the wind-farm companies need Companies
+  House `GB-COH` lookups. Full breakdown + recommendations in `tools/ORG_REF_STATUS.md`; machine output
+  in `tools/org_resolution.csv`. Added the resolver (`tools/resolve_orgs.py`, `apply_org_ids.py`).
+
 ## 2026-08-23 — Phase 3: Building Our Futures → `bof` lens (plain register)
 - Ingested the Building Our Futures glossary (buildingourfutures.org.uk/glossary, 43 entries).
 - **3 already in the master** (RCVDA, RCBC, KPI) → added `bof` to scope and gave each a `plain` form.
