@@ -16,8 +16,9 @@ Full machine output: `org_resolution.csv`. Only verified-correct matches were ap
 | Tees Valley Rural Action | GB-CHC-1080282 | charity |
 | VONNE | GB-CHC-1084083 | charity |
 | NAVCA | GB-CHC-1001635 | charity |
+| Sustrans (now *Walk Wheel Cycle Trust*) | GB-CHC-326550 | charity |
 
-## Remaining (21) — held back, by category
+## Remaining (20) — held back, by category
 
 The reconcile API only covers charities, companies, CICs, societies, local authorities and government
 bodies. It does **not** cover NHS trusts/ICBs (`GB-NHS`) or social-housing providers (`GB-SHPE`), and it
@@ -31,14 +32,24 @@ returns noisy charity matches for companies — so the rest need a human decisio
 - **Live Well South Tees Board**, **TSAB** (Teeswide Safeguarding Adults Board) — local partnerships/boards; unlikely to have an org record.
 - **SAMHSA** — US federal agency; not on Find That Charity.
 
-### Add by hand (a specific record exists but isn't reconcile-able) — please verify
-- **ICB** (NHS North East and North Cumbria ICB) → suggest **GB-NHS-01H** (an NHS/ODS code, added by hand).
-- **North East Ambulance Service** → the operational NHS foundation trust is a **GB-NHS** ODS code (the reconcile hit `GB-CHC-1078575` is only its *charitable trust fund*, not the trust). Look up the ODS code.
-- **Sustrans** → its charity number is **GB-CHC-326550** (the reconcile classifier rejected it on a name mismatch, but the number is Sustrans'; confirm before applying).
-- **HCPC** (Health and Care Professions Council) → needs the correct regulator `GB-GOR` record (reconcile returned a wrong charity).
+### Checked and left blank (confirmed 2026-08-23 by Peter — no usable FTC record)
+- **ICB** (NHS North East and North Cumbria ICB) → **no key yet.** ICBs are not on Find That Charity; the earlier `GB-NHS-01H` suggestion is an outdated CCG-era record fragment of NENC, not the ICB. Leave blank until FTC carries ICBs.
+- **North East Ambulance Service** → **not locatable.** FTC's underlying (CCG-era) NHS dataset is substantially out of date, so NEAS can't be found under a current name/code. Leave blank.
+- **HCPC** (Health and Care Professions Council) → **no entry exists** on Find That Charity. Leave blank.
+- *(Sustrans resolved — see Applied above: charity 326550 was rebranded to Walk Wheel Cycle Trust, which is why the name search missed it.)*
 
-### Companies (Companies House `GB-COH`) — resolve via Companies House if you want them referenced
-- **Anglo American**, **Equinor**, **SSE Renewables**, **Vårgrønn**, **Dogger Bank Wind Farm** (project SPV), **CDPSOFT**, **CFE Research**, **Lawn Tennis Association**.
+### Companies (resolved via Companies House, 2026-08-23)
+Find That Charity only indexes the CFE Research company, so the others reference Companies House directly
+(an FTC `/orgid/` link would 404).
+- **CFE Research** → `GB-COH-03345012` (on Find That Charity).
+- **CDPSOFT** → `GB-COH-02893590` (CDPSOFT Limited) · Companies House.
+- **Anglo American** → `GB-COH-03564138` (Anglo American plc, the global parent) · Companies House.
+- **SSE Renewables** → `GB-COH-SC117119` (SSE plc, the parent group) · Companies House.
+- **Lawn Tennis Association** → `GB-COH-07459469` (Lawn Tennis Association Limited, Roehampton) · Companies House.
+
+### Companies left blank (no England-&-Wales registration / not a single company)
+- **Equinor**, **Vårgrønn** — Norwegian companies, not registered in England & Wales.
+- **Dogger Bank Wind Farm** — a legal partnership / joint venture, not one registered company.
 
 ## Re-running
 ```

@@ -383,14 +383,15 @@
     "full_term": "Sustrans",
     "aliases": [
       "Sustrans",
-      "Sustainable Transport"
+      "Sustainable Transport",
+      "Walk Wheel Cycle Trust"
     ],
     "type": "organisation",
     "definition": "The sustainable-transport charity and custodian of the National Cycle Network; 'Sustrans' is short for 'sustainable transport'.",
     "source": "Sustrans",
     "source_url": "https://www.sustrans.org.uk",
-    "org_ref": null,
-    "org_ref_url": null
+    "org_ref": "findthatcharity org ID GB-CHC-326550",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-326550"
   },
   {
     "id": "tees-valley-rural-action",
@@ -517,8 +518,8 @@
     "definition": "The national governing body for tennis in Great Britain.",
     "source": "Lawn Tennis Association",
     "source_url": "https://www.lta.org.uk",
-    "org_ref": null,
-    "org_ref_url": null
+    "org_ref": "Companies House GB-COH-07459469",
+    "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/07459469"
   },
   {
     "id": "department-for-education",

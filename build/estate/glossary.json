@@ -281,8 +281,8 @@
     "definition": "The software supplier behind the HOAMS case-management system / SHARP platform used locally.",
     "source": "cdpsoft — the supplier's HOAMS (Housing Options case-management) product page.",
     "source_url": "https://www.cdpsoft.com/hoams/",
-    "org_ref": null,
-    "org_ref_url": null,
+    "org_ref": "Companies House GB-COH-02893590",
+    "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/02893590",
     "plain": null,
     "scope": [
       "clr.hf"
@@ -302,8 +302,8 @@
     "definition": "A research and evaluation consultancy; part of the national Changing Futures evaluation team (with Cordis Bright).",
     "source": "CFE Research — an independent research and evaluation company (Leicester); part of the national Changing Futures evaluation team with Cordis Bright.",
     "source_url": "https://cfe.org.uk",
-    "org_ref": null,
-    "org_ref_url": null,
+    "org_ref": "findthatcharity org ID GB-COH-03345012",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-COH-03345012",
     "plain": null,
     "scope": [
       "clr.tip"
@@ -3528,14 +3528,15 @@
     "full_term": "Sustrans",
     "aliases": [
       "Sustrans",
-      "Sustainable Transport"
+      "Sustainable Transport",
+      "Walk Wheel Cycle Trust"
     ],
     "type": "organisation",
     "definition": "The sustainable-transport charity and custodian of the National Cycle Network; 'Sustrans' is short for 'sustainable transport'.",
     "source": "Sustrans",
     "source_url": "https://www.sustrans.org.uk",
-    "org_ref": null,
-    "org_ref_url": null,
+    "org_ref": "findthatcharity org ID GB-CHC-326550",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-326550",
     "plain": null,
     "scope": [
       "rcvda"
@@ -3702,8 +3703,8 @@
     "definition": "The national governing body for tennis in Great Britain.",
     "source": "Lawn Tennis Association",
     "source_url": "https://www.lta.org.uk",
-    "org_ref": null,
-    "org_ref_url": null,
+    "org_ref": "Companies House GB-COH-07459469",
+    "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/07459469",
     "plain": null,
     "scope": [
       "rcvda"
@@ -4627,8 +4628,8 @@
     "definition": "A global mining business; the first funder of Building our Futures (2021) and still a delivery partner.",
     "source": "Anglo American",
     "source_url": "https://www.angloamerican.com",
-    "org_ref": null,
-    "org_ref_url": null,
+    "org_ref": "Companies House GB-COH-03564138",
+    "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/03564138",
     "plain": "The programme's first funder, back in 2021. It no longer funds the programme but is still a delivery partner.",
     "scope": [
       "bof"
@@ -4729,8 +4730,8 @@
     "definition": "A renewable-energy company that owns 40% of Dogger Bank Wind Farm.",
     "source": "SSE Renewables",
     "source_url": "https://www.sserenewables.com",
-    "org_ref": null,
-    "org_ref_url": null,
+    "org_ref": "Companies House GB-COH-SC117119",
+    "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/SC117119",
     "plain": "A renewable-energy company. It owns 40% of Dogger Bank Wind Farm.",
     "scope": [
       "bof"

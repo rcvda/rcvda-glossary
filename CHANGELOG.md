@@ -1,5 +1,20 @@
 # Changelog — rcvda-glossary
 
+## 2026-08-23 — Company org references (Companies House)
+- Resolved the company entries: CFE Research `GB-COH-03345012` (via Find That Charity); and — referenced
+  directly to Companies House, since FTC doesn't index them — CDPSOFT `GB-COH-02893590`, Anglo American plc
+  `GB-COH-03564138`, SSE plc `GB-COH-SC117119` (SSE Renewables' parent), and Lawn Tennis Association Ltd
+  `GB-COH-07459469`. (15 org references resolved in total.)
+- Left blank with reasons recorded: **Equinor** and **Vårgrønn** (Norwegian, not registered in England &
+  Wales) and **Dogger Bank Wind Farm** (a legal partnership, not a single registered company).
+
+## 2026-08-23 — Org references: Sustrans resolved; ICB/NEAS/HCPC confirmed blank
+- **Sustrans → GB-CHC-326550** applied (10 verified org_refs total). The charity was rebranded to
+  *Walk Wheel Cycle Trust*, which is why the name-based reconcile missed it; alias + rename note added.
+- **ICB, North East Ambulance Service, HCPC** confirmed to have no usable Find That Charity record and
+  are left blank on purpose (ICBs not on FTC; the CCG-era NHS dataset is out of date; HCPC has no entry).
+  `tools/ORG_REF_STATUS.md` updated accordingly.
+
 ## 2026-08-23 — Org references resolved (Find That Charity)
 - Ran the FTC multi-type resolver (`tools/resolve_orgs.py`) over the 30 organisation entries lacking an
   `org_ref`. **Applied 9 verified matches**: CQC (GB-GOR-PB251), CPS (GB-GOR-D101), DfE (GB-GOR-D6),

@@ -254,11 +254,11 @@
     locally.
   source: cdpsoft — the supplier's HOAMS (Housing Options case-management) product page.
   source_url: https://www.cdpsoft.com/hoams/
-  org_ref: ''
-  org_ref_url:
+  org_ref: 'Companies House GB-COH-02893590'
+  org_ref_url: https://find-and-update.company-information.service.gov.uk/company/02893590
   scope:
   - clr.hf
-  note: Identification flagged 'most likely' in the acronym audit — confirm.
+  note: 'Companies House: CDPSOFT Limited, 02893590 (not indexed by Find That Charity).'
   agreed: y
 - term: CFE Research (CFE)
   id: cfe-research-cfe
@@ -271,13 +271,11 @@
   source: CFE Research — an independent research and evaluation company (Leicester); part of the 
     national Changing Futures evaluation team with Cordis Bright.
   source_url: https://cfe.org.uk
-  org_ref: ''
-  org_ref_url:
+  org_ref: 'findthatcharity org ID GB-COH-03345012'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-COH-03345012
   scope:
   - clr.tip
-  note: Find That Charity has no record (it is a commercial company, not a charity — the reconcile 
-    near-miss 'Cancer Research UK' was rejected). Give it a Companies House reference if a source 
-    link is wanted.
+  note: 'Companies House: CFE (Research and Consulting) Limited, 03345012.'
   agreed: y
 - term: Trauma-Informed Champion
   id: trauma-informed-champion
@@ -3015,18 +3013,18 @@
   id: sustrans
   abbr: ''
   full_term: Sustrans
-  aliases: Sustrans|Sustainable Transport
+  aliases: Sustrans|Sustainable Transport|Walk Wheel Cycle Trust
   type: organisation
   definition: The sustainable-transport charity and custodian of the National Cycle Network; 
     'Sustrans' is short for 'sustainable transport'.
   source: Sustrans
   source_url: https://www.sustrans.org.uk
-  org_ref: ''
-  org_ref_url:
+  org_ref: 'findthatcharity org ID GB-CHC-326550'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-326550
   scope:
   - rcvda
   agreed: n
-  note: org_ref (findthatcharity charity) to resolve.
+  note: Registered charity 326550, now named Walk Wheel Cycle Trust (formerly Sustrans).
 - term: Tees Valley Rural Action
   id: tees-valley-rural-action
   abbr: TVRA
@@ -3145,11 +3143,12 @@
   definition: The national governing body for tennis in Great Britain.
   source: Lawn Tennis Association
   source_url: https://www.lta.org.uk
-  org_ref: ''
-  org_ref_url:
+  org_ref: 'Companies House GB-COH-07459469'
+  org_ref_url: https://find-and-update.company-information.service.gov.uk/company/07459469
   scope:
   - rcvda
   agreed: n
+  note: 'Companies House: Lawn Tennis Association Limited, 07459469 (the national governing body, Roehampton).'
 - term: Department for Education
   id: department-for-education
   abbr: DfE
@@ -3826,12 +3825,12 @@
     delivery partner.
   source: Anglo American
   source_url: https://www.angloamerican.com
-  org_ref: ''
-  org_ref_url:
+  org_ref: 'Companies House GB-COH-03564138'
+  org_ref_url: https://find-and-update.company-information.service.gov.uk/company/03564138
   scope:
   - bof
   agreed: n
-  note: org_ref to resolve.
+  note: 'Companies House: Anglo American plc, 03564138 (the global parent company).'
 - term: Building our Futures
   id: building-our-futures
   abbr: BoF
@@ -3866,6 +3865,8 @@
   scope:
   - bof
   agreed: n
+  note: Dogger Bank Wind Farm is a legal partnership / joint venture, not a single registered 
+    company, so it has no one org reference.
 - term: Equinor
   id: equinor
   abbr: ''
@@ -3882,6 +3883,8 @@
   scope:
   - bof
   agreed: n
+  note: Norwegian company — not registered in England & Wales, so no Companies House / FTC 
+    reference.
 - term: Operator Fund
   id: operator-fund
   abbr: ''
@@ -3907,12 +3910,12 @@
   plain: A renewable-energy company. It owns 40% of Dogger Bank Wind Farm.
   source: SSE Renewables
   source_url: https://www.sserenewables.com
-  org_ref: ''
-  org_ref_url:
+  org_ref: 'Companies House GB-COH-SC117119'
+  org_ref_url: https://find-and-update.company-information.service.gov.uk/company/SC117119
   scope:
   - bof
   agreed: n
-  note: org_ref to resolve.
+  note: 'Companies House: SSE plc, SC117119 (the parent group; SSE Renewables is its renewables arm).'
 - term: STEM Education and Careers Programmes
   id: stem-education-and-careers-programmes
   abbr: ''
@@ -3943,7 +3946,8 @@
   scope:
   - bof
   agreed: n
-  note: org_ref to resolve.
+  note: Norwegian company — not registered in England & Wales, so no Companies House / FTC 
+    reference.
 - term: The Pupil Journey
   id: the-pupil-journey
   abbr: ''

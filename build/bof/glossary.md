@@ -28,7 +28,7 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | Term | Abbr. | Type | Definition | Source (law / authority) | Org reference |
 |---|---|---|---|---|---|
 | **All Schools Network** |  | local-programme | A network that brings primary and secondary schools together. | RCVDA — Building our Futures programme. | — |
-| **Anglo American** |  | organisation | The programme's first funder, back in 2021. It no longer funds the programme but is still a delivery partner. | [Anglo American](https://www.angloamerican.com) | — |
+| **Anglo American** |  | organisation | The programme's first funder, back in 2021. It no longer funds the programme but is still a delivery partner. | [Anglo American](https://www.angloamerican.com) | [Companies House GB-COH-03564138](https://find-and-update.company-information.service.gov.uk/company/03564138) |
 | **Annual Survey of Hours and Earnings** | ASHE | substantive | The official survey of what people earn. The programme uses it, with other research, to estimate its long-term value. | [Office for National Statistics — ASHE](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/annualsurveyofhoursandearningsashemethodologyandguidance) | — |
 | **Building our Futures** | BoF | local-programme | An award-winning primary careers and enrichment programme, run in Redcar & Cleveland since 2021. | [RCVDA — Building our Futures](https://www.buildingourfutures.org.uk) | — |
 | **Business Network** |  | local-programme | A network of local employers who help shape and run the programme. It meets each term. | RCVDA — Building our Futures programme. | — |
@@ -63,7 +63,7 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Secondary Schools Network** |  | local-programme | A network that supports the move up to secondary school. | RCVDA — Building our Futures programme. | — |
 | **Skills Builder Universal Framework** |  | method | The skills framework the programme uses. It is built around eight essential skills. | [Skills Builder Partnership](https://www.skillsbuilder.org/) | — |
 | **Special Educational Needs and Disabilities** | SEND | statutory | Extra support for pupils with special educational needs or disabilities. The programme adapts the Pupil Journey for them, up to age 19. | [Children and Families Act 2014, Part 3](https://www.legislation.gov.uk/ukpga/2014/6/part/3) | — |
-| **SSE Renewables** |  | organisation | A renewable-energy company. It owns 40% of Dogger Bank Wind Farm. | [SSE Renewables](https://www.sserenewables.com) | — |
+| **SSE Renewables** |  | organisation | A renewable-energy company. It owns 40% of Dogger Bank Wind Farm. | [SSE Renewables](https://www.sserenewables.com) | [Companies House GB-COH-SC117119](https://find-and-update.company-information.service.gov.uk/company/SC117119) |
 | **STEM Education and Careers Programmes** |  | local-programme | The part of Dogger Bank Wind Farm's community giving that pays for Building our Futures. | RCVDA — Building our Futures programme. | — |
 | **Team Work Challenge** |  | local-programme | A problem to solve or a design challenge, set by an employer. | RCVDA — Building our Futures programme. | — |
 | **The eight essential skills** |  | substantive | The eight skills for work and life, set out in the Skills Builder Universal Framework. | [Skills Builder Partnership](https://www.skillsbuilder.org/) | — |
