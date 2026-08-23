@@ -46,8 +46,13 @@ and lists any term rendered in a `plain` lens that has no plain-language form ye
   terms): 22 reused from the master, 54 new entries with full definitions + sources. New entries carry
   `agreed: n` pending review and blank `org_ref` for a later resolve. See CHANGELOG for the items
   flagged for a human eye.
-- **Pending** — the `bof` (Building Our Futures) lens is registered but holds no terms yet; that is
-  Phase 3 (ingest the plain-language careers glossary, add `plain` forms, wire the site-JSON output).
+- **Phase 3 complete** — Building Our Futures is in as the `bof` lens (43 terms, plain register): 3
+  reused from the master, 40 new. Every bof term has a reading-age-10 `plain` form, so the lens and its
+  `build/bof/glossary.json` site feed render plain text while the master keeps the authoritative
+  definition. New entries carry `agreed: n`.
+- **All three estate glossaries are now lenses of one master (259 terms).** Remaining work is Phase 4:
+  agree canonical wording for overlaps, resolve `org_ref`s on a networked machine, wire the site-JSON
+  into `rcvda-base` so the web glossary pages render from the master, and decide the 12 unscoped terms.
 
 ## Two things needing a human decision (carried from the migration)
 

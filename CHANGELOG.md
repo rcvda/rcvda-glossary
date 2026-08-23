@@ -1,5 +1,19 @@
 # Changelog — rcvda-glossary
 
+## 2026-08-23 — Phase 3: Building Our Futures → `bof` lens (plain register)
+- Ingested the Building Our Futures glossary (buildingourfutures.org.uk/glossary, 43 entries).
+- **3 already in the master** (RCVDA, RCBC, KPI) → added `bof` to scope and gave each a `plain` form.
+- **40 new entries** added with the full treatment plus a reading-age-10 `plain` field as the headline:
+  the Dogger Bank funding partners, the six Pupil Journey steps, the careers frameworks (Gatsby
+  Benchmarks, Skills Builder, CDI, Investors in Careers), and the education terms (EYFS, KS2, SEND,
+  Mantle of the Expert), each sourced (legislation.gov.uk for SEND, gov.uk/ONS for EYFS/KS2/ASHE/IDACI,
+  the body's page otherwise). All carry `agreed: n`; org_ref blank for a later resolve.
+- **Register mechanism proven end-to-end:** the `bof` lens (and its site-JSON feed) renders the plain
+  form, while the estate master keeps the authoritative definition for the same term — e.g. Anglo
+  American, SEND. The build reports **0 plain-language fallbacks** (every bof term has a plain form).
+- `bof` lens = **43 terms**. Estate master = 259 entries. `clr.*` (38/54/45/43/38) and `rcvda` (76)
+  lens counts unchanged; the CF dictionary lines are unchanged since Phase 2.
+
 ## 2026-08-23 — Phase 2: RCVDA static glossary → `rcvda` lens
 - Ingested the RCVDA organisation-wide static glossary (rcvda.org.uk/resources/glossary, 75 rows).
 - **22 already in the master** → added `rcvda` to their scope (no duplication). Widened three entries'

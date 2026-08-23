@@ -6,3 +6,4 @@ glossary.tmp.yml
 migrate.py
 build.old.py
 merge_rcvda.py
+merge_bof.py

@@ -1,1 +1,661 @@
-[]
+[
+  {
+    "id": "kpi",
+    "term": "KPI",
+    "abbr": "KPI",
+    "full_term": "Key performance indicator",
+    "aliases": [
+      "KPI",
+      "key performance indicator"
+    ],
+    "type": "acronym",
+    "definition": "A target used to measure how well something is going — for example, running the programme in five schools each term.",
+    "source": "Standard performance-management term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "rcvda",
+    "term": "RCVDA",
+    "abbr": "RCVDA",
+    "full_term": "Redcar and Cleveland Voluntary Development Agency",
+    "aliases": [
+      "RCVDA"
+    ],
+    "type": "organisation",
+    "definition": "Redcar and Cleveland Voluntary Development Agency — the local charity that supports voluntary and community groups across Redcar & Cleveland, and runs Building our Futures.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-CHC-1135959",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959"
+  },
+  {
+    "id": "redcar-and-cleveland-borough-council",
+    "term": "Redcar and Cleveland Borough Council",
+    "abbr": null,
+    "full_term": "Redcar and Cleveland Borough Council",
+    "aliases": [
+      "Redcar and Cleveland Borough Council",
+      "Redcar & Cleveland Borough Council",
+      "RCBC"
+    ],
+    "type": "organisation",
+    "definition": "The local council for the Redcar and Cleveland area. Building our Futures works with it and meets it each month.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-LAE-RCC",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-RCC"
+  },
+  {
+    "id": "anglo-american",
+    "term": "Anglo American",
+    "abbr": null,
+    "full_term": "Anglo American",
+    "aliases": [
+      "Anglo American"
+    ],
+    "type": "organisation",
+    "definition": "The programme's first funder, back in 2021. It no longer funds the programme but is still a delivery partner.",
+    "source": "Anglo American",
+    "source_url": "https://www.angloamerican.com",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "building-our-futures",
+    "term": "Building our Futures",
+    "abbr": "BoF",
+    "full_term": "Building our Futures",
+    "aliases": [
+      "BoF",
+      "Building our Futures"
+    ],
+    "type": "local-programme",
+    "definition": "An award-winning primary careers and enrichment programme, run in Redcar & Cleveland since 2021.",
+    "source": "RCVDA — Building our Futures",
+    "source_url": "https://www.buildingourfutures.org.uk",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "dogger-bank-wind-farm",
+    "term": "Dogger Bank Wind Farm",
+    "abbr": "DBWF",
+    "full_term": "Dogger Bank Wind Farm",
+    "aliases": [
+      "DBWF",
+      "Dogger Bank Wind Farm"
+    ],
+    "type": "organisation",
+    "definition": "The programme's funder. It pays for the work through its STEM Education and Careers Programmes.",
+    "source": "Dogger Bank Wind Farm",
+    "source_url": "https://doggerbank.com/",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "equinor",
+    "term": "Equinor",
+    "abbr": null,
+    "full_term": "Equinor",
+    "aliases": [
+      "Equinor"
+    ],
+    "type": "organisation",
+    "definition": "One of the three owners of Dogger Bank Wind Farm, and the one that runs it.",
+    "source": "Equinor",
+    "source_url": "https://www.equinor.com/",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "operator-fund",
+    "term": "Operator Fund",
+    "abbr": null,
+    "full_term": "Operator Fund",
+    "aliases": [
+      "Operator Fund"
+    ],
+    "type": "local-programme",
+    "definition": "A separate Dogger Bank Wind Farm grant scheme. It gives up to £1,000 to community groups.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "sse-renewables",
+    "term": "SSE Renewables",
+    "abbr": null,
+    "full_term": "SSE Renewables",
+    "aliases": [
+      "SSE Renewables"
+    ],
+    "type": "organisation",
+    "definition": "A renewable-energy company. It owns 40% of Dogger Bank Wind Farm.",
+    "source": "SSE Renewables",
+    "source_url": "https://www.sserenewables.com",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "stem-education-and-careers-programmes",
+    "term": "STEM Education and Careers Programmes",
+    "abbr": null,
+    "full_term": "STEM Education and Careers Programmes",
+    "aliases": [
+      "STEM Education and Careers Programmes"
+    ],
+    "type": "local-programme",
+    "definition": "The part of Dogger Bank Wind Farm's community giving that pays for Building our Futures.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "vargronn",
+    "term": "Vårgrønn",
+    "abbr": null,
+    "full_term": "Vårgrønn",
+    "aliases": [
+      "Vårgrønn",
+      "Vargronn"
+    ],
+    "type": "organisation",
+    "definition": "An offshore-wind company. It owns 20% of Dogger Bank Wind Farm.",
+    "source": "Vårgrønn",
+    "source_url": "https://www.vargronn.com",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "the-pupil-journey",
+    "term": "The Pupil Journey",
+    "abbr": null,
+    "full_term": "The Pupil Journey",
+    "aliases": [
+      "The Pupil Journey"
+    ],
+    "type": "local-programme",
+    "definition": "The six steps at the heart of the programme. It runs in primary schools for children aged 7 to 11.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "career-journeys-and-aspirations",
+    "term": "Career Journeys and Aspirations",
+    "abbr": null,
+    "full_term": "Career Journeys and Aspirations",
+    "aliases": [
+      "Career Journeys and Aspirations"
+    ],
+    "type": "local-programme",
+    "definition": "What a career is, and what jobs there are in the local area.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "essential-skills-step",
+    "term": "Essential Skills (step)",
+    "abbr": null,
+    "full_term": "Essential Skills",
+    "aliases": [
+      "Essential Skills"
+    ],
+    "type": "local-programme",
+    "definition": "The eight essential skills from the Skills Builder Universal Framework.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "meet-the-employers",
+    "term": "Meet the Employers",
+    "abbr": null,
+    "full_term": "Meet the Employers",
+    "aliases": [
+      "Meet the Employers"
+    ],
+    "type": "local-programme",
+    "definition": "A first meeting with a local business or project.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "team-work-challenge",
+    "term": "Team Work Challenge",
+    "abbr": null,
+    "full_term": "Team Work Challenge",
+    "aliases": [
+      "Team Work Challenge"
+    ],
+    "type": "local-programme",
+    "definition": "A problem to solve or a design challenge, set by an employer.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "interview-skills-and-communication",
+    "term": "Interview Skills & Communication",
+    "abbr": null,
+    "full_term": "Interview Skills and Communication",
+    "aliases": [
+      "Interview Skills and Communication"
+    ],
+    "type": "local-programme",
+    "definition": "Body language and how to speak well at work.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "employer-interviews",
+    "term": "Employer Interviews",
+    "abbr": null,
+    "full_term": "Employer Interviews",
+    "aliases": [
+      "Employer Interviews"
+    ],
+    "type": "local-programme",
+    "definition": "Real interviews with business partners, then feedback.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "enrichment-offer",
+    "term": "Enrichment offer",
+    "abbr": null,
+    "full_term": "Enrichment offer",
+    "aliases": [
+      "Enrichment offer"
+    ],
+    "type": "local-programme",
+    "definition": "Extra activities beyond the six steps. They include Parliament Week and science and technology events.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "cdi-ks2-framework",
+    "term": "CDI KS2 framework",
+    "abbr": null,
+    "full_term": "CDI KS2 framework",
+    "aliases": [
+      "CDI KS2 framework"
+    ],
+    "type": "method",
+    "definition": "A careers framework for Key Stage 2 (ages 7 to 11), made by the Career Development Institute.",
+    "source": "Career Development Institute",
+    "source_url": "https://www.thecdi.net/resources/cdi-framework",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "crl",
+    "term": "Careers-related learning",
+    "abbr": "CRL",
+    "full_term": "Careers-related learning",
+    "aliases": [
+      "CRL",
+      "Careers-related learning"
+    ],
+    "type": "substantive",
+    "definition": "The careers lessons taught in school. The programme uses a tool to check what a school already does.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "gatsby-benchmarks",
+    "term": "Gatsby Benchmarks",
+    "abbr": null,
+    "full_term": "Gatsby Benchmarks",
+    "aliases": [
+      "Gatsby Benchmarks"
+    ],
+    "type": "substantive",
+    "definition": "The national standard for good careers guidance. The programme follows it.",
+    "source": "The Gatsby Foundation",
+    "source_url": "https://www.gatsbybenchmarks.org.uk/",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "investors-in-careers-primary",
+    "term": "Investors in Careers Primary",
+    "abbr": null,
+    "full_term": "Investors in Careers Primary",
+    "aliases": [
+      "Investors in Careers Primary"
+    ],
+    "type": "method",
+    "definition": "An award for good primary careers work. Three schools are working towards it now.",
+    "source": "Investors in Careers",
+    "source_url": "https://www.investorsincareers.org.uk/",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "living-in-the-wider-world",
+    "term": "Living in the Wider World",
+    "abbr": null,
+    "full_term": "Living in the Wider World",
+    "aliases": [
+      "Living in the Wider World"
+    ],
+    "type": "substantive",
+    "definition": "One of the three main parts of the PSHE Association's plan of study.",
+    "source": "PSHE Association",
+    "source_url": "https://pshe-association.org.uk/",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "skills-builder-universal-framework",
+    "term": "Skills Builder Universal Framework",
+    "abbr": null,
+    "full_term": "Skills Builder Universal Framework",
+    "aliases": [
+      "Skills Builder Universal Framework"
+    ],
+    "type": "method",
+    "definition": "The skills framework the programme uses. It is built around eight essential skills.",
+    "source": "Skills Builder Partnership",
+    "source_url": "https://www.skillsbuilder.org/",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "the-eight-essential-skills",
+    "term": "The eight essential skills",
+    "abbr": null,
+    "full_term": "The eight essential skills",
+    "aliases": [
+      "The eight essential skills"
+    ],
+    "type": "substantive",
+    "definition": "The eight skills for work and life, set out in the Skills Builder Universal Framework.",
+    "source": "Skills Builder Partnership",
+    "source_url": "https://www.skillsbuilder.org/",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "career-champion",
+    "term": "Career Champion",
+    "abbr": null,
+    "full_term": "Career Champion",
+    "aliases": [
+      "Career Champion"
+    ],
+    "type": "local-programme",
+    "definition": "A mentor scheme: a career champion supports a school.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "careers-lead",
+    "term": "Careers lead",
+    "abbr": null,
+    "full_term": "Careers lead",
+    "aliases": [
+      "Careers lead"
+    ],
+    "type": "substantive",
+    "definition": "The teacher in charge of careers learning at a school.",
+    "source": "Education sector usage.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "employer-encounters",
+    "term": "Employer encounters",
+    "abbr": null,
+    "full_term": "Employer encounters / employer engagement",
+    "aliases": [
+      "Employer encounters",
+      "employer engagement"
+    ],
+    "type": "substantive",
+    "definition": "The words the sector uses for pupils meeting the world of work.",
+    "source": "Education / careers sector usage.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "eyfs",
+    "term": "Early Years Foundation Stage",
+    "abbr": "EYFS",
+    "full_term": "Early Years Foundation Stage",
+    "aliases": [
+      "EYFS",
+      "Early Years Foundation Stage"
+    ],
+    "type": "statutory",
+    "definition": "The stage for the youngest children. The programme reaches it through special early-years lessons.",
+    "source": "DfE — Statutory framework for the early years foundation stage",
+    "source_url": "https://www.gov.uk/government/publications/early-years-foundation-stage-framework--2",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "ks2",
+    "term": "Key Stage 2",
+    "abbr": "KS2",
+    "full_term": "Key Stage 2",
+    "aliases": [
+      "KS2",
+      "Key Stage 2"
+    ],
+    "type": "statutory",
+    "definition": "The primary years, roughly ages 7 to 11. The main programme is built for this stage.",
+    "source": "National curriculum in England",
+    "source_url": "https://www.gov.uk/government/collections/national-curriculum",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "mantle-of-the-expert",
+    "term": "Mantle of the Expert",
+    "abbr": null,
+    "full_term": "Mantle of the Expert",
+    "aliases": [
+      "Mantle of the Expert"
+    ],
+    "type": "method",
+    "definition": "A way of teaching through role-play and inquiry. The programme uses it in the early years.",
+    "source": "Mantle of the Expert",
+    "source_url": "https://www.mantleoftheexpert.com/",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "send",
+    "term": "Special Educational Needs and Disabilities",
+    "abbr": "SEND",
+    "full_term": "Special Educational Needs and Disabilities",
+    "aliases": [
+      "SEND",
+      "Special Educational Needs and Disabilities"
+    ],
+    "type": "statutory",
+    "definition": "Extra support for pupils with special educational needs or disabilities. The programme adapts the Pupil Journey for them, up to age 19.",
+    "source": "Children and Families Act 2014, Part 3",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2014/6/part/3",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "transition-programme",
+    "term": "Transition programme",
+    "abbr": null,
+    "full_term": "Transition programme",
+    "aliases": [
+      "Transition programme"
+    ],
+    "type": "local-programme",
+    "definition": "Work that helps pupils move from primary to secondary school.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "ashe",
+    "term": "Annual Survey of Hours and Earnings",
+    "abbr": "ASHE",
+    "full_term": "Annual Survey of Hours and Earnings",
+    "aliases": [
+      "ASHE",
+      "Annual Survey of Hours and Earnings"
+    ],
+    "type": "substantive",
+    "definition": "The official survey of what people earn. The programme uses it, with other research, to estimate its long-term value.",
+    "source": "Office for National Statistics — ASHE",
+    "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/annualsurveyofhoursandearningsashemethodologyandguidance",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "case-study",
+    "term": "Case study",
+    "abbr": null,
+    "full_term": "Case study",
+    "aliases": [
+      "Case study"
+    ],
+    "type": "method",
+    "definition": "A short write-up of impact, one each term. It tells one pupil's or one school's story.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "idaci",
+    "term": "Income Deprivation Affecting Children Index",
+    "abbr": "IDACI",
+    "full_term": "Income Deprivation Affecting Children Index",
+    "aliases": [
+      "IDACI",
+      "Income Deprivation Affecting Children Index"
+    ],
+    "type": "substantive",
+    "definition": "A measure of child poverty in an area. The programme uses it to choose which schools to work with first.",
+    "source": "MHCLG — English indices of deprivation 2019",
+    "source_url": "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "percy-and-mann-2014",
+    "term": "Percy & Mann (2014)",
+    "abbr": null,
+    "full_term": "Percy and Mann (2014)",
+    "aliases": [
+      "Percy & Mann (2014)",
+      "Percy and Mann 2014"
+    ],
+    "type": "substantive",
+    "definition": "Research on how skills affect future pay. The programme uses it in its long-term earnings estimates.",
+    "source": "Percy, C. and Mann, A. (2014).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "pre-post-survey",
+    "term": "Pre/post survey",
+    "abbr": null,
+    "full_term": "Pre/post survey",
+    "aliases": [
+      "Pre/post survey"
+    ],
+    "type": "method",
+    "definition": "A survey run each term, before and after the work. It measures changes in how pupils explore careers.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "all-schools-network",
+    "term": "All Schools Network",
+    "abbr": null,
+    "full_term": "All Schools Network",
+    "aliases": [
+      "All Schools Network"
+    ],
+    "type": "local-programme",
+    "definition": "A network that brings primary and secondary schools together.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "business-network",
+    "term": "Business Network",
+    "abbr": null,
+    "full_term": "Business Network",
+    "aliases": [
+      "Business Network"
+    ],
+    "type": "local-programme",
+    "definition": "A network of local employers who help shape and run the programme. It meets each term.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "primary-schools-network",
+    "term": "Primary Schools Network",
+    "abbr": null,
+    "full_term": "Primary Schools Network",
+    "aliases": [
+      "Primary Schools Network"
+    ],
+    "type": "local-programme",
+    "definition": "The main delivery network. It meets each term.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "secondary-schools-network",
+    "term": "Secondary Schools Network",
+    "abbr": null,
+    "full_term": "Secondary Schools Network",
+    "aliases": [
+      "Secondary Schools Network"
+    ],
+    "type": "local-programme",
+    "definition": "A network that supports the move up to secondary school.",
+    "source": "RCVDA — Building our Futures programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  }
+]
