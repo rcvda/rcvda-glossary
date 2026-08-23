@@ -42,9 +42,12 @@ and lists any term rendered in a `plain` lens that has no plain-language form ye
 - **Phase 1 complete** — the 165-term Changing Futures Deep Dives glossary is migrated in, as the five
   `clr.*` lenses. The estate master `glossary-dictionary.txt` is byte-identical to the old
   cf-deepdive-glossary output, so the existing report tooling is unaffected.
-- **Pending** — the `rcvda` (organisation-wide) and `bof` (Building Our Futures) lenses are registered
-  but hold no terms yet; those are Phases 2 and 3 (ingest the two static web glossaries, dedup against
-  the master, add plain-language forms).
+- **Phase 2 complete** — the RCVDA organisation-wide static glossary is in as the `rcvda` lens (76
+  terms): 22 reused from the master, 54 new entries with full definitions + sources. New entries carry
+  `agreed: n` pending review and blank `org_ref` for a later resolve. See CHANGELOG for the items
+  flagged for a human eye.
+- **Pending** — the `bof` (Building Our Futures) lens is registered but holds no terms yet; that is
+  Phase 3 (ingest the plain-language careers glossary, add `plain` forms, wire the site-JSON output).
 
 ## Two things needing a human decision (carried from the migration)
 

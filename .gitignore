@@ -5,3 +5,4 @@ glossary.src.yml
 glossary.tmp.yml
 migrate.py
 build.old.py
+merge_rcvda.py

@@ -1,1 +1,1213 @@
-[]
+[
+  {
+    "id": "cqc",
+    "term": "CQC",
+    "abbr": "CQC",
+    "full_term": "Care Quality Commission",
+    "aliases": [
+      "CQC",
+      "Care Quality Commission"
+    ],
+    "type": "organisation",
+    "definition": "The independent regulator of health and adult social care in England.",
+    "source": "Health and Social Care Act 2008 (established the Care Quality Commission)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2008/14/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "dhsc",
+    "term": "DHSC",
+    "abbr": "DHSC",
+    "full_term": "Department of Health and Social Care",
+    "aliases": [
+      "DHSC",
+      "DH",
+      "Department of Health"
+    ],
+    "type": "acronym",
+    "definition": "The UK government department responsible for health and adult social care policy in England.",
+    "source": "GOV.UK — Department of Health and Social Care.",
+    "source_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
+    "org_ref": "findthatcharity org ID GB-GOR-D12",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D12"
+  },
+  {
+    "id": "dluhc",
+    "term": "DLUHC",
+    "abbr": "DLUHC",
+    "full_term": "Department for Levelling Up, Housing and Communities",
+    "aliases": [
+      "DLUHC"
+    ],
+    "type": "acronym",
+    "definition": "UK government department from 2021-2024, succeeded by the Ministry of Housing, Communities and Local Government (MHCLG). Co-funder with The National Lottery Community Fund of the Changing Futures Programme.",
+    "source": "GOV.UK — Department for Levelling Up, Housing and Communities (renamed the Ministry of Housing, Communities and Local Government in 2024).",
+    "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+    "org_ref": "findthatcharity org ID GB-GOVUK-department-for-levelling-up-housing-and-communities",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-department-for-levelling-up-housing-and-communities"
+  },
+  {
+    "id": "dph",
+    "term": "DPH",
+    "abbr": "DPH",
+    "full_term": "Director of Public Health",
+    "aliases": [
+      "DPH"
+    ],
+    "type": "statutory",
+    "definition": "The senior officer each local authority must appoint (jointly with the Secretary of State) to lead its public health functions.",
+    "source": "National Health Service Act 2006, s.73A",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/73A",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "dwp",
+    "term": "DWP",
+    "abbr": "DWP",
+    "full_term": "Department for Work and Pensions",
+    "aliases": [
+      "DWP",
+      "Department for Work and Pensions"
+    ],
+    "type": "organisation",
+    "definition": "The UK government department responsible for welfare, pensions and employment support.",
+    "source": "GOV.UK — Department for Work and Pensions.",
+    "source_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+    "org_ref": "findthatcharity org ID GB-GOR-D10",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D10"
+  },
+  {
+    "id": "icb",
+    "term": "ICB",
+    "abbr": "ICB",
+    "full_term": "Integrated Care Board",
+    "aliases": [
+      "ICB"
+    ],
+    "type": "organisation",
+    "definition": "The statutory NHS body that plans and commissions health services for a defined area.",
+    "source": "Health and Care Act 2022 (ICBs, Part 1)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "icp",
+    "term": "ICP",
+    "abbr": "ICP",
+    "full_term": "Integrated Care Partnership",
+    "aliases": [
+      "ICP",
+      "Integrated Care Partnership"
+    ],
+    "type": "substantive",
+    "definition": "The statutory joint committee of an integrated care system that agrees a health-and-care strategy for the area, bringing the NHS and local partners together.",
+    "source": "Health and Care Act 2022 (integrated care partnerships)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "idva",
+    "term": "IDVA",
+    "abbr": "IDVA",
+    "full_term": "Independent Domestic Violence Advocate / Advisor",
+    "aliases": [
+      "IDVA"
+    ],
+    "type": "substantive",
+    "definition": "A specialist domestic-abuse support worker for survivors at high risk of harm.",
+    "source": "SafeLives.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "ips",
+    "term": "IPS",
+    "abbr": "IPS",
+    "full_term": "Individual Placement and Support",
+    "aliases": [
+      "IPS"
+    ],
+    "type": "substantive",
+    "definition": "An employment model in which specialists are embedded in mental-health teams; the strongest-evidenced employment intervention for adults with severe mental illness.",
+    "source": "Evidence-based supported employment (Centre for Mental Health).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "jsna",
+    "term": "JSNA",
+    "abbr": "JSNA",
+    "full_term": "Joint Strategic Needs Assessment",
+    "aliases": [
+      "JSNA"
+    ],
+    "type": "statutory",
+    "definition": "The statutory assessment of the current and future health and care needs of a local population, prepared for each area by the responsible local authority and its partner integrated care board — discharged locally through the Health and Wellbeing Board.",
+    "source": "Local Government and Public Involvement in Health Act 2007, s.116",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2007/28/section/116",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "marac",
+    "term": "MARAC",
+    "abbr": "MARAC",
+    "full_term": "Multi-Agency Risk Assessment Conference",
+    "aliases": [
+      "MARAC"
+    ],
+    "type": "substantive",
+    "definition": "The multi-agency forum for managing the highest-risk domestic abuse cases.",
+    "source": "SafeLives — What is a MARAC? (SafeLives stewards the national MARAC model and holds the definition)",
+    "source_url": "https://safelives.org.uk/about-domestic-abuse/domestic-abuse-response-in-the-uk/what-is-a-marac/",
+    "org_ref": "findthatcharity org ID GB-CHC-1106864 (SafeLives)",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864"
+  },
+  {
+    "id": "middlesbrough-council",
+    "term": "Middlesbrough Council",
+    "abbr": null,
+    "full_term": "Middlesbrough Council",
+    "aliases": [
+      "Middlesbrough Council",
+      "MBC",
+      "Middlesbrough Borough Council"
+    ],
+    "type": "organisation",
+    "definition": "One of the two unitary local authorities that make up South Tees; a member of the Tees Valley Lettings Partnership.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-LAE-MDB",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-MDB"
+  },
+  {
+    "id": "nhs",
+    "term": "NHS",
+    "abbr": "NHS",
+    "full_term": "National Health Service",
+    "aliases": [
+      "NHS"
+    ],
+    "type": "organisation",
+    "definition": "The publicly funded health system, created by the National Health Service Act 1946 (operational 5 July 1948) and now governed by the consolidating National Health Service Act 2006.",
+    "source": "National Health Service Act 1946 (established the NHS; now consolidated in the NHS Act 2006)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1946/81/contents/enacted",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "nihr",
+    "term": "NIHR",
+    "abbr": "NIHR",
+    "full_term": "National Institute for Health and Care Research",
+    "aliases": [
+      "NIHR"
+    ],
+    "type": "organisation",
+    "definition": "The national funder of the Health Determinants Research Collaboration (HDRC) infrastructure.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID XI-ROR-0187kwz08",
+    "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-0187kwz08"
+  },
+  {
+    "id": "rcvda",
+    "term": "RCVDA",
+    "abbr": "RCVDA",
+    "full_term": "Redcar and Cleveland Voluntary Development Agency",
+    "aliases": [
+      "RCVDA"
+    ],
+    "type": "organisation",
+    "definition": "The publishing host of this deep-dive series.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-CHC-1135959",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959"
+  },
+  {
+    "id": "redcar-and-cleveland-borough-council",
+    "term": "Redcar and Cleveland Borough Council",
+    "abbr": null,
+    "full_term": "Redcar and Cleveland Borough Council",
+    "aliases": [
+      "Redcar and Cleveland Borough Council",
+      "Redcar & Cleveland Borough Council",
+      "RCBC"
+    ],
+    "type": "organisation",
+    "definition": "One of the two unitary local authorities that make up South Tees; a member of the Tees Valley Lettings Partnership.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-LAE-RCC",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-RCC"
+  },
+  {
+    "id": "rsap",
+    "term": "RSAP",
+    "abbr": "RSAP",
+    "full_term": "Rough Sleeping Accommodation Programme",
+    "aliases": [
+      "RSAP"
+    ],
+    "type": "substantive",
+    "definition": "A Ministry of Housing, Communities and Local Government capital programme funding move-on accommodation for people who sleep rough or are at risk of doing so; a predecessor to later rough-sleeping programmes.",
+    "source": "GOV.UK (MHCLG) — Rough Sleeping Accommodation Programme 2021-24",
+    "source_url": "https://www.gov.uk/government/publications/rough-sleeping-accommodation-programme-2021-24",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "stockton-on-tees-borough-council",
+    "term": "Stockton-on-Tees Borough Council",
+    "abbr": null,
+    "full_term": "Stockton-on-Tees Borough Council",
+    "aliases": [
+      "Stockton-on-Tees Borough Council",
+      "Stockton Council",
+      "SBC"
+    ],
+    "type": "organisation",
+    "definition": "A Tees Valley unitary local authority; a member of the Tees Valley Lettings Partnership (outside the South Tees programme footprint).",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-LAE-STT",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-STT"
+  },
+  {
+    "id": "tewv",
+    "term": "TEWV",
+    "abbr": "TEWV",
+    "full_term": "Tees, Esk and Wear Valleys NHS Foundation Trust",
+    "aliases": [
+      "TEWV"
+    ],
+    "type": "organisation",
+    "definition": "The specialist mental-health and learning-disability trust serving the Tees Valley.",
+    "source": "National Health Service Act 2006, s.30 (NHS foundation trusts; originally the Health and Social Care (Community Health and Standards) Act 2003)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
+    "org_ref": "findthatcharity org ID GB-NHS-RX3",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-RX3"
+  },
+  {
+    "id": "tsab",
+    "term": "TSAB",
+    "abbr": "TSAB",
+    "full_term": "Teeswide Safeguarding Adults Board",
+    "aliases": [
+      "TSAB",
+      "Teeswide Safeguarding Adults Board"
+    ],
+    "type": "organisation",
+    "definition": "The multi-agency statutory board that coordinates adult safeguarding across the Tees area.",
+    "source": "Care Act 2014, s.43 (Safeguarding Adults Boards)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/43",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "tvca",
+    "term": "TVCA",
+    "abbr": "TVCA",
+    "full_term": "Tees Valley Combined Authority",
+    "aliases": [
+      "TVCA",
+      "Tees Valley Combined Authority"
+    ],
+    "type": "organisation",
+    "definition": "The sub-regional combined authority covering the five Tees Valley boroughs (Middlesbrough, Redcar & Cleveland, Stockton-on-Tees, Hartlepool and Darlington), led by the Tees Valley Mayor.",
+    "source": "Tees Valley Combined Authority Order 2016 (SI 2016/449), under the Local Democracy, Economic Development and Construction Act 2009",
+    "source_url": "https://www.legislation.gov.uk/uksi/2016/449/contents/made",
+    "org_ref": "findthatcharity org ID GB-LAE-TVCA",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-TVCA"
+  },
+  {
+    "id": "vcfse",
+    "term": "VCFSE",
+    "abbr": "VCFSE",
+    "full_term": "Voluntary, Community, Faith and Social Enterprise",
+    "aliases": [
+      "VCFSE",
+      "VCSE",
+      "voluntary, community and social enterprise",
+      "voluntary, community, faith and social enterprise",
+      "Voluntary, Community and Social Enterprise"
+    ],
+    "type": "acronym",
+    "definition": "The sector Redcar and Cleveland Voluntary Development Agency (RCVDA) works within and holds the deep-dive work on behalf of.",
+    "source": "Sector-standard term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "darlington-borough-council",
+    "term": "Darlington Borough Council",
+    "abbr": null,
+    "full_term": "Darlington Borough Council",
+    "aliases": [
+      "Darlington Borough Council"
+    ],
+    "type": "organisation",
+    "definition": "The unitary local authority for the Borough of Darlington in the Tees Valley.",
+    "source": "Darlington Borough Council",
+    "source_url": "https://www.darlington.gov.uk",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "hartlepool-borough-council",
+    "term": "Hartlepool Borough Council",
+    "abbr": null,
+    "full_term": "Hartlepool Borough Council",
+    "aliases": [
+      "Hartlepool Borough Council"
+    ],
+    "type": "organisation",
+    "definition": "The unitary local authority for the Borough of Hartlepool in the Tees Valley.",
+    "source": "Hartlepool Borough Council",
+    "source_url": "https://www.hartlepool.gov.uk",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "sustrans",
+    "term": "Sustrans",
+    "abbr": null,
+    "full_term": "Sustrans",
+    "aliases": [
+      "Sustrans",
+      "Sustainable Transport"
+    ],
+    "type": "organisation",
+    "definition": "The sustainable-transport charity and custodian of the National Cycle Network; 'Sustrans' is short for 'sustainable transport'.",
+    "source": "Sustrans",
+    "source_url": "https://www.sustrans.org.uk",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "tees-valley-rural-action",
+    "term": "Tees Valley Rural Action",
+    "abbr": "TVRA",
+    "full_term": "Tees Valley Rural Action",
+    "aliases": [
+      "TVRA",
+      "Tees Valley Rural Action"
+    ],
+    "type": "organisation",
+    "definition": "The rural community council for the Tees Valley, supporting rural communities and voluntary organisations.",
+    "source": "Tees Valley Rural Action",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "vonne",
+    "term": "VONNE",
+    "abbr": "VONNE",
+    "full_term": "Voluntary Organisations Network North East",
+    "aliases": [
+      "VONNE",
+      "Voluntary Organisations Network North East"
+    ],
+    "type": "organisation",
+    "definition": "The regional infrastructure body representing and supporting the voluntary, community and social enterprise sector across the North East.",
+    "source": "VONNE",
+    "source_url": "https://www.vonne.org.uk",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "navca",
+    "term": "NAVCA",
+    "abbr": "NAVCA",
+    "full_term": "National Association for Voluntary and Community Action",
+    "aliases": [
+      "NAVCA",
+      "National Association for Voluntary and Community Action"
+    ],
+    "type": "organisation",
+    "definition": "The national membership body for local infrastructure organisations supporting the voluntary and community sector in England.",
+    "source": "NAVCA",
+    "source_url": "https://www.navca.org.uk",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "neas",
+    "term": "North East Ambulance Service",
+    "abbr": "NEAS",
+    "full_term": "North East Ambulance Service",
+    "aliases": [
+      "NEAS",
+      "North East Ambulance Service"
+    ],
+    "type": "organisation",
+    "definition": "The NHS foundation trust providing 999 emergency and patient-transport ambulance services across the North East, including South Tees.",
+    "source": "North East Ambulance Service NHS Foundation Trust",
+    "source_url": "https://www.neas.nhs.uk",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "nhs-england",
+    "term": "NHS England",
+    "abbr": "NHSE",
+    "full_term": "National Health Service England",
+    "aliases": [
+      "NHSE",
+      "National Health Service England"
+    ],
+    "type": "organisation",
+    "definition": "The national body that led the NHS in England and oversaw commissioning; its functions are being brought back into the Department of Health and Social Care following the March 2025 decision to abolish it.",
+    "source": "GOV.UK — NHS England",
+    "source_url": "https://www.gov.uk/government/organisations/nhs-england",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "ccg",
+    "term": "Clinical Commissioning Group",
+    "abbr": "CCG",
+    "full_term": "Clinical Commissioning Group",
+    "aliases": [
+      "CCG",
+      "Clinical Commissioning Group"
+    ],
+    "type": "organisation",
+    "definition": "The NHS bodies that commissioned most local health services from 2013; abolished in July 2022 and replaced by Integrated Care Boards (ICBs).",
+    "source": "Health and Social Care Act 2012",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "crown-prosecution-service",
+    "term": "Crown Prosecution Service",
+    "abbr": "CPS",
+    "full_term": "Crown Prosecution Service",
+    "aliases": [
+      "CPS",
+      "Crown Prosecution Service"
+    ],
+    "type": "organisation",
+    "definition": "The principal public agency for conducting criminal prosecutions in England and Wales, established under the Prosecution of Offences Act 1985.",
+    "source": "Prosecution of Offences Act 1985",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1985/23/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "lawn-tennis-association",
+    "term": "Lawn Tennis Association",
+    "abbr": "LTA",
+    "full_term": "Lawn Tennis Association",
+    "aliases": [
+      "LTA",
+      "Lawn Tennis Association"
+    ],
+    "type": "organisation",
+    "definition": "The national governing body for tennis in Great Britain.",
+    "source": "Lawn Tennis Association",
+    "source_url": "https://www.lta.org.uk",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "department-for-education",
+    "term": "Department for Education",
+    "abbr": "DfE",
+    "full_term": "Department for Education",
+    "aliases": [
+      "DfE",
+      "DoE",
+      "Department for Education",
+      "Department of Education"
+    ],
+    "type": "organisation",
+    "definition": "The UK government department responsible for education and children's services in England.",
+    "source": "GOV.UK — Department for Education",
+    "source_url": "https://www.gov.uk/government/organisations/department-for-education",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "children-and-young-people",
+    "term": "Children and Young People",
+    "abbr": "CYP",
+    "full_term": "Children and Young People",
+    "aliases": [
+      "CYP",
+      "Children and Young People"
+    ],
+    "type": "substantive",
+    "definition": "Collective term for children and young people, commonly used in health, education and social-care services.",
+    "source": "Common sector usage.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "esg",
+    "term": "Environmental, Social and Governance",
+    "abbr": "ESG",
+    "full_term": "Environmental, Social and Governance",
+    "aliases": [
+      "ESG",
+      "Environmental, Social and Governance"
+    ],
+    "type": "substantive",
+    "definition": "A framework of environmental, social and governance criteria used to assess an organisation's wider impact and responsible practice.",
+    "source": "Common sector usage.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "local-infrastructure-organisation",
+    "term": "Local Infrastructure Organisation",
+    "abbr": "LIO",
+    "full_term": "Local Infrastructure Organisation",
+    "aliases": [
+      "LIO",
+      "Local Infrastructure Organisation"
+    ],
+    "type": "substantive",
+    "definition": "A body that supports, develops and represents the local voluntary and community sector (for example a council for voluntary service); RCVDA is the LIO for Redcar & Cleveland.",
+    "source": "NAVCA — local infrastructure definition.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "voluntary-and-community-sector",
+    "term": "Voluntary and Community Sector",
+    "abbr": "VCS",
+    "full_term": "Voluntary and Community Sector",
+    "aliases": [
+      "VCS",
+      "Voluntary and Community Sector"
+    ],
+    "type": "substantive",
+    "definition": "Charities, community groups and other not-for-profit organisations; the narrower predecessor term to VCSE (which also includes social enterprise).",
+    "source": "Common sector usage.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "community-asset-transfer",
+    "term": "Community Asset Transfer",
+    "abbr": "CAT",
+    "full_term": "Community Asset Transfer",
+    "aliases": [
+      "CAT",
+      "Community Asset Transfer"
+    ],
+    "type": "substantive",
+    "definition": "The transfer of land or buildings from public ownership (usually a local authority) to a community or voluntary organisation, at less than market value, to secure community benefit.",
+    "source": "Localism Act 2011 (community rights framework)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2011/20/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "smarter",
+    "term": "SMARTER objectives",
+    "abbr": "SMARTER",
+    "full_term": "Specific, Meaningful, Achievable, Relevant, Time-bound, Evaluate, Re-adjust",
+    "aliases": [
+      "SMARTER",
+      "Specific, Meaningful, Achievable, Relevant, Time-bound, Evaluate, Re-adjust"
+    ],
+    "type": "method",
+    "definition": "A goal-setting mnemonic extending the SMART objectives framework with 'Evaluate' and 'Re-adjust' stages.",
+    "source": "Objective-setting framework (extension of SMART).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "thrive-values",
+    "term": "THRIVE (values)",
+    "abbr": "THRIVE",
+    "full_term": "Timely, Helpful, Respectful, Innovative, Values-based and Efficient",
+    "aliases": [
+      "THRIVE",
+      "Timely, Helpful, Respectful, Innovative, Values-based and Efficient"
+    ],
+    "type": "substantive",
+    "definition": "A values mnemonic describing how services aim to work. Distinct from the local Thrive Partnership.",
+    "source": "RCVDA / partnership values statement.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "registered-social-landlord",
+    "term": "Registered Social Landlord",
+    "abbr": "RSL",
+    "full_term": "Registered Social Landlord",
+    "aliases": [
+      "RSL",
+      "Registered Social Landlord"
+    ],
+    "type": "substantive",
+    "definition": "A non-profit provider of social housing (typically a housing association) registered with, and regulated by, the social housing regulator.",
+    "source": "Housing and Regeneration Act 2008",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2008/17/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "swep",
+    "term": "Severe Weather Emergency Protocol",
+    "abbr": "SWEP",
+    "full_term": "Severe Weather Emergency Protocol",
+    "aliases": [
+      "SWEP",
+      "Severe Weather Emergency Protocol"
+    ],
+    "type": "substantive",
+    "definition": "Local arrangements to provide emergency accommodation for people sleeping rough during severe weather; a discretionary, non-statutory response prompted by cold-weather and other severe-weather thresholds.",
+    "source": "MHCLG rough sleeping / cold weather provision guidance.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "tati",
+    "term": "Team around the individual",
+    "abbr": "TATI",
+    "full_term": "Team around the individual",
+    "aliases": [
+      "TATI",
+      "Team around the individual"
+    ],
+    "type": "method",
+    "definition": "A coordinated, person-centred approach bringing the relevant workers around one individual to plan and deliver joined-up support.",
+    "source": "Practice model (multi-agency).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "town-centre-management",
+    "term": "Town Centre Management",
+    "abbr": "TCM",
+    "full_term": "Town Centre Management",
+    "aliases": [
+      "TCM",
+      "Town Centre Management"
+    ],
+    "type": "substantive",
+    "definition": "The coordinated management of a town centre's environment, economy and activity, usually as a partnership between the local authority, businesses and other stakeholders.",
+    "source": "Common sector usage.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "vawg",
+    "term": "Violence Against Women and Girls",
+    "abbr": "VAWG",
+    "full_term": "Violence Against Women and Girls",
+    "aliases": [
+      "VAWG",
+      "Violence Against Women and Girls"
+    ],
+    "type": "substantive",
+    "definition": "An umbrella term for a range of abuses disproportionately affecting women and girls, including domestic abuse, sexual violence, stalking and so-called honour-based abuse.",
+    "source": "Home Office — Tackling Violence Against Women and Girls Strategy (2021).",
+    "source_url": "https://www.gov.uk/government/publications/tackling-violence-against-women-and-girls-strategy",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "jcp-district",
+    "term": "Jobcentre Plus District",
+    "abbr": "JCP District",
+    "full_term": "Jobcentre Plus District",
+    "aliases": [
+      "JCP District",
+      "Jobcentre Plus District"
+    ],
+    "type": "substantive",
+    "definition": "A geographical management area of Jobcentre Plus, the part of the Department for Work and Pensions that delivers working-age benefits and employment support.",
+    "source": "Department for Work and Pensions — Jobcentre Plus.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "lcwra",
+    "term": "Limited Capability for Work and Work-Related Activity",
+    "abbr": "LCWRA",
+    "full_term": "Limited Capability for Work and Work-Related Activity",
+    "aliases": [
+      "LCWRA",
+      "Limited Capability for Work and Work-Related Activity"
+    ],
+    "type": "statutory",
+    "definition": "A Universal Credit determination that a claimant's health condition or disability so limits them that they are not expected to work or prepare for work, attracting an additional UC element.",
+    "source": "Welfare Reform Act 2012; Universal Credit Regulations 2013",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2012/5/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "pip",
+    "term": "Personal Independence Payment",
+    "abbr": "PIP",
+    "full_term": "Personal Independence Payment",
+    "aliases": [
+      "PIP",
+      "Personal Independence Payment"
+    ],
+    "type": "statutory",
+    "definition": "A non-means-tested benefit that helps with the extra costs of a long-term health condition or disability; it replaced Disability Living Allowance for working-age adults.",
+    "source": "Welfare Reform Act 2012, Part 4",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2012/5/part/4",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "seqf",
+    "term": "Supported Employment Quality Framework",
+    "abbr": "SEQF",
+    "full_term": "Supported Employment Quality Framework",
+    "aliases": [
+      "SEQF",
+      "Supported Employment Quality Framework"
+    ],
+    "type": "method",
+    "definition": "A quality standard for supported-employment services helping disabled people and those with health conditions into work.",
+    "source": "British Association for Supported Employment (BASE).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "universal-credit",
+    "term": "Universal Credit",
+    "abbr": "UC",
+    "full_term": "Universal Credit",
+    "aliases": [
+      "UC",
+      "Universal Credit"
+    ],
+    "type": "statutory",
+    "definition": "The single means-tested working-age benefit that replaces six legacy benefits including Housing Benefit, Income Support and tax credits.",
+    "source": "Welfare Reform Act 2012, Part 1",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2012/5/part/1",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "community-psychiatric-nurse",
+    "term": "Community Psychiatric Nurse",
+    "abbr": "CPN",
+    "full_term": "Community Psychiatric Nurse",
+    "aliases": [
+      "CPN",
+      "Community Psychiatric Nurse"
+    ],
+    "type": "substantive",
+    "definition": "A registered mental-health nurse who supports people with mental-health needs in the community; now more often titled community mental-health nurse.",
+    "source": "NHS mental-health nursing role.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "cyp-iapt",
+    "term": "Children and Young People’s IAPT",
+    "abbr": "CYP IAPT",
+    "full_term": "Children and Young People’s Improving Access to Psychological Therapies programme",
+    "aliases": [
+      "CYP IAPT",
+      "Children and Young People’s Improving Access to Psychological Therapies programme"
+    ],
+    "type": "substantive",
+    "definition": "An NHS England programme to transform children and young people's mental-health services by embedding evidence-based psychological therapies and outcome monitoring.",
+    "source": "NHS England — CYP IAPT programme.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "camhs",
+    "term": "Child and Adolescent Mental Health Services",
+    "abbr": "CAMHS",
+    "full_term": "Child and Adolescent Mental Health Services",
+    "aliases": [
+      "CAMHS",
+      "Child and Adolescent Mental Health Services"
+    ],
+    "type": "substantive",
+    "definition": "NHS services that assess and treat children and young people with emotional, behavioural or mental-health difficulties.",
+    "source": "NHS — CAMHS.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "did-not-attend",
+    "term": "Did Not Attend",
+    "abbr": "DNA",
+    "full_term": "Did Not Attend",
+    "aliases": [
+      "DNA",
+      "Did Not Attend"
+    ],
+    "type": "substantive",
+    "definition": "An administrative code recording that a patient missed a booked appointment without notice; increasingly reframed as 'was not brought' for children.",
+    "source": "NHS administrative usage.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "health-in-all-policies",
+    "term": "Health in All Policies",
+    "abbr": "HiAP",
+    "full_term": "Health in All Policies",
+    "aliases": [
+      "HiAP",
+      "Health in All Policies"
+    ],
+    "type": "substantive",
+    "definition": "An approach to public policy that systematically accounts for the health implications of decisions across all sectors, to improve health and reduce inequalities.",
+    "source": "World Health Organization — Health in All Policies.",
+    "source_url": "https://www.who.int/activities/promoting-health-in-all-policies-and-intersectoral-action-capacities",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "health-and-wellbeing-board",
+    "term": "Health and Wellbeing Board",
+    "abbr": "HWB",
+    "full_term": "Health and Wellbeing Board",
+    "aliases": [
+      "HWB",
+      "Health and Wellbeing Board"
+    ],
+    "type": "statutory",
+    "definition": "A statutory local-authority committee bringing together the NHS, public health, adult social care and children's services to improve health and wellbeing and reduce inequalities.",
+    "source": "Health and Social Care Act 2012, s.194",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/section/194",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "health-and-wellbeing-executive",
+    "term": "Health and Wellbeing Executive",
+    "abbr": "HWBE",
+    "full_term": "Health and Wellbeing Executive",
+    "aliases": [
+      "HWBE",
+      "Health and Wellbeing Executive"
+    ],
+    "type": "substantive",
+    "definition": "A local executive group supporting the delivery of a Health and Wellbeing Board's priorities.",
+    "source": "Local governance term.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "care-programme-approach",
+    "term": "Care Programme Approach",
+    "abbr": "CPA",
+    "full_term": "Care Programme Approach",
+    "aliases": [
+      "CPA",
+      "Care Programme Approach"
+    ],
+    "type": "substantive",
+    "definition": "The framework used to assess, plan and coordinate care for people with more complex mental-health needs; now largely superseded by the Community Mental Health Framework.",
+    "source": "Department of Health — Care Programme Approach.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "community-safety-partnership",
+    "term": "Community Safety Partnership",
+    "abbr": "CSP",
+    "full_term": "Community Safety Partnership",
+    "aliases": [
+      "CSP",
+      "Community Safety Partnership"
+    ],
+    "type": "statutory",
+    "definition": "A statutory partnership of local 'responsible authorities' (police, local authority, fire, health and probation) that works to reduce crime, disorder and antisocial behaviour.",
+    "source": "Crime and Disorder Act 1998, ss.5–7",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1998/37/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "duty-to-co-operate",
+    "term": "Duty to Co-operate",
+    "abbr": "DTC",
+    "full_term": "Duty to Co-operate",
+    "aliases": [
+      "DTC",
+      "Duty to Co-operate"
+    ],
+    "type": "statutory",
+    "definition": "The statutory duty on relevant partners to co-operate in safeguarding and promoting the wellbeing of adults (and, for children, under separate provisions).",
+    "source": "Care Act 2014, s.6",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/6",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "imca",
+    "term": "Independent Mental Capacity Advocate",
+    "abbr": "IMCAs",
+    "full_term": "Independent Mental Capacity Advocates",
+    "aliases": [
+      "IMCAs",
+      "Independent Mental Capacity Advocates"
+    ],
+    "type": "statutory",
+    "definition": "A statutory advocate who represents and supports a person who lacks capacity to make certain serious decisions and has no-one else appropriate to consult.",
+    "source": "Mental Capacity Act 2005, ss.35–41",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2005/9/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "kcsie",
+    "term": "Keeping Children Safe in Education",
+    "abbr": "KCSIE",
+    "full_term": "Keeping Children Safe in Education",
+    "aliases": [
+      "KCSIE",
+      "Keeping Children Safe in Education"
+    ],
+    "type": "statutory",
+    "definition": "The Department for Education's statutory safeguarding guidance that schools and colleges in England must have regard to.",
+    "source": "DfE statutory guidance (Education Act 2002, s.175)",
+    "source_url": "https://www.gov.uk/government/publications/keeping-children-safe-in-education--2",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "lscb",
+    "term": "Local Safeguarding Children Board",
+    "abbr": "LSCB",
+    "full_term": "Local Safeguarding Children Board",
+    "aliases": [
+      "LSCB",
+      "Local Safeguarding Children Board"
+    ],
+    "type": "statutory",
+    "definition": "The former statutory body coordinating local safeguarding of children; replaced from 2019 by multi-agency safeguarding arrangements led by three safeguarding partners.",
+    "source": "Children Act 2004, s.13",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2004/31/section/13",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "mappa",
+    "term": "Multi-Agency Public Protection Arrangements",
+    "abbr": "MAPPA",
+    "full_term": "Multi-Agency Public Protection Arrangements",
+    "aliases": [
+      "MAPPA",
+      "Multi-Agency Public Protection Arrangements"
+    ],
+    "type": "statutory",
+    "definition": "The statutory arrangements through which police, probation and prison services jointly assess and manage the risks posed by violent and sexual offenders.",
+    "source": "Criminal Justice Act 2003, ss.325–327",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2003/44/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "mental-capacity-act",
+    "term": "Mental Capacity Act",
+    "abbr": "MCA",
+    "full_term": "Mental Capacity Act 2005",
+    "aliases": [
+      "MCA",
+      "Mental Capacity Act 2005"
+    ],
+    "type": "statutory",
+    "definition": "The Act that provides the legal framework for making decisions on behalf of adults who lack the capacity to make particular decisions for themselves.",
+    "source": "Mental Capacity Act 2005",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2005/9/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "mental-health-act",
+    "term": "Mental Health Act",
+    "abbr": "MHA",
+    "full_term": "Mental Health Act 1983",
+    "aliases": [
+      "MHA",
+      "Mental Health Act 1983"
+    ],
+    "type": "statutory",
+    "definition": "The Act governing the assessment, treatment and rights of people with a mental disorder, including detention ('sectioning') in hospital.",
+    "source": "Mental Health Act 1983",
+    "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/contents",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "mha-code-of-practice",
+    "term": "Mental Health Act Code of Practice",
+    "abbr": "MHA COP",
+    "full_term": "Mental Health Act Code of Practice",
+    "aliases": [
+      "MHA COP",
+      "Mental Health Act Code of Practice"
+    ],
+    "type": "statutory",
+    "definition": "The statutory guidance on how the Mental Health Act 1983 should be applied, which professionals must have regard to.",
+    "source": "Department of Health (2015), under Mental Health Act 1983, s.118",
+    "source_url": "https://www.gov.uk/government/publications/code-of-practice-mental-health-act-1983",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "making-safeguarding-personal",
+    "term": "Making Safeguarding Personal",
+    "abbr": "MSP",
+    "full_term": "Making Safeguarding Personal",
+    "aliases": [
+      "MSP",
+      "Making Safeguarding Personal"
+    ],
+    "type": "substantive",
+    "definition": "A person-centred, outcomes-focused approach to adult safeguarding that works with the person to achieve the outcomes they want. Distinct from My Sister's Place (also 'MSP').",
+    "source": "Local Government Association / ADASS — Making Safeguarding Personal; reflected in Care Act 2014 statutory guidance.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "quality-surveillance-group",
+    "term": "Quality Surveillance Group",
+    "abbr": "QSG",
+    "full_term": "Quality Surveillance Group",
+    "aliases": [
+      "QSG",
+      "Quality Surveillance Group"
+    ],
+    "type": "substantive",
+    "definition": "A multi-agency group that shares intelligence and coordinates action on the quality and safety of local health and care services.",
+    "source": "NHS England — Quality Surveillance Group guidance.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "safeguarding-adults-board",
+    "term": "Safeguarding Adults Board",
+    "abbr": "SAB",
+    "full_term": "Safeguarding Adults Board",
+    "aliases": [
+      "SAB",
+      "Safeguarding Adults Board"
+    ],
+    "type": "statutory",
+    "definition": "The statutory multi-agency board that oversees and coordinates adult safeguarding arrangements in a local area (locally, the Teeswide Safeguarding Adults Board).",
+    "source": "Care Act 2014, s.43",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/43",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "safeguarding-adults-review",
+    "term": "Safeguarding Adults Review",
+    "abbr": "SAR",
+    "full_term": "Safeguarding Adults Review",
+    "aliases": [
+      "SAR",
+      "Safeguarding Adults Review"
+    ],
+    "type": "statutory",
+    "definition": "A statutory review a Safeguarding Adults Board must arrange when an adult with care and support needs dies or is seriously harmed and abuse or neglect is suspected, to identify learning.",
+    "source": "Care Act 2014, s.44",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/44",
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "national-governing-body",
+    "term": "National Governing Body",
+    "abbr": "NGB",
+    "full_term": "National Governing Body",
+    "aliases": [
+      "NGB",
+      "National Governing Body"
+    ],
+    "type": "substantive",
+    "definition": "The recognised body responsible for governing and regulating a particular sport nationally.",
+    "source": "Sport sector usage.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "psbr",
+    "term": "Professional, Statutory and Regulatory Bodies",
+    "abbr": "PSBR",
+    "full_term": "Professional, Statutory and Regulatory Bodies",
+    "aliases": [
+      "PSBR",
+      "Professional, Statutory and Regulatory Bodies"
+    ],
+    "type": "substantive",
+    "definition": "The bodies that set standards for, accredit or regulate a profession or field of practice.",
+    "source": "Common usage (education / professional accreditation).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "therapeutic-communities",
+    "term": "Therapeutic Communities",
+    "abbr": "TC",
+    "full_term": "Therapeutic Communities",
+    "aliases": [
+      "TC",
+      "Therapeutic Communities"
+    ],
+    "type": "substantive",
+    "definition": "A group-based, participative approach to treatment in which the community itself is the primary therapeutic agent, used in mental-health, substance-use and offender settings.",
+    "source": "Royal College of Psychiatrists — Community of Communities.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null
+  },
+  {
+    "id": "community-protection-notice",
+    "term": "Community Protection Notice",
+    "abbr": "CPN",
+    "full_term": "Community Protection Notice",
+    "aliases": [
+      "CPN",
+      "Community Protection Notice"
+    ],
+    "type": "statutory",
+    "definition": "A notice requiring a person or body to stop or take action about behaviour that is unreasonable and has a detrimental effect on the local community's quality of life. Distinct from Community Psychiatric Nurse (also 'CPN').",
+    "source": "Anti-social Behaviour, Crime and Policing Act 2014, s.43",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2014/12/section/43",
+    "org_ref": null,
+    "org_ref_url": null
+  }
+]
