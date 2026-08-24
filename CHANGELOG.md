@@ -1,5 +1,12 @@
 # Changelog — rcvda-glossary
 
+## 2026-08-24 — Org-resolution CSV is now a decision worksheet
+- `tools/org_resolution.csv` gains a **`decision`** column (`keep`/`blank`/`apply`/`skip`) plus
+  `override_orgid`, `current_org_ref` and `note` — one row per organisation entry, pre-filled with the
+  settled state (41 keep, 15 deliberate blank, 0 open). `resolve_orgs.py` now emits the full worksheet and
+  **preserves human columns across re-runs**; `apply_org_ids.py` honours `decision` and references a
+  `GB-COH-…` override to Companies House, other ids to Find That Charity. Docs in `tools/ORG_REF_STATUS.md`.
+
 ## 2026-08-24 — Definition cleanup: full 48-entry sweep
 - Worked through all 48 entries whose definitions blended identity with context. **24 split** (the 6 from
   the first pass + 18 more), **24 left as-is** (programme constructs, already-atomic terms, or unscoped

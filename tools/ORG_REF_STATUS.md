@@ -51,11 +51,27 @@ Find That Charity only indexes the CFE Research company, so the others reference
 - **Equinor**, **Vårgrønn** — Norwegian companies, not registered in England & Wales.
 - **Dogger Bank Wind Farm** — a legal partnership / joint venture, not one registered company.
 
+## The decision worksheet (`org_resolution.csv`)
+One row per organisation entry. The machine fills the `resolver_*` columns and `current_org_ref`; **you**
+fill the `decision` column (and `override_orgid` for a hand-entered id). Columns:
+
+| column | meaning |
+|---|---|
+| `resolver_verdict/orgid/match/ftc_url` | what Find That Charity suggested (blank for already-resolved rows) |
+| `current_org_ref` | what's in `glossary.yml` right now |
+| `decision` | **your call:** `keep` (leave the current ref) · `blank` (deliberately none) · `apply` (write one) · `skip` |
+| `override_orgid` | the id to write when `decision=apply` — e.g. a Companies House `GB-COH-…` or an FTC id |
+| `note` | provenance / reason |
+
+Decisions are **preserved when you re-run** `resolve_orgs.py`, so the sheet is a durable record. Current
+state: 41 `keep`, 15 `blank`, 0 open.
+
 ## Re-running
 ```
-python3 tools/resolve_orgs.py        # refresh org_resolution.csv from Find That Charity
-# review the CSV, then:
-python3 tools/apply_org_ids.py       # writes 'auto' rows only (safe); --all includes review_* rows
+python3 tools/resolve_orgs.py        # refresh resolver_* columns; keeps your decision/override/note
+# edit org_resolution.csv: set decision + override_orgid where needed, then:
+python3 tools/apply_org_ids.py       # honours `decision`; --all also applies blank-decision review_* rows
 python3 build.py
 ```
-Add by-hand IDs directly in `glossary.yml` (`org_ref: findthatcharity org ID GB-...`).
+`apply_org_ids.py` references a `GB-COH-…` override to Companies House and any other id to Find That
+Charity. You can still edit `glossary.yml` directly instead if you prefer.
