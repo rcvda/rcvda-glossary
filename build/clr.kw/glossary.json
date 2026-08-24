@@ -13,7 +13,8 @@
     "source": "Care Act 2014 (Part 1; s.1)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "a-e",
@@ -28,7 +29,8 @@
     "source": null,
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "brief-intervention",
@@ -43,7 +45,8 @@
     "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "caseworker",
@@ -58,7 +61,8 @@
     "source": "National usage (Ministry of Housing, Communities and Local Government and the wider Changing Futures literature) for the role South Tees calls Key Worker.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "cba",
@@ -74,7 +78,8 @@
     "source": "Economic appraisal method; see HM Treasury Green Book.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "changing-futures-cf",
@@ -90,7 +95,8 @@
     "source": "MHCLG (2020) Changing Futures: changing systems to support adults experiencing multiple disadvantage — Prospectus. London: MHCLG.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "cleveland",
@@ -105,7 +111,8 @@
     "source": "The Cleveland (Structural Change) Order 1995 (SI 1995/187), which abolished the county created by the Local Government Act 1972; the geography survives as the Cleveland Police / OPCC footprint.",
     "source_url": "https://www.legislation.gov.uk/uksi/1995/187",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "cqc",
@@ -121,7 +128,8 @@
     "source": "Health and Social Care Act 2008 (established the Care Quality Commission)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2008/14/contents",
     "org_ref": "findthatcharity org ID GB-GOR-PB251",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB251"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB251",
+    "context_note": null
   },
   {
     "id": "crisis-suite",
@@ -136,7 +144,8 @@
     "source": "Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) — Crisis Assessment Suite, Roseberry Park Hospital, Middlesbrough.",
     "source_url": "https://www.southtees.nhs.uk/services/maternity/perinatal-mental-health-and-wellbeing/help-and-support/",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "duty-worker",
@@ -151,7 +160,8 @@
     "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "ecw-enhanced-case-worker",
@@ -167,7 +177,8 @@
     "source": "South Tees Delivery Plan (Version 2), Workstream 2 (Enhanced Case Management).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "entry-exit-questionnaire-eeq",
@@ -182,7 +193,8 @@
     "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "frequent-attender",
@@ -197,7 +209,8 @@
     "source": "British Red Cross (2024), Seen and Heard: understanding frequent attendance at A&E — Dorset linked-data study (five or more A&E attendances in a rolling 12-month period).",
     "source_url": "https://assets-eu-01.kc-usercontent.com/82b1e254-5524-0172-0612-9ce813c7824c/ec0baeca-ebaa-4d49-8395-457991fe8ffb/Seen-and-Heard-Report-2024.pdf",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "ft",
@@ -213,7 +226,8 @@
     "source": "National Health Service Act 2006, s.30 (NHS foundation trusts)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "fte",
@@ -229,7 +243,8 @@
     "source": "GOV.UK Analysis Function (2018) — Employment variables: Hours and FTE.",
     "source_url": "https://analysisfunction.civilservice.gov.uk/wp-content/uploads/2019/04/Employment-variables-Hours-and-FTE-April-18.pdf",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "girft",
@@ -244,7 +259,8 @@
     "source": "Get It Right First Time (GIRFT) — national NHS England programme",
     "source_url": "https://gettingitrightfirsttime.co.uk",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "gmca",
@@ -260,7 +276,8 @@
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-LAE-GMCA (Greater Manchester Combined Authority)",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-GMCA"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-GMCA",
+    "context_note": null
   },
   {
     "id": "greater-manchester-cba-model",
@@ -280,7 +297,8 @@
     "source": "Greater Manchester Combined Authority — Cost-Benefit Analysis (CBA) model",
     "source_url": "https://www.greatermanchester-ca.gov.uk/what-we-do/research/research-cost-benefit-analysis/",
     "org_ref": "findthatcharity org ID GB-LAE-GMCA (Greater Manchester Combined Authority)",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-GMCA"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-GMCA",
+    "context_note": null
   },
   {
     "id": "hdrc-st",
@@ -298,7 +316,8 @@
     "source": "The South Tees Health Determinants Research Collaboration programme website (NIHR-funded).",
     "source_url": "https://hdrcsouthtees.co.uk",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "hi",
@@ -314,7 +333,8 @@
     "source": "Public-health term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "hiu",
@@ -330,7 +350,8 @@
     "source": "Service-demand term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "hr",
@@ -346,7 +367,8 @@
     "source": "Standard management term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "ics",
@@ -362,7 +384,8 @@
     "source": "Health and Care Act 2022 (integrated care systems)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "ig",
@@ -378,7 +401,8 @@
     "source": "Data-protection / NHS IG term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "jcuh",
@@ -393,7 +417,8 @@
     "source": "South Tees Hospitals NHS Foundation Trust — hospital webpage.",
     "source_url": "https://www.southtees.nhs.uk/hospitals/james-cook/",
     "org_ref": "findthatcharity org ID XI-ROR-02vqh3346",
-    "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-02vqh3346"
+    "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-02vqh3346",
+    "context_note": null
   },
   {
     "id": "key-worker-kw",
@@ -409,7 +434,8 @@
     "source": "South Tees Delivery Plan (Version 2), Workstream 4 (Key Worker Support).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "lgps",
@@ -425,7 +451,8 @@
     "source": "Local Government Pension Scheme Regulations 2013 (SI 2013/2356)",
     "source_url": "https://www.legislation.gov.uk/uksi/2013/2356/contents/made",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "live-well-south-tees-board",
@@ -440,7 +467,8 @@
     "source": "Health and Social Care Act 2012, s.194 (Health and Wellbeing Boards)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/section/194",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "live-well-south-tees-executive-board",
@@ -455,7 +483,8 @@
     "source": "Executive arm of the Live Well South Tees Board (the statutory Health and Wellbeing Board, HSCA 2012 s.194); constituted by local terms of reference.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "marac",
@@ -470,7 +499,8 @@
     "source": "SafeLives — What is a MARAC? (SafeLives stewards the national MARAC model and holds the definition)",
     "source_url": "https://safelives.org.uk/about-domestic-abuse/domestic-abuse-response-in-the-uk/what-is-a-marac/",
     "org_ref": "findthatcharity org ID GB-CHC-1106864 (SafeLives)",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864",
+    "context_note": null
   },
   {
     "id": "mdt",
@@ -486,7 +516,8 @@
     "source": "Standard health-and-care term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "meam",
@@ -501,7 +532,8 @@
     "source": "Making Every Adult Matter (MEAM) — the England-wide coalition (Clinks, Homeless Link and Mind)",
     "source_url": "https://meam.org.uk",
     "org_ref": "findthatcharity org ID GB-CHC-1209508",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1209508"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1209508",
+    "context_note": null
   },
   {
     "id": "mhclg",
@@ -516,7 +548,8 @@
     "source": "GOV.UK — Ministry of Housing, Communities and Local Government.",
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
     "org_ref": "findthatcharity org ID GB-GOR-D4",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4",
+    "context_note": null
   },
   {
     "id": "multiple-disadvantage-md",
@@ -532,7 +565,8 @@
     "source": "South Tees Delivery Plan (Version 2) / MHCLG (2020) Changing Futures Prospectus (working cohort definition); comparator: Bramley et al. (2015) Hard Edges, Lankelly Chase Foundation.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "mutually-agreed-outcome",
@@ -547,7 +581,8 @@
     "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "nenc-nenc-icb",
@@ -563,7 +598,8 @@
     "source": "Health and Care Act 2022 (integrated care boards, Part 1)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": "findthatcharity org ID GB-NHS-01H",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-01H"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-01H",
+    "context_note": null
   },
   {
     "id": "not-ready-to-engage",
@@ -578,7 +614,8 @@
     "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "opcc",
@@ -593,7 +630,8 @@
     "source": "Police Reform and Social Responsibility Act 2011",
     "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "pcc",
@@ -609,7 +647,8 @@
     "source": "Police Reform and Social Responsibility Act 2011",
     "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "persistent-caller",
@@ -624,7 +663,8 @@
     "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "phst",
@@ -639,7 +679,8 @@
     "source": null,
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "r-c",
@@ -655,7 +696,8 @@
     "source": "Local shorthand.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "rcvda",
@@ -670,7 +712,8 @@
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1135959",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
+    "context_note": null
   },
   {
     "id": "shapley-additive-explanations",
@@ -686,7 +729,8 @@
     "source": "Lundberg & Lee (2017), SHAP.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "south-tees",
@@ -701,7 +745,8 @@
     "source": "South Tees Changing Futures programme geography; BRAND.md §4.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "south-tees-changing-futures-programme-board",
@@ -718,7 +763,8 @@
     "source": "STCFP Board Terms of Reference.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "tewv",
@@ -733,7 +779,8 @@
     "source": "National Health Service Act 2006, s.30 (NHS foundation trusts; originally the Health and Social Care (Community Health and Standards) Act 2003)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
     "org_ref": "findthatcharity org ID GB-NHS-RX3",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-RX3"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-RX3",
+    "context_note": null
   },
   {
     "id": "the-system",
@@ -748,7 +795,8 @@
     "source": "Working definition adopted in this deep-dive series.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "trauma-informed-practice-tip",
@@ -764,7 +812,8 @@
     "source": "OHID (2022) Working definition of trauma-informed practice (GOV.UK)",
     "source_url": "https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "tvhf-tees-valley-home-finder",
@@ -780,7 +829,8 @@
     "source": "Tees Valley Home Finder service portal — a service commissioned by the Tees Valley Lettings Partnership (TVLP)",
     "source_url": "https://teesvalleyhomefinder.housingjigsaw.co.uk",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "vcfse",
@@ -799,7 +849,8 @@
     "source": "Sector-standard term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "vulnerabilities-service",
@@ -814,7 +865,8 @@
     "source": "Public Health South Tees (PHST) — the service that houses the Changing Futures Key Working Team.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "the-national-lottery-community-fund-tnlcf",
@@ -832,7 +884,8 @@
     "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "ministry-of-justice",
@@ -848,6 +901,7 @@
     "source": "Ministry of Justice (GOV.UK)",
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
     "org_ref": "findthatcharity org ID GB-GOR-D18",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D18"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D18",
+    "context_note": null
   }
 ]

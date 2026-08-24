@@ -14,7 +14,8 @@
     "source": "Felitti, V. et al. (1998), American Journal of Preventive Medicine; Bellis, M. et al. (2014), Journal of Public Health.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "cfe-research-cfe",
@@ -30,7 +31,8 @@
     "source": "CFE Research — an independent research and evaluation company (Leicester); part of the national Changing Futures evaluation team with Cordis Bright.",
     "source_url": "https://cfe.org.uk",
     "org_ref": "findthatcharity org ID GB-COH-03345012",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-COH-03345012"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-COH-03345012",
+    "context_note": null
   },
   {
     "id": "trauma-informed-champion",
@@ -47,7 +49,8 @@
     "source": "Trauma-Informed Champions Charter (South Tees; funded through Changing Futures).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "changing-futures-cf",
@@ -63,7 +66,8 @@
     "source": "MHCLG (2020) Changing Futures: changing systems to support adults experiencing multiple disadvantage — Prospectus. London: MHCLG.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "clrp",
@@ -78,7 +82,8 @@
     "source": "RCVDA Community-led Research Programme (ClRP), delivered with Teesside University under the NIHR Health Determinants Research Collaboration (HDRC) South Tees.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "com-b",
@@ -93,7 +98,8 @@
     "source": "Michie, S., van Stralen, M. and West, R. (2011) Implementation Science.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "dhsc",
@@ -110,7 +116,8 @@
     "source": "GOV.UK — Department of Health and Social Care.",
     "source_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
     "org_ref": "findthatcharity org ID GB-GOR-D12",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D12"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D12",
+    "context_note": null
   },
   {
     "id": "dluhc",
@@ -125,7 +132,8 @@
     "source": "GOV.UK — Department for Levelling Up, Housing and Communities (renamed the Ministry of Housing, Communities and Local Government in 2024).",
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
     "org_ref": "findthatcharity org ID GB-GOVUK-department-for-levelling-up-housing-and-communities",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-department-for-levelling-up-housing-and-communities"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-department-for-levelling-up-housing-and-communities",
+    "context_note": null
   },
   {
     "id": "dph",
@@ -140,7 +148,8 @@
     "source": "National Health Service Act 2006, s.73A",
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/73A",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "ecw-enhanced-case-worker",
@@ -156,7 +165,8 @@
     "source": "South Tees Delivery Plan (Version 2), Workstream 2 (Enhanced Case Management).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "eric",
@@ -171,7 +181,8 @@
     "source": "Powell, B. et al. (2015) Implementation Science (Expert Recommendations for Implementing Change).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "hcpc",
@@ -186,7 +197,8 @@
     "source": "Health Professions Order 2001 (SI 2002/254)",
     "source_url": "https://www.legislation.gov.uk/uksi/2002/254/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "hdrc-st",
@@ -204,7 +216,8 @@
     "source": "The South Tees Health Determinants Research Collaboration programme website (NIHR-funded).",
     "source_url": "https://hdrcsouthtees.co.uk",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "hr",
@@ -220,7 +233,8 @@
     "source": "Standard management term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "icb",
@@ -235,7 +249,8 @@
     "source": "Health and Care Act 2022 (ICBs, Part 1)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "kpi",
@@ -251,7 +266,8 @@
     "source": "Standard performance-management term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "la",
@@ -266,7 +282,8 @@
     "source": "Local Government Act 1972 (principal councils in England)",
     "source_url": "https://www.legislation.gov.uk/ukpga/1972/70/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "lvrn",
@@ -281,7 +298,8 @@
     "source": "Lancashire Violence Reduction Network",
     "source_url": "https://lancsvrn.co.uk",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "mhclg",
@@ -296,7 +314,8 @@
     "source": "GOV.UK — Ministry of Housing, Communities and Local Government.",
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
     "org_ref": "findthatcharity org ID GB-GOR-D4",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4",
+    "context_note": null
   },
   {
     "id": "multiple-disadvantage-md",
@@ -312,7 +331,8 @@
     "source": "South Tees Delivery Plan (Version 2) / MHCLG (2020) Changing Futures Prospectus (working cohort definition); comparator: Bramley et al. (2015) Hard Edges, Lankelly Chase Foundation.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "nenc-nenc-icb",
@@ -328,7 +348,8 @@
     "source": "Health and Care Act 2022 (integrated care boards, Part 1)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": "findthatcharity org ID GB-NHS-01H",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-01H"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-01H",
+    "context_note": null
   },
   {
     "id": "nes",
@@ -343,7 +364,8 @@
     "source": "NHS Education for Scotland (2017, refreshed 2024) Transforming Psychological Trauma Knowledge and Skills Framework.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "nhs",
@@ -358,7 +380,8 @@
     "source": "National Health Service Act 1946 (established the NHS; now consolidated in the NHS Act 2006)",
     "source_url": "https://www.legislation.gov.uk/ukpga/1946/81/contents/enacted",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "nlp",
@@ -373,7 +396,8 @@
     "source": "ANLP (Association for NLP) — Definition of NLP",
     "source_url": "https://anlp.org/knowledge-base/definition-of-nlp",
     "org_ref": "findthatcharity org ID GB-COH-05383959 (ANLP)",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-COH-05383959"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-COH-05383959",
+    "context_note": null
   },
   {
     "id": "nmc",
@@ -388,7 +412,8 @@
     "source": "Nursing and Midwifery Order 2001 (SI 2002/253)",
     "source_url": "https://www.legislation.gov.uk/uksi/2002/253/contents",
     "org_ref": "findthatcharity org ID GB-CHC-1091434",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1091434"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1091434",
+    "context_note": null
   },
   {
     "id": "ohid",
@@ -403,7 +428,8 @@
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-GOVUK-office-for-health-improvement-and-disparities",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-office-for-health-improvement-and-disparities"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-office-for-health-improvement-and-disparities",
+    "context_note": null
   },
   {
     "id": "opcc",
@@ -418,7 +444,8 @@
     "source": "Police Reform and Social Responsibility Act 2011",
     "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "r-c",
@@ -434,7 +461,8 @@
     "source": "Local shorthand.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "rcvda",
@@ -449,7 +477,8 @@
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1135959",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
+    "context_note": null
   },
   {
     "id": "samhsa",
@@ -464,7 +493,8 @@
     "source": "SAMHSA (US federal agency, part of Health and Human Services) — Trauma-Informed Approaches; underpinned by SAMHSA (2014) Concept of Trauma and Guidance for a Trauma-Informed Approach",
     "source_url": "https://www.samhsa.gov/mental-health/trauma-violence/trauma-informed-approaches-programs",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "secondary-trauma",
@@ -482,7 +512,8 @@
     "source": "Figley, C.R. (1995) Compassion Fatigue: Coping with Secondary Traumatic Stress Disorder.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "siro",
@@ -497,7 +528,8 @@
     "source": "an information-governance role defined in government data-security policy; not created by a specific statute.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "south-tees-changing-futures-programme-stcfp",
@@ -515,7 +547,8 @@
     "source": "STCFP Board Terms of Reference; South Tees Delivery Plan (Version 2); later phase: Draft Housing Prospectus (Dec 2024).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "swe",
@@ -530,7 +563,8 @@
     "source": "Children and Social Work Act 2017, Part 2 (s.36)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2017/16/contents",
     "org_ref": "findthatcharity org ID GB-GOVUK-social-work-england",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-social-work-england"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-social-work-england",
+    "context_note": null
   },
   {
     "id": "tica",
@@ -546,7 +580,8 @@
     "source": "Trauma Informed Community of Action (TICA C.I.C.)",
     "source_url": "https://www.traumainformedcommunityaction.org/community",
     "org_ref": "findthatcharity org ID GB-COH-15441846",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-COH-15441846"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-COH-15441846",
+    "context_note": null
   },
   {
     "id": "tipc",
@@ -563,7 +598,8 @@
     "source": "South Tees Changing Futures — Trauma-Informed Practice workstream (programme role).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "trauma-aware-curious-informed-responsive",
@@ -578,7 +614,8 @@
     "source": "South Tees Changing Futures programme — the local trauma-informed maturity framework (four developmental phases).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "trauma-informed-champions-charter",
@@ -594,7 +631,8 @@
     "source": "Trauma-Informed Champions Charter (South Tees; funded through Changing Futures).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "trauma-informed-practice-tip",
@@ -610,7 +648,8 @@
     "source": "OHID (2022) Working definition of trauma-informed practice (GOV.UK)",
     "source_url": "https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "vcfse",
@@ -629,7 +668,8 @@
     "source": "Sector-standard term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "vicarious-trauma",
@@ -647,7 +687,8 @@
     "source": "McCann, I.L. and Pearlman, L.A. (1990) Vicarious traumatisation: a framework for understanding the psychological effects of working with victims.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "vru",
@@ -662,7 +703,8 @@
     "source": "Home Office-funded regional body.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "wawy-we-are-with-you",
@@ -678,7 +720,8 @@
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1001957",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1001957"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1001957",
+    "context_note": null
   },
   {
     "id": "workstream",
@@ -693,7 +736,8 @@
     "source": "South Tees Delivery Plan (Version 2); STCFP Board Terms of Reference.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "the-national-lottery-community-fund-tnlcf",
@@ -711,6 +755,7 @@
     "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   }
 ]

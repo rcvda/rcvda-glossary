@@ -110,9 +110,20 @@ def build_dictionary(entries):
     return "\n".join(out) + "\n"
 
 # ---------------- lens layer ----------------
-def resolve(e, code, register):
-    """Return a shallow copy of e with this context's overrides applied and the
-    register-appropriate definition selected. Returns (entry, warning-or-None)."""
+def notes_for(e, code, programme):
+    """Additive context notes for this lens: the programme-level note (inherited by all
+    its lenses) then the lens-specific note. De-duplicated when code == programme."""
+    cn = e.get("context_notes") or {}
+    out, seen = [], set()
+    for k in (programme, code):
+        if k and k in cn and k not in seen and (cn[k] or "").strip():
+            seen.add(k); out.append(cn[k].strip())
+    return " ".join(out)
+
+def resolve(e, code, register, programme=None):
+    """Shallow copy of e with this context's overrides applied, the register-appropriate
+    definition selected, and its additive context note attached as `context_note`.
+    The canonical `definition` is left intact; the note is separate (composed in for md)."""
     ov = (e.get("overrides") or {}).get(code, {}) or {}
     r = dict(e)
     for k in ("definition", "plain", "source", "source_url", "note"):
@@ -123,16 +134,29 @@ def resolve(e, code, register):
             r["definition"] = r["plain"]
         else:
             warn = f"{code}: '{e['term']}' has no plain-language form; fell back to the authoritative definition."
+    r["context_note"] = notes_for(e, code, programme)
     return r, warn
 
-def lens_entries(entries, code, register):
+def lens_entries(entries, code, register, programme=None):
     picked, warns = [], []
     for e in entries:
         if code in (e.get("scope") or []):
-            r, w = resolve(e, code, register)
+            r, w = resolve(e, code, register, programme)
             picked.append(r)
             if w: warns.append(w)
     return picked, warns
+
+def with_note_in_definition(picked):
+    """For markdown rendering: fold the context note into the definition as a trailing sentence."""
+    out = []
+    for e in picked:
+        note = e.get("context_note")
+        if note:
+            d = (e.get("definition") or "").rstrip()
+            if d and d[-1] not in ".!?": d += "."
+            e = dict(e, definition=f"{d} {note}")
+        out.append(e)
+    return out
 
 def entry_json(e):
     return {
@@ -145,7 +169,8 @@ def entry_json(e):
 
 def master_json(entries):
     return [dict(entry_json(e), plain=e.get("plain"), scope=e.get("scope") or [],
-                overrides=e.get("overrides") or {}) for e in entries]
+                context_notes=e.get("context_notes") or {}, overrides=e.get("overrides") or {})
+            for e in entries]
 
 def main():
     entries = load(); reg = load_contexts()
@@ -158,11 +183,15 @@ def main():
     if dup: errs.append(f"duplicate ids: {sorted(dup)}")
     if any(not i for i in ids): errs.append("entries missing id")
     valid_codes = set(contexts)
+    programmes = set(reg.get("programmes") or {})
+    valid_note_keys = valid_codes | programmes          # a note may key to a lens OR a programme
     for e in entries:
         for c in (e.get("scope") or []):
             if c not in valid_codes: errs.append(f"'{e['term']}' scope has unknown context {c!r}")
         for c in (e.get("overrides") or {}):
             if c not in valid_codes: errs.append(f"'{e['term']}' override for unknown context {c!r}")
+        for c in (e.get("context_notes") or {}):
+            if c not in valid_note_keys: errs.append(f"'{e['term']}' context_note for unknown lens/programme {c!r}")
     if errs:
         sys.exit("VALIDATION FAILED:\n  " + "\n  ".join(errs))
 
@@ -177,18 +206,20 @@ def main():
     summary = []
     for code, cfg in contexts.items():
         register = cfg.get("register","authoritative")
+        programme = cfg.get("programme")
         outs = cfg.get("outputs", ["md","json"])
-        picked, warns = lens_entries(entries, code, register); all_warns += warns
+        picked, warns = lens_entries(entries, code, register, programme); all_warns += warns
         d = f"build/{code}"; os.makedirs(d, exist_ok=True)
         title = f"{cfg.get('title', code)} — glossary"
         p1 = (f"Lens of the RCVDA estate glossary for **{cfg.get('title', code)}** "
               f"({len(picked)} terms, {register} register). Generated from `glossary.yml`; do not edit by hand.")
         if "md" in outs:
             open(f"{d}/glossary.md","w",encoding="utf-8").write(
-                build_readme(picked, title, p1) if picked else f"# {title}\n\n_No terms scoped to `{code}` yet._\n")
+                build_readme(with_note_in_definition(picked), title, p1) if picked
+                else f"# {title}\n\n_No terms scoped to `{code}` yet._\n")
         if "json" in outs:
-            json.dump([entry_json(e) for e in picked], open(f"{d}/glossary.json","w",encoding="utf-8"),
-                      ensure_ascii=False, indent=2)
+            json.dump([dict(entry_json(e), context_note=e.get("context_note") or None) for e in picked],
+                      open(f"{d}/glossary.json","w",encoding="utf-8"), ensure_ascii=False, indent=2)
         summary.append((code, len(picked), register))
 
     print(f"Built estate master ({len(entries)} entries) + {len(contexts)} lenses.")

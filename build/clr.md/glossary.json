@@ -14,7 +14,8 @@
     "source": "Felitti, V. et al. (1998), American Journal of Preventive Medicine; Bellis, M. et al. (2014), Journal of Public Health.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "a-e",
@@ -29,7 +30,8 @@
     "source": null,
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "bold",
@@ -44,7 +46,8 @@
     "source": "GOV.UK (Ministry of Justice) — Better Outcomes through Linked Data (BOLD)",
     "source_url": "https://www.gov.uk/government/publications/ministry-of-justice-better-outcomes-through-linked-data-bold/ministry-of-justice-better-outcomes-through-linked-data-bold",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "changing-futures-cf",
@@ -60,7 +63,8 @@
     "source": "MHCLG (2020) Changing Futures: changing systems to support adults experiencing multiple disadvantage — Prospectus. London: MHCLG.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "cjs",
@@ -75,7 +79,8 @@
     "source": null,
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "clrp",
@@ -90,7 +95,8 @@
     "source": "RCVDA Community-led Research Programme (ClRP), delivered with Teesside University under the NIHR Health Determinants Research Collaboration (HDRC) South Tees.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "dluhc",
@@ -105,7 +111,8 @@
     "source": "GOV.UK — Department for Levelling Up, Housing and Communities (renamed the Ministry of Housing, Communities and Local Government in 2024).",
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
     "org_ref": "findthatcharity org ID GB-GOVUK-department-for-levelling-up-housing-and-communities",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-department-for-levelling-up-housing-and-communities"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-department-for-levelling-up-housing-and-communities",
+    "context_note": null
   },
   {
     "id": "domestic-abuse",
@@ -121,7 +128,8 @@
     "source": "Domestic Abuse Act 2021, s.1",
     "source_url": "https://www.legislation.gov.uk/ukpga/2021/17/section/1",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "dwp",
@@ -137,7 +145,8 @@
     "source": "GOV.UK — Department for Work and Pensions.",
     "source_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
     "org_ref": "findthatcharity org ID GB-GOR-D10",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D10"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D10",
+    "context_note": null
   },
   {
     "id": "ebe",
@@ -152,7 +161,8 @@
     "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "ecw-enhanced-case-worker",
@@ -168,7 +178,8 @@
     "source": "South Tees Delivery Plan (Version 2), Workstream 2 (Enhanced Case Management).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "fdac",
@@ -183,7 +194,8 @@
     "source": "FDAC national website — Family Drug and Alcohol Court, the national model maintained by the Centre for Justice Innovation",
     "source_url": "https://fdac.org.uk",
     "org_ref": "findthatcharity org ID GB-CHC-1151939 (Centre for Justice Innovation)",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1151939"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1151939",
+    "context_note": null
   },
   {
     "id": "fte",
@@ -199,7 +211,8 @@
     "source": "GOV.UK Analysis Function (2018) — Employment variables: Hours and FTE.",
     "source_url": "https://analysisfunction.civilservice.gov.uk/wp-content/uploads/2019/04/Employment-variables-Hours-and-FTE-April-18.pdf",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "fulfilling-lives",
@@ -215,7 +228,8 @@
     "source": "CFE Research, Cordis Bright and University of Sheffield (2022) The Fulfilling Lives Programme: Final evaluation. London: The National Lottery Community Fund.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "gdpr",
@@ -231,7 +245,8 @@
     "source": "Data Protection Act 2018 (UK GDPR)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2018/12/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "hdrc-st",
@@ -249,7 +264,8 @@
     "source": "The South Tees Health Determinants Research Collaboration programme website (NIHR-funded).",
     "source_url": "https://hdrcsouthtees.co.uk",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "hi",
@@ -265,7 +281,8 @@
     "source": "Public-health term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "housing-first",
@@ -281,7 +298,8 @@
     "source": "Homeless Link (2017) The Principles for Housing First in England (seven principles); locally, STCFP Housing First Service Specification (Draft V1, Feb 2024 Board). Origin: Tsemberis, S. (1999), Pathways to Housing, New York.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "icb",
@@ -296,7 +314,8 @@
     "source": "Health and Care Act 2022 (ICBs, Part 1)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "ips",
@@ -311,7 +330,8 @@
     "source": "Evidence-based supported employment (Centre for Mental Health).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "isc",
@@ -329,7 +349,8 @@
     "source": "Sentencing Act 2020 (powers as amended by the Police, Crime, Sentencing and Courts Act 2022); ISC pilot framework via the Sentencing Act 2020 (Special Procedures for Community and Suspended Sentence Orders) Regulations 2023 (SI 2023/559)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2020/17/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "meam",
@@ -344,7 +365,8 @@
     "source": "Making Every Adult Matter (MEAM) — the England-wide coalition (Clinks, Homeless Link and Mind)",
     "source_url": "https://meam.org.uk",
     "org_ref": "findthatcharity org ID GB-CHC-1209508",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1209508"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1209508",
+    "context_note": null
   },
   {
     "id": "mhclg",
@@ -359,7 +381,8 @@
     "source": "GOV.UK — Ministry of Housing, Communities and Local Government.",
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
     "org_ref": "findthatcharity org ID GB-GOR-D4",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4",
+    "context_note": null
   },
   {
     "id": "multiple-disadvantage-md",
@@ -375,7 +398,8 @@
     "source": "South Tees Delivery Plan (Version 2) / MHCLG (2020) Changing Futures Prospectus (working cohort definition); comparator: Bramley et al. (2015) Hard Edges, Lankelly Chase Foundation.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "nihr",
@@ -390,7 +414,8 @@
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID XI-ROR-0187kwz08",
-    "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-0187kwz08"
+    "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-0187kwz08",
+    "context_note": null
   },
   {
     "id": "no-wrong-door",
@@ -405,7 +430,8 @@
     "source": "A recognised system-design principle in the multiple-disadvantage / systems-change field (e.g. MEAM); adopted locally by the programme.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "ohid",
@@ -420,7 +446,8 @@
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-GOVUK-office-for-health-improvement-and-disparities",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-office-for-health-improvement-and-disparities"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-office-for-health-improvement-and-disparities",
+    "context_note": null
   },
   {
     "id": "rct",
@@ -435,7 +462,8 @@
     "source": null,
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "rcvda",
@@ -450,7 +478,8 @@
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1135959",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
+    "context_note": null
   },
   {
     "id": "rea",
@@ -465,7 +494,8 @@
     "source": "UK Parliament POST (Parliamentary Office of Science and Technology) — Rapid Evidence Assessments",
     "source_url": "https://post.parliament.uk/rapid-evidence-assessments/",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "reqol",
@@ -480,7 +510,8 @@
     "source": "Recovering Quality of Life measure (Keetharuth et al.).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "roi",
@@ -496,7 +527,8 @@
     "source": "Standard economic-appraisal term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "severe-and-multiple-disadvantage-smd",
@@ -512,7 +544,8 @@
     "source": "Bramley, G. and Fitzpatrick, S. et al. (2015) Hard Edges: Mapping Severe and Multiple Disadvantage in England. London: Lankelly Chase Foundation.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "system-flex",
@@ -527,7 +560,8 @@
     "source": "A principle used across the multiple-disadvantage literature; adopted as a working term by the programme.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "trauma-informed-practice-tip",
@@ -543,7 +577,8 @@
     "source": "OHID (2022) Working definition of trauma-informed practice (GOV.UK)",
     "source_url": "https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "vcfse",
@@ -562,7 +597,8 @@
     "source": "Sector-standard term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "the-national-lottery-community-fund-tnlcf",
@@ -580,7 +616,8 @@
     "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "ministry-of-justice",
@@ -596,6 +633,7 @@
     "source": "Ministry of Justice (GOV.UK)",
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
     "org_ref": "findthatcharity org ID GB-GOR-D18",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D18"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D18",
+    "context_note": null
   }
 ]

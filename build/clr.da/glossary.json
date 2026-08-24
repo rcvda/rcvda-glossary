@@ -12,7 +12,8 @@
     "source": "The Identification and Referral to Improve Safety (IRIS) programme, which defines the Advocate Educator (AE) role; delivered locally at My Sister's Place, Middlesbrough (the postholder holds the SafeLives Older Persons Violence Advisor qualification).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "ask-me-ambassadors",
@@ -27,7 +28,8 @@
     "source": "Women's Aid — the national 'Ask Me' community ambassador scheme (part of Change That Lasts); delivered locally with Middlesbrough Council funding.",
     "source_url": "https://womensaid.org.uk/what-we-do/change-that-lasts/askme/",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "capva",
@@ -42,7 +44,8 @@
     "source": "Tees Child Protection Partnership — Child to Parent Violence and Abuse guidance; the national concept is set out in the Home Office (2015) Information guide: Adolescent to Parent Violence and Abuse",
     "source_url": "https://www.teescpp.org.uk/procedures-and-guidance-on-specific-issues-that-affect-children/child-to-parent-violence-and-abuse/",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "cleveland",
@@ -57,7 +60,8 @@
     "source": "The Cleveland (Structural Change) Order 1995 (SI 1995/187), which abolished the county created by the Local Government Act 1972; the geography survives as the Cleveland Police / OPCC footprint.",
     "source_url": "https://www.legislation.gov.uk/uksi/1995/187",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "csew",
@@ -73,7 +77,8 @@
     "source": "Crime Survey for England and Wales (Office for National Statistics) — a National Statistic governed by the Statistics and Registration Service Act 2007",
     "source_url": "https://www.crimesurvey.co.uk/en/index.html",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "dapn",
@@ -89,7 +94,8 @@
     "source": "Domestic Abuse Act 2021, Part 3",
     "source_url": "https://www.legislation.gov.uk/ukpga/2021/17/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "dapo",
@@ -107,7 +113,8 @@
     "source": "Domestic Abuse Act 2021, Part 3",
     "source_url": "https://www.legislation.gov.uk/ukpga/2021/17/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "dara",
@@ -122,7 +129,8 @@
     "source": "College of Policing — the Domestic Abuse Risk Assessment (DARA), which replaces DASH",
     "source_url": "https://www.college.police.uk/article/police-better-equipped-spot-controlling-behaviour",
     "org_ref": "findthatcharity org ID GB-GOVUK-college-of-policing (College of Policing)",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-college-of-policing"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-college-of-policing",
+    "context_note": null
   },
   {
     "id": "dare",
@@ -138,7 +146,8 @@
     "source": "Cleveland Office of the Police and Crime Commissioner — Decision Notice 2025-26-018: Domestic Abuse Routine Enquiry.",
     "source_url": "https://www.cleveland.pcc.police.uk/working-for-you/decisions/decision-notices/decision-2025-26-018-domestic-abuse-routine-enquiry/",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "dash",
@@ -153,7 +162,8 @@
     "source": "College of Policing — DASH risk assessment (now replaced by DARA)",
     "source_url": "https://www.college.police.uk/article/police-better-equipped-spot-controlling-behaviour",
     "org_ref": "findthatcharity org ID GB-GOVUK-college-of-policing (College of Policing)",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-college-of-policing"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-college-of-policing",
+    "context_note": null
   },
   {
     "id": "dhr",
@@ -168,7 +178,8 @@
     "source": "Domestic Violence, Crime and Victims Act 2004, s.9",
     "source_url": "https://www.legislation.gov.uk/ukpga/2004/28/section/9",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "domestic-abuse",
@@ -184,7 +195,8 @@
     "source": "Domestic Abuse Act 2021, s.1",
     "source_url": "https://www.legislation.gov.uk/ukpga/2021/17/section/1",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "ecw-enhanced-case-worker",
@@ -200,7 +212,8 @@
     "source": "South Tees Delivery Plan (Version 2), Workstream 2 (Enhanced Case Management).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "harbour",
@@ -215,7 +228,8 @@
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1086897",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1086897"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1086897",
+    "context_note": null
   },
   {
     "id": "hes",
@@ -230,7 +244,8 @@
     "source": "NHS England / NHS Digital — Hospital Episode Statistics (HES)",
     "source_url": "https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "icb",
@@ -245,7 +260,8 @@
     "source": "Health and Care Act 2022 (ICBs, Part 1)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "idva",
@@ -260,7 +276,8 @@
     "source": "SafeLives.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "iris",
@@ -276,7 +293,8 @@
     "source": "Identification and Referral to Improve Safety (IRIS) — Feder et al. (2011), University of Bristol; NICE-endorsed; licensed by IRISi.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "iris-plus",
@@ -291,7 +309,8 @@
     "source": "University of Bristol, Centre for Academic Primary Care (2024) — IRIS+ extends the health-care response (with IRISi)",
     "source_url": "https://www.bristol.ac.uk/primaryhealthcare/news/2024/iris-programme-extends-the-health-care-response.html",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "live-well-south-tees-board",
@@ -306,7 +325,8 @@
     "source": "Health and Social Care Act 2012, s.194 (Health and Wellbeing Boards)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/section/194",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "live-well-south-tees-executive-board",
@@ -321,7 +341,8 @@
     "source": "Executive arm of the Live Well South Tees Board (the statutory Health and Wellbeing Board, HSCA 2012 s.194); constituted by local terms of reference.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "lw-gp-link-worker",
@@ -336,7 +357,8 @@
     "source": "Harbour — the GP-based Independent Domestic Violence Advocate role in Redcar & Cleveland, within the THRIVE partnership.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "marac",
@@ -351,7 +373,8 @@
     "source": "SafeLives — What is a MARAC? (SafeLives stewards the national MARAC model and holds the definition)",
     "source_url": "https://safelives.org.uk/about-domestic-abuse/domestic-abuse-response-in-the-uk/what-is-a-marac/",
     "org_ref": "findthatcharity org ID GB-CHC-1106864 (SafeLives)",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864",
+    "context_note": null
   },
   {
     "id": "my-sister-s-place-msp",
@@ -367,7 +390,8 @@
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1137319",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1137319"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1137319",
+    "context_note": null
   },
   {
     "id": "nice-ph50",
@@ -383,7 +407,8 @@
     "source": "NICE PH50 (2014), Domestic violence and abuse: multi-agency working",
     "source_url": "https://www.nice.org.uk/guidance/ph50",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "nrpf",
@@ -398,7 +423,8 @@
     "source": "Immigration and Asylum Act 1999, s.115(9) (defines a person subject to immigration control, on condition of no recourse to public funds)",
     "source_url": "https://www.legislation.gov.uk/ukpga/1999/33/section/115",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "opcc",
@@ -413,7 +439,8 @@
     "source": "Police Reform and Social Responsibility Act 2011",
     "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "pathfinder-toolkit",
@@ -428,7 +455,8 @@
     "source": "Pathfinder Consortium (2020).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "pcn",
@@ -444,7 +472,8 @@
     "source": "Network Contract DES (NHS England, 2019/20), under the NHS Act 2006",
     "source_url": "https://www.england.nhs.uk/primary-care/primary-care-networks/network-contract-des/",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "re-aim",
@@ -459,7 +488,8 @@
     "source": "Glasgow, Vogt and Boles (1999) — Reach, Effectiveness, Adoption, Implementation, Maintenance evaluation framework.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "south-tees",
@@ -474,7 +504,8 @@
     "source": "South Tees Changing Futures programme geography; BRAND.md §4.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "the-system",
@@ -489,7 +520,8 @@
     "source": "Working definition adopted in this deep-dive series.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "thrive-partnership",
@@ -506,7 +538,8 @@
     "source": "We Are With You — the Thrive Partnership (Redcar and Cleveland; England's first integrated Domestic Abuse and Substance Use model); Thrive Impact Report 2024–2025",
     "source_url": "https://www.wearewithyou.org.uk/latest/news-and-views/women-stronger-together-a-three-way-conversation-with-the-thrive-partnership",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "vcfse",
@@ -525,7 +558,8 @@
     "source": "Sector-standard term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "victims-and-prisoners-act-2024",
@@ -540,7 +574,8 @@
     "source": "Victims and Prisoners Act 2024",
     "source_url": "https://www.legislation.gov.uk/ukpga/2024/21/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "wawy-we-are-with-you",
@@ -556,7 +591,8 @@
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1001957",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1001957"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1001957",
+    "context_note": null
   },
   {
     "id": "the-national-lottery-community-fund-tnlcf",
@@ -574,7 +610,8 @@
     "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "safelives",
@@ -591,6 +628,7 @@
     "source": "SafeLives — Our history",
     "source_url": "https://safelives.org.uk/about-us/our-history/",
     "org_ref": "findthatcharity org ID GB-CHC-1106864",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864",
+    "context_note": null
   }
 ]

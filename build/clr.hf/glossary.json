@@ -14,7 +14,8 @@
     "source": "Middlesbrough Council — Accessing Change Together (ACT)",
     "source_url": "https://www.middlesbrough.gov.uk/adult-social-care/accessing-change-together/",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "a-e",
@@ -29,7 +30,8 @@
     "source": null,
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "beyond-housing",
@@ -40,11 +42,12 @@
       "Beyond Housing"
     ],
     "type": "organisation",
-    "definition": "A registered provider of social housing operating across South Tees and the wider region; a named partner on the South Tees Changing Futures Programme Board.",
+    "definition": "A registered provider of social housing operating across the Tees Valley and the wider region.",
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-SHPE-LH4401",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-SHPE-LH4401"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-SHPE-LH4401",
+    "context_note": "A named partner on the South Tees Changing Futures Programme Board."
   },
   {
     "id": "cdpsoft",
@@ -60,7 +63,8 @@
     "source": "cdpsoft — the supplier's HOAMS (Housing Options case-management) product page.",
     "source_url": "https://www.cdpsoft.com/hoams/",
     "org_ref": "Companies House GB-COH-02893590",
-    "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/02893590"
+    "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/02893590",
+    "context_note": null
   },
   {
     "id": "changing-futures-cf",
@@ -76,7 +80,8 @@
     "source": "MHCLG (2020) Changing Futures: changing systems to support adults experiencing multiple disadvantage — Prospectus. London: MHCLG.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "cleveland",
@@ -91,7 +96,8 @@
     "source": "The Cleveland (Structural Change) Order 1995 (SI 1995/187), which abolished the county created by the Local Government Act 1972; the geography survives as the Cleveland Police / OPCC footprint.",
     "source_url": "https://www.legislation.gov.uk/uksi/1995/187",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "ecw-enhanced-case-worker",
@@ -107,7 +113,8 @@
     "source": "South Tees Delivery Plan (Version 2), Workstream 2 (Enhanced Case Management).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "fte",
@@ -123,7 +130,8 @@
     "source": "GOV.UK Analysis Function (2018) — Employment variables: Hours and FTE.",
     "source_url": "https://analysisfunction.civilservice.gov.uk/wp-content/uploads/2019/04/Employment-variables-Hours-and-FTE-April-18.pdf",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "fulfilling-lives",
@@ -139,7 +147,8 @@
     "source": "CFE Research, Cordis Bright and University of Sheffield (2022) The Fulfilling Lives Programme: Final evaluation. London: The National Lottery Community Fund.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "h-clic",
@@ -157,7 +166,8 @@
     "source": "Ministry of Housing, Communities and Local Government (MHCLG) statutory homelessness statistics.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "hae",
@@ -173,7 +183,8 @@
     "source": "Ministry of Housing, Communities and Local Government (MHCLG) statutory homelessness statistics (live tables).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "hmpps",
@@ -190,7 +201,8 @@
     "source": "GOV.UK — HM Prison and Probation Service (Ministry of Justice agency).",
     "source_url": "https://www.gov.uk/government/organisations/hm-prison-and-probation-service",
     "org_ref": "findthatcharity org ID XI-ROR-03e5xvd80",
-    "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-03e5xvd80"
+    "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-03e5xvd80",
+    "context_note": null
   },
   {
     "id": "homeless-link",
@@ -205,7 +217,8 @@
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1089173",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1089173"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1089173",
+    "context_note": null
   },
   {
     "id": "housing-first",
@@ -221,7 +234,8 @@
     "source": "Homeless Link (2017) The Principles for Housing First in England (seven principles); locally, STCFP Housing First Service Specification (Draft V1, Feb 2024 Board). Origin: Tsemberis, S. (1999), Pathways to Housing, New York.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "hra17",
@@ -236,7 +250,8 @@
     "source": "Homelessness Reduction Act 2017",
     "source_url": "https://www.legislation.gov.uk/ukpga/2017/13/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "icb",
@@ -251,7 +266,8 @@
     "source": "Health and Care Act 2022 (ICBs, Part 1)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "icp",
@@ -267,7 +283,8 @@
     "source": "Health and Care Act 2022 (integrated care partnerships)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "lha",
@@ -282,7 +299,8 @@
     "source": "Housing Benefit Regulations 2006 (SI 2006/213), regs 12D–13E (maximum rent (LHA))",
     "source_url": "https://www.legislation.gov.uk/uksi/2006/213/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "meam",
@@ -297,7 +315,8 @@
     "source": "Making Every Adult Matter (MEAM) — the England-wide coalition (Clinks, Homeless Link and Mind)",
     "source_url": "https://meam.org.uk",
     "org_ref": "findthatcharity org ID GB-CHC-1209508",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1209508"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1209508",
+    "context_note": null
   },
   {
     "id": "mhclg",
@@ -312,7 +331,8 @@
     "source": "GOV.UK — Ministry of Housing, Communities and Local Government.",
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
     "org_ref": "findthatcharity org ID GB-GOR-D4",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4",
+    "context_note": null
   },
   {
     "id": "multiple-disadvantage-md",
@@ -328,7 +348,8 @@
     "source": "South Tees Delivery Plan (Version 2) / MHCLG (2020) Changing Futures Prospectus (working cohort definition); comparator: Bramley et al. (2015) Hard Edges, Lankelly Chase Foundation.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "nrpf",
@@ -343,7 +364,8 @@
     "source": "Immigration and Asylum Act 1999, s.115(9) (defines a person subject to immigration control, on condition of no recourse to public funds)",
     "source_url": "https://www.legislation.gov.uk/ukpga/1999/33/section/115",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "opcc",
@@ -358,7 +380,8 @@
     "source": "Police Reform and Social Responsibility Act 2011",
     "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "pathways",
@@ -373,7 +396,8 @@
     "source": "Tsemberis, S. (1999) — the Pathways to Housing model, New York; the origin of Housing First.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "r-c",
@@ -389,7 +413,8 @@
     "source": "Local shorthand.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "registered-provider-rp",
@@ -405,7 +430,8 @@
     "source": "Housing and Regeneration Act 2008, Part 2",
     "source_url": "https://www.legislation.gov.uk/ukpga/2008/17/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "rsap",
@@ -420,7 +446,8 @@
     "source": "GOV.UK (MHCLG) — Rough Sleeping Accommodation Programme 2021-24",
     "source_url": "https://www.gov.uk/government/publications/rough-sleeping-accommodation-programme-2021-24",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "rsi",
@@ -435,7 +462,8 @@
     "source": "GOV.UK (MHCLG) — Rough Sleeping Initiative: 2022 to 2025 funding allocations",
     "source_url": "https://www.gov.uk/government/publications/rough-sleeping-initiative-2022-to-2025-funding-allocations",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "section-21-housing-act-1988",
@@ -450,7 +478,8 @@
     "source": "Housing Act 1988, s.21 (repealed by the Renters' Rights Act 2025, in force 1 May 2026)",
     "source_url": "https://www.legislation.gov.uk/ukpga/1988/50/section/21",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "section-8-housing-act-1988",
@@ -465,7 +494,8 @@
     "source": "Housing Act 1988, s.8 (and Schedule 2)",
     "source_url": "https://www.legislation.gov.uk/ukpga/1988/50/section/8",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "shap",
@@ -480,7 +510,8 @@
     "source": "GOV.UK (MHCLG) — Single Homelessness Accommodation Programme",
     "source_url": "https://www.gov.uk/government/publications/single-homelessness-accommodation-programme",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "south-tees-changing-futures-programme-stcfp",
@@ -498,7 +529,8 @@
     "source": "STCFP Board Terms of Reference; South Tees Delivery Plan (Version 2); later phase: Draft Housing Prospectus (Dec 2024).",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "spoc",
@@ -514,7 +546,8 @@
     "source": "Service-design term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "tees-valley",
@@ -529,7 +562,8 @@
     "source": "Tees Valley Combined Authority geography.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "tees-valley-lettings-partnership-tvlp",
@@ -545,7 +579,8 @@
     "source": "A partnership of five member organisations providing Tees Valley Home Finder.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "temporary-accommodation-ta",
@@ -560,7 +595,8 @@
     "source": "Housing Act 1996, s.188 (interim duty to accommodate)",
     "source_url": "https://www.legislation.gov.uk/ukpga/1996/52/section/188",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "thrive-partnership",
@@ -577,7 +613,8 @@
     "source": "We Are With You — the Thrive Partnership (Redcar and Cleveland; England's first integrated Domestic Abuse and Substance Use model); Thrive Impact Report 2024–2025",
     "source_url": "https://www.wearewithyou.org.uk/latest/news-and-views/women-stronger-together-a-three-way-conversation-with-the-thrive-partnership",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "trauma-informed-practice-tip",
@@ -593,7 +630,8 @@
     "source": "OHID (2022) Working definition of trauma-informed practice (GOV.UK)",
     "source_url": "https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "tsab",
@@ -609,7 +647,8 @@
     "source": "Care Act 2014, s.43 (Safeguarding Adults Boards)",
     "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/43",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "tvca",
@@ -625,7 +664,8 @@
     "source": "Tees Valley Combined Authority Order 2016 (SI 2016/449), under the Local Democracy, Economic Development and Construction Act 2009",
     "source_url": "https://www.legislation.gov.uk/uksi/2016/449/contents/made",
     "org_ref": "findthatcharity org ID GB-LAE-TVCA",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-TVCA"
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-TVCA",
+    "context_note": null
   },
   {
     "id": "tvhf-tees-valley-home-finder",
@@ -641,7 +681,8 @@
     "source": "Tees Valley Home Finder service portal — a service commissioned by the Tees Valley Lettings Partnership (TVLP)",
     "source_url": "https://teesvalleyhomefinder.housingjigsaw.co.uk",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "vcfse",
@@ -660,7 +701,8 @@
     "source": "Sector-standard term.",
     "source_url": null,
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   },
   {
     "id": "the-national-lottery-community-fund-tnlcf",
@@ -678,6 +720,7 @@
     "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
     "org_ref": null,
-    "org_ref_url": null
+    "org_ref_url": null,
+    "context_note": null
   }
 ]

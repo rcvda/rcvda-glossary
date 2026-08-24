@@ -144,17 +144,17 @@
   full_term: Beyond Housing
   aliases: Beyond Housing
   type: organisation
-  definition: A registered provider of social housing operating across South Tees and the wider 
-    region; a named partner on the South Tees Changing Futures Programme Board.
+  definition: A registered provider of social housing operating across the Tees Valley and the wider
+    region.
   source: ''
   source_url:
   org_ref: findthatcharity org ID GB-SHPE-LH4401
   org_ref_url: https://findthatcharity.uk/orgid/GB-SHPE-LH4401
   scope:
   - clr.hf
-  note: Org reference per RCVDA estate standard (findthatcharity org ID). Submitted a 2023 bid to 
-    the Single Homelessness Accommodation Programme (SHAP).
   agreed: y
+  context_notes:
+    clr: A named partner on the South Tees Changing Futures Programme Board.
 - term: BOLD
   id: bold
   abbr: BOLD
@@ -1385,8 +1385,9 @@
   - bof
   note: ''
   agreed: y
-  plain: A target used to measure how well something is going — for example, running the programme 
-    in five schools each term.
+  plain: A target used to measure how well something is going.
+  context_notes:
+    bof: For example, running the programme in five schools each term.
 - term: LA
   id: la
   abbr: LA
@@ -1608,16 +1609,18 @@
   full_term: Middlesbrough Council
   aliases: Middlesbrough Council|MBC|Middlesbrough Borough Council
   type: organisation
-  definition: One of the two unitary local authorities that make up South Tees; a member of the Tees
-    Valley Lettings Partnership.
+  definition: The unitary local authority for the Middlesbrough area.
   source: ''
   source_url:
   org_ref: findthatcharity org ID GB-LAE-MDB
   org_ref_url: https://findthatcharity.uk/orgid/GB-LAE-MDB
   scope:
   - rcvda
-  note: Org reference per RCVDA estate standard (findthatcharity org ID).
   agreed: y
+  context_notes:
+    clr: With Redcar & Cleveland Borough Council, one of the two authorities that make up South 
+      Tees.
+    clr.hf: A member of the Tees Valley Lettings Partnership.
 - term: Multiple disadvantage (MD)
   id: multiple-disadvantage-md
   abbr: MD
@@ -1825,14 +1828,15 @@
   aliases: North Star|North Star Housing
   type: organisation
   definition: A housing association (registered provider of social housing) operating across the 
-    Tees Valley; a member of the Tees Valley Lettings Partnership.
+    Tees Valley.
   source: ''
   source_url:
   org_ref: findthatcharity org ID GB-MPR-21256R
   org_ref_url: https://findthatcharity.uk/orgid/GB-MPR-21256R
   scope: []
-  note: Org reference per RCVDA estate standard (findthatcharity org ID).
   agreed: y
+  context_notes:
+    clr.hf: A member of the Tees Valley Lettings Partnership.
 - term: Not ready to engage
   id: not-ready-to-engage
   abbr: ''
@@ -2120,8 +2124,7 @@
   full_term: Redcar and Cleveland Borough Council
   aliases: Redcar and Cleveland Borough Council|Redcar & Cleveland Borough Council|RCBC
   type: organisation
-  definition: One of the two unitary local authorities that make up South Tees; a member of the Tees
-    Valley Lettings Partnership.
+  definition: The unitary local authority for the Redcar and Cleveland area.
   source: ''
   source_url:
   org_ref: findthatcharity org ID GB-LAE-RCC
@@ -2129,10 +2132,12 @@
   scope:
   - rcvda
   - bof
-  note: Org reference per RCVDA estate standard (findthatcharity org ID).
   agreed: y
-  plain: The local council for the Redcar and Cleveland area. Building our Futures works with it and
-    meets it each month.
+  plain: The local council for the Redcar and Cleveland area.
+  context_notes:
+    clr: With Middlesbrough Council, one of the two authorities that make up South Tees.
+    clr.hf: A member of the Tees Valley Lettings Partnership.
+    bof: Building our Futures works with the council and meets it monthly.
 - term: Registered Provider (RP)
   id: registered-provider-rp
   abbr: RP
@@ -2458,16 +2463,17 @@
   full_term: Stockton-on-Tees Borough Council
   aliases: Stockton-on-Tees Borough Council|Stockton Council|SBC
   type: organisation
-  definition: A Tees Valley unitary local authority; a member of the Tees Valley Lettings 
-    Partnership (outside the South Tees programme footprint).
+  definition: The unitary local authority for the Stockton-on-Tees area, in the Tees Valley.
   source: ''
   source_url:
   org_ref: findthatcharity org ID GB-LAE-STT
   org_ref_url: https://findthatcharity.uk/orgid/GB-LAE-STT
   scope:
   - rcvda
-  note: Org reference per RCVDA estate standard (findthatcharity org ID).
   agreed: y
+  context_notes:
+    clr.hf: A member of the Tees Valley Lettings Partnership, though outside the South Tees 
+      programme footprint.
 - term: SWE
   id: swe
   abbr: SWE
@@ -3148,7 +3154,8 @@
   scope:
   - rcvda
   agreed: n
-  note: 'Companies House: Lawn Tennis Association Limited, 07459469 (the national governing body, Roehampton).'
+  note: 'Companies House: Lawn Tennis Association Limited, 07459469 (the national governing body, Roehampton).
+    From the RCVDA static glossary''s ''Others — commonly used in Sport'' list.'
 - term: Department for Education
   id: department-for-education
   abbr: DfE

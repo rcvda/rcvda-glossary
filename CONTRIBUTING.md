@@ -32,7 +32,24 @@ An entry looks like this (only `term`, `id`, `type`, `definition` and `scope` ar
 - **Dual reference.** `source`/`source_url` = the law or authority; `org_ref`/`org_ref_url` = the live
   organisation's Find That Charity ID. Provisions and roles get a source only; non-statutory orgs get an
   org_ref only; some get both.
-- **Divergence goes in `overrides`, not a fork.** If a term reads differently in one lens:
+- **Definition = atomic identity.** `definition` (and its `plain` twin) states *only what the thing is*,
+  stripped of every relationship. If a clause says "part of X", "a member of Y", "works with Z", or frames
+  the thing through a partnership/programme, it's relational — move it to `context_notes`, keyed to the
+  lens or programme it belongs to. Test: if a reader in a different programme would find the clause
+  irrelevant, it's a context note, not a definition. (See `tools/DEFINITION_CLEANUP.md`.)
+  ```yaml
+  definition: The unitary local authority for the Redcar and Cleveland area.
+  plain: The local council for the Redcar and Cleveland area.
+  context_notes:
+    clr:    With Middlesbrough Council, one of the two authorities that make up South Tees.  # all clr.* lenses
+    clr.hf: A member of the Tees Valley Lettings Partnership.                                 # Housing First only
+    bof:    Building our Futures works with the council and meets it monthly.                 # BoF only
+  ```
+  A note keyed to a **programme** (`clr`) is inherited by all its lenses; a note keyed to a **lens**
+  (`clr.hf`, `bof`) shows only there. Notes are **additive** (rendered after the definition).
+- **`overrides` vs `context_notes` — replace vs augment.** `context_notes` *adds* a sentence and keeps the
+  canonical definition intact (use this for relational facts). `overrides` *replaces* a field for one
+  context — reserve it for the rare case where a term genuinely *means* something different there:
   ```yaml
   overrides:
     rcvda: { plain: "A named worker who helps someone get support from lots of services." }

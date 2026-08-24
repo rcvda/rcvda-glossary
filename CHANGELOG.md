@@ -1,5 +1,19 @@
 # Changelog — rcvda-glossary
 
+## 2026-08-23 — `context_notes`: separating identity from context
+- New mechanism: `definition`/`plain` now hold only a term's **atomic identity**; relational facts move
+  to `context_notes`, a map keyed by **programme** (`clr`, inherited by its lenses) or **lens**
+  (`clr.hf`, `bof`). `build.py` renders `definition + inherited + lens note` per lens; the master stays
+  canonical; site-JSON carries the note separately. Validates note keys against `contexts.yml`.
+  Distinct from `overrides` (which *replaces* a field for genuine meaning divergence).
+- First-pass split of 6 conflated entries: Redcar & Cleveland / Middlesbrough / Stockton councils,
+  North Star, Beyond Housing (partnership riders → context notes), and KPI (a BoF-only "five schools"
+  example moved out of the shared plain field). Payoff: "South Tees" is a public-health-partnership frame,
+  so it now renders only in CLR lenses, not the org-wide or schools lenses.
+- Docs: contributor rule (atomic definition; augment-vs-replace) in CONTRIBUTING.md; the full method,
+  the 6 applied, the judgement calls (VCFSE etc.) and the CF-report implication in
+  `tools/DEFINITION_CLEANUP.md`.
+
 ## 2026-08-23 — Company org references (Companies House)
 - Resolved the company entries: CFE Research `GB-COH-03345012` (via Find That Charity); and — referenced
   directly to Companies House, since FTC doesn't index them — CDPSOFT `GB-COH-02893590`, Anglo American plc
