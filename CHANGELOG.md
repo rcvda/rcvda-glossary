@@ -1,5 +1,17 @@
 # Changelog — rcvda-glossary
 
+## 2026-08-24 — All 97 drafted entries signed off (`agreed: y`)
+- Reviewed with Peter; **every entry is now `agreed: y`** (0 remaining).
+- New `short_name` field + build support: a programme construct is named with its programme in the master
+  (e.g. "Building our Futures Business Network") but shows its short form ("Business Network") in that
+  programme's own lens. Applied to the BoF constructs — the Business / Primary / Secondary / All Schools
+  Networks, Career Champion, Enrichment offer, and the Pupil Journey (+ its six steps → "Pupil Journey — …").
+- Content fixes from the review: Investors in Careers (dropped the school count); SSE/Vårgrønn/Equinor
+  Dogger Bank owners standardised to "one of the three owners" (no per-partner %); TNLCF & Ministry of
+  Justice split (atomic definition + `clr` note, pending-sign-off notes cleared); Case study split
+  (atomic + `bof` note); NEAS trimmed; Safeguarding Adults Board atomic + `rcvda` note; Employer encounters
+  reworded; STEM programme → "Dogger Bank STEM Education and Careers Programme" (atomic + `bof` note).
+
 ## 2026-08-24 — Review worksheet for the 97 `agreed: n` entries
 - `tools/agreed_review.csv` lists every unsigned-off entry (54 rcvda + 40 bof + 3 CF hold-overs: TNLCF,
   SafeLives, Ministry of Justice) with term/definition/plain/source/scope + a `decision` column and

@@ -15,7 +15,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "cfe-research-cfe",
@@ -32,7 +33,8 @@
     "source_url": "https://cfe.org.uk",
     "org_ref": "findthatcharity org ID GB-COH-03345012",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-COH-03345012",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "trauma-informed-champion",
@@ -50,7 +52,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "changing-futures-cf",
@@ -67,7 +70,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "clrp",
@@ -83,7 +87,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": "The vehicle through which this deep-dive series is produced."
+    "context_note": "The vehicle through which this deep-dive series is produced.",
+    "short_name": null
   },
   {
     "id": "com-b",
@@ -99,7 +104,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dhsc",
@@ -117,7 +123,8 @@
     "source_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
     "org_ref": "findthatcharity org ID GB-GOR-D12",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D12",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dluhc",
@@ -133,7 +140,8 @@
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
     "org_ref": "findthatcharity org ID GB-GOVUK-department-for-levelling-up-housing-and-communities",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-department-for-levelling-up-housing-and-communities",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dph",
@@ -149,7 +157,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/73A",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "ecw-enhanced-case-worker",
@@ -166,7 +175,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "eric",
@@ -182,7 +192,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "hcpc",
@@ -198,7 +209,8 @@
     "source_url": "https://www.legislation.gov.uk/uksi/2002/254/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "hdrc-st",
@@ -217,7 +229,8 @@
     "source_url": "https://hdrcsouthtees.co.uk",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": "The programme within which this deep-dive series — and RCVDA's Community-led Research Programme — is produced."
+    "context_note": "The programme within which this deep-dive series — and RCVDA's Community-led Research Programme — is produced.",
+    "short_name": null
   },
   {
     "id": "hr",
@@ -234,7 +247,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "icb",
@@ -250,7 +264,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "kpi",
@@ -267,7 +282,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "la",
@@ -283,7 +299,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/1972/70/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "lvrn",
@@ -299,7 +316,8 @@
     "source_url": "https://lancsvrn.co.uk",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "mhclg",
@@ -315,7 +333,8 @@
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
     "org_ref": "findthatcharity org ID GB-GOR-D4",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "multiple-disadvantage-md",
@@ -332,7 +351,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "nenc-nenc-icb",
@@ -349,7 +369,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": "findthatcharity org ID GB-NHS-01H",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-01H",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "nes",
@@ -365,7 +386,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "nhs",
@@ -381,7 +403,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/1946/81/contents/enacted",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "nlp",
@@ -397,7 +420,8 @@
     "source_url": "https://anlp.org/knowledge-base/definition-of-nlp",
     "org_ref": "findthatcharity org ID GB-COH-05383959 (ANLP)",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-COH-05383959",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "nmc",
@@ -413,7 +437,8 @@
     "source_url": "https://www.legislation.gov.uk/uksi/2002/253/contents",
     "org_ref": "findthatcharity org ID GB-CHC-1091434",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1091434",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "ohid",
@@ -429,7 +454,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-GOVUK-office-for-health-improvement-and-disparities",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-office-for-health-improvement-and-disparities",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "opcc",
@@ -445,7 +471,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "r-c",
@@ -462,7 +489,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "rcvda",
@@ -478,7 +506,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1135959",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
-    "context_note": "The publishing host of this deep-dive series."
+    "context_note": "The publishing host of this deep-dive series.",
+    "short_name": null
   },
   {
     "id": "samhsa",
@@ -494,7 +523,8 @@
     "source_url": "https://www.samhsa.gov/mental-health/trauma-violence/trauma-informed-approaches-programs",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "secondary-trauma",
@@ -513,7 +543,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "siro",
@@ -529,7 +560,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "south-tees-changing-futures-programme-stcfp",
@@ -548,7 +580,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "swe",
@@ -564,7 +597,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2017/16/contents",
     "org_ref": "findthatcharity org ID GB-GOVUK-social-work-england",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-social-work-england",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "tica",
@@ -581,7 +615,8 @@
     "source_url": "https://www.traumainformedcommunityaction.org/community",
     "org_ref": "findthatcharity org ID GB-COH-15441846",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-COH-15441846",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "tipc",
@@ -599,7 +634,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "trauma-aware-curious-informed-responsive",
@@ -615,7 +651,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "trauma-informed-champions-charter",
@@ -632,7 +669,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "trauma-informed-practice-tip",
@@ -649,7 +687,8 @@
     "source_url": "https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "vcfse",
@@ -669,7 +708,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": "The sector RCVDA works within and holds the deep-dive work on behalf of."
+    "context_note": "The sector RCVDA works within and holds the deep-dive work on behalf of.",
+    "short_name": null
   },
   {
     "id": "vicarious-trauma",
@@ -688,7 +728,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "vru",
@@ -704,7 +745,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "wawy-we-are-with-you",
@@ -721,7 +763,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1001957",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1001957",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "workstream",
@@ -737,7 +780,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "the-national-lottery-community-fund-tnlcf",
@@ -751,11 +795,12 @@
       "Big Lottery Fund"
     ],
     "type": "statutory",
-    "definition": "The operating name since 2019 of the Big Lottery Fund: the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players. Joint funder of Changing Futures with MHCLG.",
+    "definition": "The operating name since 2019 of the Big Lottery Fund — the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players.",
     "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Joint funder of Changing Futures with MHCLG.",
+    "short_name": null
   }
 ]

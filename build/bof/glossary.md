@@ -36,8 +36,9 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Career Journeys and Aspirations** |  | local-programme | What a career is, and what jobs there are in the local area. | RCVDA — Building our Futures programme. | — |
 | **Careers lead** |  | substantive | The teacher in charge of careers learning at a school. | Education sector usage. | — |
 | **Careers-related learning** | CRL | substantive | The careers lessons taught in school. Building our Futures uses its own tool to check what a school already does. | RCVDA — Building our Futures programme. | — |
-| **Case study** |  | method | A short write-up of impact, one each term. It tells one pupil's or one school's story. | RCVDA — Building our Futures programme. | — |
+| **Case study** |  | method | A short written account of one example of impact. Building our Futures produces one each term, telling one pupil's or one school's story. | RCVDA — Building our Futures programme. | — |
 | **CDI KS2 framework** |  | method | A careers framework for Key Stage 2 (ages 7 to 11), made by the Career Development Institute. | [Career Development Institute](https://www.thecdi.net/resources/cdi-framework) | — |
+| **Dogger Bank STEM Education and Careers Programme** |  | local-programme | Dogger Bank Wind Farm's giving programme for STEM education and careers. Funds Building our Futures. | RCVDA — Building our Futures programme. | — |
 | **Dogger Bank Wind Farm** | DBWF | organisation | A large wind farm out at sea, off the North East coast. Funds Building our Futures through its STEM Education and Careers Programmes. | [Dogger Bank Wind Farm](https://doggerbank.com/) | — |
 | **Early Years Foundation Stage** | EYFS | statutory | The stage for the youngest children. Building our Futures reaches it through special early-years lessons. | [DfE — Statutory framework for the early years foundation stage](https://www.gov.uk/government/publications/early-years-foundation-stage-framework--2) | — |
 | **Employer encounters / employer engagement** |  | substantive | The words the sector uses for pupils meeting the world of work. | Education / careers sector usage. | — |
@@ -47,8 +48,8 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Essential Skills** |  | local-programme | The eight essential skills from the Skills Builder Universal Framework. | RCVDA — Building our Futures programme. | — |
 | **Gatsby Benchmarks** |  | substantive | The national standard for good careers guidance. Building our Futures follows it. | [The Gatsby Foundation](https://www.gatsbybenchmarks.org.uk/) | — |
 | **Income Deprivation Affecting Children Index** | IDACI | substantive | A measure of child poverty in an area. Building our Futures uses it to choose which schools to work with first. | [MHCLG — English indices of deprivation 2019](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019) | — |
-| **Interview Skills and Communication** |  | local-programme | Body language and how to speak well at work. | RCVDA — Building our Futures programme. | — |
-| **Investors in Careers Primary** |  | method | An award for good primary careers work. Three schools are working towards it now. | [Investors in Careers](https://www.investorsincareers.org.uk/) | — |
+| **Interview Skills & Communication** |  | local-programme | Body language and how to speak well at work. | RCVDA — Building our Futures programme. | — |
+| **Investors in Careers Primary** |  | method | An award for good primary careers work that local primary schools are working towards. | [Investors in Careers](https://www.investorsincareers.org.uk/) | — |
 | **Key performance indicator** | KPI | acronym | A target used to measure how well something is going. For example, running the programme in five schools each term. | Standard performance-management term. | — |
 | **Key Stage 2** | KS2 | statutory | The primary years, roughly ages 7 to 11. The main focus of Building our Futures. | [National curriculum in England](https://www.gov.uk/government/collections/national-curriculum) | — |
 | **Living in the Wider World** |  | substantive | One of the three main parts of the PSHE Association's plan of study. | [PSHE Association](https://pshe-association.org.uk/) | — |
@@ -63,13 +64,12 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Secondary Schools Network** |  | local-programme | A network that supports the move up to secondary school. | RCVDA — Building our Futures programme. | — |
 | **Skills Builder Universal Framework** |  | method | A skills framework built around eight essential skills. The framework Building our Futures uses. | [Skills Builder Partnership](https://www.skillsbuilder.org/) | — |
 | **Special Educational Needs and Disabilities** | SEND | statutory | Extra support for pupils with special educational needs or disabilities. Building our Futures adapts the Pupil Journey for these pupils, up to age 19. | [Children and Families Act 2014, Part 3](https://www.legislation.gov.uk/ukpga/2014/6/part/3) | — |
-| **SSE Renewables** |  | organisation | A renewable-energy company. It owns 40% of Dogger Bank Wind Farm. | [SSE Renewables](https://www.sserenewables.com) | [Companies House GB-COH-SC117119](https://find-and-update.company-information.service.gov.uk/company/SC117119) |
-| **STEM Education and Careers Programmes** |  | local-programme | The part of Dogger Bank Wind Farm's community giving that pays for Building our Futures. | RCVDA — Building our Futures programme. | — |
+| **SSE Renewables** |  | organisation | A renewable-energy company. One of the three owners of Dogger Bank Wind Farm. | [SSE Renewables](https://www.sserenewables.com) | [Companies House GB-COH-SC117119](https://find-and-update.company-information.service.gov.uk/company/SC117119) |
 | **Team Work Challenge** |  | local-programme | A problem to solve or a design challenge, set by an employer. | RCVDA — Building our Futures programme. | — |
 | **The eight essential skills** |  | substantive | The eight skills for work and life, set out in the Skills Builder Universal Framework. | [Skills Builder Partnership](https://www.skillsbuilder.org/) | — |
 | **The Pupil Journey** |  | local-programme | The six steps at the heart of the programme. It runs in primary schools for children aged 7 to 11. | RCVDA — Building our Futures programme. | — |
 | **Transition programme** |  | local-programme | Work that helps pupils move from primary to secondary school. | RCVDA — Building our Futures programme. | — |
-| **Vårgrønn** |  | organisation | An offshore-wind company. It owns 20% of Dogger Bank Wind Farm. | [Vårgrønn](https://www.vargronn.com) | — |
+| **Vårgrønn** |  | organisation | An offshore-wind company. One of the three owners of Dogger Bank Wind Farm. | [Vårgrønn](https://www.vargronn.com) | — |
 
 ---
 

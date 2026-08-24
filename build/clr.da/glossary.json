@@ -13,7 +13,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "ask-me-ambassadors",
@@ -29,7 +30,8 @@
     "source_url": "https://womensaid.org.uk/what-we-do/change-that-lasts/askme/",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "capva",
@@ -45,7 +47,8 @@
     "source_url": "https://www.teescpp.org.uk/procedures-and-guidance-on-specific-issues-that-affect-children/child-to-parent-violence-and-abuse/",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "cleveland",
@@ -61,7 +64,8 @@
     "source_url": "https://www.legislation.gov.uk/uksi/1995/187",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "csew",
@@ -78,7 +82,8 @@
     "source_url": "https://www.crimesurvey.co.uk/en/index.html",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dapn",
@@ -95,7 +100,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2021/17/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dapo",
@@ -114,7 +120,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2021/17/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dara",
@@ -130,7 +137,8 @@
     "source_url": "https://www.college.police.uk/article/police-better-equipped-spot-controlling-behaviour",
     "org_ref": "findthatcharity org ID GB-GOVUK-college-of-policing (College of Policing)",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-college-of-policing",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dare",
@@ -147,7 +155,8 @@
     "source_url": "https://www.cleveland.pcc.police.uk/working-for-you/decisions/decision-notices/decision-2025-26-018-domestic-abuse-routine-enquiry/",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dash",
@@ -163,7 +172,8 @@
     "source_url": "https://www.college.police.uk/article/police-better-equipped-spot-controlling-behaviour",
     "org_ref": "findthatcharity org ID GB-GOVUK-college-of-policing (College of Policing)",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-college-of-policing",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dhr",
@@ -179,7 +189,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2004/28/section/9",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "domestic-abuse",
@@ -196,7 +207,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2021/17/section/1",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "ecw-enhanced-case-worker",
@@ -213,7 +225,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "harbour",
@@ -229,7 +242,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1086897",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1086897",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "hes",
@@ -245,7 +259,8 @@
     "source_url": "https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "icb",
@@ -261,7 +276,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "idva",
@@ -277,7 +293,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "iris",
@@ -294,7 +311,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "iris-plus",
@@ -310,7 +328,8 @@
     "source_url": "https://www.bristol.ac.uk/primaryhealthcare/news/2024/iris-programme-extends-the-health-care-response.html",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "live-well-south-tees-board",
@@ -326,7 +345,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/section/194",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "live-well-south-tees-executive-board",
@@ -342,7 +362,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "lw-gp-link-worker",
@@ -358,7 +379,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "marac",
@@ -374,7 +396,8 @@
     "source_url": "https://safelives.org.uk/about-domestic-abuse/domestic-abuse-response-in-the-uk/what-is-a-marac/",
     "org_ref": "findthatcharity org ID GB-CHC-1106864 (SafeLives)",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "my-sister-s-place-msp",
@@ -391,7 +414,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1137319",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1137319",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "nice-ph50",
@@ -408,7 +432,8 @@
     "source_url": "https://www.nice.org.uk/guidance/ph50",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "nrpf",
@@ -424,7 +449,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/1999/33/section/115",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "opcc",
@@ -440,7 +466,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "pathfinder-toolkit",
@@ -456,7 +483,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "pcn",
@@ -473,7 +501,8 @@
     "source_url": "https://www.england.nhs.uk/primary-care/primary-care-networks/network-contract-des/",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "re-aim",
@@ -489,7 +518,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "south-tees",
@@ -505,7 +535,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "the-system",
@@ -521,7 +552,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "thrive-partnership",
@@ -539,7 +571,8 @@
     "source_url": "https://www.wearewithyou.org.uk/latest/news-and-views/women-stronger-together-a-three-way-conversation-with-the-thrive-partnership",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "vcfse",
@@ -559,7 +592,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": "The sector RCVDA works within and holds the deep-dive work on behalf of."
+    "context_note": "The sector RCVDA works within and holds the deep-dive work on behalf of.",
+    "short_name": null
   },
   {
     "id": "victims-and-prisoners-act-2024",
@@ -575,7 +609,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2024/21/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "wawy-we-are-with-you",
@@ -592,7 +627,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1001957",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1001957",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "the-national-lottery-community-fund-tnlcf",
@@ -606,12 +642,13 @@
       "Big Lottery Fund"
     ],
     "type": "statutory",
-    "definition": "The operating name since 2019 of the Big Lottery Fund: the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players. Joint funder of Changing Futures with MHCLG.",
+    "definition": "The operating name since 2019 of the Big Lottery Fund — the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players.",
     "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Joint funder of Changing Futures with MHCLG.",
+    "short_name": null
   },
   {
     "id": "safelives",
@@ -629,6 +666,7 @@
     "source_url": "https://safelives.org.uk/about-us/our-history/",
     "org_ref": "findthatcharity org ID GB-CHC-1106864",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   }
 ]

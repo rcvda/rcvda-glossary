@@ -15,7 +15,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "a-e",
@@ -31,7 +32,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "bold",
@@ -47,7 +49,8 @@
     "source_url": "https://www.gov.uk/government/publications/ministry-of-justice-better-outcomes-through-linked-data-bold/ministry-of-justice-better-outcomes-through-linked-data-bold",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "changing-futures-cf",
@@ -64,7 +67,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "cjs",
@@ -80,7 +84,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": "One of the five disadvantage domains in the Changing Futures cohort definition."
+    "context_note": "One of the five disadvantage domains in the Changing Futures cohort definition.",
+    "short_name": null
   },
   {
     "id": "clrp",
@@ -96,7 +101,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": "The vehicle through which this deep-dive series is produced."
+    "context_note": "The vehicle through which this deep-dive series is produced.",
+    "short_name": null
   },
   {
     "id": "dluhc",
@@ -112,7 +118,8 @@
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
     "org_ref": "findthatcharity org ID GB-GOVUK-department-for-levelling-up-housing-and-communities",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-department-for-levelling-up-housing-and-communities",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "domestic-abuse",
@@ -129,7 +136,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2021/17/section/1",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dwp",
@@ -146,7 +154,8 @@
     "source_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
     "org_ref": "findthatcharity org ID GB-GOR-D10",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D10",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "ebe",
@@ -162,7 +171,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "ecw-enhanced-case-worker",
@@ -179,7 +189,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "fdac",
@@ -195,7 +206,8 @@
     "source_url": "https://fdac.org.uk",
     "org_ref": "findthatcharity org ID GB-CHC-1151939 (Centre for Justice Innovation)",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1151939",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "fte",
@@ -212,7 +224,8 @@
     "source_url": "https://analysisfunction.civilservice.gov.uk/wp-content/uploads/2019/04/Employment-variables-Hours-and-FTE-April-18.pdf",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "fulfilling-lives",
@@ -229,7 +242,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "gdpr",
@@ -246,7 +260,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2018/12/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "hdrc-st",
@@ -265,7 +280,8 @@
     "source_url": "https://hdrcsouthtees.co.uk",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": "The programme within which this deep-dive series — and RCVDA's Community-led Research Programme — is produced."
+    "context_note": "The programme within which this deep-dive series — and RCVDA's Community-led Research Programme — is produced.",
+    "short_name": null
   },
   {
     "id": "hi",
@@ -282,7 +298,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "housing-first",
@@ -299,7 +316,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "icb",
@@ -315,7 +333,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "ips",
@@ -331,7 +350,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "isc",
@@ -350,7 +370,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2020/17/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "meam",
@@ -366,7 +387,8 @@
     "source_url": "https://meam.org.uk",
     "org_ref": "findthatcharity org ID GB-CHC-1209508",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1209508",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "mhclg",
@@ -382,7 +404,8 @@
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
     "org_ref": "findthatcharity org ID GB-GOR-D4",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "multiple-disadvantage-md",
@@ -399,7 +422,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "nihr",
@@ -415,7 +439,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID XI-ROR-0187kwz08",
     "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-0187kwz08",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "no-wrong-door",
@@ -431,7 +456,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "ohid",
@@ -447,7 +473,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-GOVUK-office-for-health-improvement-and-disparities",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-office-for-health-improvement-and-disparities",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "rct",
@@ -463,7 +490,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "rcvda",
@@ -479,7 +507,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1135959",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
-    "context_note": "The publishing host of this deep-dive series."
+    "context_note": "The publishing host of this deep-dive series.",
+    "short_name": null
   },
   {
     "id": "rea",
@@ -495,7 +524,8 @@
     "source_url": "https://post.parliament.uk/rapid-evidence-assessments/",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "reqol",
@@ -511,7 +541,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "roi",
@@ -528,7 +559,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "severe-and-multiple-disadvantage-smd",
@@ -545,7 +577,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "system-flex",
@@ -561,7 +594,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "trauma-informed-practice-tip",
@@ -578,7 +612,8 @@
     "source_url": "https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "vcfse",
@@ -598,7 +633,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": "The sector RCVDA works within and holds the deep-dive work on behalf of."
+    "context_note": "The sector RCVDA works within and holds the deep-dive work on behalf of.",
+    "short_name": null
   },
   {
     "id": "the-national-lottery-community-fund-tnlcf",
@@ -612,12 +648,13 @@
       "Big Lottery Fund"
     ],
     "type": "statutory",
-    "definition": "The operating name since 2019 of the Big Lottery Fund: the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players. Joint funder of Changing Futures with MHCLG.",
+    "definition": "The operating name since 2019 of the Big Lottery Fund — the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players.",
     "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Joint funder of Changing Futures with MHCLG.",
+    "short_name": null
   },
   {
     "id": "ministry-of-justice",
@@ -629,11 +666,12 @@
       "MoJ"
     ],
     "type": "organisation",
-    "definition": "The UK government department responsible for the courts, prisons, probation and sentencing policy in England and Wales; commissioned the Intensive Supervision Courts pilot and published the process evaluation cited in the Multiple Disadvantage report.",
+    "definition": "The UK government department responsible for the courts, prisons, probation and sentencing policy in England and Wales.",
     "source": "Ministry of Justice (GOV.UK)",
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
     "org_ref": "findthatcharity org ID GB-GOR-D18",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D18",
-    "context_note": null
+    "context_note": "Commissioned the Intensive Supervision Courts pilot and published the process evaluation cited in the Multiple Disadvantage report.",
+    "short_name": null
   }
 ]

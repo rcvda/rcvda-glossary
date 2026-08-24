@@ -2943,9 +2943,8 @@
   aliases: The National Lottery Community Fund|National Lottery Community Fund|TNLCF|Big Lottery 
     Fund
   type: statutory
-  definition: "The operating name since 2019 of the Big Lottery Fund: the UK's largest funder of community
-    activity, distributing money raised for good causes by National Lottery players. Joint funder of Changing
-    Futures with MHCLG."
+  definition: "The operating name since 2019 of the Big Lottery Fund — the UK's largest funder of community
+    activity, distributing money raised for good causes by National Lottery players."
   source: National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The 
     National Lottery Community Fund since 2019).
   source_url: https://www.legislation.gov.uk/ukpga/2006/23/contents
@@ -2957,9 +2956,9 @@
   - clr.kw
   - clr.md
   - clr.tip
-  note: 'Added 2026-08-13: co-funder of Changing Futures, previously written out in full everywhere with
-    no entry of its own; now abbreviated TNLCF across the report series. Pending team sign-off.'
-  agreed: n
+  agreed: y
+  context_notes:
+    clr: Joint funder of Changing Futures with MHCLG.
 - term: SafeLives
   id: safelives
   abbr: ''
@@ -2979,7 +2978,7 @@
   note: 'Added 2026-08-13: SafeLives previously appeared only as a source (MARAC steward; IDVA source),
     with no entry of its own. CAADA is the former name of the organisation; the 2010 report Saving lives,
     saving money cited in the DA report was published under CAADA. Pending team sign-off.'
-  agreed: n
+  agreed: y
 - term: Ministry of Justice
   id: ministry-of-justice
   abbr: MoJ
@@ -2987,8 +2986,7 @@
   aliases: Ministry of Justice|MoJ
   type: organisation
   definition: The UK government department responsible for the courts, prisons, probation and 
-    sentencing policy in England and Wales; commissioned the Intensive Supervision Courts pilot and 
-    published the process evaluation cited in the Multiple Disadvantage report.
+    sentencing policy in England and Wales.
   source: Ministry of Justice (GOV.UK)
   source_url: https://www.gov.uk/government/organisations/ministry-of-justice
   org_ref: findthatcharity org ID GB-GOR-D18
@@ -2996,9 +2994,10 @@
   scope:
   - clr.md
   - clr.kw
-  note: 'Added 2026-08-13: previously used only as the abbreviation MoJ across the reports with no entry
-    of its own. Pending team sign-off.'
-  agreed: n
+  agreed: y
+  context_notes:
+    clr: Commissioned the Intensive Supervision Courts pilot and published the process evaluation 
+      cited in the Multiple Disadvantage report.
 - term: Darlington Borough Council
   id: darlington-borough-council
   abbr: ''
@@ -3012,7 +3011,7 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-LAE-DAL
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Hartlepool Borough Council
   id: hartlepool-borough-council
   abbr: ''
@@ -3026,7 +3025,7 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-LAE-HPL
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Sustrans
   id: sustrans
   abbr: ''
@@ -3041,7 +3040,7 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-326550
   scope:
   - rcvda
-  agreed: n
+  agreed: y
   note: Registered charity 326550, now named Walk Wheel Cycle Trust (formerly Sustrans).
 - term: Tees Valley Rural Action
   id: tees-valley-rural-action
@@ -3057,7 +3056,7 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-1080282
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: VONNE
   id: vonne
   abbr: VONNE
@@ -3072,7 +3071,7 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-1084083
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: NAVCA
   id: navca
   abbr: NAVCA
@@ -3087,7 +3086,7 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-1001635
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: North East Ambulance Service
   id: neas
   abbr: NEAS
@@ -3095,14 +3094,14 @@
   aliases: NEAS|North East Ambulance Service
   type: organisation
   definition: The NHS foundation trust providing 999 emergency and patient-transport ambulance 
-    services across the North East, including South Tees.
+    services across the North East.
   source: North East Ambulance Service NHS Foundation Trust
   source_url: https://www.neas.nhs.uk
   org_ref: ''
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: NHS England
   id: nhs-england
   abbr: NHSE
@@ -3118,7 +3117,7 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-PB481
   scope:
   - rcvda
-  agreed: n
+  agreed: y
   note: Confirm current transition status; NHS England abolition announced March 2025, phased over 
     ~2 years.
 - term: Clinical Commissioning Group
@@ -3135,7 +3134,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
   note: Superseded by ICB (Health and Care Act 2022).
 - term: Crown Prosecution Service
   id: crown-prosecution-service
@@ -3151,7 +3150,7 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-D101
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Lawn Tennis Association
   id: lawn-tennis-association
   abbr: LTA
@@ -3165,7 +3164,7 @@
   org_ref_url: https://find-and-update.company-information.service.gov.uk/company/07459469
   scope:
   - rcvda
-  agreed: n
+  agreed: y
   note: 'Companies House: Lawn Tennis Association Limited, 07459469 (the national governing body, Roehampton).
     From the RCVDA static glossary''s ''Others — commonly used in Sport'' list.'
 - term: Department for Education
@@ -3182,7 +3181,7 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-D6
   scope:
   - rcvda
-  agreed: n
+  agreed: y
   note: RCVDA static list uses 'DoE / Department of Education'; the correct current name is 
     Department for Education (DfE).
 - term: Children and Young People
@@ -3199,7 +3198,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Environmental, Social and Governance
   id: esg
   abbr: ESG
@@ -3214,7 +3213,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Local Infrastructure Organisation
   id: local-infrastructure-organisation
   abbr: LIO
@@ -3229,7 +3228,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Voluntary and Community Sector
   id: voluntary-and-community-sector
   abbr: VCS
@@ -3244,7 +3243,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Community Asset Transfer
   id: community-asset-transfer
   abbr: CAT
@@ -3259,7 +3258,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: SMARTER objectives
   id: smarter
   abbr: SMARTER
@@ -3274,7 +3273,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: THRIVE (values)
   id: thrive-values
   abbr: THRIVE
@@ -3289,7 +3288,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
   note: 'Homonym: not the Thrive Partnership (see thrive-partnership).'
 - term: Registered Social Landlord
   id: registered-social-landlord
@@ -3305,7 +3304,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
   note: Now more commonly 'registered provider of social housing'.
 - term: Severe Weather Emergency Protocol
   id: swep
@@ -3322,7 +3321,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Team around the individual
   id: tati
   abbr: TATI
@@ -3337,7 +3336,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Town Centre Management
   id: town-centre-management
   abbr: TCM
@@ -3352,7 +3351,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Violence Against Women and Girls
   id: vawg
   abbr: VAWG
@@ -3368,7 +3367,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Jobcentre Plus District
   id: jcp-district
   abbr: JCP District
@@ -3383,7 +3382,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Limited Capability for Work and Work-Related Activity
   id: lcwra
   abbr: LCWRA
@@ -3399,7 +3398,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Personal Independence Payment
   id: pip
   abbr: PIP
@@ -3414,7 +3413,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Supported Employment Quality Framework
   id: seqf
   abbr: SEQF
@@ -3429,7 +3428,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Universal Credit
   id: universal-credit
   abbr: UC
@@ -3444,7 +3443,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Community Psychiatric Nurse
   id: community-psychiatric-nurse
   abbr: CPN
@@ -3459,7 +3458,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Children and Young People’s IAPT
   id: cyp-iapt
   abbr: CYP IAPT
@@ -3475,7 +3474,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Child and Adolescent Mental Health Services
   id: camhs
   abbr: CAMHS
@@ -3490,7 +3489,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Did Not Attend
   id: did-not-attend
   abbr: DNA
@@ -3505,7 +3504,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Health in All Policies
   id: health-in-all-policies
   abbr: HiAP
@@ -3521,7 +3520,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Health and Wellbeing Board
   id: health-and-wellbeing-board
   abbr: HWB
@@ -3536,7 +3535,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Health and Wellbeing Executive
   id: health-and-wellbeing-executive
   abbr: HWBE
@@ -3551,7 +3550,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
   note: Appears to be a South Tees / local body — confirm exact remit.
 - term: Care Programme Approach
   id: care-programme-approach
@@ -3567,7 +3566,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
   note: Being replaced by the Community Mental Health Framework (from 2019).
 - term: Community Safety Partnership
   id: community-safety-partnership
@@ -3583,7 +3582,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Duty to Co-operate
   id: duty-to-co-operate
   abbr: DTC
@@ -3598,7 +3597,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
   note: 'Confirm intended sense: adult-safeguarding co-operation (Care Act 2014 s.6) vs children (Children
     Act 2004 s.10) vs the planning duty (Localism Act 2011 s.110).'
 - term: Independent Mental Capacity Advocate
@@ -3615,7 +3614,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Keeping Children Safe in Education
   id: kcsie
   abbr: KCSIE
@@ -3630,7 +3629,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Local Safeguarding Children Board
   id: lscb
   abbr: LSCB
@@ -3645,7 +3644,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
   note: Superseded by multi-agency safeguarding arrangements (Children and Social Work Act 2017).
 - term: Multi-Agency Public Protection Arrangements
   id: mappa
@@ -3661,7 +3660,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Mental Capacity Act
   id: mental-capacity-act
   abbr: MCA
@@ -3676,7 +3675,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Mental Health Act
   id: mental-health-act
   abbr: MHA
@@ -3691,7 +3690,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Mental Health Act Code of Practice
   id: mha-code-of-practice
   abbr: MHA COP
@@ -3706,7 +3705,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Making Safeguarding Personal
   id: making-safeguarding-personal
   abbr: MSP
@@ -3722,7 +3721,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
   note: 'Homonym: not My Sister’s Place (see my-sister-s-place-msp).'
 - term: Quality Surveillance Group
   id: quality-surveillance-group
@@ -3738,7 +3737,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Safeguarding Adults Board
   id: safeguarding-adults-board
   abbr: SAB
@@ -3746,14 +3745,16 @@
   aliases: SAB|Safeguarding Adults Board
   type: statutory
   definition: The statutory multi-agency board that oversees and coordinates adult safeguarding 
-    arrangements in a local area (locally, the Teeswide Safeguarding Adults Board).
+    arrangements in a local area.
   source: Care Act 2014, s.43
   source_url: https://www.legislation.gov.uk/ukpga/2014/23/section/43
   org_ref: ''
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
+  context_notes:
+    rcvda: Locally, the Teeswide Safeguarding Adults Board.
 - term: Safeguarding Adults Review
   id: safeguarding-adults-review
   abbr: SAR
@@ -3769,7 +3770,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: National Governing Body
   id: national-governing-body
   abbr: NGB
@@ -3784,7 +3785,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Professional, Statutory and Regulatory Bodies
   id: psbr
   abbr: PSBR
@@ -3799,7 +3800,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Therapeutic Communities
   id: therapeutic-communities
   abbr: TC
@@ -3814,7 +3815,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
 - term: Community Protection Notice
   id: community-protection-notice
   abbr: CPN
@@ -3830,7 +3831,7 @@
   org_ref_url:
   scope:
   - rcvda
-  agreed: n
+  agreed: y
   note: 'Homonym: not Community Psychiatric Nurse (see community-psychiatric-nurse).'
 - term: Anglo American
   id: anglo-american
@@ -3846,7 +3847,7 @@
   org_ref_url: https://find-and-update.company-information.service.gov.uk/company/03564138
   scope:
   - bof
-  agreed: n
+  agreed: y
   note: 'Companies House: Anglo American plc, 03564138 (the global parent company).'
   context_notes:
     bof: The first funder of Building our Futures (2021); it no longer funds the programme but 
@@ -3867,7 +3868,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
 - term: Dogger Bank Wind Farm
   id: dogger-bank-wind-farm
   abbr: DBWF
@@ -3882,7 +3883,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
   note: Dogger Bank Wind Farm is a legal partnership / joint venture, not a single registered 
     company, so it has no one org reference.
   context_notes:
@@ -3902,7 +3903,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
   note: Norwegian company — not registered in England & Wales, so no Companies House / FTC 
     reference.
 - term: Operator Fund
@@ -3919,63 +3920,64 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
 - term: SSE Renewables
   id: sse-renewables
   abbr: ''
   full_term: SSE Renewables
   aliases: SSE Renewables
   type: organisation
-  definition: A renewable-energy company that owns 40% of Dogger Bank Wind Farm.
-  plain: A renewable-energy company. It owns 40% of Dogger Bank Wind Farm.
+  definition: A renewable-energy company; one of the three owners of Dogger Bank Wind Farm.
+  plain: A renewable-energy company. One of the three owners of Dogger Bank Wind Farm.
   source: SSE Renewables
   source_url: https://www.sserenewables.com
   org_ref: 'Companies House GB-COH-SC117119'
   org_ref_url: https://find-and-update.company-information.service.gov.uk/company/SC117119
   scope:
   - bof
-  agreed: n
+  agreed: y
   note: 'Companies House: SSE plc, SC117119 (the parent group; SSE Renewables is its renewables arm).'
-- term: STEM Education and Careers Programmes
+- term: Dogger Bank STEM Education and Careers Programme
   id: stem-education-and-careers-programmes
   abbr: ''
-  full_term: STEM Education and Careers Programmes
+  full_term: Dogger Bank STEM Education and Careers Programme
   aliases: STEM Education and Careers Programmes
   type: local-programme
-  definition: The part of Dogger Bank Wind Farm's community giving that funds Building our Futures.
-  plain: The part of Dogger Bank Wind Farm's community giving that pays for Building our Futures.
+  definition: Dogger Bank Wind Farm's community-giving programme for STEM education and careers.
+  plain: Dogger Bank Wind Farm's giving programme for STEM education and careers.
   source: RCVDA — Building our Futures programme.
   source_url:
   org_ref: ''
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
+  context_notes:
+    bof: Funds Building our Futures.
 - term: Vårgrønn
   id: vargronn
   abbr: ''
   full_term: Vårgrønn
   aliases: Vårgrønn|Vargronn
   type: organisation
-  definition: An offshore-wind company that owns 20% of Dogger Bank Wind Farm.
-  plain: An offshore-wind company. It owns 20% of Dogger Bank Wind Farm.
+  definition: An offshore-wind company; one of the three owners of Dogger Bank Wind Farm.
+  plain: An offshore-wind company. One of the three owners of Dogger Bank Wind Farm.
   source: Vårgrønn
   source_url: https://www.vargronn.com
   org_ref: ''
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
   note: Norwegian company — not registered in England & Wales, so no Companies House / FTC 
     reference.
-- term: The Pupil Journey
+- term: Building our Futures Pupil Journey
   id: the-pupil-journey
   abbr: ''
-  full_term: The Pupil Journey
+  full_term: Building our Futures Pupil Journey
   aliases: The Pupil Journey
   type: local-programme
-  definition: The six-step framework at the heart of Building our Futures, delivered in primary 
-    schools for children aged 7 to 11.
+  definition: A six-step careers framework delivered in primary schools for children aged 7 to 11.
   plain: The six steps at the heart of the programme. It runs in primary schools for children aged 7
     to 11.
   source: RCVDA — Building our Futures programme.
@@ -3984,11 +3986,12 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
-- term: Career Journeys and Aspirations
+  agreed: y
+  short_name: The Pupil Journey
+- term: Pupil Journey — Career Journeys and Aspirations
   id: career-journeys-and-aspirations
   abbr: ''
-  full_term: Career Journeys and Aspirations
+  full_term: Pupil Journey — Career Journeys and Aspirations
   aliases: Career Journeys and Aspirations
   type: local-programme
   definition: 'Pupil Journey step 1: exploring what a career is and what jobs exist in the local area.'
@@ -3999,12 +4002,13 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
-- term: Essential Skills (step)
+  agreed: y
+  short_name: Career Journeys and Aspirations
+- term: Pupil Journey — Essential Skills
   id: essential-skills-step
   abbr: ''
-  full_term: Essential Skills
-  aliases: Essential Skills
+  full_term: Pupil Journey — Essential Skills
+  aliases: Essential Skills|Essential Skills (step)
   type: local-programme
   definition: 'Pupil Journey step 2: teaching the eight essential skills from the Skills Builder Universal
     Framework.'
@@ -4015,11 +4019,12 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
-- term: Meet the Employers
+  agreed: y
+  short_name: Essential Skills
+- term: Pupil Journey — Meet the Employers
   id: meet-the-employers
   abbr: ''
-  full_term: Meet the Employers
+  full_term: Pupil Journey — Meet the Employers
   aliases: Meet the Employers
   type: local-programme
   definition: 'Pupil Journey step 3: a first meeting with a local business or project.'
@@ -4030,11 +4035,12 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
-- term: Team Work Challenge
+  agreed: y
+  short_name: Meet the Employers
+- term: Pupil Journey — Team Work Challenge
   id: team-work-challenge
   abbr: ''
-  full_term: Team Work Challenge
+  full_term: Pupil Journey — Team Work Challenge
   aliases: Team Work Challenge
   type: local-programme
   definition: 'Pupil Journey step 4: a problem-solving or design challenge set by an employer.'
@@ -4045,12 +4051,13 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
-- term: Interview Skills & Communication
+  agreed: y
+  short_name: Team Work Challenge
+- term: Pupil Journey — Interview Skills & Communication
   id: interview-skills-and-communication
   abbr: ''
-  full_term: Interview Skills and Communication
-  aliases: Interview Skills and Communication
+  full_term: Pupil Journey — Interview Skills & Communication
+  aliases: Interview Skills and Communication|Interview Skills & Communication
   type: local-programme
   definition: 'Pupil Journey step 5: body language and speaking well at work.'
   plain: Body language and how to speak well at work.
@@ -4060,11 +4067,12 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
-- term: Employer Interviews
+  agreed: y
+  short_name: Interview Skills & Communication
+- term: Pupil Journey — Employer Interviews
   id: employer-interviews
   abbr: ''
-  full_term: Employer Interviews
+  full_term: Pupil Journey — Employer Interviews
   aliases: Employer Interviews
   type: local-programme
   definition: 'Pupil Journey step 6: real interviews with business partners, followed by feedback.'
@@ -4075,11 +4083,12 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
-- term: Enrichment offer
+  agreed: y
+  short_name: Employer Interviews
+- term: Building our Futures Enrichment offer
   id: enrichment-offer
   abbr: ''
-  full_term: Enrichment offer
+  full_term: Building our Futures Enrichment offer
   aliases: Enrichment offer
   type: local-programme
   definition: Extra activities beyond the six Pupil Journey steps, such as Parliament Week and 
@@ -4092,7 +4101,8 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
+  short_name: Enrichment offer
 - term: CDI KS2 framework
   id: cdi-ks2-framework
   abbr: ''
@@ -4109,7 +4119,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
 - term: Careers-related learning
   id: crl
   abbr: CRL
@@ -4124,7 +4134,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
   context_notes:
     bof: Building our Futures uses its own tool to check what a school already does.
 - term: Gatsby Benchmarks
@@ -4141,7 +4151,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
   context_notes:
     bof: Building our Futures follows it.
 - term: Investors in Careers Primary
@@ -4150,16 +4160,16 @@
   full_term: Investors in Careers Primary
   aliases: Investors in Careers Primary
   type: method
-  definition: An award scheme recognising good primary careers work; three schools are working 
-    towards it.
-  plain: An award for good primary careers work. Three schools are working towards it now.
+  definition: An award scheme recognising good primary careers work that local primary schools are 
+    working towards.
+  plain: An award for good primary careers work that local primary schools are working towards.
   source: Investors in Careers
   source_url: https://www.investorsincareers.org.uk/
   org_ref: ''
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
 - term: Living in the Wider World
   id: living-in-the-wider-world
   abbr: ''
@@ -4175,7 +4185,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
 - term: Skills Builder Universal Framework
   id: skills-builder-universal-framework
   abbr: ''
@@ -4190,7 +4200,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
   context_notes:
     bof: The framework Building our Futures uses.
 - term: The eight essential skills
@@ -4207,11 +4217,11 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
-- term: Career Champion
+  agreed: y
+- term: Building our Futures Career Champion
   id: career-champion
   abbr: ''
-  full_term: Career Champion
+  full_term: Building our Futures Career Champion
   aliases: Career Champion
   type: local-programme
   definition: A mentoring role in which a career champion supports a school.
@@ -4222,7 +4232,8 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
+  short_name: Career Champion
 - term: Careers lead
   id: careers-lead
   abbr: ''
@@ -4237,14 +4248,15 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
 - term: Employer encounters
   id: employer-encounters
   abbr: ''
   full_term: Employer encounters / employer engagement
   aliases: Employer encounters|employer engagement
   type: substantive
-  definition: The sector's terms for pupils meeting the world of work.
+  definition: The sector's term for pupils meeting the world of work; also called employer 
+    engagement.
   plain: The words the sector uses for pupils meeting the world of work.
   source: Education / careers sector usage.
   source_url:
@@ -4252,7 +4264,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
 - term: Early Years Foundation Stage
   id: eyfs
   abbr: EYFS
@@ -4267,7 +4279,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
   context_notes:
     bof: Building our Futures reaches it through special early-years lessons.
 - term: Key Stage 2
@@ -4285,7 +4297,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
   context_notes:
     bof: The main focus of Building our Futures.
 - term: Mantle of the Expert
@@ -4303,7 +4315,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
   context_notes:
     bof: Building our Futures uses it in the early years.
 - term: Special Educational Needs and Disabilities
@@ -4321,7 +4333,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
   context_notes:
     bof: Building our Futures adapts the Pupil Journey for these pupils, up to age 19.
 - term: Transition programme
@@ -4338,7 +4350,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
 - term: Annual Survey of Hours and Earnings
   id: ashe
   abbr: ASHE
@@ -4354,7 +4366,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
   context_notes:
     bof: Building our Futures uses it, with other research, to estimate its long-term value.
 - term: Case study
@@ -4363,15 +4375,17 @@
   full_term: Case study
   aliases: Case study
   type: method
-  definition: A short termly write-up of impact telling one pupil's or one school's story.
-  plain: A short write-up of impact, one each term. It tells one pupil's or one school's story.
+  definition: A short written account of a specific example of impact.
+  plain: A short written account of one example of impact.
   source: RCVDA — Building our Futures programme.
   source_url:
   org_ref: ''
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
+  context_notes:
+    bof: Building our Futures produces one each term, telling one pupil's or one school's story.
 - term: Income Deprivation Affecting Children Index
   id: idaci
   abbr: IDACI
@@ -4387,7 +4401,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
   context_notes:
     bof: Building our Futures uses it to choose which schools to work with first.
 - term: Percy & Mann (2014)
@@ -4404,7 +4418,7 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
   context_notes:
     bof: Building our Futures uses it in its long-term earnings estimates.
 - term: Pre/post survey
@@ -4423,11 +4437,11 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
-- term: All Schools Network
+  agreed: y
+- term: Building our Futures All Schools Network
   id: all-schools-network
   abbr: ''
-  full_term: All Schools Network
+  full_term: Building our Futures All Schools Network
   aliases: All Schools Network
   type: local-programme
   definition: A network bringing primary and secondary schools together.
@@ -4438,11 +4452,12 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
-- term: Business Network
+  agreed: y
+  short_name: All Schools Network
+- term: Building our Futures Business Network
   id: business-network
   abbr: ''
-  full_term: Business Network
+  full_term: Building our Futures Business Network
   aliases: Business Network
   type: local-programme
   definition: A termly network of local employers who help shape and run the programme.
@@ -4453,11 +4468,12 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
-- term: Primary Schools Network
+  agreed: y
+  short_name: Business Network
+- term: Building our Futures Primary Schools Network
   id: primary-schools-network
   abbr: ''
-  full_term: Primary Schools Network
+  full_term: Building our Futures Primary Schools Network
   aliases: Primary Schools Network
   type: local-programme
   definition: The programme's main delivery network, meeting each term.
@@ -4468,11 +4484,12 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
-- term: Secondary Schools Network
+  agreed: y
+  short_name: Primary Schools Network
+- term: Building our Futures Secondary Schools Network
   id: secondary-schools-network
   abbr: ''
-  full_term: Secondary Schools Network
+  full_term: Building our Futures Secondary Schools Network
   aliases: Secondary Schools Network
   type: local-programme
   definition: A network supporting the move up to secondary school.
@@ -4483,4 +4500,5 @@
   org_ref_url:
   scope:
   - bof
-  agreed: n
+  agreed: y
+  short_name: Secondary Schools Network

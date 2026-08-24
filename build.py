@@ -209,6 +209,15 @@ def main():
         programme = cfg.get("programme")
         outs = cfg.get("outputs", ["md","json"])
         picked, warns = lens_entries(entries, code, register, programme); all_warns += warns
+        # In a term's HOME lens (all its scope within this programme) show its short_name; the estate
+        # master and cross-programme lenses keep the qualified full_term.
+        def _disp(e):
+            sn = e.get("short_name")
+            if sn and programme:
+                progs = {contexts[c].get("programme") for c in (e.get("scope") or []) if c in contexts}
+                if progs and progs == {programme}: return sn
+            return full_term(e)
+        picked = [dict(e, full_term=_disp(e)) for e in picked]
         d = f"build/{code}"; os.makedirs(d, exist_ok=True)
         title = f"{cfg.get('title', code)} — glossary"
         p1 = (f"Lens of the RCVDA estate glossary for **{cfg.get('title', code)}** "
@@ -218,7 +227,8 @@ def main():
                 build_readme(with_note_in_definition(picked), title, p1) if picked
                 else f"# {title}\n\n_No terms scoped to `{code}` yet._\n")
         if "json" in outs:
-            json.dump([dict(entry_json(e), context_note=e.get("context_note") or None) for e in picked],
+            json.dump([dict(entry_json(e), context_note=e.get("context_note") or None,
+                            short_name=e.get("short_name")) for e in picked],
                       open(f"{d}/glossary.json","w",encoding="utf-8"), ensure_ascii=False, indent=2)
         summary.append((code, len(picked), register))
 

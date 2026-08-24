@@ -47,6 +47,12 @@ An entry looks like this (only `term`, `id`, `type`, `definition` and `scope` ar
   ```
   A note keyed to a **programme** (`clr`) is inherited by all its lenses; a note keyed to a **lens**
   (`clr.hf`, `bof`) shows only there. Notes are **additive** (rendered after the definition).
+- **Programme constructs: name them with the programme.** If a term only exists inside one programme
+  (a network, role, or artefact it created), put the programme in the name — `term`/`full_term` =
+  "Building our Futures Business Network" — and add a `short_name` ("Business Network"). The build shows
+  the `short_name` as the heading **in that programme's own lens** (where the prefix is redundant) and the
+  full qualified name in the estate master and any other lens. Add the short form to `aliases` so it still
+  matches. This keeps the definition free of "the programme" scaffolding without inventing a hollow generic.
 - **`overrides` vs `context_notes` — replace vs augment.** `context_notes` *adds* a sentence and keeps the
   canonical definition intact (use this for relational facts). `overrides` *replaces* a field for one
   context — reserve it for the rare case where a term genuinely *means* something different there:

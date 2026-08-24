@@ -14,7 +14,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2008/14/contents",
     "org_ref": "findthatcharity org ID GB-GOR-PB251",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB251",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dhsc",
@@ -32,7 +33,8 @@
     "source_url": "https://www.gov.uk/government/organisations/department-of-health-and-social-care",
     "org_ref": "findthatcharity org ID GB-GOR-D12",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D12",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dluhc",
@@ -48,7 +50,8 @@
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
     "org_ref": "findthatcharity org ID GB-GOVUK-department-for-levelling-up-housing-and-communities",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-department-for-levelling-up-housing-and-communities",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dph",
@@ -64,7 +67,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/73A",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "dwp",
@@ -81,7 +85,8 @@
     "source_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
     "org_ref": "findthatcharity org ID GB-GOR-D10",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D10",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "icb",
@@ -97,7 +102,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "icp",
@@ -114,7 +120,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "idva",
@@ -130,7 +137,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "ips",
@@ -146,7 +154,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "jsna",
@@ -162,7 +171,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2007/28/section/116",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "marac",
@@ -178,7 +188,8 @@
     "source_url": "https://safelives.org.uk/about-domestic-abuse/domestic-abuse-response-in-the-uk/what-is-a-marac/",
     "org_ref": "findthatcharity org ID GB-CHC-1106864 (SafeLives)",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "middlesbrough-council",
@@ -196,7 +207,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-LAE-MDB",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-MDB",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "nhs",
@@ -212,7 +224,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/1946/81/contents/enacted",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "nihr",
@@ -228,7 +241,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID XI-ROR-0187kwz08",
     "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-0187kwz08",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "rcvda",
@@ -244,7 +258,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1135959",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "redcar-and-cleveland-borough-council",
@@ -262,7 +277,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-LAE-RCC",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-RCC",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "rsap",
@@ -278,7 +294,8 @@
     "source_url": "https://www.gov.uk/government/publications/rough-sleeping-accommodation-programme-2021-24",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "stockton-on-tees-borough-council",
@@ -296,7 +313,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-LAE-STT",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-STT",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "tewv",
@@ -312,7 +330,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
     "org_ref": "findthatcharity org ID GB-NHS-RX3",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-RX3",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "tsab",
@@ -329,7 +348,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/43",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "tvca",
@@ -346,7 +366,8 @@
     "source_url": "https://www.legislation.gov.uk/uksi/2016/449/contents/made",
     "org_ref": "findthatcharity org ID GB-LAE-TVCA",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-TVCA",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "vcfse",
@@ -366,7 +387,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "darlington-borough-council",
@@ -382,7 +404,8 @@
     "source_url": "https://www.darlington.gov.uk",
     "org_ref": "findthatcharity org ID GB-LAE-DAL",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-DAL",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "hartlepool-borough-council",
@@ -398,7 +421,8 @@
     "source_url": "https://www.hartlepool.gov.uk",
     "org_ref": "findthatcharity org ID GB-LAE-HPL",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-HPL",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "sustrans",
@@ -416,7 +440,8 @@
     "source_url": "https://www.sustrans.org.uk",
     "org_ref": "findthatcharity org ID GB-CHC-326550",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-326550",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "tees-valley-rural-action",
@@ -433,7 +458,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1080282",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1080282",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "vonne",
@@ -450,7 +476,8 @@
     "source_url": "https://www.vonne.org.uk",
     "org_ref": "findthatcharity org ID GB-CHC-1084083",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1084083",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "navca",
@@ -467,7 +494,8 @@
     "source_url": "https://www.navca.org.uk",
     "org_ref": "findthatcharity org ID GB-CHC-1001635",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1001635",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "neas",
@@ -479,12 +507,13 @@
       "North East Ambulance Service"
     ],
     "type": "organisation",
-    "definition": "The NHS foundation trust providing 999 emergency and patient-transport ambulance services across the North East, including South Tees.",
+    "definition": "The NHS foundation trust providing 999 emergency and patient-transport ambulance services across the North East.",
     "source": "North East Ambulance Service NHS Foundation Trust",
     "source_url": "https://www.neas.nhs.uk",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "nhs-england",
@@ -501,7 +530,8 @@
     "source_url": "https://www.gov.uk/government/organisations/nhs-england",
     "org_ref": "findthatcharity org ID GB-GOR-PB481",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB481",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "ccg",
@@ -518,7 +548,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "crown-prosecution-service",
@@ -535,7 +566,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/1985/23/contents",
     "org_ref": "findthatcharity org ID GB-GOR-D101",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D101",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "lawn-tennis-association",
@@ -552,7 +584,8 @@
     "source_url": "https://www.lta.org.uk",
     "org_ref": "Companies House GB-COH-07459469",
     "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/07459469",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "department-for-education",
@@ -571,7 +604,8 @@
     "source_url": "https://www.gov.uk/government/organisations/department-for-education",
     "org_ref": "findthatcharity org ID GB-GOR-D6",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D6",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "children-and-young-people",
@@ -588,7 +622,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "esg",
@@ -605,7 +640,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "local-infrastructure-organisation",
@@ -622,7 +658,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "voluntary-and-community-sector",
@@ -639,7 +676,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "community-asset-transfer",
@@ -656,7 +694,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2011/20/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "smarter",
@@ -673,7 +712,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "thrive-values",
@@ -690,7 +730,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "registered-social-landlord",
@@ -707,7 +748,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2008/17/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "swep",
@@ -724,7 +766,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "tati",
@@ -741,7 +784,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "town-centre-management",
@@ -758,7 +802,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "vawg",
@@ -775,7 +820,8 @@
     "source_url": "https://www.gov.uk/government/publications/tackling-violence-against-women-and-girls-strategy",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "jcp-district",
@@ -792,7 +838,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "lcwra",
@@ -809,7 +856,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2012/5/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "pip",
@@ -826,7 +874,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2012/5/part/4",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "seqf",
@@ -843,7 +892,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "universal-credit",
@@ -860,7 +910,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2012/5/part/1",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "community-psychiatric-nurse",
@@ -877,7 +928,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "cyp-iapt",
@@ -894,7 +946,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "camhs",
@@ -911,7 +964,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "did-not-attend",
@@ -928,7 +982,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "health-in-all-policies",
@@ -945,7 +1000,8 @@
     "source_url": "https://www.who.int/activities/promoting-health-in-all-policies-and-intersectoral-action-capacities",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "health-and-wellbeing-board",
@@ -962,7 +1018,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/section/194",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "health-and-wellbeing-executive",
@@ -979,7 +1036,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "care-programme-approach",
@@ -996,7 +1054,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "community-safety-partnership",
@@ -1013,7 +1072,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/1998/37/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "duty-to-co-operate",
@@ -1030,7 +1090,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/6",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "imca",
@@ -1047,7 +1108,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2005/9/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "kcsie",
@@ -1064,7 +1126,8 @@
     "source_url": "https://www.gov.uk/government/publications/keeping-children-safe-in-education--2",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "lscb",
@@ -1081,7 +1144,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2004/31/section/13",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "mappa",
@@ -1098,7 +1162,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2003/44/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "mental-capacity-act",
@@ -1115,7 +1180,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2005/9/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "mental-health-act",
@@ -1132,7 +1198,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "mha-code-of-practice",
@@ -1149,7 +1216,8 @@
     "source_url": "https://www.gov.uk/government/publications/code-of-practice-mental-health-act-1983",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "making-safeguarding-personal",
@@ -1166,7 +1234,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "quality-surveillance-group",
@@ -1183,7 +1252,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "safeguarding-adults-board",
@@ -1195,12 +1265,13 @@
       "Safeguarding Adults Board"
     ],
     "type": "statutory",
-    "definition": "The statutory multi-agency board that oversees and coordinates adult safeguarding arrangements in a local area (locally, the Teeswide Safeguarding Adults Board).",
+    "definition": "The statutory multi-agency board that oversees and coordinates adult safeguarding arrangements in a local area.",
     "source": "Care Act 2014, s.43",
     "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/43",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Locally, the Teeswide Safeguarding Adults Board.",
+    "short_name": null
   },
   {
     "id": "safeguarding-adults-review",
@@ -1217,7 +1288,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/44",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "national-governing-body",
@@ -1234,7 +1306,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "psbr",
@@ -1251,7 +1324,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "therapeutic-communities",
@@ -1268,7 +1342,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "community-protection-notice",
@@ -1285,6 +1360,7 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2014/12/section/43",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   }
 ]

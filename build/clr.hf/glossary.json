@@ -15,7 +15,8 @@
     "source_url": "https://www.middlesbrough.gov.uk/adult-social-care/accessing-change-together/",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "a-e",
@@ -31,7 +32,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "beyond-housing",
@@ -47,7 +49,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-SHPE-LH4401",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-SHPE-LH4401",
-    "context_note": "A named partner on the South Tees Changing Futures Programme Board."
+    "context_note": "A named partner on the South Tees Changing Futures Programme Board.",
+    "short_name": null
   },
   {
     "id": "cdpsoft",
@@ -64,7 +67,8 @@
     "source_url": "https://www.cdpsoft.com/hoams/",
     "org_ref": "Companies House GB-COH-02893590",
     "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/02893590",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "changing-futures-cf",
@@ -81,7 +85,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "cleveland",
@@ -97,7 +102,8 @@
     "source_url": "https://www.legislation.gov.uk/uksi/1995/187",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "ecw-enhanced-case-worker",
@@ -114,7 +120,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "fte",
@@ -131,7 +138,8 @@
     "source_url": "https://analysisfunction.civilservice.gov.uk/wp-content/uploads/2019/04/Employment-variables-Hours-and-FTE-April-18.pdf",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "fulfilling-lives",
@@ -148,7 +156,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "h-clic",
@@ -167,7 +176,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "hae",
@@ -184,7 +194,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "hmpps",
@@ -202,7 +213,8 @@
     "source_url": "https://www.gov.uk/government/organisations/hm-prison-and-probation-service",
     "org_ref": "findthatcharity org ID XI-ROR-03e5xvd80",
     "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-03e5xvd80",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "homeless-link",
@@ -218,7 +230,8 @@
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1089173",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1089173",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "housing-first",
@@ -235,7 +248,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "hra17",
@@ -251,7 +265,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2017/13/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "icb",
@@ -267,7 +282,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "icp",
@@ -284,7 +300,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "lha",
@@ -300,7 +317,8 @@
     "source_url": "https://www.legislation.gov.uk/uksi/2006/213/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "meam",
@@ -316,7 +334,8 @@
     "source_url": "https://meam.org.uk",
     "org_ref": "findthatcharity org ID GB-CHC-1209508",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1209508",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "mhclg",
@@ -332,7 +351,8 @@
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
     "org_ref": "findthatcharity org ID GB-GOR-D4",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "multiple-disadvantage-md",
@@ -349,7 +369,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "nrpf",
@@ -365,7 +386,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/1999/33/section/115",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "opcc",
@@ -381,7 +403,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "pathways",
@@ -397,7 +420,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "r-c",
@@ -414,7 +438,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "registered-provider-rp",
@@ -431,7 +456,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2008/17/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "rsap",
@@ -447,7 +473,8 @@
     "source_url": "https://www.gov.uk/government/publications/rough-sleeping-accommodation-programme-2021-24",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "rsi",
@@ -463,7 +490,8 @@
     "source_url": "https://www.gov.uk/government/publications/rough-sleeping-initiative-2022-to-2025-funding-allocations",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "section-21-housing-act-1988",
@@ -479,7 +507,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/1988/50/section/21",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "section-8-housing-act-1988",
@@ -495,7 +524,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/1988/50/section/8",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "shap",
@@ -511,7 +541,8 @@
     "source_url": "https://www.gov.uk/government/publications/single-homelessness-accommodation-programme",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "south-tees-changing-futures-programme-stcfp",
@@ -530,7 +561,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "spoc",
@@ -547,7 +579,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "tees-valley",
@@ -563,7 +596,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "tees-valley-lettings-partnership-tvlp",
@@ -580,7 +614,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "temporary-accommodation-ta",
@@ -596,7 +631,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/1996/52/section/188",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "thrive-partnership",
@@ -614,7 +650,8 @@
     "source_url": "https://www.wearewithyou.org.uk/latest/news-and-views/women-stronger-together-a-three-way-conversation-with-the-thrive-partnership",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "trauma-informed-practice-tip",
@@ -631,7 +668,8 @@
     "source_url": "https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "tsab",
@@ -648,7 +686,8 @@
     "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/43",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "tvca",
@@ -665,7 +704,8 @@
     "source_url": "https://www.legislation.gov.uk/uksi/2016/449/contents/made",
     "org_ref": "findthatcharity org ID GB-LAE-TVCA",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-TVCA",
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "tvhf-tees-valley-home-finder",
@@ -682,7 +722,8 @@
     "source_url": "https://teesvalleyhomefinder.housingjigsaw.co.uk",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": null,
+    "short_name": null
   },
   {
     "id": "vcfse",
@@ -702,7 +743,8 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": "The sector RCVDA works within and holds the deep-dive work on behalf of."
+    "context_note": "The sector RCVDA works within and holds the deep-dive work on behalf of.",
+    "short_name": null
   },
   {
     "id": "the-national-lottery-community-fund-tnlcf",
@@ -716,11 +758,12 @@
       "Big Lottery Fund"
     ],
     "type": "statutory",
-    "definition": "The operating name since 2019 of the Big Lottery Fund: the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players. Joint funder of Changing Futures with MHCLG.",
+    "definition": "The operating name since 2019 of the Big Lottery Fund — the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players.",
     "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Joint funder of Changing Futures with MHCLG.",
+    "short_name": null
   }
 ]

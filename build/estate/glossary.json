@@ -3612,7 +3612,7 @@
       "Big Lottery Fund"
     ],
     "type": "statutory",
-    "definition": "The operating name since 2019 of the Big Lottery Fund: the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players. Joint funder of Changing Futures with MHCLG.",
+    "definition": "The operating name since 2019 of the Big Lottery Fund — the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players.",
     "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
     "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
     "org_ref": null,
@@ -3625,7 +3625,9 @@
       "clr.md",
       "clr.tip"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "clr": "Joint funder of Changing Futures with MHCLG."
+    },
     "overrides": {}
   },
   {
@@ -3661,7 +3663,7 @@
       "MoJ"
     ],
     "type": "organisation",
-    "definition": "The UK government department responsible for the courts, prisons, probation and sentencing policy in England and Wales; commissioned the Intensive Supervision Courts pilot and published the process evaluation cited in the Multiple Disadvantage report.",
+    "definition": "The UK government department responsible for the courts, prisons, probation and sentencing policy in England and Wales.",
     "source": "Ministry of Justice (GOV.UK)",
     "source_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
     "org_ref": "findthatcharity org ID GB-GOR-D18",
@@ -3671,7 +3673,9 @@
       "clr.md",
       "clr.kw"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "clr": "Commissioned the Intensive Supervision Courts pilot and published the process evaluation cited in the Multiple Disadvantage report."
+    },
     "overrides": {}
   },
   {
@@ -3815,7 +3819,7 @@
       "North East Ambulance Service"
     ],
     "type": "organisation",
-    "definition": "The NHS foundation trust providing 999 emergency and patient-transport ambulance services across the North East, including South Tees.",
+    "definition": "The NHS foundation trust providing 999 emergency and patient-transport ambulance services across the North East.",
     "source": "North East Ambulance Service NHS Foundation Trust",
     "source_url": "https://www.neas.nhs.uk",
     "org_ref": null,
@@ -4741,7 +4745,7 @@
       "Safeguarding Adults Board"
     ],
     "type": "statutory",
-    "definition": "The statutory multi-agency board that oversees and coordinates adult safeguarding arrangements in a local area (locally, the Teeswide Safeguarding Adults Board).",
+    "definition": "The statutory multi-agency board that oversees and coordinates adult safeguarding arrangements in a local area.",
     "source": "Care Act 2014, s.43",
     "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/43",
     "org_ref": null,
@@ -4750,7 +4754,9 @@
     "scope": [
       "rcvda"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "rcvda": "Locally, the Teeswide Safeguarding Adults Board."
+    },
     "overrides": {}
   },
   {
@@ -4983,12 +4989,12 @@
       "SSE Renewables"
     ],
     "type": "organisation",
-    "definition": "A renewable-energy company that owns 40% of Dogger Bank Wind Farm.",
+    "definition": "A renewable-energy company; one of the three owners of Dogger Bank Wind Farm.",
     "source": "SSE Renewables",
     "source_url": "https://www.sserenewables.com",
     "org_ref": "Companies House GB-COH-SC117119",
     "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/SC117119",
-    "plain": "A renewable-energy company. It owns 40% of Dogger Bank Wind Farm.",
+    "plain": "A renewable-energy company. One of the three owners of Dogger Bank Wind Farm.",
     "scope": [
       "bof"
     ],
@@ -4997,23 +5003,25 @@
   },
   {
     "id": "stem-education-and-careers-programmes",
-    "term": "STEM Education and Careers Programmes",
+    "term": "Dogger Bank STEM Education and Careers Programme",
     "abbr": null,
-    "full_term": "STEM Education and Careers Programmes",
+    "full_term": "Dogger Bank STEM Education and Careers Programme",
     "aliases": [
       "STEM Education and Careers Programmes"
     ],
     "type": "local-programme",
-    "definition": "The part of Dogger Bank Wind Farm's community giving that funds Building our Futures.",
+    "definition": "Dogger Bank Wind Farm's community-giving programme for STEM education and careers.",
     "source": "RCVDA — Building our Futures programme.",
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "The part of Dogger Bank Wind Farm's community giving that pays for Building our Futures.",
+    "plain": "Dogger Bank Wind Farm's giving programme for STEM education and careers.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "Funds Building our Futures."
+    },
     "overrides": {}
   },
   {
@@ -5026,12 +5034,12 @@
       "Vargronn"
     ],
     "type": "organisation",
-    "definition": "An offshore-wind company that owns 20% of Dogger Bank Wind Farm.",
+    "definition": "An offshore-wind company; one of the three owners of Dogger Bank Wind Farm.",
     "source": "Vårgrønn",
     "source_url": "https://www.vargronn.com",
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "An offshore-wind company. It owns 20% of Dogger Bank Wind Farm.",
+    "plain": "An offshore-wind company. One of the three owners of Dogger Bank Wind Farm.",
     "scope": [
       "bof"
     ],
@@ -5040,14 +5048,14 @@
   },
   {
     "id": "the-pupil-journey",
-    "term": "The Pupil Journey",
+    "term": "Building our Futures Pupil Journey",
     "abbr": null,
-    "full_term": "The Pupil Journey",
+    "full_term": "Building our Futures Pupil Journey",
     "aliases": [
       "The Pupil Journey"
     ],
     "type": "local-programme",
-    "definition": "The six-step framework at the heart of Building our Futures, delivered in primary schools for children aged 7 to 11.",
+    "definition": "A six-step careers framework delivered in primary schools for children aged 7 to 11.",
     "source": "RCVDA — Building our Futures programme.",
     "source_url": null,
     "org_ref": null,
@@ -5061,9 +5069,9 @@
   },
   {
     "id": "career-journeys-and-aspirations",
-    "term": "Career Journeys and Aspirations",
+    "term": "Pupil Journey — Career Journeys and Aspirations",
     "abbr": null,
-    "full_term": "Career Journeys and Aspirations",
+    "full_term": "Pupil Journey — Career Journeys and Aspirations",
     "aliases": [
       "Career Journeys and Aspirations"
     ],
@@ -5082,11 +5090,12 @@
   },
   {
     "id": "essential-skills-step",
-    "term": "Essential Skills (step)",
+    "term": "Pupil Journey — Essential Skills",
     "abbr": null,
-    "full_term": "Essential Skills",
+    "full_term": "Pupil Journey — Essential Skills",
     "aliases": [
-      "Essential Skills"
+      "Essential Skills",
+      "Essential Skills (step)"
     ],
     "type": "local-programme",
     "definition": "Pupil Journey step 2: teaching the eight essential skills from the Skills Builder Universal Framework.",
@@ -5103,9 +5112,9 @@
   },
   {
     "id": "meet-the-employers",
-    "term": "Meet the Employers",
+    "term": "Pupil Journey — Meet the Employers",
     "abbr": null,
-    "full_term": "Meet the Employers",
+    "full_term": "Pupil Journey — Meet the Employers",
     "aliases": [
       "Meet the Employers"
     ],
@@ -5124,9 +5133,9 @@
   },
   {
     "id": "team-work-challenge",
-    "term": "Team Work Challenge",
+    "term": "Pupil Journey — Team Work Challenge",
     "abbr": null,
-    "full_term": "Team Work Challenge",
+    "full_term": "Pupil Journey — Team Work Challenge",
     "aliases": [
       "Team Work Challenge"
     ],
@@ -5145,11 +5154,12 @@
   },
   {
     "id": "interview-skills-and-communication",
-    "term": "Interview Skills & Communication",
+    "term": "Pupil Journey — Interview Skills & Communication",
     "abbr": null,
-    "full_term": "Interview Skills and Communication",
+    "full_term": "Pupil Journey — Interview Skills & Communication",
     "aliases": [
-      "Interview Skills and Communication"
+      "Interview Skills and Communication",
+      "Interview Skills & Communication"
     ],
     "type": "local-programme",
     "definition": "Pupil Journey step 5: body language and speaking well at work.",
@@ -5166,9 +5176,9 @@
   },
   {
     "id": "employer-interviews",
-    "term": "Employer Interviews",
+    "term": "Pupil Journey — Employer Interviews",
     "abbr": null,
-    "full_term": "Employer Interviews",
+    "full_term": "Pupil Journey — Employer Interviews",
     "aliases": [
       "Employer Interviews"
     ],
@@ -5187,9 +5197,9 @@
   },
   {
     "id": "enrichment-offer",
-    "term": "Enrichment offer",
+    "term": "Building our Futures Enrichment offer",
     "abbr": null,
-    "full_term": "Enrichment offer",
+    "full_term": "Building our Futures Enrichment offer",
     "aliases": [
       "Enrichment offer"
     ],
@@ -5283,12 +5293,12 @@
       "Investors in Careers Primary"
     ],
     "type": "method",
-    "definition": "An award scheme recognising good primary careers work; three schools are working towards it.",
+    "definition": "An award scheme recognising good primary careers work that local primary schools are working towards.",
     "source": "Investors in Careers",
     "source_url": "https://www.investorsincareers.org.uk/",
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "An award for good primary careers work. Three schools are working towards it now.",
+    "plain": "An award for good primary careers work that local primary schools are working towards.",
     "scope": [
       "bof"
     ],
@@ -5362,9 +5372,9 @@
   },
   {
     "id": "career-champion",
-    "term": "Career Champion",
+    "term": "Building our Futures Career Champion",
     "abbr": null,
-    "full_term": "Career Champion",
+    "full_term": "Building our Futures Career Champion",
     "aliases": [
       "Career Champion"
     ],
@@ -5412,7 +5422,7 @@
       "employer engagement"
     ],
     "type": "substantive",
-    "definition": "The sector's terms for pupils meeting the world of work.",
+    "definition": "The sector's term for pupils meeting the world of work; also called employer engagement.",
     "source": "Education / careers sector usage.",
     "source_url": null,
     "org_ref": null,
@@ -5573,16 +5583,18 @@
       "Case study"
     ],
     "type": "method",
-    "definition": "A short termly write-up of impact telling one pupil's or one school's story.",
+    "definition": "A short written account of a specific example of impact.",
     "source": "RCVDA — Building our Futures programme.",
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "A short write-up of impact, one each term. It tells one pupil's or one school's story.",
+    "plain": "A short written account of one example of impact.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "Building our Futures produces one each term, telling one pupil's or one school's story."
+    },
     "overrides": {}
   },
   {
@@ -5656,9 +5668,9 @@
   },
   {
     "id": "all-schools-network",
-    "term": "All Schools Network",
+    "term": "Building our Futures All Schools Network",
     "abbr": null,
-    "full_term": "All Schools Network",
+    "full_term": "Building our Futures All Schools Network",
     "aliases": [
       "All Schools Network"
     ],
@@ -5677,9 +5689,9 @@
   },
   {
     "id": "business-network",
-    "term": "Business Network",
+    "term": "Building our Futures Business Network",
     "abbr": null,
-    "full_term": "Business Network",
+    "full_term": "Building our Futures Business Network",
     "aliases": [
       "Business Network"
     ],
@@ -5698,9 +5710,9 @@
   },
   {
     "id": "primary-schools-network",
-    "term": "Primary Schools Network",
+    "term": "Building our Futures Primary Schools Network",
     "abbr": null,
-    "full_term": "Primary Schools Network",
+    "full_term": "Building our Futures Primary Schools Network",
     "aliases": [
       "Primary Schools Network"
     ],
@@ -5719,9 +5731,9 @@
   },
   {
     "id": "secondary-schools-network",
-    "term": "Secondary Schools Network",
+    "term": "Building our Futures Secondary Schools Network",
     "abbr": null,
-    "full_term": "Secondary Schools Network",
+    "full_term": "Building our Futures Secondary Schools Network",
     "aliases": [
       "Secondary Schools Network"
     ],
