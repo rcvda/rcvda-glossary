@@ -384,7 +384,7 @@
       "CJS"
     ],
     "type": "acronym",
-    "definition": "One of the five disadvantage domains in the Changing Futures working cohort definition.",
+    "definition": "Criminal Justice System — the system of agencies (police, courts, prisons and probation) responsible for justice.",
     "source": null,
     "source_url": null,
     "org_ref": null,
@@ -393,7 +393,9 @@
     "scope": [
       "clr.md"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "clr": "One of the five disadvantage domains in the Changing Futures cohort definition."
+    },
     "overrides": {}
   },
   {
@@ -428,7 +430,7 @@
       "ClRP"
     ],
     "type": "local-programme",
-    "definition": "Redcar and Cleveland Voluntary Development Agency (RCVDA)'s programme of community-led research, delivered in partnership with Teesside University on behalf of the Health Determinants Research Collaboration South Tees (HDRC ST); the vehicle through which this deep-dive series is produced.",
+    "definition": "Redcar and Cleveland Voluntary Development Agency (RCVDA)'s programme of community-led research, delivered in partnership with Teesside University for the Health Determinants Research Collaboration South Tees (HDRC ST).",
     "source": "RCVDA Community-led Research Programme (ClRP), delivered with Teesside University under the NIHR Health Determinants Research Collaboration (HDRC) South Tees.",
     "source_url": null,
     "org_ref": null,
@@ -438,7 +440,9 @@
       "clr.md",
       "clr.tip"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "clr": "The vehicle through which this deep-dive series is produced."
+    },
     "overrides": {}
   },
   {
@@ -494,7 +498,7 @@
       "CRISIS"
     ],
     "type": "local-programme",
-    "definition": "The Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) Crisis Assessment Suite — a mental-health crisis walk-in and assessment facility at Roseberry Park Hospital, Marton Road, Middlesbrough. One of the four Enhanced Case Worker (ECW) touchpoints.",
+    "definition": "The Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) Crisis Assessment Suite — a mental-health crisis walk-in and assessment facility at Roseberry Park Hospital, Marton Road, Middlesbrough.",
     "source": "Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) — Crisis Assessment Suite, Roseberry Park Hospital, Middlesbrough.",
     "source_url": "https://www.southtees.nhs.uk/services/maternity/perinatal-mental-health-and-wellbeing/help-and-support/",
     "org_ref": null,
@@ -503,7 +507,9 @@
     "scope": [
       "clr.kw"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "clr.kw": "One of the four Enhanced Case Worker (ECW) touchpoints."
+    },
     "overrides": {}
   },
   {
@@ -1205,7 +1211,7 @@
       "HDRC"
     ],
     "type": "local-programme",
-    "definition": "The National Institute for Health and Care Research (NIHR)-funded local Health Determinants Research Collaboration South Tees (HDRC ST) delivered in partnership with Teesside University; the programme within which this deep-dive series (and Redcar and Cleveland Voluntary Development Agency (RCVDA)'s Community-led Research Programme) is produced.",
+    "definition": "The National Institute for Health and Care Research (NIHR)-funded local Health Determinants Research Collaboration South Tees, delivered in partnership with Teesside University.",
     "source": "The South Tees Health Determinants Research Collaboration programme website (NIHR-funded).",
     "source_url": "https://hdrcsouthtees.co.uk",
     "org_ref": null,
@@ -1216,7 +1222,9 @@
       "clr.md",
       "clr.tip"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "clr": "The programme within which this deep-dive series — and RCVDA's Community-led Research Programme — is produced."
+    },
     "overrides": {}
   },
   {
@@ -2547,12 +2555,12 @@
       "RCVDA"
     ],
     "type": "organisation",
-    "definition": "The publishing host of this deep-dive series.",
+    "definition": "Redcar and Cleveland Voluntary Development Agency — the local infrastructure charity supporting voluntary and community groups across Redcar & Cleveland.",
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1135959",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
-    "plain": "Redcar and Cleveland Voluntary Development Agency — the local charity that supports voluntary and community groups across Redcar & Cleveland, and runs Building our Futures.",
+    "plain": "Redcar and Cleveland Voluntary Development Agency — the local charity that supports voluntary and community groups across Redcar & Cleveland.",
     "scope": [
       "clr.kw",
       "clr.md",
@@ -2560,7 +2568,10 @@
       "rcvda",
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "clr": "The publishing host of this deep-dive series.",
+      "bof": "Runs the Building our Futures programme."
+    },
     "overrides": {}
   },
   {
@@ -3439,7 +3450,7 @@
       "Voluntary, Community and Social Enterprise"
     ],
     "type": "acronym",
-    "definition": "The sector Redcar and Cleveland Voluntary Development Agency (RCVDA) works within and holds the deep-dive work on behalf of.",
+    "definition": "Voluntary, Community, Faith and Social Enterprise — the collective term for charities, community groups, faith organisations and social enterprises.",
     "source": "Sector-standard term.",
     "source_url": null,
     "org_ref": null,
@@ -3453,7 +3464,9 @@
       "clr.tip",
       "rcvda"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "clr": "The sector RCVDA works within and holds the deep-dive work on behalf of."
+    },
     "overrides": {}
   },
   {
@@ -4859,16 +4872,18 @@
       "Anglo American"
     ],
     "type": "organisation",
-    "definition": "A global mining business; the first funder of Building our Futures (2021) and still a delivery partner.",
+    "definition": "A global mining business.",
     "source": "Anglo American",
     "source_url": "https://www.angloamerican.com",
     "org_ref": "Companies House GB-COH-03564138",
     "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/03564138",
-    "plain": "The programme's first funder, back in 2021. It no longer funds the programme but is still a delivery partner.",
+    "plain": "A global mining business.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "The first funder of Building our Futures (2021); it no longer funds the programme but remains a delivery partner."
+    },
     "overrides": {}
   },
   {
@@ -4903,16 +4918,18 @@
       "Dogger Bank Wind Farm"
     ],
     "type": "organisation",
-    "definition": "The offshore wind farm off the North East coast that funds Building our Futures through its STEM Education and Careers Programmes.",
+    "definition": "An offshore wind farm off the North East coast of England.",
     "source": "Dogger Bank Wind Farm",
     "source_url": "https://doggerbank.com/",
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "The programme's funder. It pays for the work through its STEM Education and Careers Programmes.",
+    "plain": "A large wind farm out at sea, off the North East coast.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "Funds Building our Futures through its STEM Education and Careers Programmes."
+    },
     "overrides": {}
   },
   {
@@ -5220,16 +5237,18 @@
       "Careers-related learning"
     ],
     "type": "substantive",
-    "definition": "The careers learning taught in schools; Building our Futures uses its own tool to check what a school already does.",
+    "definition": "Careers-related learning — the careers learning taught in schools.",
     "source": "RCVDA — Building our Futures programme.",
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "The careers lessons taught in school. The programme uses a tool to check what a school already does.",
+    "plain": "The careers lessons taught in school.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "Building our Futures uses its own tool to check what a school already does."
+    },
     "overrides": {}
   },
   {
@@ -5241,16 +5260,18 @@
       "Gatsby Benchmarks"
     ],
     "type": "substantive",
-    "definition": "The national standard of eight benchmarks for good careers guidance, which the programme follows.",
+    "definition": "The national standard of eight benchmarks for good careers guidance.",
     "source": "The Gatsby Foundation",
     "source_url": "https://www.gatsbybenchmarks.org.uk/",
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "The national standard for good careers guidance. The programme follows it.",
+    "plain": "The national standard for good careers guidance.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "Building our Futures follows it."
+    },
     "overrides": {}
   },
   {
@@ -5304,16 +5325,18 @@
       "Skills Builder Universal Framework"
     ],
     "type": "method",
-    "definition": "The framework the programme uses, built around eight essential skills for work and life.",
+    "definition": "A skills framework built around eight essential skills for work and life.",
     "source": "Skills Builder Partnership",
     "source_url": "https://www.skillsbuilder.org/",
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "The skills framework the programme uses. It is built around eight essential skills.",
+    "plain": "A skills framework built around eight essential skills.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "The framework Building our Futures uses."
+    },
     "overrides": {}
   },
   {
@@ -5416,11 +5439,13 @@
     "source_url": "https://www.gov.uk/government/publications/early-years-foundation-stage-framework--2",
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "The stage for the youngest children. The programme reaches it through special early-years lessons.",
+    "plain": "The stage for the youngest children.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "Building our Futures reaches it through special early-years lessons."
+    },
     "overrides": {}
   },
   {
@@ -5433,16 +5458,18 @@
       "Key Stage 2"
     ],
     "type": "statutory",
-    "definition": "The stage of the national curriculum for pupils in school years 3 to 6 (roughly ages 7 to 11); the main focus of the programme.",
+    "definition": "The stage of the national curriculum for pupils in school years 3 to 6 (roughly ages 7 to 11).",
     "source": "National curriculum in England",
     "source_url": "https://www.gov.uk/government/collections/national-curriculum",
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "The primary years, roughly ages 7 to 11. The main programme is built for this stage.",
+    "plain": "The primary years, roughly ages 7 to 11.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "The main focus of Building our Futures."
+    },
     "overrides": {}
   },
   {
@@ -5459,11 +5486,13 @@
     "source_url": "https://www.mantleoftheexpert.com/",
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "A way of teaching through role-play and inquiry. The programme uses it in the early years.",
+    "plain": "A way of teaching through role-play and inquiry.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "Building our Futures uses it in the early years."
+    },
     "overrides": {}
   },
   {
@@ -5476,16 +5505,18 @@
       "Special Educational Needs and Disabilities"
     ],
     "type": "statutory",
-    "definition": "The framework of support for children and young people with special educational needs or disabilities; the programme adapts the Pupil Journey for these pupils up to age 19.",
+    "definition": "The framework of support for children and young people with special educational needs or disabilities.",
     "source": "Children and Families Act 2014, Part 3",
     "source_url": "https://www.legislation.gov.uk/ukpga/2014/6/part/3",
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "Extra support for pupils with special educational needs or disabilities. The programme adapts the Pupil Journey for them, up to age 19.",
+    "plain": "Extra support for pupils with special educational needs or disabilities.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "Building our Futures adapts the Pupil Journey for these pupils, up to age 19."
+    },
     "overrides": {}
   },
   {
@@ -5519,16 +5550,18 @@
       "Annual Survey of Hours and Earnings"
     ],
     "type": "substantive",
-    "definition": "The Office for National Statistics' official survey of earnings; the programme uses it, with other research, to estimate long-term value.",
+    "definition": "The Office for National Statistics' official survey of earnings.",
     "source": "Office for National Statistics — ASHE",
     "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/annualsurveyofhoursandearningsashemethodologyandguidance",
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "The official survey of what people earn. The programme uses it, with other research, to estimate its long-term value.",
+    "plain": "The official survey of what people earn.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "Building our Futures uses it, with other research, to estimate its long-term value."
+    },
     "overrides": {}
   },
   {
@@ -5562,16 +5595,18 @@
       "Income Deprivation Affecting Children Index"
     ],
     "type": "substantive",
-    "definition": "A national measure of the proportion of children in an area living in income-deprived households; used to prioritise which schools to work with.",
+    "definition": "A national measure of the proportion of children in an area living in income-deprived households.",
     "source": "MHCLG — English indices of deprivation 2019",
     "source_url": "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019",
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "A measure of child poverty in an area. The programme uses it to choose which schools to work with first.",
+    "plain": "A measure of child poverty in an area.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "Building our Futures uses it to choose which schools to work with first."
+    },
     "overrides": {}
   },
   {
@@ -5584,16 +5619,18 @@
       "Percy and Mann 2014"
     ],
     "type": "substantive",
-    "definition": "Research on the relationship between skills and future pay, used in the programme's long-term earnings estimates.",
+    "definition": "Research (Percy and Mann, 2014) on the relationship between skills and future pay.",
     "source": "Percy, C. and Mann, A. (2014).",
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "Research on how skills affect future pay. The programme uses it in its long-term earnings estimates.",
+    "plain": "Research on how skills affect future pay.",
     "scope": [
       "bof"
     ],
-    "context_notes": {},
+    "context_notes": {
+      "bof": "Building our Futures uses it in its long-term earnings estimates."
+    },
     "overrides": {}
   },
   {

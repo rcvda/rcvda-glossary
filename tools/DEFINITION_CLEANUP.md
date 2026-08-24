@@ -2,54 +2,63 @@
 
 ## The rule
 A term's `definition` (and its `plain` twin) is the **narrowest true statement of what the thing is,
-stripped of every relationship**. Any clause that says "part of X", "a member of Y", "works with Z", or
-frames the thing through a partnership or programme is *relational* — it belongs to whichever lens X/Y/Z
-is the frame for, as a `context_notes` entry, **not** in the definition.
+stripped of every relationship**. Any clause that says "part of X", "a member of Y", "works with / funds /
+adapts Z", or frames the thing through a partnership or programme is *relational* — it moves to a
+`context_notes` entry keyed to whichever lens X/Y/Z is the frame for, **not** the definition.
 
-Test: if a reader in a *different* programme would find the clause irrelevant or untrue, it's a context
-note, not a definition.
+**The test used for the sweep:** does the term have an identity *independent of the programme*?
+- **Independent** (an external body, a national/statutory concept, a standard, a company) → the definition
+  is that independent identity; the programme's use of it becomes a `context_note`. *(SEND, Gatsby
+  Benchmarks, Anglo American, CJS, VCFSE …)*
+- **A programme construct** (a role, body, or artefact the programme itself created) → "the programme" is
+  intrinsic; leave it. *(Key Worker, ECW, Pupil Journey, the workstreams, the boards, the networks …)*
 
-## How it renders (the mechanism)
+## The mechanism
 - `definition` / `plain` — canonical identity, single-sourced, identical in every lens and the master.
-- `context_notes:` — a map keyed by a **programme** (`clr`) or a **specific lens** (`clr.hf`, `bof`).
-  A lens renders: its register-appropriate definition **+** the programme note it inherits **+** its own
-  lens note. A note keyed to a lens the term isn't scoped to simply doesn't render (harmless; ready if
-  the term is scoped there later).
-- `overrides:` stays for the rare **replace** case (a term that genuinely *means* something different in
-  one context). Do **not** use it for local colour — replacing the whole definition is what causes drift.
+- `context_notes:` — a map keyed by a **programme** (`clr`, inherited by all its lenses) or a **lens**
+  (`clr.hf`, `bof`). A lens renders: register-appropriate definition **+** inherited programme note **+**
+  its own lens note. A note keyed to a lens the term isn't scoped to simply doesn't render.
+- `overrides:` — the rare **replace** case (a term that genuinely *means* something different in one
+  context). Not for local colour; replacing the whole definition is what causes drift.
 
-## Applied in this pass (6)
-| Entry | Canonical definition | Context notes moved out |
-|---|---|---|
-| Redcar & Cleveland BC | "The unitary local authority for the Redcar and Cleveland area." | `clr`: South Tees pairing · `clr.hf`: Tees Valley Lettings Partnership · `bof`: works with BoF monthly |
-| Middlesbrough Council | "The unitary local authority for the Middlesbrough area." | `clr`: South Tees pairing · `clr.hf`: Lettings Partnership |
-| Stockton-on-Tees BC | "The unitary local authority for the Stockton-on-Tees area, in the Tees Valley." | `clr.hf`: Lettings Partnership (outside the South Tees footprint) |
-| North Star | "A housing association … operating across the Tees Valley." | `clr.hf`: Lettings Partnership |
-| Beyond Housing | "A registered provider of social housing operating across the Tees Valley and the wider region." | `clr`: named partner on the South Tees CF Programme Board |
-| KPI | (plain) "A target used to measure how well something is going." | `bof`: "…e.g. running the programme in five schools each term" |
+## Applied (24 of the 48)
 
-Note the payoff on RCBC: "South Tees" is a public-health-partnership frame, so it now appears **only** in
-CLR lenses — not in the `rcvda` (org-wide) or `bof` (schools) lenses, where it was previously noise.
+**First pass (6):** Redcar & Cleveland / Middlesbrough / Stockton councils, North Star, Beyond Housing
+(partnership riders → context notes), and KPI (BoF "five schools" example → `bof` note).
 
-## Needs your decision (judgement calls)
-- **VCFSE** — current definition is self-referential: *"The sector RCVDA works within and holds the
-  deep-dive work on behalf of."* Suggest atomic: *"Voluntary, Community, Faith and Social Enterprise —
-  charities, community groups, faith organisations and social enterprises,"* with a `clr` note: *"the
-  sector RCVDA holds the deep-dive work within."* OK to apply?
-- **The unscoped bodies** (Lived Experience Board, Areas of complex need, and North Star until now) —
-  their definitions lean on "the programme". They read fine *if* scoped into the CLR lenses; the real
-  question is whether they should be scoped there at all (part of the wider "12 unscoped terms" decision).
+**Follow-up pass (18):**
 
-## Deliberately left as-is (no action)
-Entries scoped to a **single programme** that say "the programme" are unambiguous within their own lens —
-e.g. the BoF entries (Pupil Journey, CRL, Gatsby Benchmarks, Skills Builder, Anglo American, Dogger Bank,
-SEND, KS2, Mantle, ASHE, the networks) and the CLR-internal concepts (ECW, workstream, Crisis Suite,
-Programme Board, MD cohort, CJS). "The programme" there means exactly one thing. Only cross-lens leaks
-were changed.
+*Estate / CLR side (6):*
+- **VCFSE** — now "Voluntary, Community, Faith and Social Enterprise — charities, community groups, faith
+  organisations and social enterprises"; the "sector RCVDA works within / holds the deep-dive work on
+  behalf of" → `clr` note.
+- **RCVDA** — was the placeholder "the publishing host of this deep-dive series"; now its real identity as
+  the local infrastructure charity, with "publishing host…" → `clr` note and "runs Building our Futures"
+  → `bof` note.
+- **CJS** — now actually defines the term (police, courts, prisons, probation); "one of the five
+  disadvantage domains" → `clr` note.
+- **Crisis Suite** — "one of the four ECW touchpoints" → `clr.kw` note.
+- **HDRC South Tees**, **ClRP** — "the programme/vehicle within which this series is produced" → `clr` note.
 
-## One implication for the CF reports
-Moving a clause out of `definition` into `context_notes` means a **regenerated** CF report glossary would
-lose that clause unless the report tooling is taught to append the strand's context note. Of the six
-above, only **Beyond Housing** feeds a CF report (Housing First, `clr.hf`), and only its "Programme Board
-partner" clause is affected. Submitted PDFs are unchanged (they're already generated). When the report
-pipeline is re-pointed at this master (Phase 4), have it render `definition + context_notes[strand]`.
+*BoF — nationally / independently defined terms (identity kept, BoF usage → `bof` note):*
+SEND, KS2, EYFS, ASHE, IDACI, Gatsby Benchmarks, Skills Builder Universal Framework, Mantle of the Expert,
+CRL, Percy & Mann (2014), Anglo American, Dogger Bank Wind Farm.
+
+## No action (24) — reviewed, correctly left as-is
+- **Programme constructs** where "the programme" is intrinsic: Changing Futures, Key Worker, ECW, Multiple
+  Disadvantage cohort, the workstreams, Trauma-Informed Champion(s)/Charter, Trauma phases, TIPC, the
+  Programme Board, STCFP, Vulnerabilities Service, Lived Experience feed, South Tees geography, the Live
+  Well boards, Frequent attender, and the BoF constructs (Pupil Journey, Business/Primary Schools
+  Networks, STEM Education & Careers Programmes). These read correctly within their single programme.
+- **Already atomic** (matched the scan only incidentally): JCUH, NENC ICB, NEAS, Mental Capacity Act,
+  Making Safeguarding Personal, South Tees Hospitals NHS FT.
+- **Caseworker** — a deliberate lexical usage note (explains a terminology choice); its purpose *is* the
+  context.
+- **Unscoped, deferred** to the "12 unscoped terms" decision: Areas of complex need, Lived Experience
+  Board, HDRC (national). Their "the programme" wording is fine once their lens home is decided.
+
+## Implication for the CF reports
+Moving a clause from `definition` to `context_notes` means a **regenerated** CF report glossary loses it
+unless the report render is taught to append the strand's context note. This now applies to the CLR-side
+splits (Beyond Housing, VCFSE, RCVDA, CJS, Crisis Suite, HDRC ST, ClRP). Submitted PDFs are unchanged.
+**Phase 4 wiring:** point the report tooling at `build/estate` and render `definition + context_notes[strand]`.

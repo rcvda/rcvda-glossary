@@ -325,8 +325,8 @@
   full_term: Criminal Justice System
   aliases: CJS
   type: acronym
-  definition: One of the five disadvantage domains in the Changing Futures working cohort 
-    definition.
+  definition: Criminal Justice System — the system of agencies (police, courts, prisons and 
+    probation) responsible for justice.
   source: ''
   source_url:
   org_ref: ''
@@ -335,6 +335,8 @@
   - clr.md
   note: ''
   agreed: y
+  context_notes:
+    clr: One of the five disadvantage domains in the Changing Futures cohort definition.
 - term: Cleveland
   id: cleveland
   abbr: ''
@@ -366,9 +368,8 @@
   aliases: ClRP
   type: local-programme
   definition: Redcar and Cleveland Voluntary Development Agency (RCVDA)'s programme of community-led
-    research, delivered in partnership with Teesside University on behalf of the Health Determinants
-    Research Collaboration South Tees (HDRC ST); the vehicle through which this deep-dive series is 
-    produced.
+    research, delivered in partnership with Teesside University for the Health Determinants Research
+    Collaboration South Tees (HDRC ST).
   source: RCVDA Community-led Research Programme (ClRP), delivered with Teesside University under 
     the NIHR Health Determinants Research Collaboration (HDRC) South Tees.
   source_url:
@@ -379,6 +380,8 @@
   - clr.tip
   note: ''
   agreed: y
+  context_notes:
+    clr: The vehicle through which this deep-dive series is produced.
 - term: COM-B
   id: com-b
   abbr: COM-B
@@ -419,7 +422,7 @@
   type: local-programme
   definition: The Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) Crisis Assessment Suite — a
     mental-health crisis walk-in and assessment facility at Roseberry Park Hospital, Marton Road, 
-    Middlesbrough. One of the four Enhanced Case Worker (ECW) touchpoints.
+    Middlesbrough.
   source: Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) — Crisis Assessment Suite, 
     Roseberry Park Hospital, Middlesbrough.
   source_url: 
@@ -430,6 +433,8 @@
   - clr.kw
   note: ''
   agreed: y
+  context_notes:
+    clr.kw: One of the four Enhanced Case Worker (ECW) touchpoints.
 - term: CSEW
   id: csew
   abbr: CSEW
@@ -986,9 +991,8 @@
   aliases: HDRC ST|HDRC South Tees|HDRC (HDRC South Tees)|HDRC
   type: local-programme
   definition: The National Institute for Health and Care Research (NIHR)-funded local Health 
-    Determinants Research Collaboration South Tees (HDRC ST) delivered in partnership with Teesside 
-    University; the programme within which this deep-dive series (and Redcar and Cleveland Voluntary
-    Development Agency (RCVDA)'s Community-led Research Programme) is produced.
+    Determinants Research Collaboration South Tees, delivered in partnership with Teesside 
+    University.
   source: The South Tees Health Determinants Research Collaboration programme website (NIHR-funded).
   source_url: https://hdrcsouthtees.co.uk
   org_ref: ''
@@ -1000,6 +1004,9 @@
   note: Local programme. Use HDRC ST for the South Tees collaboration; HDRC alone refers to the 
     national programme.
   agreed: y
+  context_notes:
+    clr: The programme within which this deep-dive series — and RCVDA's Community-led Research 
+      Programme — is produced.
 - term: HES
   id: hes
   abbr: HES
@@ -2069,7 +2076,8 @@
   full_term: Redcar and Cleveland Voluntary Development Agency
   aliases: RCVDA
   type: organisation
-  definition: The publishing host of this deep-dive series.
+  definition: Redcar and Cleveland Voluntary Development Agency — the local infrastructure charity 
+    supporting voluntary and community groups across Redcar & Cleveland.
   source: ''
   source_url:
   org_ref: findthatcharity org ID GB-CHC-1135959
@@ -2083,7 +2091,10 @@
   note: Full name first, then acronym, per BRAND.md §4.
   agreed: y
   plain: Redcar and Cleveland Voluntary Development Agency — the local charity that supports 
-    voluntary and community groups across Redcar & Cleveland, and runs Building our Futures.
+    voluntary and community groups across Redcar & Cleveland.
+  context_notes:
+    clr: The publishing host of this deep-dive series.
+    bof: Runs the Building our Futures programme.
 - term: REA
   id: rea
   abbr: REA
@@ -2796,8 +2807,8 @@
   aliases: VCFSE|VCSE|voluntary, community and social enterprise|voluntary, community, faith and 
     social enterprise|Voluntary, Community and Social Enterprise
   type: acronym
-  definition: The sector Redcar and Cleveland Voluntary Development Agency (RCVDA) works within and 
-    holds the deep-dive work on behalf of.
+  definition: Voluntary, Community, Faith and Social Enterprise — the collective term for charities,
+    community groups, faith organisations and social enterprises.
   source: Sector-standard term.
   source_url:
   org_ref: ''
@@ -2812,6 +2823,8 @@
   note: VCFSE is the house standard across the reports (used far more than VCSE); VCSE is folded in 
     as a match-form. 'VCSE Forum' remains a proper name where a report cites that specific body.
   agreed: y
+  context_notes:
+    clr: The sector RCVDA works within and holds the deep-dive work on behalf of.
 - term: Vicarious trauma
   id: vicarious-trauma
   abbr: ''
@@ -3826,10 +3839,8 @@
   full_term: Anglo American
   aliases: Anglo American
   type: organisation
-  definition: A global mining business; the first funder of Building our Futures (2021) and still a 
-    delivery partner.
-  plain: The programme's first funder, back in 2021. It no longer funds the programme but is still a
-    delivery partner.
+  definition: A global mining business.
+  plain: A global mining business.
   source: Anglo American
   source_url: https://www.angloamerican.com
   org_ref: 'Companies House GB-COH-03564138'
@@ -3838,6 +3849,9 @@
   - bof
   agreed: n
   note: 'Companies House: Anglo American plc, 03564138 (the global parent company).'
+  context_notes:
+    bof: The first funder of Building our Futures (2021); it no longer funds the programme but 
+      remains a delivery partner.
 - term: Building our Futures
   id: building-our-futures
   abbr: BoF
@@ -3861,10 +3875,8 @@
   full_term: Dogger Bank Wind Farm
   aliases: DBWF|Dogger Bank Wind Farm
   type: organisation
-  definition: The offshore wind farm off the North East coast that funds Building our Futures 
-    through its STEM Education and Careers Programmes.
-  plain: The programme's funder. It pays for the work through its STEM Education and Careers 
-    Programmes.
+  definition: An offshore wind farm off the North East coast of England.
+  plain: A large wind farm out at sea, off the North East coast.
   source: Dogger Bank Wind Farm
   source_url: https://doggerbank.com/
   org_ref: ''
@@ -3874,6 +3886,8 @@
   agreed: n
   note: Dogger Bank Wind Farm is a legal partnership / joint venture, not a single registered 
     company, so it has no one org reference.
+  context_notes:
+    bof: Funds Building our Futures through its STEM Education and Careers Programmes.
 - term: Equinor
   id: equinor
   abbr: ''
@@ -4103,10 +4117,8 @@
   full_term: Careers-related learning
   aliases: CRL|Careers-related learning
   type: substantive
-  definition: The careers learning taught in schools; Building our Futures uses its own tool to 
-    check what a school already does.
-  plain: The careers lessons taught in school. The programme uses a tool to check what a school 
-    already does.
+  definition: Careers-related learning — the careers learning taught in schools.
+  plain: The careers lessons taught in school.
   source: RCVDA — Building our Futures programme.
   source_url:
   org_ref: ''
@@ -4114,15 +4126,16 @@
   scope:
   - bof
   agreed: n
+  context_notes:
+    bof: Building our Futures uses its own tool to check what a school already does.
 - term: Gatsby Benchmarks
   id: gatsby-benchmarks
   abbr: ''
   full_term: Gatsby Benchmarks
   aliases: Gatsby Benchmarks
   type: substantive
-  definition: The national standard of eight benchmarks for good careers guidance, which the 
-    programme follows.
-  plain: The national standard for good careers guidance. The programme follows it.
+  definition: The national standard of eight benchmarks for good careers guidance.
+  plain: The national standard for good careers guidance.
   source: The Gatsby Foundation
   source_url: https://www.gatsbybenchmarks.org.uk/
   org_ref: ''
@@ -4130,6 +4143,8 @@
   scope:
   - bof
   agreed: n
+  context_notes:
+    bof: Building our Futures follows it.
 - term: Investors in Careers Primary
   id: investors-in-careers-primary
   abbr: ''
@@ -4168,9 +4183,8 @@
   full_term: Skills Builder Universal Framework
   aliases: Skills Builder Universal Framework
   type: method
-  definition: The framework the programme uses, built around eight essential skills for work and 
-    life.
-  plain: The skills framework the programme uses. It is built around eight essential skills.
+  definition: A skills framework built around eight essential skills for work and life.
+  plain: A skills framework built around eight essential skills.
   source: Skills Builder Partnership
   source_url: https://www.skillsbuilder.org/
   org_ref: ''
@@ -4178,6 +4192,8 @@
   scope:
   - bof
   agreed: n
+  context_notes:
+    bof: The framework Building our Futures uses.
 - term: The eight essential skills
   id: the-eight-essential-skills
   abbr: ''
@@ -4245,8 +4261,7 @@
   aliases: EYFS|Early Years Foundation Stage
   type: statutory
   definition: The statutory stage of learning and development for children from birth to age 5.
-  plain: The stage for the youngest children. The programme reaches it through special early-years 
-    lessons.
+  plain: The stage for the youngest children.
   source: DfE — Statutory framework for the early years foundation stage
   source_url: https://www.gov.uk/government/publications/early-years-foundation-stage-framework--2
   org_ref: ''
@@ -4254,6 +4269,8 @@
   scope:
   - bof
   agreed: n
+  context_notes:
+    bof: Building our Futures reaches it through special early-years lessons.
 - term: Key Stage 2
   id: ks2
   abbr: KS2
@@ -4261,8 +4278,8 @@
   aliases: KS2|Key Stage 2
   type: statutory
   definition: The stage of the national curriculum for pupils in school years 3 to 6 (roughly ages 7
-    to 11); the main focus of the programme.
-  plain: The primary years, roughly ages 7 to 11. The main programme is built for this stage.
+    to 11).
+  plain: The primary years, roughly ages 7 to 11.
   source: National curriculum in England
   source_url: https://www.gov.uk/government/collections/national-curriculum
   org_ref: ''
@@ -4270,6 +4287,8 @@
   scope:
   - bof
   agreed: n
+  context_notes:
+    bof: The main focus of Building our Futures.
 - term: Mantle of the Expert
   id: mantle-of-the-expert
   abbr: ''
@@ -4278,7 +4297,7 @@
   type: method
   definition: A teaching approach using role-play and inquiry, in which pupils take on the role of 
     experts.
-  plain: A way of teaching through role-play and inquiry. The programme uses it in the early years.
+  plain: A way of teaching through role-play and inquiry.
   source: Mantle of the Expert
   source_url: https://www.mantleoftheexpert.com/
   org_ref: ''
@@ -4286,6 +4305,8 @@
   scope:
   - bof
   agreed: n
+  context_notes:
+    bof: Building our Futures uses it in the early years.
 - term: Special Educational Needs and Disabilities
   id: send
   abbr: SEND
@@ -4293,9 +4314,8 @@
   aliases: SEND|Special Educational Needs and Disabilities
   type: statutory
   definition: The framework of support for children and young people with special educational needs 
-    or disabilities; the programme adapts the Pupil Journey for these pupils up to age 19.
-  plain: Extra support for pupils with special educational needs or disabilities. The programme 
-    adapts the Pupil Journey for them, up to age 19.
+    or disabilities.
+  plain: Extra support for pupils with special educational needs or disabilities.
   source: Children and Families Act 2014, Part 3
   source_url: https://www.legislation.gov.uk/ukpga/2014/6/part/3
   org_ref: ''
@@ -4303,6 +4323,8 @@
   scope:
   - bof
   agreed: n
+  context_notes:
+    bof: Building our Futures adapts the Pupil Journey for these pupils, up to age 19.
 - term: Transition programme
   id: transition-programme
   abbr: ''
@@ -4324,10 +4346,8 @@
   full_term: Annual Survey of Hours and Earnings
   aliases: ASHE|Annual Survey of Hours and Earnings
   type: substantive
-  definition: The Office for National Statistics' official survey of earnings; the programme uses 
-    it, with other research, to estimate long-term value.
-  plain: The official survey of what people earn. The programme uses it, with other research, to 
-    estimate its long-term value.
+  definition: The Office for National Statistics' official survey of earnings.
+  plain: The official survey of what people earn.
   source: Office for National Statistics — ASHE
   source_url: 
     https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/annualsurveyofhoursandearningsashemethodologyandguidance
@@ -4336,6 +4356,8 @@
   scope:
   - bof
   agreed: n
+  context_notes:
+    bof: Building our Futures uses it, with other research, to estimate its long-term value.
 - term: Case study
   id: case-study
   abbr: ''
@@ -4358,9 +4380,8 @@
   aliases: IDACI|Income Deprivation Affecting Children Index
   type: substantive
   definition: A national measure of the proportion of children in an area living in income-deprived 
-    households; used to prioritise which schools to work with.
-  plain: A measure of child poverty in an area. The programme uses it to choose which schools to 
-    work with first.
+    households.
+  plain: A measure of child poverty in an area.
   source: MHCLG — English indices of deprivation 2019
   source_url: https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019
   org_ref: ''
@@ -4368,16 +4389,16 @@
   scope:
   - bof
   agreed: n
+  context_notes:
+    bof: Building our Futures uses it to choose which schools to work with first.
 - term: Percy & Mann (2014)
   id: percy-and-mann-2014
   abbr: ''
   full_term: Percy and Mann (2014)
   aliases: Percy & Mann (2014)|Percy and Mann 2014
   type: substantive
-  definition: Research on the relationship between skills and future pay, used in the programme's 
-    long-term earnings estimates.
-  plain: Research on how skills affect future pay. The programme uses it in its long-term earnings 
-    estimates.
+  definition: Research (Percy and Mann, 2014) on the relationship between skills and future pay.
+  plain: Research on how skills affect future pay.
   source: Percy, C. and Mann, A. (2014).
   source_url:
   org_ref: ''
@@ -4385,6 +4406,8 @@
   scope:
   - bof
   agreed: n
+  context_notes:
+    bof: Building our Futures uses it in its long-term earnings estimates.
 - term: Pre/post survey
   id: pre-post-survey
   abbr: ''

@@ -1,5 +1,18 @@
 # Changelog — rcvda-glossary
 
+## 2026-08-24 — Definition cleanup: full 48-entry sweep
+- Worked through all 48 entries whose definitions blended identity with context. **24 split** (the 6 from
+  the first pass + 18 more), **24 left as-is** (programme constructs, already-atomic terms, or unscoped
+  terms deferred to the 12-unscoped decision). Rule: a term with an identity independent of the programme
+  gets that identity as its definition, with the programme's use moved to a `context_note`; a programme
+  construct keeps "the programme".
+- Notable fixes: **RCVDA** (was the placeholder "the publishing host of this deep-dive series" → its real
+  identity as the local infrastructure charity); **VCFSE** (was self-referential → the actual sector);
+  **CJS** (didn't define the term → now does). Plus the BoF national/statutory terms (SEND, KS2, EYFS,
+  Gatsby, Skills Builder, ASHE, IDACI …) keep their national identity with BoF usage as a `bof` note.
+- Full disposition of all 48 in `tools/DEFINITION_CLEANUP.md`. CLR-side splits join Beyond Housing in the
+  Phase-4 report-render note (append `context_notes[strand]`).
+
 ## 2026-08-23 — `context_notes`: separating identity from context
 - New mechanism: `definition`/`plain` now hold only a term's **atomic identity**; relational facts move
   to `context_notes`, a map keyed by **programme** (`clr`, inherited by its lenses) or **lens**

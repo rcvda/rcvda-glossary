@@ -25,12 +25,12 @@
       "RCVDA"
     ],
     "type": "organisation",
-    "definition": "Redcar and Cleveland Voluntary Development Agency — the local charity that supports voluntary and community groups across Redcar & Cleveland, and runs Building our Futures.",
+    "definition": "Redcar and Cleveland Voluntary Development Agency — the local charity that supports voluntary and community groups across Redcar & Cleveland.",
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1135959",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
-    "context_note": null
+    "context_note": "Runs the Building our Futures programme."
   },
   {
     "id": "redcar-and-cleveland-borough-council",
@@ -59,12 +59,12 @@
       "Anglo American"
     ],
     "type": "organisation",
-    "definition": "The programme's first funder, back in 2021. It no longer funds the programme but is still a delivery partner.",
+    "definition": "A global mining business.",
     "source": "Anglo American",
     "source_url": "https://www.angloamerican.com",
     "org_ref": "Companies House GB-COH-03564138",
     "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/03564138",
-    "context_note": null
+    "context_note": "The first funder of Building our Futures (2021); it no longer funds the programme but remains a delivery partner."
   },
   {
     "id": "building-our-futures",
@@ -93,12 +93,12 @@
       "Dogger Bank Wind Farm"
     ],
     "type": "organisation",
-    "definition": "The programme's funder. It pays for the work through its STEM Education and Careers Programmes.",
+    "definition": "A large wind farm out at sea, off the North East coast.",
     "source": "Dogger Bank Wind Farm",
     "source_url": "https://doggerbank.com/",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Funds Building our Futures through its STEM Education and Careers Programmes."
   },
   {
     "id": "equinor",
@@ -335,12 +335,12 @@
       "Careers-related learning"
     ],
     "type": "substantive",
-    "definition": "The careers lessons taught in school. The programme uses a tool to check what a school already does.",
+    "definition": "The careers lessons taught in school.",
     "source": "RCVDA — Building our Futures programme.",
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Building our Futures uses its own tool to check what a school already does."
   },
   {
     "id": "gatsby-benchmarks",
@@ -351,12 +351,12 @@
       "Gatsby Benchmarks"
     ],
     "type": "substantive",
-    "definition": "The national standard for good careers guidance. The programme follows it.",
+    "definition": "The national standard for good careers guidance.",
     "source": "The Gatsby Foundation",
     "source_url": "https://www.gatsbybenchmarks.org.uk/",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Building our Futures follows it."
   },
   {
     "id": "investors-in-careers-primary",
@@ -399,12 +399,12 @@
       "Skills Builder Universal Framework"
     ],
     "type": "method",
-    "definition": "The skills framework the programme uses. It is built around eight essential skills.",
+    "definition": "A skills framework built around eight essential skills.",
     "source": "Skills Builder Partnership",
     "source_url": "https://www.skillsbuilder.org/",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "The framework Building our Futures uses."
   },
   {
     "id": "the-eight-essential-skills",
@@ -481,12 +481,12 @@
       "Early Years Foundation Stage"
     ],
     "type": "statutory",
-    "definition": "The stage for the youngest children. The programme reaches it through special early-years lessons.",
+    "definition": "The stage for the youngest children.",
     "source": "DfE — Statutory framework for the early years foundation stage",
     "source_url": "https://www.gov.uk/government/publications/early-years-foundation-stage-framework--2",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Building our Futures reaches it through special early-years lessons."
   },
   {
     "id": "ks2",
@@ -498,12 +498,12 @@
       "Key Stage 2"
     ],
     "type": "statutory",
-    "definition": "The primary years, roughly ages 7 to 11. The main programme is built for this stage.",
+    "definition": "The primary years, roughly ages 7 to 11.",
     "source": "National curriculum in England",
     "source_url": "https://www.gov.uk/government/collections/national-curriculum",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "The main focus of Building our Futures."
   },
   {
     "id": "mantle-of-the-expert",
@@ -514,12 +514,12 @@
       "Mantle of the Expert"
     ],
     "type": "method",
-    "definition": "A way of teaching through role-play and inquiry. The programme uses it in the early years.",
+    "definition": "A way of teaching through role-play and inquiry.",
     "source": "Mantle of the Expert",
     "source_url": "https://www.mantleoftheexpert.com/",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Building our Futures uses it in the early years."
   },
   {
     "id": "send",
@@ -531,12 +531,12 @@
       "Special Educational Needs and Disabilities"
     ],
     "type": "statutory",
-    "definition": "Extra support for pupils with special educational needs or disabilities. The programme adapts the Pupil Journey for them, up to age 19.",
+    "definition": "Extra support for pupils with special educational needs or disabilities.",
     "source": "Children and Families Act 2014, Part 3",
     "source_url": "https://www.legislation.gov.uk/ukpga/2014/6/part/3",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Building our Futures adapts the Pupil Journey for these pupils, up to age 19."
   },
   {
     "id": "transition-programme",
@@ -564,12 +564,12 @@
       "Annual Survey of Hours and Earnings"
     ],
     "type": "substantive",
-    "definition": "The official survey of what people earn. The programme uses it, with other research, to estimate its long-term value.",
+    "definition": "The official survey of what people earn.",
     "source": "Office for National Statistics — ASHE",
     "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/annualsurveyofhoursandearningsashemethodologyandguidance",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Building our Futures uses it, with other research, to estimate its long-term value."
   },
   {
     "id": "case-study",
@@ -597,12 +597,12 @@
       "Income Deprivation Affecting Children Index"
     ],
     "type": "substantive",
-    "definition": "A measure of child poverty in an area. The programme uses it to choose which schools to work with first.",
+    "definition": "A measure of child poverty in an area.",
     "source": "MHCLG — English indices of deprivation 2019",
     "source_url": "https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019",
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Building our Futures uses it to choose which schools to work with first."
   },
   {
     "id": "percy-and-mann-2014",
@@ -614,12 +614,12 @@
       "Percy and Mann 2014"
     ],
     "type": "substantive",
-    "definition": "Research on how skills affect future pay. The programme uses it in its long-term earnings estimates.",
+    "definition": "Research on how skills affect future pay.",
     "source": "Percy, C. and Mann, A. (2014).",
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "context_note": null
+    "context_note": "Building our Futures uses it in its long-term earnings estimates."
   },
   {
     "id": "pre-post-survey",
