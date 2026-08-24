@@ -1,5 +1,16 @@
 # Changelog — rcvda-glossary
 
+## 2026-08-24 — Review worksheet for the 97 `agreed: n` entries
+- `tools/agreed_review.csv` lists every unsigned-off entry (54 rcvda + 40 bof + 3 CF hold-overs: TNLCF,
+  SafeLives, Ministry of Justice) with term/definition/plain/source/scope + a `decision` column and
+  `revised_definition`/`revised_plain` for inline edits. `tools/apply_review.py` reads it back:
+  y/approve → `agreed: y` (applies any revisions), `drop` → removes the entry, `n/hold` → left for later.
+
+## 2026-08-24 — RCVDA definition tidy
+- RCVDA's `full_term` already spells it out ("Redcar and Cleveland Voluntary Development Agency"); trimmed
+  the redundant name-repetition from its `definition`/`plain` so it reads like every other entry (says
+  what it *is*, not its name again).
+
 ## 2026-08-24 — Org-resolution CSV is now a decision worksheet
 - `tools/org_resolution.csv` gains a **`decision`** column (`keep`/`blank`/`apply`/`skip`) plus
   `override_orgid`, `current_org_ref` and `note` — one row per organisation entry, pre-filled with the

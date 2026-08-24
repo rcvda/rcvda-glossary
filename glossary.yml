@@ -2076,8 +2076,8 @@
   full_term: Redcar and Cleveland Voluntary Development Agency
   aliases: RCVDA
   type: organisation
-  definition: Redcar and Cleveland Voluntary Development Agency — the local infrastructure charity 
-    supporting voluntary and community groups across Redcar & Cleveland.
+  definition: The local infrastructure charity supporting voluntary and community groups across 
+    Redcar & Cleveland.
   source: ''
   source_url:
   org_ref: findthatcharity org ID GB-CHC-1135959
@@ -2090,8 +2090,7 @@
   - bof
   note: Full name first, then acronym, per BRAND.md §4.
   agreed: y
-  plain: Redcar and Cleveland Voluntary Development Agency — the local charity that supports 
-    voluntary and community groups across Redcar & Cleveland.
+  plain: The local charity that supports voluntary and community groups across Redcar & Cleveland.
   context_notes:
     clr: The publishing host of this deep-dive series.
     bof: Runs the Building our Futures programme.
