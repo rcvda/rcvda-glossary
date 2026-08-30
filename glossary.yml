@@ -419,6 +419,10 @@
   - rcvda
   note: ''
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Crisis Suite
   id: crisis-suite
   abbr: ''
@@ -574,6 +578,10 @@
   - rcvda
   note: Org reference per RCVDA estate standard (findthatcharity org ID).
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Government
 - term: DLUHC
   id: dluhc
   abbr: DLUHC
@@ -596,6 +604,10 @@
   - rcvda
   note: Cross-reference MHCLG.
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Government
 - term: Domestic abuse
   id: domestic-abuse
   abbr: DA
@@ -633,6 +645,10 @@
   note: Statutory appointment duty in NHS Act 2006 s.73A. South Tees has a joint Director of Public 
     Health post covering both Middlesbrough and Redcar & Cleveland.
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Local Authorities
 - term: Duty Worker
   id: duty-worker
   abbr: ''
@@ -665,6 +681,10 @@
   - rcvda
   note: ''
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Government
 - term: EbE
   id: ebe
   abbr: EbE
@@ -1173,6 +1193,10 @@
     into ONE entry with NENC ICB named inside, rather than two rows. Recommended. For South Tees the relevant
     board is the North East and North Cumbria ICB (NENC ICB).'
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: ICP
   id: icp
   abbr: ICP
@@ -1190,6 +1214,10 @@
   - rcvda
   note: ''
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: ICS
   id: ics
   abbr: ICS
@@ -1224,6 +1252,10 @@
   note: In South Tees the Advocate Educator and the Harbour GP Link Worker both function as IDVAs in
     their settings; the acronym is retained.
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: IG
   id: ig
   abbr: IG
@@ -1257,6 +1289,10 @@
   - rcvda
   note: ''
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - DWP
 - term: IRIS
   id: iris
   abbr: IRIS
@@ -1368,6 +1404,10 @@
     amended by the Health and Social Care Act 2012 and the Health and Care Act 2022 (which replaced 
     'Health and Wellbeing Board' with 'integrated care board').
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Local Authorities
 - term: Key Worker (KW)
   id: key-worker-kw
   abbr: KW
@@ -1570,6 +1610,10 @@
   - rcvda
   note: The local forum is the Cleveland MARAC.
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: MDT
   id: mdt
   abbr: MDT
@@ -1644,6 +1688,10 @@
     clr: With Redcar & Cleveland Borough Council, one of the two authorities that make up South 
       Tees.
     clr.hf: A member of the Tees Valley Lettings Partnership.
+  groups:
+    rcvda:
+    - Organisations
+    - Tees Valley
 - term: Multiple disadvantage (MD)
   id: multiple-disadvantage-md
   abbr: MD
@@ -1761,6 +1809,10 @@
     system, not a single body — NHS England (GB-GOR-PB481) is a distinct organisation and is currently
     being abolished, so it is not attached here (per Peter).'
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: NICE
   id: nice
   abbr: NICE
@@ -1816,6 +1868,10 @@
   note: Org reference XI-ROR-0187kwz08 is provisional — a ROR (Research Organization Registry) 
     record, the best available for now but not the ideal long-term identifier (per Peter).
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: NLP
   id: nlp
   abbr: NLP
@@ -2116,6 +2172,10 @@
   context_notes:
     clr: The publishing host of this deep-dive series.
     bof: Runs the Building our Futures programme.
+  groups:
+    rcvda:
+    - Organisations
+    - Locally
 - term: REA
   id: rea
   abbr: REA
@@ -2170,6 +2230,10 @@
     clr: With Middlesbrough Council, one of the two authorities that make up South Tees.
     clr.hf: A member of the Tees Valley Lettings Partnership.
     bof: Building our Futures works with the council and meets it monthly.
+  groups:
+    rcvda:
+    - Organisations
+    - Locally
 - term: Registered Provider (RP)
   id: registered-provider-rp
   abbr: RP
@@ -2239,6 +2303,10 @@
   note: The Housing Prospectus records 15 units in Redcar & Cleveland and 18 in Middlesbrough funded
     under RSAP.
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Local Authorities
 - term: RSI
   id: rsi
   abbr: RSI
@@ -2507,6 +2575,10 @@
   context_notes:
     clr.hf: A member of the Tees Valley Lettings Partnership, though outside the South Tees 
       programme footprint.
+  groups:
+    rcvda:
+    - Organisations
+    - Tees Valley
 - term: SWE
   id: swe
   abbr: SWE
@@ -2611,6 +2683,10 @@
     the Health and Social Care (Community Health and Standards) Act 2003) AND the specific trust is referenced
     by its NHS ODS org ID GB-NHS-RX3.'
   agreed: y
+  groups:
+    rcvda:
+    - Organisations
+    - Tees Valley
 - term: The system
   id: the-system
   abbr: ''
@@ -2783,6 +2859,10 @@
   - rcvda
   note: ''
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: TVCA
   id: tvca
   abbr: TVCA
@@ -2803,6 +2883,10 @@
   note: 'Dual reference: established by statutory order (SI 2016/449) under the Local Democracy, Economic
     Development and Construction Act 2009, and referenced by its org ID GB-LAE-TVCA.'
   agreed: y
+  groups:
+    rcvda:
+    - Organisations
+    - Tees Valley
 - term: TVHF (Tees Valley Home Finder)
   id: tvhf-tees-valley-home-finder
   abbr: TVHF
@@ -2847,6 +2931,10 @@
   agreed: y
   context_notes:
     clr: The sector RCVDA works within and holds the deep-dive work on behalf of.
+  groups:
+    rcvda:
+    - Terms
+    - VCSE
 - term: Vicarious trauma
   id: vicarious-trauma
   abbr: ''
@@ -3035,6 +3123,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Organisations
+    - Tees Valley
 - term: Hartlepool Borough Council
   id: hartlepool-borough-council
   abbr: ''
@@ -3049,6 +3141,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Organisations
+    - Tees Valley
 - term: Sustrans
   id: sustrans
   abbr: ''
@@ -3065,6 +3161,10 @@
   - rcvda
   agreed: y
   note: Registered charity 326550, now named Walk Wheel Cycle Trust (formerly Sustrans).
+  groups:
+    rcvda:
+    - Organisations
+    - Tees Valley
 - term: Tees Valley Rural Action
   id: tees-valley-rural-action
   abbr: TVRA
@@ -3080,6 +3180,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Organisations
+    - Tees Valley
 - term: VONNE
   id: vonne
   abbr: VONNE
@@ -3095,6 +3199,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Organisations
+    - North East
 - term: NAVCA
   id: navca
   abbr: NAVCA
@@ -3110,6 +3218,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
 - term: North East Ambulance Service
   id: neas
   abbr: NEAS
@@ -3125,6 +3237,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: NHS England
   id: nhs-england
   abbr: NHSE
@@ -3143,6 +3259,10 @@
   agreed: y
   note: Confirm current transition status; NHS England abolition announced March 2025, phased over 
     ~2 years.
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: Clinical Commissioning Group
   id: ccg
   abbr: CCG
@@ -3159,6 +3279,10 @@
   - rcvda
   agreed: y
   note: Superseded by ICB (Health and Care Act 2022).
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: Crown Prosecution Service
   id: crown-prosecution-service
   abbr: CPS
@@ -3174,6 +3298,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Lawn Tennis Association
   id: lawn-tennis-association
   abbr: LTA
@@ -3190,6 +3318,10 @@
   agreed: y
   note: 'Companies House: Lawn Tennis Association Limited, 07459469 (the national governing body, Roehampton).
     From the RCVDA static glossary''s ''Others — commonly used in Sport'' list.'
+  groups:
+    rcvda:
+    - Terms
+    - Sport
 - term: Department for Education
   id: department-for-education
   abbr: DfE
@@ -3207,6 +3339,10 @@
   agreed: y
   note: RCVDA static list uses 'DoE / Department of Education'; the correct current name is 
     Department for Education (DfE).
+  groups:
+    rcvda:
+    - Terms
+    - Government
 - term: Children and Young People
   id: children-and-young-people
   abbr: CYP
@@ -3222,6 +3358,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - VCSE
 - term: Environmental, Social and Governance
   id: esg
   abbr: ESG
@@ -3237,6 +3377,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - VCSE
 - term: Local Infrastructure Organisation
   id: local-infrastructure-organisation
   abbr: LIO
@@ -3252,6 +3396,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - VCSE
 - term: Voluntary and Community Sector
   id: voluntary-and-community-sector
   abbr: VCS
@@ -3267,6 +3415,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - VCSE
 - term: Community Asset Transfer
   id: community-asset-transfer
   abbr: CAT
@@ -3282,6 +3434,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - VCSE
 - term: SMARTER objectives
   id: smarter
   abbr: SMARTER
@@ -3297,6 +3453,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - VCSE
 - term: THRIVE (values)
   id: thrive-values
   abbr: THRIVE
@@ -3313,6 +3473,10 @@
   - rcvda
   agreed: y
   note: 'Homonym: not the Thrive Partnership (see thrive-partnership).'
+  groups:
+    rcvda:
+    - Terms
+    - VCSE
 - term: Registered Social Landlord
   id: registered-social-landlord
   abbr: RSL
@@ -3329,6 +3493,10 @@
   - rcvda
   agreed: y
   note: Now more commonly 'registered provider of social housing'.
+  groups:
+    rcvda:
+    - Terms
+    - Local Authorities
 - term: Severe Weather Emergency Protocol
   id: swep
   abbr: SWEP
@@ -3345,6 +3513,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Local Authorities
 - term: Team around the individual
   id: tati
   abbr: TATI
@@ -3360,6 +3532,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Local Authorities
 - term: Town Centre Management
   id: town-centre-management
   abbr: TCM
@@ -3375,6 +3551,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Local Authorities
 - term: Violence Against Women and Girls
   id: vawg
   abbr: VAWG
@@ -3391,6 +3571,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Criminal Justice
 - term: Jobcentre Plus District
   id: jcp-district
   abbr: JCP District
@@ -3406,6 +3590,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - DWP
 - term: Limited Capability for Work and Work-Related Activity
   id: lcwra
   abbr: LCWRA
@@ -3422,6 +3610,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - DWP
 - term: Personal Independence Payment
   id: pip
   abbr: PIP
@@ -3437,6 +3629,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - DWP
 - term: Supported Employment Quality Framework
   id: seqf
   abbr: SEQF
@@ -3452,6 +3648,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - DWP
 - term: Universal Credit
   id: universal-credit
   abbr: UC
@@ -3467,6 +3667,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - DWP
 - term: Community Psychiatric Nurse
   id: community-psychiatric-nurse
   abbr: CPN
@@ -3482,6 +3686,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: Children and Young People’s IAPT
   id: cyp-iapt
   abbr: CYP IAPT
@@ -3498,6 +3706,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: Child and Adolescent Mental Health Services
   id: camhs
   abbr: CAMHS
@@ -3513,6 +3725,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: Did Not Attend
   id: did-not-attend
   abbr: DNA
@@ -3528,6 +3744,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: Health in All Policies
   id: health-in-all-policies
   abbr: HiAP
@@ -3544,6 +3764,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: Health and Wellbeing Board
   id: health-and-wellbeing-board
   abbr: HWB
@@ -3559,6 +3783,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: Health and Wellbeing Executive
   id: health-and-wellbeing-executive
   abbr: HWBE
@@ -3575,6 +3803,10 @@
   - rcvda
   agreed: y
   note: Appears to be a South Tees / local body — confirm exact remit.
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: Care Programme Approach
   id: care-programme-approach
   abbr: CPA
@@ -3591,6 +3823,10 @@
   - rcvda
   agreed: y
   note: Being replaced by the Community Mental Health Framework (from 2019).
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: Community Safety Partnership
   id: community-safety-partnership
   abbr: CSP
@@ -3606,6 +3842,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Duty to Co-operate
   id: duty-to-co-operate
   abbr: DTC
@@ -3623,6 +3863,10 @@
   agreed: y
   note: 'Confirm intended sense: adult-safeguarding co-operation (Care Act 2014 s.6) vs children (Children
     Act 2004 s.10) vs the planning duty (Localism Act 2011 s.110).'
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Independent Mental Capacity Advocate
   id: imca
   abbr: IMCAs
@@ -3638,6 +3882,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Keeping Children Safe in Education
   id: kcsie
   abbr: KCSIE
@@ -3653,6 +3901,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Local Safeguarding Children Board
   id: lscb
   abbr: LSCB
@@ -3669,6 +3921,10 @@
   - rcvda
   agreed: y
   note: Superseded by multi-agency safeguarding arrangements (Children and Social Work Act 2017).
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Multi-Agency Public Protection Arrangements
   id: mappa
   abbr: MAPPA
@@ -3684,6 +3940,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Mental Capacity Act
   id: mental-capacity-act
   abbr: MCA
@@ -3699,6 +3959,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Mental Health Act
   id: mental-health-act
   abbr: MHA
@@ -3714,6 +3978,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Mental Health Act Code of Practice
   id: mha-code-of-practice
   abbr: MHA COP
@@ -3729,6 +3997,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Making Safeguarding Personal
   id: making-safeguarding-personal
   abbr: MSP
@@ -3746,6 +4018,10 @@
   - rcvda
   agreed: y
   note: 'Homonym: not My Sister’s Place (see my-sister-s-place-msp).'
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Quality Surveillance Group
   id: quality-surveillance-group
   abbr: QSG
@@ -3761,6 +4037,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Safeguarding Adults Board
   id: safeguarding-adults-board
   abbr: SAB
@@ -3778,6 +4058,10 @@
   agreed: y
   context_notes:
     rcvda: Locally, the Teeswide Safeguarding Adults Board.
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: Safeguarding Adults Review
   id: safeguarding-adults-review
   abbr: SAR
@@ -3794,6 +4078,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Safeguarding
 - term: National Governing Body
   id: national-governing-body
   abbr: NGB
@@ -3809,6 +4097,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Sport
 - term: Professional, Statutory and Regulatory Bodies
   id: psbr
   abbr: PSBR
@@ -3824,6 +4116,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Business
 - term: Therapeutic Communities
   id: therapeutic-communities
   abbr: TC
@@ -3839,6 +4135,10 @@
   scope:
   - rcvda
   agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Miscellaneous
 - term: Community Protection Notice
   id: community-protection-notice
   abbr: CPN
@@ -3856,6 +4156,10 @@
   - rcvda
   agreed: y
   note: 'Homonym: not Community Psychiatric Nurse (see community-psychiatric-nurse).'
+  groups:
+    rcvda:
+    - Terms
+    - Miscellaneous
 - term: Anglo American
   id: anglo-american
   abbr: ''

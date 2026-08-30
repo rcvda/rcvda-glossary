@@ -63,6 +63,13 @@ An entry looks like this (only `term`, `id`, `type`, `definition` and `scope` ar
 - **Plain language.** A lens whose `register` is `plain` (e.g. `bof`) prefers the `plain` field; if a
   term has none, the build falls back to the authoritative definition and prints a warning listing it.
 
+## Per-site grouping (optional)
+A lens can render its own section layout. Define the ordered sections on the context in `contexts.yml`
+(`group_order: {Section: [Sub, Sub…]}`), and tag each entry with its place for that lens:
+`groups: {rcvda: [Organisations, "Tees Valley"]}`. The per-lens `glossary.json` then carries the
+`group_order` in `meta` and each entry's `groups` path — the WordPress glossary block groups by these.
+Lenses with no `group_order` render flat/alphabetical.
+
 ## YAML gotcha
 A plain scalar cannot contain `": "`. Wrap any definition containing a colon in double quotes.
 

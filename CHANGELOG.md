@@ -1,5 +1,14 @@
 # Changelog — rcvda-glossary
 
+## 2026-08-24 — Per-lens grouping (Phase 4 groundwork)
+- New per-lens `groups` field on entries (`groups: {rcvda: [Section, Subsection]}`) + `group_order` in
+  `contexts.yml`, so a lens can reproduce its site's own section layout. Populated the `rcvda` lens from
+  the rcvda.org.uk static page (Organisations: Locally/Tees Valley/North East/Nationally; Terms: VCSE,
+  Local Authorities, Criminal Justice, DWP, NHS & Public Health, Safeguarding, Sport, Business,
+  Government, Miscellaneous). All 76 rcvda terms assigned.
+- Per-lens `glossary.json` is now `{meta:{lens,title,register,group_order}, entries:[…]}` with each entry
+  carrying its `groups` path for that lens — the feed the WordPress glossary block will render.
+
 ## 2026-08-24 — Scoped the four cross-cutting terms
 - Areas of complex need, HDRC, Lived Experience Board and NICE scoped to all five CLR strands (they sit
   across all of the deep-dive reports). Only Trauma-informed care (TIC) remains unscoped — a quoting-only

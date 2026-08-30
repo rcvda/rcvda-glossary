@@ -227,9 +227,14 @@ def main():
                 build_readme(with_note_in_definition(picked), title, p1) if picked
                 else f"# {title}\n\n_No terms scoped to `{code}` yet._\n")
         if "json" in outs:
-            json.dump([dict(entry_json(e), context_note=e.get("context_note") or None,
-                            short_name=e.get("short_name")) for e in picked],
-                      open(f"{d}/glossary.json","w",encoding="utf-8"), ensure_ascii=False, indent=2)
+            feed = {
+                "meta": {"lens": code, "title": cfg.get("title", code), "register": register,
+                         "group_order": cfg.get("group_order")},
+                "entries": [dict(entry_json(e), context_note=e.get("context_note") or None,
+                                 short_name=e.get("short_name"),
+                                 groups=(e.get("groups") or {}).get(code)) for e in picked],
+            }
+            json.dump(feed, open(f"{d}/glossary.json","w",encoding="utf-8"), ensure_ascii=False, indent=2)
         summary.append((code, len(picked), register))
 
     print(f"Built estate master ({len(entries)} entries) + {len(contexts)} lenses.")

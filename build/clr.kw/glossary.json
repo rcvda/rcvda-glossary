@@ -1,1049 +1,1116 @@
-[
-  {
-    "id": "adult-social-care",
-    "term": "Adult Social Care",
-    "abbr": "ASC",
-    "full_term": "Adult Social Care",
-    "aliases": [
-      "Adult Social Care",
-      "ASC"
-    ],
-    "type": "statutory",
-    "definition": "The statutory function of a local authority to provide care and support for adults with care and support needs, governed by the Care Act 2014 (the s.1 'promoting individual well-being' principle underpins it).",
-    "source": "Care Act 2014 (Part 1; s.1)",
-    "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/contents",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
+{
+  "meta": {
+    "lens": "clr.kw",
+    "title": "Key Worker deep dive",
+    "register": "authoritative",
+    "group_order": null
   },
-  {
-    "id": "a-e",
-    "term": "A&E",
-    "abbr": "A&E",
-    "full_term": "Accident and Emergency",
-    "aliases": [
-      "Accident and Emergency"
-    ],
-    "type": "acronym",
-    "definition": "The NHS hospital service for serious injuries and emergencies: the consultant-led, 24-hour 'Type 1' A&E. Locally provided at James Cook University Hospital.",
-    "source": null,
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "areas-of-complex-need-five-areas-of-work",
-    "term": "Areas of complex need (five areas of work)",
-    "abbr": null,
-    "full_term": "Areas of complex need (five areas of work)",
-    "aliases": [
-      "areas of complex need",
-      "areas of work",
-      "five areas"
-    ],
-    "type": "local-programme",
-    "definition": "The five overlapping areas of need that define who the programme works with: criminal justice, mental health, homelessness, domestic abuse and substance use. In South Tees a person must be in contact with two or more of these to access the service (South Tees Delivery Plan); the national Changing Futures cohort (MHCLG 2020 Prospectus) is defined more narrowly as three or more. These are the areas of work (the 'what'), distinct from the six delivery workstreams (the 'how').",
-    "source": "South Tees Delivery Plan (Version 2); MHCLG (2020) Changing Futures Prospectus (cohort definition).",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "brief-intervention",
-    "term": "Brief intervention",
-    "abbr": null,
-    "full_term": "Brief intervention",
-    "aliases": [
-      "BRIEF"
-    ],
-    "type": "local-programme",
-    "definition": "A shorter touchpoint that does not move onto an Enhanced Case Worker (ECW) caseload. Counted in the team's attendance-reduction figures alongside intensive 1:1 intervention.",
-    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "caseworker",
-    "term": "Caseworker",
-    "abbr": null,
-    "full_term": "Caseworker",
-    "aliases": [
-      "CASEWORKER"
-    ],
-    "type": "local-programme",
-    "definition": "Lower case. Used in the wider national literature and by the Ministry of Housing, Communities and Local Government (MHCLG) for the same role South Tees calls 'Key Worker'. Where this report quotes national source material it preserves 'caseworker'.",
-    "source": "National usage (Ministry of Housing, Communities and Local Government and the wider Changing Futures literature) for the role South Tees calls Key Worker.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "cba",
-    "term": "CBA",
-    "abbr": "CBA",
-    "full_term": "Cost-Benefit Analysis",
-    "aliases": [
-      "CBA",
-      "Cost-Benefit Analysis"
-    ],
-    "type": "method",
-    "definition": "A method for weighing the costs of an intervention against the monetary value of its outcomes.",
-    "source": "Economic appraisal method; see HM Treasury Green Book.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "changing-futures-cf",
-    "term": "Changing Futures (CF)",
-    "abbr": "CF",
-    "full_term": "Changing Futures",
-    "aliases": [
-      "Changing Futures",
-      "CF"
-    ],
-    "type": "substantive",
-    "definition": "The national programme testing system-change approaches for adults facing multiple disadvantage, jointly funded by Ministry of Housing, Communities and Local Government (MHCLG) and The National Lottery Community Fund (TNLCF); £91.8m across fifteen areas of England, 2021–2026. 'Changing Futures' on its own means this national programme; the local delivery is the South Tees Changing Futures Programme.",
-    "source": "MHCLG (2020) Changing Futures: changing systems to support adults experiencing multiple disadvantage — Prospectus. London: MHCLG.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "cleveland",
-    "term": "Cleveland",
-    "abbr": null,
-    "full_term": "Cleveland",
-    "aliases": [
-      "Cleveland"
-    ],
-    "type": "statutory",
-    "definition": "The former county of Cleveland (1974–1996), created by the Local Government Act 1972 and abolished by the Cleveland (Structural Change) Order 1995, which replaced it with four unitary authorities — Middlesbrough, Redcar & Cleveland, Stockton-on-Tees and Hartlepool. The name survives in bodies whose footprint still covers that geography, notably Cleveland Police and its Office of the Police and Crime Commissioner (OPCC).",
-    "source": "The Cleveland (Structural Change) Order 1995 (SI 1995/187), which abolished the county created by the Local Government Act 1972; the geography survives as the Cleveland Police / OPCC footprint.",
-    "source_url": "https://www.legislation.gov.uk/uksi/1995/187",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "cqc",
-    "term": "CQC",
-    "abbr": "CQC",
-    "full_term": "Care Quality Commission",
-    "aliases": [
-      "CQC",
-      "Care Quality Commission"
-    ],
-    "type": "organisation",
-    "definition": "The independent regulator of health and adult social care in England.",
-    "source": "Health and Social Care Act 2008 (established the Care Quality Commission)",
-    "source_url": "https://www.legislation.gov.uk/ukpga/2008/14/contents",
-    "org_ref": "findthatcharity org ID GB-GOR-PB251",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB251",
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "crisis-suite",
-    "term": "Crisis Suite",
-    "abbr": null,
-    "full_term": "Crisis Suite",
-    "aliases": [
-      "CRISIS"
-    ],
-    "type": "local-programme",
-    "definition": "The Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) Crisis Assessment Suite — a mental-health crisis walk-in and assessment facility at Roseberry Park Hospital, Marton Road, Middlesbrough.",
-    "source": "Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) — Crisis Assessment Suite, Roseberry Park Hospital, Middlesbrough.",
-    "source_url": "https://www.southtees.nhs.uk/services/maternity/perinatal-mental-health-and-wellbeing/help-and-support/",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": "One of the four Enhanced Case Worker (ECW) touchpoints.",
-    "short_name": null
-  },
-  {
-    "id": "duty-worker",
-    "term": "Duty Worker",
-    "abbr": null,
-    "full_term": "Duty Worker",
-    "aliases": [
-      "DUTY"
-    ],
-    "type": "local-programme",
-    "definition": "A Key Worker on rota providing the walk-in service at Redcar & Cleveland House (since August 2024) and Middlesbrough House (since 17 March 2025).",
-    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "ecw-enhanced-case-worker",
-    "term": "ECW (Enhanced Case Worker)",
-    "abbr": "ECW",
-    "full_term": "Enhanced Case Worker",
-    "aliases": [
-      "ECW",
-      "Enhanced Case Worker"
-    ],
-    "type": "local-programme",
-    "definition": "The role that delivers the programme's Enhanced Case Management workstream. Enhanced Case Workers support people who are already in the system, using a multi-agency 'team around the individual' approach, and reach out to people rather than waiting for referrals. It is a higher-intensity role than the Key Worker.",
-    "source": "South Tees Delivery Plan (Version 2), Workstream 2 (Enhanced Case Management).",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "entry-exit-questionnaire-eeq",
-    "term": "Entry / Exit Questionnaire (EEQ)",
-    "abbr": "EEQ",
-    "full_term": "Entry / Exit Questionnaire",
-    "aliases": [
-      "EEQ"
-    ],
-    "type": "local-programme",
-    "definition": "The internal pre/post survey the team gives to allocated adults at entry and again at case closure, covering three months of service contacts. Costed via the Greater Manchester Unit (GMU) Cost Database.",
-    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "frequent-attender",
-    "term": "Frequent attender",
-    "abbr": null,
-    "full_term": "Frequent attender",
-    "aliases": [
-      "FREQUENT"
-    ],
-    "type": "substantive",
-    "definition": "A person with five or more A&E attendances in a rolling 12-month period — the definition used in the British Red Cross (2024) Seen and Heard Dorset linked-data study, which the South Tees threshold matches (applied at both A&E and the Crisis Suite). The broader clinical convention (Royal College of Emergency Medicine) is five or more attendances in a year. A threshold, not a label for the person.",
-    "source": "British Red Cross (2024), Seen and Heard: understanding frequent attendance at A&E — Dorset linked-data study (five or more A&E attendances in a rolling 12-month period).",
-    "source_url": "https://assets-eu-01.kc-usercontent.com/82b1e254-5524-0172-0612-9ce813c7824c/ec0baeca-ebaa-4d49-8395-457991fe8ffb/Seen-and-Heard-Report-2024.pdf",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "ft",
-    "term": "FT",
-    "abbr": "FT",
-    "full_term": "NHS Foundation Trust",
-    "aliases": [
-      "FT",
-      "Foundation Trust"
-    ],
-    "type": "organisation",
-    "definition": "A semi-autonomous NHS provider organisation (NHS foundation trust).",
-    "source": "National Health Service Act 2006, s.30 (NHS foundation trusts)",
-    "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "fte",
-    "term": "FTE",
-    "abbr": "FTE",
-    "full_term": "Full-time equivalent",
-    "aliases": [
-      "FTE",
-      "full-time equivalent"
-    ],
-    "type": "method",
-    "definition": "Staffing expressed as a proportion of full-time hours.",
-    "source": "GOV.UK Analysis Function (2018) — Employment variables: Hours and FTE.",
-    "source_url": "https://analysisfunction.civilservice.gov.uk/wp-content/uploads/2019/04/Employment-variables-Hours-and-FTE-April-18.pdf",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "girft",
-    "term": "GIRFT",
-    "abbr": "GIRFT",
-    "full_term": "Getting It Right First Time",
-    "aliases": [
-      "GIRFT"
-    ],
-    "type": "substantive",
-    "definition": "An NHS England improvement programme. Cited in this report for its inspection feedback on the Crisis Suite Enhanced Case Worker (ECW) work.",
-    "source": "Get It Right First Time (GIRFT) — national NHS England programme",
-    "source_url": "https://gettingitrightfirsttime.co.uk",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "gmca",
-    "term": "GMCA",
-    "abbr": "GMCA",
-    "full_term": "Greater Manchester Combined Authority",
-    "aliases": [
-      "GMCA",
-      "Greater Manchester Combined Authority"
-    ],
-    "type": "organisation",
-    "definition": "The combined authority for Greater Manchester and author of the Cost-Benefit Analysis model the team uses.",
-    "source": null,
-    "source_url": null,
-    "org_ref": "findthatcharity org ID GB-LAE-GMCA (Greater Manchester Combined Authority)",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-GMCA",
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "greater-manchester-cba-model",
-    "term": "Greater Manchester CBA model",
-    "abbr": "GMU",
-    "full_term": "Greater Manchester CBA model",
-    "aliases": [
-      "Greater Manchester CBA model",
-      "GM CBA model",
-      "GMCA CBA",
-      "GMU Cost Database",
-      "GMU",
-      "Unit Cost Database"
-    ],
-    "type": "method",
-    "definition": "The Greater Manchester Combined Authority's Cost-Benefit Analysis (CBA) model — a framework, with an associated unit cost database, for estimating the fiscal and social value of interventions.",
-    "source": "Greater Manchester Combined Authority — Cost-Benefit Analysis (CBA) model",
-    "source_url": "https://www.greatermanchester-ca.gov.uk/what-we-do/research/research-cost-benefit-analysis/",
-    "org_ref": "findthatcharity org ID GB-LAE-GMCA (Greater Manchester Combined Authority)",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-GMCA",
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "hdrc",
-    "term": "HDRC",
-    "abbr": "HDRC",
-    "full_term": "Health Determinants Research Collaboration",
-    "aliases": [
-      "HDRC"
-    ],
-    "type": "substantive",
-    "definition": "The national National Institute for Health and Care Research (NIHR) programme funding local authorities and their partners to build research capacity on the wider determinants of health. South Tees is one such collaboration (see Health Determinants Research Collaboration South Tees (HDRC ST)).",
-    "source": "National Institute for Health and Care Research (NIHR) — HDRC programme.",
-    "source_url": "https://www.nihr.ac.uk/about-us/what-we-do/core-workstreams/working-with-partners/local-authorities/health-determinants-research-collaborations",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "hdrc-st",
-    "term": "HDRC ST",
-    "abbr": "HDRC ST",
-    "full_term": "Health Determinants Research Collaboration South Tees",
-    "aliases": [
-      "HDRC ST",
-      "HDRC South Tees",
-      "HDRC (HDRC South Tees)",
-      "HDRC"
-    ],
-    "type": "local-programme",
-    "definition": "The National Institute for Health and Care Research (NIHR)-funded local Health Determinants Research Collaboration South Tees, delivered in partnership with Teesside University.",
-    "source": "The South Tees Health Determinants Research Collaboration programme website (NIHR-funded).",
-    "source_url": "https://hdrcsouthtees.co.uk",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": "The programme within which this deep-dive series — and RCVDA's Community-led Research Programme — is produced.",
-    "short_name": null
-  },
-  {
-    "id": "hi",
-    "term": "HI",
-    "abbr": "HI",
-    "full_term": "Health Inequalities",
-    "aliases": [
-      "HI",
-      "Health Inequalities"
-    ],
-    "type": "substantive",
-    "definition": "Unfair and avoidable differences in health across the population.",
-    "source": "Public-health term.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "hiu",
-    "term": "HIU",
-    "abbr": "HIU",
-    "full_term": "High Intensity Use",
-    "aliases": [
-      "HIU",
-      "High Intensity Use"
-    ],
-    "type": "substantive",
-    "definition": "A pattern of very frequent, high-cost contact across services by a small number of people.",
-    "source": "Service-demand term.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "hr",
-    "term": "HR",
-    "abbr": "HR",
-    "full_term": "Human resources",
-    "aliases": [
-      "HR",
-      "human resources"
-    ],
-    "type": "acronym",
-    "definition": "The function dealing with staffing, employment and people management.",
-    "source": "Standard management term.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "ics",
-    "term": "ICS",
-    "abbr": "ICS",
-    "full_term": "Integrated Care System",
-    "aliases": [
-      "ICS",
-      "Integrated Care System"
-    ],
-    "type": "substantive",
-    "definition": "The partnership of NHS and local organisations that plans and delivers joined-up health and care for an area; made up of an Integrated Care Board and an Integrated Care Partnership.",
-    "source": "Health and Care Act 2022 (integrated care systems)",
-    "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "ig",
-    "term": "IG",
-    "abbr": "IG",
-    "full_term": "Information governance",
-    "aliases": [
-      "IG",
-      "information governance"
-    ],
-    "type": "acronym",
-    "definition": "The framework for handling information, especially personal data, lawfully, securely and appropriately.",
-    "source": "Data-protection / NHS IG term.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "jcuh",
-    "term": "JCUH",
-    "abbr": "JCUH",
-    "full_term": "James Cook University Hospital",
-    "aliases": [
-      "JCUH"
-    ],
-    "type": "organisation",
-    "definition": "The main acute hospital in Middlesbrough, operated by South Tees Hospitals NHS Foundation Trust.",
-    "source": "South Tees Hospitals NHS Foundation Trust — hospital webpage.",
-    "source_url": "https://www.southtees.nhs.uk/hospitals/james-cook/",
-    "org_ref": "findthatcharity org ID XI-ROR-02vqh3346",
-    "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-02vqh3346",
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "key-worker-kw",
-    "term": "Key Worker (KW)",
-    "abbr": "KW",
-    "full_term": "Key Worker",
-    "aliases": [
-      "Key Worker",
-      "KW"
-    ],
-    "type": "local-programme",
-    "definition": "A Changing Futures worker who holds a small, relationship-based caseload, helping people navigate services and surfacing what needs to change in the system. In South Tees these are peer-mentor posts held by people with relevant lived experience. The Enhanced Case Worker is the higher-intensity version.",
-    "source": "South Tees Delivery Plan (Version 2), Workstream 4 (Key Worker Support).",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "lgps",
-    "term": "LGPS",
-    "abbr": "LGPS",
-    "full_term": "Local Government Pension Scheme",
-    "aliases": [
-      "LGPS",
-      "Local Government Pension Scheme"
-    ],
-    "type": "acronym",
-    "definition": "The funded pension scheme for local-government employees.",
-    "source": "Local Government Pension Scheme Regulations 2013 (SI 2013/2356)",
-    "source_url": "https://www.legislation.gov.uk/uksi/2013/2356/contents/made",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "lived-experience-board",
-    "term": "Lived Experience Board",
-    "abbr": null,
-    "full_term": "Lived Experience Board",
-    "aliases": [
-      "Lived Experience Board"
-    ],
-    "type": "local-programme",
-    "definition": "The programme body through which people with lived experience gather, coordinate and prioritise what needs to change; the main hub feeding system- and service-change requests to the Programme Board. Underpins the co-production model that runs across all workstreams.",
-    "source": "STCFP Board Terms of Reference; South Tees Delivery Plan (Version 2).",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "live-well-south-tees-board",
-    "term": "Live Well South Tees Board",
-    "abbr": null,
-    "full_term": "Live Well South Tees Board",
-    "aliases": [
-      "Live Well South Tees Board"
-    ],
-    "type": "organisation",
-    "definition": "The statutory Health and Wellbeing Board discharging the section 194 duty jointly for Middlesbrough and Redcar & Cleveland; the political-level governance board for the joint South Tees Public Health function, co-chaired by the political leaders of the two authorities.",
-    "source": "Health and Social Care Act 2012, s.194 (Health and Wellbeing Boards)",
-    "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/section/194",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "live-well-south-tees-executive-board",
-    "term": "Live Well South Tees Executive Board",
-    "abbr": null,
-    "full_term": "Live Well South Tees Executive Board",
-    "aliases": [
-      "Live Well South Tees Executive Board"
-    ],
-    "type": "local-programme",
-    "definition": "The executive arm of the Live Well South Tees governance structure — the single forum where joint Public Health and each authority's Adult Social Care meet.",
-    "source": "Executive arm of the Live Well South Tees Board (the statutory Health and Wellbeing Board, HSCA 2012 s.194); constituted by local terms of reference.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "marac",
-    "term": "MARAC",
-    "abbr": "MARAC",
-    "full_term": "Multi-Agency Risk Assessment Conference",
-    "aliases": [
-      "MARAC"
-    ],
-    "type": "substantive",
-    "definition": "The multi-agency forum for managing the highest-risk domestic abuse cases.",
-    "source": "SafeLives — What is a MARAC? (SafeLives stewards the national MARAC model and holds the definition)",
-    "source_url": "https://safelives.org.uk/about-domestic-abuse/domestic-abuse-response-in-the-uk/what-is-a-marac/",
-    "org_ref": "findthatcharity org ID GB-CHC-1106864 (SafeLives)",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864",
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "mdt",
-    "term": "MDT",
-    "abbr": "MDT",
-    "full_term": "Multidisciplinary team",
-    "aliases": [
-      "MDT",
-      "multidisciplinary team"
-    ],
-    "type": "acronym",
-    "definition": "A team drawing together practitioners from different disciplines around a person.",
-    "source": "Standard health-and-care term.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "meam",
-    "term": "MEAM",
-    "abbr": "MEAM",
-    "full_term": "Making Every Adult Matter",
-    "aliases": [
-      "MEAM"
-    ],
-    "type": "substantive",
-    "definition": "The England-wide coalition and partnership approach coordinating local responses for adults facing multiple disadvantage. The closest comparator approach to Changing Futures; each local MEAM partnership defines its own cohort within a shared frame.",
-    "source": "Making Every Adult Matter (MEAM) — the England-wide coalition (Clinks, Homeless Link and Mind)",
-    "source_url": "https://meam.org.uk",
-    "org_ref": "findthatcharity org ID GB-CHC-1209508",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1209508",
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "mhclg",
-    "term": "MHCLG",
-    "abbr": "MHCLG",
-    "full_term": "Ministry of Housing, Communities and Local Government",
-    "aliases": [
-      "MHCLG"
-    ],
-    "type": "acronym",
-    "definition": "The UK government department co-funding Changing Futures. Named MHCLG to 2021, the Department for Levelling Up, Housing and Communities (DLUHC) 2021–2024, and MHCLG again from 9 July 2024.",
-    "source": "GOV.UK — Ministry of Housing, Communities and Local Government.",
-    "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
-    "org_ref": "findthatcharity org ID GB-GOR-D4",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4",
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "multiple-disadvantage-md",
-    "term": "Multiple disadvantage (MD)",
-    "abbr": "MD",
-    "full_term": "Multiple disadvantage",
-    "aliases": [
-      "multiple disadvantage",
-      "MD"
-    ],
-    "type": "substantive",
-    "definition": "The programme's cohort: in South Tees, adults in contact with two or more of five intersecting areas of complex need — criminal justice, mental health, homelessness, domestic abuse and substance use (the national Changing Futures cohort, per the MHCLG 2020 Prospectus, is three or more). The series adopts this working cohort definition as its primary frame. Hard Edges 'severe and multiple disadvantage (SMD)' is the foundational prevalence comparator.",
-    "source": "South Tees Delivery Plan (Version 2) / MHCLG (2020) Changing Futures Prospectus (working cohort definition); comparator: Bramley et al. (2015) Hard Edges, Lankelly Chase Foundation.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "mutually-agreed-outcome",
-    "term": "Mutually agreed outcome",
-    "abbr": null,
-    "full_term": "Mutually agreed outcome",
-    "aliases": [
-      "MUTUALLY"
-    ],
-    "type": "acronym",
-    "definition": "Closure category recording that both the Key Worker and the adult agreed the support goals were met.",
-    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "nenc-nenc-icb",
-    "term": "NENC / NENC ICB",
-    "abbr": "NENC ICB",
-    "full_term": "North East and North Cumbria Integrated Care Board",
-    "aliases": [
-      "NENC",
-      "NENC ICB"
-    ],
-    "type": "organisation",
-    "definition": "North East and North Cumbria — the NHS Integrated Care System area covering South Tees. The NENC Integrated Care Board (NENC ICB) is the relevant NHS commissioning body for this geography.",
-    "source": "Health and Care Act 2022 (integrated care boards, Part 1)",
-    "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
-    "org_ref": "findthatcharity org ID GB-NHS-01H",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-01H",
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "nice",
-    "term": "NICE",
-    "abbr": "NICE",
-    "full_term": "National Institute for Health and Care Excellence",
-    "aliases": [
-      "NICE"
-    ],
-    "type": "organisation",
-    "definition": "The statutory body (established by s.232 of the Health and Social Care Act 2012) that produces evidence-based guidance and quality standards for health and social care in England.",
-    "source": "Health and Social Care Act 2012, s.232",
-    "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/section/232",
-    "org_ref": "findthatcharity org ID GB-GOR-PB474",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB474",
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "not-ready-to-engage",
-    "term": "Not ready to engage",
-    "abbr": null,
-    "full_term": "Not ready to engage",
-    "aliases": [
-      "NOT"
-    ],
-    "type": "local-programme",
-    "definition": "Closure category for adults who disengaged either before or after allocation. A closure category, not a description of the person.",
-    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "opcc",
-    "term": "OPCC",
-    "abbr": "OPCC",
-    "full_term": "Office of the Police and Crime Commissioner",
-    "aliases": [
-      "OPCC"
-    ],
-    "type": "organisation",
-    "definition": "The elected office responsible for the governance of policing in a force area — setting the police and crime plan and holding the Chief Constable to account; created by the Police Reform and Social Responsibility Act 2011.",
-    "source": "Police Reform and Social Responsibility Act 2011",
-    "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "pcc",
-    "term": "PCC",
-    "abbr": "PCC",
-    "full_term": "Police and Crime Commissioner",
-    "aliases": [
-      "PCC",
-      "Police and Crime Commissioner"
-    ],
-    "type": "organisation",
-    "definition": "The elected office holder responsible for the governance of policing in a force area, setting the police and crime plan and holding the Chief Constable to account.",
-    "source": "Police Reform and Social Responsibility Act 2011",
-    "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "persistent-caller",
-    "term": "Persistent caller",
-    "abbr": null,
-    "full_term": "Persistent caller",
-    "aliases": [
-      "PERSISTENT"
-    ],
-    "type": "local-programme",
-    "definition": "Operational threshold used in the Police HQ Call Centre context: 5 or more calls in a one-month period. A threshold, not a label for the person.",
-    "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "phst",
-    "term": "PHST",
-    "abbr": "PHST",
-    "full_term": "Public Health South Tees",
-    "aliases": [
-      "PHST"
-    ],
-    "type": "local-programme",
-    "definition": "The joint Public Health function across Middlesbrough and Redcar & Cleveland.",
-    "source": null,
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "r-c",
-    "term": "R&C",
-    "abbr": "R&C",
-    "full_term": "Redcar & Cleveland",
-    "aliases": [
-      "R&C",
-      "Redcar & Cleveland"
-    ],
-    "type": "acronym",
-    "definition": "Local shorthand for the Borough of Redcar & Cleveland (and its council).",
-    "source": "Local shorthand.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "rcvda",
-    "term": "RCVDA",
-    "abbr": "RCVDA",
-    "full_term": "Redcar and Cleveland Voluntary Development Agency",
-    "aliases": [
-      "RCVDA"
-    ],
-    "type": "organisation",
-    "definition": "The local infrastructure charity supporting voluntary and community groups across Redcar & Cleveland.",
-    "source": null,
-    "source_url": null,
-    "org_ref": "findthatcharity org ID GB-CHC-1135959",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
-    "context_note": "The publishing host of this deep-dive series.",
-    "short_name": null
-  },
-  {
-    "id": "shapley-additive-explanations",
-    "term": "SHapley Additive exPlanations",
-    "abbr": "SHAP",
-    "full_term": "SHapley Additive exPlanations",
-    "aliases": [
-      "SHapley Additive exPlanations",
-      "Shapley values"
-    ],
-    "type": "method",
-    "definition": "A machine-learning method that explains how much each input feature contributes to a model's prediction, based on Shapley values.",
-    "source": "Lundberg & Lee (2017), SHAP.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "south-tees",
-    "term": "South Tees",
-    "abbr": null,
-    "full_term": "South Tees",
-    "aliases": [
-      "South Tees"
-    ],
-    "type": "local-programme",
-    "definition": "Middlesbrough and Redcar & Cleveland together — the two-local-authority geography of the South Tees Changing Futures Programme. Distinct from Cleveland.",
-    "source": "South Tees Changing Futures programme geography; BRAND.md §4.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "south-tees-changing-futures-programme-board",
-    "term": "South Tees Changing Futures Programme Board",
-    "abbr": null,
-    "full_term": "South Tees Changing Futures Programme Board",
-    "aliases": [
-      "South Tees Changing Futures Programme Board",
-      "Programme Board",
-      "STCFP Board"
-    ],
-    "type": "local-programme",
-    "definition": "The programme's governance board — chaired by a senior Redcar & Cleveland Borough Council officer and meeting monthly. It brings the partners together and acts on the change requests raised by the Lived Experience Board; day-to-day management sits with a Programme Management Sub-Group.",
-    "source": "STCFP Board Terms of Reference.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "south-tees-hospitals-nhs-foundation-trust",
-    "term": "South Tees Hospitals NHS Foundation Trust",
-    "abbr": null,
-    "full_term": "South Tees Hospitals NHS Foundation Trust",
-    "aliases": [
-      "South Tees Hospitals NHS Foundation Trust",
-      "South Tees Hospitals"
-    ],
-    "type": "organisation",
-    "definition": "The NHS foundation trust that operates James Cook University Hospital and other acute and community services across South Tees.",
-    "source": "National Health Service Act 2006, s.30 (NHS foundation trusts)",
-    "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
-    "org_ref": "findthatcharity org ID GB-NHS-RTR",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-RTR",
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "tewv",
-    "term": "TEWV",
-    "abbr": "TEWV",
-    "full_term": "Tees, Esk and Wear Valleys NHS Foundation Trust",
-    "aliases": [
-      "TEWV"
-    ],
-    "type": "organisation",
-    "definition": "The specialist mental-health and learning-disability trust serving the Tees Valley.",
-    "source": "National Health Service Act 2006, s.30 (NHS foundation trusts; originally the Health and Social Care (Community Health and Standards) Act 2003)",
-    "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
-    "org_ref": "findthatcharity org ID GB-NHS-RX3",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-RX3",
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "the-system",
-    "term": "The system",
-    "abbr": null,
-    "full_term": "The system",
-    "aliases": [
-      "the system"
-    ],
-    "type": "substantive",
-    "definition": "All the services around a person — health, housing, social care, justice, substance use, domestic abuse and welfare, whether statutory, commissioned or voluntary-sector — seen from the person's point of view rather than any one agency's. The related principle is that the system should adapt to the person, not the person to the system.",
-    "source": "Working definition adopted in this deep-dive series.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "trauma-informed-practice-tip",
-    "term": "Trauma-informed practice (TIP)",
-    "abbr": "TIP",
-    "full_term": "Trauma-informed practice",
-    "aliases": [
-      "trauma-informed practice",
-      "TIP"
-    ],
-    "type": "substantive",
-    "definition": "A whole-system approach to realising the prevalence of trauma, recognising its effects, responding by embedding that knowledge in practice, and resisting re-traumatisation. The series adopts the Office for Health Improvement and Disparities (OHID) (2022) England working definition, with Substance Abuse and Mental Health Services Administration (SAMHSA)'s (2014) four assumptions and six principles as the underlying framework.",
-    "source": "OHID (2022) Working definition of trauma-informed practice (GOV.UK)",
-    "source_url": "https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "tvhf-tees-valley-home-finder",
-    "term": "TVHF (Tees Valley Home Finder)",
-    "abbr": "TVHF",
-    "full_term": "Tees Valley Home Finder",
-    "aliases": [
-      "TVHF",
-      "Tees Valley Home Finder"
-    ],
-    "type": "local-programme",
-    "definition": "The sub-regional choice-based lettings scheme for social housing across the Tees Valley, commissioned by the Tees Valley Lettings Partnership and operating its Common Allocation Policy (TVLP CAP).",
-    "source": "Tees Valley Home Finder service portal — a service commissioned by the Tees Valley Lettings Partnership (TVLP)",
-    "source_url": "https://teesvalleyhomefinder.housingjigsaw.co.uk",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "vcfse",
-    "term": "VCFSE",
-    "abbr": "VCFSE",
-    "full_term": "Voluntary, Community, Faith and Social Enterprise",
-    "aliases": [
-      "VCFSE",
-      "VCSE",
-      "voluntary, community and social enterprise",
-      "voluntary, community, faith and social enterprise",
-      "Voluntary, Community and Social Enterprise"
-    ],
-    "type": "acronym",
-    "definition": "Voluntary, Community, Faith and Social Enterprise — the collective term for charities, community groups, faith organisations and social enterprises.",
-    "source": "Sector-standard term.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": "The sector RCVDA works within and holds the deep-dive work on behalf of.",
-    "short_name": null
-  },
-  {
-    "id": "vulnerabilities-service",
-    "term": "Vulnerabilities Service",
-    "abbr": null,
-    "full_term": "Vulnerabilities Service",
-    "aliases": [
-      "VULNERABILITIES"
-    ],
-    "type": "local-programme",
-    "definition": "The Public Health South Tees (PHST) service that houses the Changing Futures Key Working Team. Operationally led by the Vulnerabilities Manager.",
-    "source": "Public Health South Tees (PHST) — the service that houses the Changing Futures Key Working Team.",
-    "source_url": null,
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": null,
-    "short_name": null
-  },
-  {
-    "id": "the-national-lottery-community-fund-tnlcf",
-    "term": "The National Lottery Community Fund (TNLCF)",
-    "abbr": "TNLCF",
-    "full_term": "The National Lottery Community Fund",
-    "aliases": [
-      "The National Lottery Community Fund",
-      "National Lottery Community Fund",
-      "TNLCF",
-      "Big Lottery Fund"
-    ],
-    "type": "statutory",
-    "definition": "The operating name since 2019 of the Big Lottery Fund — the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players.",
-    "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
-    "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
-    "org_ref": null,
-    "org_ref_url": null,
-    "context_note": "Joint funder of Changing Futures with MHCLG.",
-    "short_name": null
-  },
-  {
-    "id": "ministry-of-justice",
-    "term": "Ministry of Justice",
-    "abbr": "MoJ",
-    "full_term": "Ministry of Justice",
-    "aliases": [
-      "Ministry of Justice",
-      "MoJ"
-    ],
-    "type": "organisation",
-    "definition": "The UK government department responsible for the courts, prisons, probation and sentencing policy in England and Wales.",
-    "source": "Ministry of Justice (GOV.UK)",
-    "source_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
-    "org_ref": "findthatcharity org ID GB-GOR-D18",
-    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D18",
-    "context_note": "Commissioned the Intensive Supervision Courts pilot and published the process evaluation cited in the Multiple Disadvantage report.",
-    "short_name": null
-  }
-]
+  "entries": [
+    {
+      "id": "adult-social-care",
+      "term": "Adult Social Care",
+      "abbr": "ASC",
+      "full_term": "Adult Social Care",
+      "aliases": [
+        "Adult Social Care",
+        "ASC"
+      ],
+      "type": "statutory",
+      "definition": "The statutory function of a local authority to provide care and support for adults with care and support needs, governed by the Care Act 2014 (the s.1 'promoting individual well-being' principle underpins it).",
+      "source": "Care Act 2014 (Part 1; s.1)",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/contents",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "a-e",
+      "term": "A&E",
+      "abbr": "A&E",
+      "full_term": "Accident and Emergency",
+      "aliases": [
+        "Accident and Emergency"
+      ],
+      "type": "acronym",
+      "definition": "The NHS hospital service for serious injuries and emergencies: the consultant-led, 24-hour 'Type 1' A&E. Locally provided at James Cook University Hospital.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "areas-of-complex-need-five-areas-of-work",
+      "term": "Areas of complex need (five areas of work)",
+      "abbr": null,
+      "full_term": "Areas of complex need (five areas of work)",
+      "aliases": [
+        "areas of complex need",
+        "areas of work",
+        "five areas"
+      ],
+      "type": "local-programme",
+      "definition": "The five overlapping areas of need that define who the programme works with: criminal justice, mental health, homelessness, domestic abuse and substance use. In South Tees a person must be in contact with two or more of these to access the service (South Tees Delivery Plan); the national Changing Futures cohort (MHCLG 2020 Prospectus) is defined more narrowly as three or more. These are the areas of work (the 'what'), distinct from the six delivery workstreams (the 'how').",
+      "source": "South Tees Delivery Plan (Version 2); MHCLG (2020) Changing Futures Prospectus (cohort definition).",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "brief-intervention",
+      "term": "Brief intervention",
+      "abbr": null,
+      "full_term": "Brief intervention",
+      "aliases": [
+        "BRIEF"
+      ],
+      "type": "local-programme",
+      "definition": "A shorter touchpoint that does not move onto an Enhanced Case Worker (ECW) caseload. Counted in the team's attendance-reduction figures alongside intensive 1:1 intervention.",
+      "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "caseworker",
+      "term": "Caseworker",
+      "abbr": null,
+      "full_term": "Caseworker",
+      "aliases": [
+        "CASEWORKER"
+      ],
+      "type": "local-programme",
+      "definition": "Lower case. Used in the wider national literature and by the Ministry of Housing, Communities and Local Government (MHCLG) for the same role South Tees calls 'Key Worker'. Where this report quotes national source material it preserves 'caseworker'.",
+      "source": "National usage (Ministry of Housing, Communities and Local Government and the wider Changing Futures literature) for the role South Tees calls Key Worker.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "cba",
+      "term": "CBA",
+      "abbr": "CBA",
+      "full_term": "Cost-Benefit Analysis",
+      "aliases": [
+        "CBA",
+        "Cost-Benefit Analysis"
+      ],
+      "type": "method",
+      "definition": "A method for weighing the costs of an intervention against the monetary value of its outcomes.",
+      "source": "Economic appraisal method; see HM Treasury Green Book.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "changing-futures-cf",
+      "term": "Changing Futures (CF)",
+      "abbr": "CF",
+      "full_term": "Changing Futures",
+      "aliases": [
+        "Changing Futures",
+        "CF"
+      ],
+      "type": "substantive",
+      "definition": "The national programme testing system-change approaches for adults facing multiple disadvantage, jointly funded by Ministry of Housing, Communities and Local Government (MHCLG) and The National Lottery Community Fund (TNLCF); £91.8m across fifteen areas of England, 2021–2026. 'Changing Futures' on its own means this national programme; the local delivery is the South Tees Changing Futures Programme.",
+      "source": "MHCLG (2020) Changing Futures: changing systems to support adults experiencing multiple disadvantage — Prospectus. London: MHCLG.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "cleveland",
+      "term": "Cleveland",
+      "abbr": null,
+      "full_term": "Cleveland",
+      "aliases": [
+        "Cleveland"
+      ],
+      "type": "statutory",
+      "definition": "The former county of Cleveland (1974–1996), created by the Local Government Act 1972 and abolished by the Cleveland (Structural Change) Order 1995, which replaced it with four unitary authorities — Middlesbrough, Redcar & Cleveland, Stockton-on-Tees and Hartlepool. The name survives in bodies whose footprint still covers that geography, notably Cleveland Police and its Office of the Police and Crime Commissioner (OPCC).",
+      "source": "The Cleveland (Structural Change) Order 1995 (SI 1995/187), which abolished the county created by the Local Government Act 1972; the geography survives as the Cleveland Police / OPCC footprint.",
+      "source_url": "https://www.legislation.gov.uk/uksi/1995/187",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "cqc",
+      "term": "CQC",
+      "abbr": "CQC",
+      "full_term": "Care Quality Commission",
+      "aliases": [
+        "CQC",
+        "Care Quality Commission"
+      ],
+      "type": "organisation",
+      "definition": "The independent regulator of health and adult social care in England.",
+      "source": "Health and Social Care Act 2008 (established the Care Quality Commission)",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2008/14/contents",
+      "org_ref": "findthatcharity org ID GB-GOR-PB251",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB251",
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "crisis-suite",
+      "term": "Crisis Suite",
+      "abbr": null,
+      "full_term": "Crisis Suite",
+      "aliases": [
+        "CRISIS"
+      ],
+      "type": "local-programme",
+      "definition": "The Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) Crisis Assessment Suite — a mental-health crisis walk-in and assessment facility at Roseberry Park Hospital, Marton Road, Middlesbrough.",
+      "source": "Tees, Esk and Wear Valleys NHS Foundation Trust (TEWV) — Crisis Assessment Suite, Roseberry Park Hospital, Middlesbrough.",
+      "source_url": "https://www.southtees.nhs.uk/services/maternity/perinatal-mental-health-and-wellbeing/help-and-support/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": "One of the four Enhanced Case Worker (ECW) touchpoints.",
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "duty-worker",
+      "term": "Duty Worker",
+      "abbr": null,
+      "full_term": "Duty Worker",
+      "aliases": [
+        "DUTY"
+      ],
+      "type": "local-programme",
+      "definition": "A Key Worker on rota providing the walk-in service at Redcar & Cleveland House (since August 2024) and Middlesbrough House (since 17 March 2025).",
+      "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "ecw-enhanced-case-worker",
+      "term": "ECW (Enhanced Case Worker)",
+      "abbr": "ECW",
+      "full_term": "Enhanced Case Worker",
+      "aliases": [
+        "ECW",
+        "Enhanced Case Worker"
+      ],
+      "type": "local-programme",
+      "definition": "The role that delivers the programme's Enhanced Case Management workstream. Enhanced Case Workers support people who are already in the system, using a multi-agency 'team around the individual' approach, and reach out to people rather than waiting for referrals. It is a higher-intensity role than the Key Worker.",
+      "source": "South Tees Delivery Plan (Version 2), Workstream 2 (Enhanced Case Management).",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "entry-exit-questionnaire-eeq",
+      "term": "Entry / Exit Questionnaire (EEQ)",
+      "abbr": "EEQ",
+      "full_term": "Entry / Exit Questionnaire",
+      "aliases": [
+        "EEQ"
+      ],
+      "type": "local-programme",
+      "definition": "The internal pre/post survey the team gives to allocated adults at entry and again at case closure, covering three months of service contacts. Costed via the Greater Manchester Unit (GMU) Cost Database.",
+      "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "frequent-attender",
+      "term": "Frequent attender",
+      "abbr": null,
+      "full_term": "Frequent attender",
+      "aliases": [
+        "FREQUENT"
+      ],
+      "type": "substantive",
+      "definition": "A person with five or more A&E attendances in a rolling 12-month period — the definition used in the British Red Cross (2024) Seen and Heard Dorset linked-data study, which the South Tees threshold matches (applied at both A&E and the Crisis Suite). The broader clinical convention (Royal College of Emergency Medicine) is five or more attendances in a year. A threshold, not a label for the person.",
+      "source": "British Red Cross (2024), Seen and Heard: understanding frequent attendance at A&E — Dorset linked-data study (five or more A&E attendances in a rolling 12-month period).",
+      "source_url": "https://assets-eu-01.kc-usercontent.com/82b1e254-5524-0172-0612-9ce813c7824c/ec0baeca-ebaa-4d49-8395-457991fe8ffb/Seen-and-Heard-Report-2024.pdf",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "ft",
+      "term": "FT",
+      "abbr": "FT",
+      "full_term": "NHS Foundation Trust",
+      "aliases": [
+        "FT",
+        "Foundation Trust"
+      ],
+      "type": "organisation",
+      "definition": "A semi-autonomous NHS provider organisation (NHS foundation trust).",
+      "source": "National Health Service Act 2006, s.30 (NHS foundation trusts)",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "fte",
+      "term": "FTE",
+      "abbr": "FTE",
+      "full_term": "Full-time equivalent",
+      "aliases": [
+        "FTE",
+        "full-time equivalent"
+      ],
+      "type": "method",
+      "definition": "Staffing expressed as a proportion of full-time hours.",
+      "source": "GOV.UK Analysis Function (2018) — Employment variables: Hours and FTE.",
+      "source_url": "https://analysisfunction.civilservice.gov.uk/wp-content/uploads/2019/04/Employment-variables-Hours-and-FTE-April-18.pdf",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "girft",
+      "term": "GIRFT",
+      "abbr": "GIRFT",
+      "full_term": "Getting It Right First Time",
+      "aliases": [
+        "GIRFT"
+      ],
+      "type": "substantive",
+      "definition": "An NHS England improvement programme. Cited in this report for its inspection feedback on the Crisis Suite Enhanced Case Worker (ECW) work.",
+      "source": "Get It Right First Time (GIRFT) — national NHS England programme",
+      "source_url": "https://gettingitrightfirsttime.co.uk",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "gmca",
+      "term": "GMCA",
+      "abbr": "GMCA",
+      "full_term": "Greater Manchester Combined Authority",
+      "aliases": [
+        "GMCA",
+        "Greater Manchester Combined Authority"
+      ],
+      "type": "organisation",
+      "definition": "The combined authority for Greater Manchester and author of the Cost-Benefit Analysis model the team uses.",
+      "source": null,
+      "source_url": null,
+      "org_ref": "findthatcharity org ID GB-LAE-GMCA (Greater Manchester Combined Authority)",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-GMCA",
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "greater-manchester-cba-model",
+      "term": "Greater Manchester CBA model",
+      "abbr": "GMU",
+      "full_term": "Greater Manchester CBA model",
+      "aliases": [
+        "Greater Manchester CBA model",
+        "GM CBA model",
+        "GMCA CBA",
+        "GMU Cost Database",
+        "GMU",
+        "Unit Cost Database"
+      ],
+      "type": "method",
+      "definition": "The Greater Manchester Combined Authority's Cost-Benefit Analysis (CBA) model — a framework, with an associated unit cost database, for estimating the fiscal and social value of interventions.",
+      "source": "Greater Manchester Combined Authority — Cost-Benefit Analysis (CBA) model",
+      "source_url": "https://www.greatermanchester-ca.gov.uk/what-we-do/research/research-cost-benefit-analysis/",
+      "org_ref": "findthatcharity org ID GB-LAE-GMCA (Greater Manchester Combined Authority)",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-GMCA",
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "hdrc",
+      "term": "HDRC",
+      "abbr": "HDRC",
+      "full_term": "Health Determinants Research Collaboration",
+      "aliases": [
+        "HDRC"
+      ],
+      "type": "substantive",
+      "definition": "The national National Institute for Health and Care Research (NIHR) programme funding local authorities and their partners to build research capacity on the wider determinants of health. South Tees is one such collaboration (see Health Determinants Research Collaboration South Tees (HDRC ST)).",
+      "source": "National Institute for Health and Care Research (NIHR) — HDRC programme.",
+      "source_url": "https://www.nihr.ac.uk/about-us/what-we-do/core-workstreams/working-with-partners/local-authorities/health-determinants-research-collaborations",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "hdrc-st",
+      "term": "HDRC ST",
+      "abbr": "HDRC ST",
+      "full_term": "Health Determinants Research Collaboration South Tees",
+      "aliases": [
+        "HDRC ST",
+        "HDRC South Tees",
+        "HDRC (HDRC South Tees)",
+        "HDRC"
+      ],
+      "type": "local-programme",
+      "definition": "The National Institute for Health and Care Research (NIHR)-funded local Health Determinants Research Collaboration South Tees, delivered in partnership with Teesside University.",
+      "source": "The South Tees Health Determinants Research Collaboration programme website (NIHR-funded).",
+      "source_url": "https://hdrcsouthtees.co.uk",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": "The programme within which this deep-dive series — and RCVDA's Community-led Research Programme — is produced.",
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "hi",
+      "term": "HI",
+      "abbr": "HI",
+      "full_term": "Health Inequalities",
+      "aliases": [
+        "HI",
+        "Health Inequalities"
+      ],
+      "type": "substantive",
+      "definition": "Unfair and avoidable differences in health across the population.",
+      "source": "Public-health term.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "hiu",
+      "term": "HIU",
+      "abbr": "HIU",
+      "full_term": "High Intensity Use",
+      "aliases": [
+        "HIU",
+        "High Intensity Use"
+      ],
+      "type": "substantive",
+      "definition": "A pattern of very frequent, high-cost contact across services by a small number of people.",
+      "source": "Service-demand term.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "hr",
+      "term": "HR",
+      "abbr": "HR",
+      "full_term": "Human resources",
+      "aliases": [
+        "HR",
+        "human resources"
+      ],
+      "type": "acronym",
+      "definition": "The function dealing with staffing, employment and people management.",
+      "source": "Standard management term.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "ics",
+      "term": "ICS",
+      "abbr": "ICS",
+      "full_term": "Integrated Care System",
+      "aliases": [
+        "ICS",
+        "Integrated Care System"
+      ],
+      "type": "substantive",
+      "definition": "The partnership of NHS and local organisations that plans and delivers joined-up health and care for an area; made up of an Integrated Care Board and an Integrated Care Partnership.",
+      "source": "Health and Care Act 2022 (integrated care systems)",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "ig",
+      "term": "IG",
+      "abbr": "IG",
+      "full_term": "Information governance",
+      "aliases": [
+        "IG",
+        "information governance"
+      ],
+      "type": "acronym",
+      "definition": "The framework for handling information, especially personal data, lawfully, securely and appropriately.",
+      "source": "Data-protection / NHS IG term.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "jcuh",
+      "term": "JCUH",
+      "abbr": "JCUH",
+      "full_term": "James Cook University Hospital",
+      "aliases": [
+        "JCUH"
+      ],
+      "type": "organisation",
+      "definition": "The main acute hospital in Middlesbrough, operated by South Tees Hospitals NHS Foundation Trust.",
+      "source": "South Tees Hospitals NHS Foundation Trust — hospital webpage.",
+      "source_url": "https://www.southtees.nhs.uk/hospitals/james-cook/",
+      "org_ref": "findthatcharity org ID XI-ROR-02vqh3346",
+      "org_ref_url": "https://findthatcharity.uk/orgid/XI-ROR-02vqh3346",
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "key-worker-kw",
+      "term": "Key Worker (KW)",
+      "abbr": "KW",
+      "full_term": "Key Worker",
+      "aliases": [
+        "Key Worker",
+        "KW"
+      ],
+      "type": "local-programme",
+      "definition": "A Changing Futures worker who holds a small, relationship-based caseload, helping people navigate services and surfacing what needs to change in the system. In South Tees these are peer-mentor posts held by people with relevant lived experience. The Enhanced Case Worker is the higher-intensity version.",
+      "source": "South Tees Delivery Plan (Version 2), Workstream 4 (Key Worker Support).",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "lgps",
+      "term": "LGPS",
+      "abbr": "LGPS",
+      "full_term": "Local Government Pension Scheme",
+      "aliases": [
+        "LGPS",
+        "Local Government Pension Scheme"
+      ],
+      "type": "acronym",
+      "definition": "The funded pension scheme for local-government employees.",
+      "source": "Local Government Pension Scheme Regulations 2013 (SI 2013/2356)",
+      "source_url": "https://www.legislation.gov.uk/uksi/2013/2356/contents/made",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "lived-experience-board",
+      "term": "Lived Experience Board",
+      "abbr": null,
+      "full_term": "Lived Experience Board",
+      "aliases": [
+        "Lived Experience Board"
+      ],
+      "type": "local-programme",
+      "definition": "The programme body through which people with lived experience gather, coordinate and prioritise what needs to change; the main hub feeding system- and service-change requests to the Programme Board. Underpins the co-production model that runs across all workstreams.",
+      "source": "STCFP Board Terms of Reference; South Tees Delivery Plan (Version 2).",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "live-well-south-tees-board",
+      "term": "Live Well South Tees Board",
+      "abbr": null,
+      "full_term": "Live Well South Tees Board",
+      "aliases": [
+        "Live Well South Tees Board"
+      ],
+      "type": "organisation",
+      "definition": "The statutory Health and Wellbeing Board discharging the section 194 duty jointly for Middlesbrough and Redcar & Cleveland; the political-level governance board for the joint South Tees Public Health function, co-chaired by the political leaders of the two authorities.",
+      "source": "Health and Social Care Act 2012, s.194 (Health and Wellbeing Boards)",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/section/194",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "live-well-south-tees-executive-board",
+      "term": "Live Well South Tees Executive Board",
+      "abbr": null,
+      "full_term": "Live Well South Tees Executive Board",
+      "aliases": [
+        "Live Well South Tees Executive Board"
+      ],
+      "type": "local-programme",
+      "definition": "The executive arm of the Live Well South Tees governance structure — the single forum where joint Public Health and each authority's Adult Social Care meet.",
+      "source": "Executive arm of the Live Well South Tees Board (the statutory Health and Wellbeing Board, HSCA 2012 s.194); constituted by local terms of reference.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "marac",
+      "term": "MARAC",
+      "abbr": "MARAC",
+      "full_term": "Multi-Agency Risk Assessment Conference",
+      "aliases": [
+        "MARAC"
+      ],
+      "type": "substantive",
+      "definition": "The multi-agency forum for managing the highest-risk domestic abuse cases.",
+      "source": "SafeLives — What is a MARAC? (SafeLives stewards the national MARAC model and holds the definition)",
+      "source_url": "https://safelives.org.uk/about-domestic-abuse/domestic-abuse-response-in-the-uk/what-is-a-marac/",
+      "org_ref": "findthatcharity org ID GB-CHC-1106864 (SafeLives)",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1106864",
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "mdt",
+      "term": "MDT",
+      "abbr": "MDT",
+      "full_term": "Multidisciplinary team",
+      "aliases": [
+        "MDT",
+        "multidisciplinary team"
+      ],
+      "type": "acronym",
+      "definition": "A team drawing together practitioners from different disciplines around a person.",
+      "source": "Standard health-and-care term.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "meam",
+      "term": "MEAM",
+      "abbr": "MEAM",
+      "full_term": "Making Every Adult Matter",
+      "aliases": [
+        "MEAM"
+      ],
+      "type": "substantive",
+      "definition": "The England-wide coalition and partnership approach coordinating local responses for adults facing multiple disadvantage. The closest comparator approach to Changing Futures; each local MEAM partnership defines its own cohort within a shared frame.",
+      "source": "Making Every Adult Matter (MEAM) — the England-wide coalition (Clinks, Homeless Link and Mind)",
+      "source_url": "https://meam.org.uk",
+      "org_ref": "findthatcharity org ID GB-CHC-1209508",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1209508",
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "mhclg",
+      "term": "MHCLG",
+      "abbr": "MHCLG",
+      "full_term": "Ministry of Housing, Communities and Local Government",
+      "aliases": [
+        "MHCLG"
+      ],
+      "type": "acronym",
+      "definition": "The UK government department co-funding Changing Futures. Named MHCLG to 2021, the Department for Levelling Up, Housing and Communities (DLUHC) 2021–2024, and MHCLG again from 9 July 2024.",
+      "source": "GOV.UK — Ministry of Housing, Communities and Local Government.",
+      "source_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+      "org_ref": "findthatcharity org ID GB-GOR-D4",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D4",
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "multiple-disadvantage-md",
+      "term": "Multiple disadvantage (MD)",
+      "abbr": "MD",
+      "full_term": "Multiple disadvantage",
+      "aliases": [
+        "multiple disadvantage",
+        "MD"
+      ],
+      "type": "substantive",
+      "definition": "The programme's cohort: in South Tees, adults in contact with two or more of five intersecting areas of complex need — criminal justice, mental health, homelessness, domestic abuse and substance use (the national Changing Futures cohort, per the MHCLG 2020 Prospectus, is three or more). The series adopts this working cohort definition as its primary frame. Hard Edges 'severe and multiple disadvantage (SMD)' is the foundational prevalence comparator.",
+      "source": "South Tees Delivery Plan (Version 2) / MHCLG (2020) Changing Futures Prospectus (working cohort definition); comparator: Bramley et al. (2015) Hard Edges, Lankelly Chase Foundation.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "mutually-agreed-outcome",
+      "term": "Mutually agreed outcome",
+      "abbr": null,
+      "full_term": "Mutually agreed outcome",
+      "aliases": [
+        "MUTUALLY"
+      ],
+      "type": "acronym",
+      "definition": "Closure category recording that both the Key Worker and the adult agreed the support goals were met.",
+      "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "nenc-nenc-icb",
+      "term": "NENC / NENC ICB",
+      "abbr": "NENC ICB",
+      "full_term": "North East and North Cumbria Integrated Care Board",
+      "aliases": [
+        "NENC",
+        "NENC ICB"
+      ],
+      "type": "organisation",
+      "definition": "North East and North Cumbria — the NHS Integrated Care System area covering South Tees. The NENC Integrated Care Board (NENC ICB) is the relevant NHS commissioning body for this geography.",
+      "source": "Health and Care Act 2022 (integrated care boards, Part 1)",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2022/31/contents",
+      "org_ref": "findthatcharity org ID GB-NHS-01H",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-01H",
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "nice",
+      "term": "NICE",
+      "abbr": "NICE",
+      "full_term": "National Institute for Health and Care Excellence",
+      "aliases": [
+        "NICE"
+      ],
+      "type": "organisation",
+      "definition": "The statutory body (established by s.232 of the Health and Social Care Act 2012) that produces evidence-based guidance and quality standards for health and social care in England.",
+      "source": "Health and Social Care Act 2012, s.232",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/section/232",
+      "org_ref": "findthatcharity org ID GB-GOR-PB474",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB474",
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "not-ready-to-engage",
+      "term": "Not ready to engage",
+      "abbr": null,
+      "full_term": "Not ready to engage",
+      "aliases": [
+        "NOT"
+      ],
+      "type": "local-programme",
+      "definition": "Closure category for adults who disengaged either before or after allocation. A closure category, not a description of the person.",
+      "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "opcc",
+      "term": "OPCC",
+      "abbr": "OPCC",
+      "full_term": "Office of the Police and Crime Commissioner",
+      "aliases": [
+        "OPCC"
+      ],
+      "type": "organisation",
+      "definition": "The elected office responsible for the governance of policing in a force area — setting the police and crime plan and holding the Chief Constable to account; created by the Police Reform and Social Responsibility Act 2011.",
+      "source": "Police Reform and Social Responsibility Act 2011",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "pcc",
+      "term": "PCC",
+      "abbr": "PCC",
+      "full_term": "Police and Crime Commissioner",
+      "aliases": [
+        "PCC",
+        "Police and Crime Commissioner"
+      ],
+      "type": "organisation",
+      "definition": "The elected office holder responsible for the governance of policing in a force area, setting the police and crime plan and holding the Chief Constable to account.",
+      "source": "Police Reform and Social Responsibility Act 2011",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2011/13/contents",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "persistent-caller",
+      "term": "Persistent caller",
+      "abbr": null,
+      "full_term": "Persistent caller",
+      "aliases": [
+        "PERSISTENT"
+      ],
+      "type": "local-programme",
+      "definition": "Operational threshold used in the Police HQ Call Centre context: 5 or more calls in a one-month period. A threshold, not a label for the person.",
+      "source": "South Tees Changing Futures programme — operational term used by the delivery team.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "phst",
+      "term": "PHST",
+      "abbr": "PHST",
+      "full_term": "Public Health South Tees",
+      "aliases": [
+        "PHST"
+      ],
+      "type": "local-programme",
+      "definition": "The joint Public Health function across Middlesbrough and Redcar & Cleveland.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "r-c",
+      "term": "R&C",
+      "abbr": "R&C",
+      "full_term": "Redcar & Cleveland",
+      "aliases": [
+        "R&C",
+        "Redcar & Cleveland"
+      ],
+      "type": "acronym",
+      "definition": "Local shorthand for the Borough of Redcar & Cleveland (and its council).",
+      "source": "Local shorthand.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "rcvda",
+      "term": "RCVDA",
+      "abbr": "RCVDA",
+      "full_term": "Redcar and Cleveland Voluntary Development Agency",
+      "aliases": [
+        "RCVDA"
+      ],
+      "type": "organisation",
+      "definition": "The local infrastructure charity supporting voluntary and community groups across Redcar & Cleveland.",
+      "source": null,
+      "source_url": null,
+      "org_ref": "findthatcharity org ID GB-CHC-1135959",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
+      "context_note": "The publishing host of this deep-dive series.",
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "shapley-additive-explanations",
+      "term": "SHapley Additive exPlanations",
+      "abbr": "SHAP",
+      "full_term": "SHapley Additive exPlanations",
+      "aliases": [
+        "SHapley Additive exPlanations",
+        "Shapley values"
+      ],
+      "type": "method",
+      "definition": "A machine-learning method that explains how much each input feature contributes to a model's prediction, based on Shapley values.",
+      "source": "Lundberg & Lee (2017), SHAP.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "south-tees",
+      "term": "South Tees",
+      "abbr": null,
+      "full_term": "South Tees",
+      "aliases": [
+        "South Tees"
+      ],
+      "type": "local-programme",
+      "definition": "Middlesbrough and Redcar & Cleveland together — the two-local-authority geography of the South Tees Changing Futures Programme. Distinct from Cleveland.",
+      "source": "South Tees Changing Futures programme geography; BRAND.md §4.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "south-tees-changing-futures-programme-board",
+      "term": "South Tees Changing Futures Programme Board",
+      "abbr": null,
+      "full_term": "South Tees Changing Futures Programme Board",
+      "aliases": [
+        "South Tees Changing Futures Programme Board",
+        "Programme Board",
+        "STCFP Board"
+      ],
+      "type": "local-programme",
+      "definition": "The programme's governance board — chaired by a senior Redcar & Cleveland Borough Council officer and meeting monthly. It brings the partners together and acts on the change requests raised by the Lived Experience Board; day-to-day management sits with a Programme Management Sub-Group.",
+      "source": "STCFP Board Terms of Reference.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "south-tees-hospitals-nhs-foundation-trust",
+      "term": "South Tees Hospitals NHS Foundation Trust",
+      "abbr": null,
+      "full_term": "South Tees Hospitals NHS Foundation Trust",
+      "aliases": [
+        "South Tees Hospitals NHS Foundation Trust",
+        "South Tees Hospitals"
+      ],
+      "type": "organisation",
+      "definition": "The NHS foundation trust that operates James Cook University Hospital and other acute and community services across South Tees.",
+      "source": "National Health Service Act 2006, s.30 (NHS foundation trusts)",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
+      "org_ref": "findthatcharity org ID GB-NHS-RTR",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-RTR",
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "tewv",
+      "term": "TEWV",
+      "abbr": "TEWV",
+      "full_term": "Tees, Esk and Wear Valleys NHS Foundation Trust",
+      "aliases": [
+        "TEWV"
+      ],
+      "type": "organisation",
+      "definition": "The specialist mental-health and learning-disability trust serving the Tees Valley.",
+      "source": "National Health Service Act 2006, s.30 (NHS foundation trusts; originally the Health and Social Care (Community Health and Standards) Act 2003)",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
+      "org_ref": "findthatcharity org ID GB-NHS-RX3",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-RX3",
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "the-system",
+      "term": "The system",
+      "abbr": null,
+      "full_term": "The system",
+      "aliases": [
+        "the system"
+      ],
+      "type": "substantive",
+      "definition": "All the services around a person — health, housing, social care, justice, substance use, domestic abuse and welfare, whether statutory, commissioned or voluntary-sector — seen from the person's point of view rather than any one agency's. The related principle is that the system should adapt to the person, not the person to the system.",
+      "source": "Working definition adopted in this deep-dive series.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "trauma-informed-practice-tip",
+      "term": "Trauma-informed practice (TIP)",
+      "abbr": "TIP",
+      "full_term": "Trauma-informed practice",
+      "aliases": [
+        "trauma-informed practice",
+        "TIP"
+      ],
+      "type": "substantive",
+      "definition": "A whole-system approach to realising the prevalence of trauma, recognising its effects, responding by embedding that knowledge in practice, and resisting re-traumatisation. The series adopts the Office for Health Improvement and Disparities (OHID) (2022) England working definition, with Substance Abuse and Mental Health Services Administration (SAMHSA)'s (2014) four assumptions and six principles as the underlying framework.",
+      "source": "OHID (2022) Working definition of trauma-informed practice (GOV.UK)",
+      "source_url": "https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "tvhf-tees-valley-home-finder",
+      "term": "TVHF (Tees Valley Home Finder)",
+      "abbr": "TVHF",
+      "full_term": "Tees Valley Home Finder",
+      "aliases": [
+        "TVHF",
+        "Tees Valley Home Finder"
+      ],
+      "type": "local-programme",
+      "definition": "The sub-regional choice-based lettings scheme for social housing across the Tees Valley, commissioned by the Tees Valley Lettings Partnership and operating its Common Allocation Policy (TVLP CAP).",
+      "source": "Tees Valley Home Finder service portal — a service commissioned by the Tees Valley Lettings Partnership (TVLP)",
+      "source_url": "https://teesvalleyhomefinder.housingjigsaw.co.uk",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "vcfse",
+      "term": "VCFSE",
+      "abbr": "VCFSE",
+      "full_term": "Voluntary, Community, Faith and Social Enterprise",
+      "aliases": [
+        "VCFSE",
+        "VCSE",
+        "voluntary, community and social enterprise",
+        "voluntary, community, faith and social enterprise",
+        "Voluntary, Community and Social Enterprise"
+      ],
+      "type": "acronym",
+      "definition": "Voluntary, Community, Faith and Social Enterprise — the collective term for charities, community groups, faith organisations and social enterprises.",
+      "source": "Sector-standard term.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": "The sector RCVDA works within and holds the deep-dive work on behalf of.",
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "vulnerabilities-service",
+      "term": "Vulnerabilities Service",
+      "abbr": null,
+      "full_term": "Vulnerabilities Service",
+      "aliases": [
+        "VULNERABILITIES"
+      ],
+      "type": "local-programme",
+      "definition": "The Public Health South Tees (PHST) service that houses the Changing Futures Key Working Team. Operationally led by the Vulnerabilities Manager.",
+      "source": "Public Health South Tees (PHST) — the service that houses the Changing Futures Key Working Team.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "the-national-lottery-community-fund-tnlcf",
+      "term": "The National Lottery Community Fund (TNLCF)",
+      "abbr": "TNLCF",
+      "full_term": "The National Lottery Community Fund",
+      "aliases": [
+        "The National Lottery Community Fund",
+        "National Lottery Community Fund",
+        "TNLCF",
+        "Big Lottery Fund"
+      ],
+      "type": "statutory",
+      "definition": "The operating name since 2019 of the Big Lottery Fund — the UK's largest funder of community activity, distributing money raised for good causes by National Lottery players.",
+      "source": "National Lottery Act 2006 (established the Big Lottery Fund, which has operated as The National Lottery Community Fund since 2019).",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2006/23/contents",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": "Joint funder of Changing Futures with MHCLG.",
+      "short_name": null,
+      "groups": null
+    },
+    {
+      "id": "ministry-of-justice",
+      "term": "Ministry of Justice",
+      "abbr": "MoJ",
+      "full_term": "Ministry of Justice",
+      "aliases": [
+        "Ministry of Justice",
+        "MoJ"
+      ],
+      "type": "organisation",
+      "definition": "The UK government department responsible for the courts, prisons, probation and sentencing policy in England and Wales.",
+      "source": "Ministry of Justice (GOV.UK)",
+      "source_url": "https://www.gov.uk/government/organisations/ministry-of-justice",
+      "org_ref": "findthatcharity org ID GB-GOR-D18",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D18",
+      "context_note": "Commissioned the Intensive Supervision Courts pilot and published the process evaluation cited in the Multiple Disadvantage report.",
+      "short_name": null,
+      "groups": null
+    }
+  ]
+}
