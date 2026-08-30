@@ -1,5 +1,10 @@
 # Changelog — rcvda-glossary
 
+## 2026-08-24 — Scoped the four cross-cutting terms
+- Areas of complex need, HDRC, Lived Experience Board and NICE scoped to all five CLR strands (they sit
+  across all of the deep-dive reports). Only Trauma-informed care (TIC) remains unscoped — a quoting-only
+  usage note, intentionally master-only. Every term now has a lens home except that one.
+
 ## 2026-08-24 — Scoped 3 of the unscoped terms
 - Gave a lens home to the clear ones: IRISi → `clr.da`, North Star → `clr.hf` (which lights up its
   Tees Valley Lettings Partnership note), South Tees Hospitals NHS FT → `clr.kw`. Five remain deliberately

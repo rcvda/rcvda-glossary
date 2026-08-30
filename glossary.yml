@@ -116,7 +116,12 @@
   source_url:
   org_ref: ''
   org_ref_url:
-  scope: []
+  scope:
+  - clr.da
+  - clr.hf
+  - clr.kw
+  - clr.md
+  - clr.tip
   note: New shared entry to make the two taxonomies explicit. Two of the deep dives (Domestic Abuse,
     Homelessness) focus on one of these five areas; the others focus on a workstream.
   agreed: y
@@ -981,7 +986,12 @@
     https://www.nihr.ac.uk/about-us/what-we-do/core-workstreams/working-with-partners/local-authorities/health-determinants-research-collaborations
   org_ref: ''
   org_ref_url:
-  scope: []
+  scope:
+  - clr.da
+  - clr.hf
+  - clr.kw
+  - clr.md
+  - clr.tip
   note: National programme (distinct from the local HDRC ST).
   agreed: y
 - term: HDRC ST
@@ -1457,7 +1467,12 @@
   source_url:
   org_ref: ''
   org_ref_url:
-  scope: []
+  scope:
+  - clr.da
+  - clr.hf
+  - clr.kw
+  - clr.md
+  - clr.tip
   note: Relates to 'Experts by Experience (EbE)' used in the MD report — confirm whether the series 
     treats them as the same.
   agreed: y
@@ -1758,7 +1773,12 @@
   source_url: https://www.legislation.gov.uk/ukpga/2012/7/section/232
   org_ref: findthatcharity org ID GB-GOR-PB474
   org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-PB474
-  scope: []
+  scope:
+  - clr.da
+  - clr.hf
+  - clr.kw
+  - clr.md
+  - clr.tip
   note: Distinct from a specific NICE guideline such as PH50 — cite the guideline code for those.
   agreed: y
 - term: NICE PH50

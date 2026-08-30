@@ -36,6 +36,25 @@
     "short_name": null
   },
   {
+    "id": "areas-of-complex-need-five-areas-of-work",
+    "term": "Areas of complex need (five areas of work)",
+    "abbr": null,
+    "full_term": "Areas of complex need (five areas of work)",
+    "aliases": [
+      "areas of complex need",
+      "areas of work",
+      "five areas"
+    ],
+    "type": "local-programme",
+    "definition": "The five overlapping areas of need that define who the programme works with: criminal justice, mental health, homelessness, domestic abuse and substance use. In South Tees a person must be in contact with two or more of these to access the service (South Tees Delivery Plan); the national Changing Futures cohort (MHCLG 2020 Prospectus) is defined more narrowly as three or more. These are the areas of work (the 'what'), distinct from the six delivery workstreams (the 'how').",
+    "source": "South Tees Delivery Plan (Version 2); MHCLG (2020) Changing Futures Prospectus (cohort definition).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "context_note": null,
+    "short_name": null
+  },
+  {
     "id": "bold",
     "term": "BOLD",
     "abbr": "BOLD",
@@ -264,6 +283,23 @@
     "short_name": null
   },
   {
+    "id": "hdrc",
+    "term": "HDRC",
+    "abbr": "HDRC",
+    "full_term": "Health Determinants Research Collaboration",
+    "aliases": [
+      "HDRC"
+    ],
+    "type": "substantive",
+    "definition": "The national National Institute for Health and Care Research (NIHR) programme funding local authorities and their partners to build research capacity on the wider determinants of health. South Tees is one such collaboration (see Health Determinants Research Collaboration South Tees (HDRC ST)).",
+    "source": "National Institute for Health and Care Research (NIHR) — HDRC programme.",
+    "source_url": "https://www.nihr.ac.uk/about-us/what-we-do/core-workstreams/working-with-partners/local-authorities/health-determinants-research-collaborations",
+    "org_ref": null,
+    "org_ref_url": null,
+    "context_note": null,
+    "short_name": null
+  },
+  {
     "id": "hdrc-st",
     "term": "HDRC ST",
     "abbr": "HDRC ST",
@@ -374,6 +410,23 @@
     "short_name": null
   },
   {
+    "id": "lived-experience-board",
+    "term": "Lived Experience Board",
+    "abbr": null,
+    "full_term": "Lived Experience Board",
+    "aliases": [
+      "Lived Experience Board"
+    ],
+    "type": "local-programme",
+    "definition": "The programme body through which people with lived experience gather, coordinate and prioritise what needs to change; the main hub feeding system- and service-change requests to the Programme Board. Underpins the co-production model that runs across all workstreams.",
+    "source": "STCFP Board Terms of Reference; South Tees Delivery Plan (Version 2).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "context_note": null,
+    "short_name": null
+  },
+  {
     "id": "meam",
     "term": "MEAM",
     "abbr": "MEAM",
@@ -422,6 +475,23 @@
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
+    "context_note": null,
+    "short_name": null
+  },
+  {
+    "id": "nice",
+    "term": "NICE",
+    "abbr": "NICE",
+    "full_term": "National Institute for Health and Care Excellence",
+    "aliases": [
+      "NICE"
+    ],
+    "type": "organisation",
+    "definition": "The statutory body (established by s.232 of the Health and Social Care Act 2012) that produces evidence-based guidance and quality standards for health and social care in England.",
+    "source": "Health and Social Care Act 2012, s.232",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2012/7/section/232",
+    "org_ref": "findthatcharity org ID GB-GOR-PB474",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB474",
     "context_note": null,
     "short_name": null
   },
