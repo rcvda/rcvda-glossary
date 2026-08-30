@@ -332,6 +332,23 @@
     "short_name": null
   },
   {
+    "id": "irisi",
+    "term": "IRISi",
+    "abbr": null,
+    "full_term": "IRISi",
+    "aliases": [
+      "IRISi"
+    ],
+    "type": "organisation",
+    "definition": "The social enterprise (established 2017) that owns, licenses and supports the Identification and Referral to Improve Safety (IRIS) programme and its extension IRIS+ across the UK. Not an acronym: the name derives from IRIS.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-CHC-1214477",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1214477",
+    "context_note": null,
+    "short_name": null
+  },
+  {
     "id": "live-well-south-tees-board",
     "term": "Live Well South Tees Board",
     "abbr": null,

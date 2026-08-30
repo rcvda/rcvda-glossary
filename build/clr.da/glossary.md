@@ -1,10 +1,10 @@
 # Domestic Abuse deep dive — glossary
 
-Lens of the RCVDA estate glossary for **Domestic Abuse deep dive** (38 terms, authoritative register). Generated from `glossary.yml`; do not edit by hand.
+Lens of the RCVDA estate glossary for **Domestic Abuse deep dive** (39 terms, authoritative register). Generated from `glossary.yml`; do not edit by hand.
 
 > **Source of truth:** [`glossary.yml`](glossary.yml). Do not edit this README by hand — edit `glossary.yml` and run `python3 build.py`. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The glossary is in two parts: an **Abbreviations** list (27 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (38 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
+The glossary is in two parts: an **Abbreviations** list (27 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (39 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
 
 ## Abbreviations
 
@@ -63,6 +63,7 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Identification and Referral to Improve Safety — extended version (children and men)** | IRIS+ | substantive | An Identification and Referral to Improve Safety (IRIS) adaptation extending to men, children and perpetrators. Not delivered in Middlesbrough as of May 2026. | [University of Bristol, Centre for Academic Primary Care (2024) — IRIS+ extends the health-care response (with IRISi)](https://www.bristol.ac.uk/primaryhealthcare/news/2024/iris-programme-extends-the-health-care-response.html) | — |
 | **Independent Domestic Violence Advocate / Advisor** | IDVA | substantive | A specialist domestic-abuse support worker for survivors at high risk of harm. | SafeLives. | — |
 | **Integrated Care Board** | ICB | organisation | The statutory NHS body that plans and commissions health services for a defined area. | [Health and Care Act 2022 (ICBs, Part 1)](https://www.legislation.gov.uk/ukpga/2022/31/contents) | — |
+| **IRISi** |  | organisation | The social enterprise (established 2017) that owns, licenses and supports the Identification and Referral to Improve Safety (IRIS) programme and its extension IRIS+ across the UK. Not an acronym: the name derives from IRIS. | — | [findthatcharity org ID GB-CHC-1214477](https://findthatcharity.uk/orgid/GB-CHC-1214477) |
 | **Live Well South Tees Board** |  | organisation | The statutory Health and Wellbeing Board discharging the section 194 duty jointly for Middlesbrough and Redcar & Cleveland; the political-level governance board for the joint South Tees Public Health function, co-chaired by the political leaders of the two authorities. | [Health and Social Care Act 2012, s.194 (Health and Wellbeing Boards)](https://www.legislation.gov.uk/ukpga/2012/7/section/194) | — |
 | **Live Well South Tees Executive Board** |  | local-programme | The executive arm of the Live Well South Tees governance structure — the single forum where joint Public Health and each authority's Adult Social Care meet. | Executive arm of the Live Well South Tees Board (the statutory Health and Wellbeing Board, HSCA 2012 s.194); constituted by local terms of reference. | — |
 | **LW / GP Link Worker** |  | local-programme | The Harbour-employed GP Independent Domestic Violence Advocate / Advisor (IDVA) in Redcar & Cleveland. Dual-remit covering domestic abuse and substance use within the THRIVE partnership. 3. | Harbour — the GP-based Independent Domestic Violence Advocate role in Redcar & Cleveland, within the THRIVE partnership. | — |

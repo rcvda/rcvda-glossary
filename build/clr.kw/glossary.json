@@ -813,6 +813,24 @@
     "short_name": null
   },
   {
+    "id": "south-tees-hospitals-nhs-foundation-trust",
+    "term": "South Tees Hospitals NHS Foundation Trust",
+    "abbr": null,
+    "full_term": "South Tees Hospitals NHS Foundation Trust",
+    "aliases": [
+      "South Tees Hospitals NHS Foundation Trust",
+      "South Tees Hospitals"
+    ],
+    "type": "organisation",
+    "definition": "The NHS foundation trust that operates James Cook University Hospital and other acute and community services across South Tees.",
+    "source": "National Health Service Act 2006, s.30 (NHS foundation trusts)",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2006/41/section/30",
+    "org_ref": "findthatcharity org ID GB-NHS-RTR",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-RTR",
+    "context_note": null,
+    "short_name": null
+  },
+  {
     "id": "tewv",
     "term": "TEWV",
     "abbr": "TEWV",

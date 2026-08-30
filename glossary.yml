@@ -1298,7 +1298,8 @@
   source_url:
   org_ref: findthatcharity org ID GB-CHC-1214477
   org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-1214477
-  scope: []
+  scope:
+  - clr.da
   note: Organisation. IRISi (org) vs IRIS (programme) vs IRIS+ (extension) — the three are distinct.
   agreed: y
 - term: ISC
@@ -1840,7 +1841,8 @@
   source_url:
   org_ref: findthatcharity org ID GB-MPR-21256R
   org_ref_url: https://findthatcharity.uk/orgid/GB-MPR-21256R
-  scope: []
+  scope:
+  - clr.hf
   agreed: y
   context_notes:
     clr.hf: A member of the Tees Valley Lettings Partnership.
@@ -2447,7 +2449,8 @@
   source_url: https://www.legislation.gov.uk/ukpga/2006/41/section/30
   org_ref: findthatcharity org ID GB-NHS-RTR
   org_ref_url: https://findthatcharity.uk/orgid/GB-NHS-RTR
-  scope: []
+  scope:
+  - clr.kw
   note: 'Dual reference: NHS foundation trust under NHS Act 2006 s.30 (originally the Health and Social
     Care (Community Health and Standards) Act 2003), and referenced by its NHS ODS org ID GB-NHS-RTR.
     The second foundation trust in the glossary alongside TEWV.'

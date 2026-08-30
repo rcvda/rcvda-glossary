@@ -1,5 +1,11 @@
 # Changelog — rcvda-glossary
 
+## 2026-08-24 — Scoped 3 of the unscoped terms
+- Gave a lens home to the clear ones: IRISi → `clr.da`, North Star → `clr.hf` (which lights up its
+  Tees Valley Lettings Partnership note), South Tees Hospitals NHS FT → `clr.kw`. Five remain deliberately
+  unscoped pending Peter's call: Areas of complex need, HDRC, Lived Experience Board, NICE (cross-cutting),
+  and Trauma-informed care (TIC), which is a quoting-only usage note.
+
 ## 2026-08-24 — All 97 drafted entries signed off (`agreed: y`)
 - Reviewed with Peter; **every entry is now `agreed: y`** (0 remaining).
 - New `short_name` field + build support: a programme construct is named with its programme in the master

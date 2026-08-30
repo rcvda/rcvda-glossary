@@ -373,6 +373,24 @@
     "short_name": null
   },
   {
+    "id": "north-star",
+    "term": "North Star",
+    "abbr": null,
+    "full_term": "North Star",
+    "aliases": [
+      "North Star",
+      "North Star Housing"
+    ],
+    "type": "organisation",
+    "definition": "A housing association (registered provider of social housing) operating across the Tees Valley.",
+    "source": null,
+    "source_url": null,
+    "org_ref": "findthatcharity org ID GB-MPR-21256R",
+    "org_ref_url": "https://findthatcharity.uk/orgid/GB-MPR-21256R",
+    "context_note": "A member of the Tees Valley Lettings Partnership.",
+    "short_name": null
+  },
+  {
     "id": "nrpf",
     "term": "NRPF",
     "abbr": "NRPF",

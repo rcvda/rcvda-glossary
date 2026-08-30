@@ -1598,7 +1598,9 @@
     "org_ref": "findthatcharity org ID GB-CHC-1214477",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1214477",
     "plain": null,
-    "scope": [],
+    "scope": [
+      "clr.da"
+    ],
     "context_notes": {},
     "overrides": {}
   },
@@ -2257,7 +2259,9 @@
     "org_ref": "findthatcharity org ID GB-MPR-21256R",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-MPR-21256R",
     "plain": null,
-    "scope": [],
+    "scope": [
+      "clr.hf"
+    ],
     "context_notes": {
       "clr.hf": "A member of the Tees Valley Lettings Partnership."
     },
@@ -3011,7 +3015,9 @@
     "org_ref": "findthatcharity org ID GB-NHS-RTR",
     "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-RTR",
     "plain": null,
-    "scope": [],
+    "scope": [
+      "clr.kw"
+    ],
     "context_notes": {},
     "overrides": {}
   },
