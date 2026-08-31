@@ -3,7 +3,14 @@
     "lens": "bof",
     "title": "Building Our Futures glossary",
     "register": "plain",
-    "group_order": null
+    "group_order": {
+      "Programme and partners": [],
+      "The Pupil Journey": [],
+      "Frameworks and accreditation": [],
+      "Education and sector terms": [],
+      "Targeting, data and impact": [],
+      "Networks": []
+    }
   },
   "entries": [
     {
@@ -23,7 +30,10 @@
       "org_ref_url": null,
       "context_note": "For example, running the programme in five schools each term.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Targeting, data and impact"
+      ]
     },
     {
       "id": "rcvda",
@@ -41,7 +51,10 @@
       "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
       "context_note": "Runs the Building our Futures programme.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Programme and partners"
+      ]
     },
     {
       "id": "redcar-and-cleveland-borough-council",
@@ -61,7 +74,10 @@
       "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-RCC",
       "context_note": "Building our Futures works with the council and meets it monthly.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Programme and partners"
+      ]
     },
     {
       "id": "anglo-american",
@@ -79,7 +95,10 @@
       "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/03564138",
       "context_note": "The first funder of Building our Futures (2021); it no longer funds the programme but remains a delivery partner.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Programme and partners"
+      ]
     },
     {
       "id": "building-our-futures",
@@ -98,7 +117,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Programme and partners"
+      ]
     },
     {
       "id": "dogger-bank-wind-farm",
@@ -117,7 +139,10 @@
       "org_ref_url": null,
       "context_note": "Funds Building our Futures through its STEM Education and Careers Programmes.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Programme and partners"
+      ]
     },
     {
       "id": "equinor",
@@ -135,7 +160,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Programme and partners"
+      ]
     },
     {
       "id": "operator-fund",
@@ -153,7 +181,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Programme and partners"
+      ]
     },
     {
       "id": "sse-renewables",
@@ -171,7 +202,10 @@
       "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/SC117119",
       "context_note": null,
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Programme and partners"
+      ]
     },
     {
       "id": "stem-education-and-careers-programmes",
@@ -189,7 +223,10 @@
       "org_ref_url": null,
       "context_note": "Funds Building our Futures.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Programme and partners"
+      ]
     },
     {
       "id": "vargronn",
@@ -208,7 +245,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Programme and partners"
+      ]
     },
     {
       "id": "the-pupil-journey",
@@ -226,7 +266,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": "The Pupil Journey",
-      "groups": null
+      "order": 1,
+      "groups": [
+        "The Pupil Journey"
+      ]
     },
     {
       "id": "career-journeys-and-aspirations",
@@ -244,7 +287,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": "Career Journeys and Aspirations",
-      "groups": null
+      "order": 2,
+      "groups": [
+        "The Pupil Journey"
+      ]
     },
     {
       "id": "essential-skills-step",
@@ -263,7 +309,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": "Essential Skills",
-      "groups": null
+      "order": 3,
+      "groups": [
+        "The Pupil Journey"
+      ]
     },
     {
       "id": "meet-the-employers",
@@ -281,7 +330,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": "Meet the Employers",
-      "groups": null
+      "order": 4,
+      "groups": [
+        "The Pupil Journey"
+      ]
     },
     {
       "id": "team-work-challenge",
@@ -299,7 +351,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": "Team Work Challenge",
-      "groups": null
+      "order": 5,
+      "groups": [
+        "The Pupil Journey"
+      ]
     },
     {
       "id": "interview-skills-and-communication",
@@ -318,7 +373,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": "Interview Skills & Communication",
-      "groups": null
+      "order": 6,
+      "groups": [
+        "The Pupil Journey"
+      ]
     },
     {
       "id": "employer-interviews",
@@ -336,7 +394,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": "Employer Interviews",
-      "groups": null
+      "order": 7,
+      "groups": [
+        "The Pupil Journey"
+      ]
     },
     {
       "id": "enrichment-offer",
@@ -354,7 +415,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": "Enrichment offer",
-      "groups": null
+      "order": 8,
+      "groups": [
+        "The Pupil Journey"
+      ]
     },
     {
       "id": "cdi-ks2-framework",
@@ -372,7 +436,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Frameworks and accreditation"
+      ]
     },
     {
       "id": "crl",
@@ -391,7 +458,10 @@
       "org_ref_url": null,
       "context_note": "Building our Futures uses its own tool to check what a school already does.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Frameworks and accreditation"
+      ]
     },
     {
       "id": "gatsby-benchmarks",
@@ -409,7 +479,10 @@
       "org_ref_url": null,
       "context_note": "Building our Futures follows it.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Frameworks and accreditation"
+      ]
     },
     {
       "id": "investors-in-careers-primary",
@@ -427,7 +500,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Frameworks and accreditation"
+      ]
     },
     {
       "id": "living-in-the-wider-world",
@@ -445,7 +521,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Frameworks and accreditation"
+      ]
     },
     {
       "id": "skills-builder-universal-framework",
@@ -463,7 +542,10 @@
       "org_ref_url": null,
       "context_note": "The framework Building our Futures uses.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Frameworks and accreditation"
+      ]
     },
     {
       "id": "the-eight-essential-skills",
@@ -481,7 +563,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Frameworks and accreditation"
+      ]
     },
     {
       "id": "career-champion",
@@ -499,7 +584,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": "Career Champion",
-      "groups": null
+      "order": null,
+      "groups": [
+        "Education and sector terms"
+      ]
     },
     {
       "id": "careers-lead",
@@ -517,7 +605,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Education and sector terms"
+      ]
     },
     {
       "id": "employer-encounters",
@@ -536,7 +627,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Education and sector terms"
+      ]
     },
     {
       "id": "eyfs",
@@ -555,7 +649,10 @@
       "org_ref_url": null,
       "context_note": "Building our Futures reaches it through special early-years lessons.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Education and sector terms"
+      ]
     },
     {
       "id": "ks2",
@@ -574,7 +671,10 @@
       "org_ref_url": null,
       "context_note": "The main focus of Building our Futures.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Education and sector terms"
+      ]
     },
     {
       "id": "mantle-of-the-expert",
@@ -592,7 +692,10 @@
       "org_ref_url": null,
       "context_note": "Building our Futures uses it in the early years.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Education and sector terms"
+      ]
     },
     {
       "id": "send",
@@ -611,7 +714,10 @@
       "org_ref_url": null,
       "context_note": "Building our Futures adapts the Pupil Journey for these pupils, up to age 19.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Education and sector terms"
+      ]
     },
     {
       "id": "transition-programme",
@@ -629,7 +735,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Education and sector terms"
+      ]
     },
     {
       "id": "ashe",
@@ -648,7 +757,10 @@
       "org_ref_url": null,
       "context_note": "Building our Futures uses it, with other research, to estimate its long-term value.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Targeting, data and impact"
+      ]
     },
     {
       "id": "case-study",
@@ -666,7 +778,10 @@
       "org_ref_url": null,
       "context_note": "Building our Futures produces one each term, telling one pupil's or one school's story.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Targeting, data and impact"
+      ]
     },
     {
       "id": "idaci",
@@ -685,7 +800,10 @@
       "org_ref_url": null,
       "context_note": "Building our Futures uses it to choose which schools to work with first.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Targeting, data and impact"
+      ]
     },
     {
       "id": "percy-and-mann-2014",
@@ -704,7 +822,10 @@
       "org_ref_url": null,
       "context_note": "Building our Futures uses it in its long-term earnings estimates.",
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Targeting, data and impact"
+      ]
     },
     {
       "id": "pre-post-survey",
@@ -722,7 +843,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": null,
-      "groups": null
+      "order": null,
+      "groups": [
+        "Targeting, data and impact"
+      ]
     },
     {
       "id": "all-schools-network",
@@ -740,7 +864,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": "All Schools Network",
-      "groups": null
+      "order": null,
+      "groups": [
+        "Networks"
+      ]
     },
     {
       "id": "business-network",
@@ -758,7 +885,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": "Business Network",
-      "groups": null
+      "order": null,
+      "groups": [
+        "Networks"
+      ]
     },
     {
       "id": "primary-schools-network",
@@ -776,7 +906,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": "Primary Schools Network",
-      "groups": null
+      "order": null,
+      "groups": [
+        "Networks"
+      ]
     },
     {
       "id": "secondary-schools-network",
@@ -794,7 +927,10 @@
       "org_ref_url": null,
       "context_note": null,
       "short_name": "Secondary Schools Network",
-      "groups": null
+      "order": null,
+      "groups": [
+        "Networks"
+      ]
     }
   ]
 }

@@ -1446,6 +1446,9 @@
   plain: A target used to measure how well something is going.
   context_notes:
     bof: For example, running the programme in five schools each term.
+  groups:
+    bof:
+    - Targeting, data and impact
 - term: LA
   id: la
   abbr: LA
@@ -2173,6 +2176,8 @@
     clr: The publishing host of this deep-dive series.
     bof: Runs the Building our Futures programme.
   groups:
+    bof:
+    - Programme and partners
     rcvda:
     - Organisations
     - Locally
@@ -2231,6 +2236,8 @@
     clr.hf: A member of the Tees Valley Lettings Partnership.
     bof: Building our Futures works with the council and meets it monthly.
   groups:
+    bof:
+    - Programme and partners
     rcvda:
     - Organisations
     - Locally
@@ -4179,6 +4186,9 @@
   context_notes:
     bof: The first funder of Building our Futures (2021); it no longer funds the programme but 
       remains a delivery partner.
+  groups:
+    bof:
+    - Programme and partners
 - term: Building our Futures
   id: building-our-futures
   abbr: BoF
@@ -4196,6 +4206,9 @@
   scope:
   - bof
   agreed: y
+  groups:
+    bof:
+    - Programme and partners
 - term: Dogger Bank Wind Farm
   id: dogger-bank-wind-farm
   abbr: DBWF
@@ -4215,6 +4228,9 @@
     company, so it has no one org reference.
   context_notes:
     bof: Funds Building our Futures through its STEM Education and Careers Programmes.
+  groups:
+    bof:
+    - Programme and partners
 - term: Equinor
   id: equinor
   abbr: ''
@@ -4233,6 +4249,9 @@
   agreed: y
   note: Norwegian company — not registered in England & Wales, so no Companies House / FTC 
     reference.
+  groups:
+    bof:
+    - Programme and partners
 - term: Operator Fund
   id: operator-fund
   abbr: ''
@@ -4248,6 +4267,9 @@
   scope:
   - bof
   agreed: y
+  groups:
+    bof:
+    - Programme and partners
 - term: SSE Renewables
   id: sse-renewables
   abbr: ''
@@ -4264,6 +4286,9 @@
   - bof
   agreed: y
   note: 'Companies House: SSE plc, SC117119 (the parent group; SSE Renewables is its renewables arm).'
+  groups:
+    bof:
+    - Programme and partners
 - term: Dogger Bank STEM Education and Careers Programme
   id: stem-education-and-careers-programmes
   abbr: ''
@@ -4281,6 +4306,9 @@
   agreed: y
   context_notes:
     bof: Funds Building our Futures.
+  groups:
+    bof:
+    - Programme and partners
 - term: Vårgrønn
   id: vargronn
   abbr: ''
@@ -4298,8 +4326,12 @@
   agreed: y
   note: Norwegian company — not registered in England & Wales, so no Companies House / FTC 
     reference.
+  groups:
+    bof:
+    - Programme and partners
 - term: Building our Futures Pupil Journey
   id: the-pupil-journey
+  order: 1
   abbr: ''
   full_term: Building our Futures Pupil Journey
   aliases: The Pupil Journey
@@ -4315,8 +4347,12 @@
   - bof
   agreed: y
   short_name: The Pupil Journey
+  groups:
+    bof:
+    - The Pupil Journey
 - term: Pupil Journey — Career Journeys and Aspirations
   id: career-journeys-and-aspirations
+  order: 2
   abbr: ''
   full_term: Pupil Journey — Career Journeys and Aspirations
   aliases: Career Journeys and Aspirations
@@ -4331,8 +4367,12 @@
   - bof
   agreed: y
   short_name: Career Journeys and Aspirations
+  groups:
+    bof:
+    - The Pupil Journey
 - term: Pupil Journey — Essential Skills
   id: essential-skills-step
+  order: 3
   abbr: ''
   full_term: Pupil Journey — Essential Skills
   aliases: Essential Skills|Essential Skills (step)
@@ -4348,8 +4388,12 @@
   - bof
   agreed: y
   short_name: Essential Skills
+  groups:
+    bof:
+    - The Pupil Journey
 - term: Pupil Journey — Meet the Employers
   id: meet-the-employers
+  order: 4
   abbr: ''
   full_term: Pupil Journey — Meet the Employers
   aliases: Meet the Employers
@@ -4364,8 +4408,12 @@
   - bof
   agreed: y
   short_name: Meet the Employers
+  groups:
+    bof:
+    - The Pupil Journey
 - term: Pupil Journey — Team Work Challenge
   id: team-work-challenge
+  order: 5
   abbr: ''
   full_term: Pupil Journey — Team Work Challenge
   aliases: Team Work Challenge
@@ -4380,8 +4428,12 @@
   - bof
   agreed: y
   short_name: Team Work Challenge
+  groups:
+    bof:
+    - The Pupil Journey
 - term: Pupil Journey — Interview Skills & Communication
   id: interview-skills-and-communication
+  order: 6
   abbr: ''
   full_term: Pupil Journey — Interview Skills & Communication
   aliases: Interview Skills and Communication|Interview Skills & Communication
@@ -4396,8 +4448,12 @@
   - bof
   agreed: y
   short_name: Interview Skills & Communication
+  groups:
+    bof:
+    - The Pupil Journey
 - term: Pupil Journey — Employer Interviews
   id: employer-interviews
+  order: 7
   abbr: ''
   full_term: Pupil Journey — Employer Interviews
   aliases: Employer Interviews
@@ -4412,8 +4468,12 @@
   - bof
   agreed: y
   short_name: Employer Interviews
+  groups:
+    bof:
+    - The Pupil Journey
 - term: Building our Futures Enrichment offer
   id: enrichment-offer
+  order: 8
   abbr: ''
   full_term: Building our Futures Enrichment offer
   aliases: Enrichment offer
@@ -4430,6 +4490,9 @@
   - bof
   agreed: y
   short_name: Enrichment offer
+  groups:
+    bof:
+    - The Pupil Journey
 - term: CDI KS2 framework
   id: cdi-ks2-framework
   abbr: ''
@@ -4447,6 +4510,9 @@
   scope:
   - bof
   agreed: y
+  groups:
+    bof:
+    - Frameworks and accreditation
 - term: Careers-related learning
   id: crl
   abbr: CRL
@@ -4464,6 +4530,9 @@
   agreed: y
   context_notes:
     bof: Building our Futures uses its own tool to check what a school already does.
+  groups:
+    bof:
+    - Frameworks and accreditation
 - term: Gatsby Benchmarks
   id: gatsby-benchmarks
   abbr: ''
@@ -4481,6 +4550,9 @@
   agreed: y
   context_notes:
     bof: Building our Futures follows it.
+  groups:
+    bof:
+    - Frameworks and accreditation
 - term: Investors in Careers Primary
   id: investors-in-careers-primary
   abbr: ''
@@ -4497,6 +4569,9 @@
   scope:
   - bof
   agreed: y
+  groups:
+    bof:
+    - Frameworks and accreditation
 - term: Living in the Wider World
   id: living-in-the-wider-world
   abbr: ''
@@ -4513,6 +4588,9 @@
   scope:
   - bof
   agreed: y
+  groups:
+    bof:
+    - Frameworks and accreditation
 - term: Skills Builder Universal Framework
   id: skills-builder-universal-framework
   abbr: ''
@@ -4530,6 +4608,9 @@
   agreed: y
   context_notes:
     bof: The framework Building our Futures uses.
+  groups:
+    bof:
+    - Frameworks and accreditation
 - term: The eight essential skills
   id: the-eight-essential-skills
   abbr: ''
@@ -4545,6 +4626,9 @@
   scope:
   - bof
   agreed: y
+  groups:
+    bof:
+    - Frameworks and accreditation
 - term: Building our Futures Career Champion
   id: career-champion
   abbr: ''
@@ -4561,6 +4645,9 @@
   - bof
   agreed: y
   short_name: Career Champion
+  groups:
+    bof:
+    - Education and sector terms
 - term: Careers lead
   id: careers-lead
   abbr: ''
@@ -4576,6 +4663,9 @@
   scope:
   - bof
   agreed: y
+  groups:
+    bof:
+    - Education and sector terms
 - term: Employer encounters
   id: employer-encounters
   abbr: ''
@@ -4592,6 +4682,9 @@
   scope:
   - bof
   agreed: y
+  groups:
+    bof:
+    - Education and sector terms
 - term: Early Years Foundation Stage
   id: eyfs
   abbr: EYFS
@@ -4609,6 +4702,9 @@
   agreed: y
   context_notes:
     bof: Building our Futures reaches it through special early-years lessons.
+  groups:
+    bof:
+    - Education and sector terms
 - term: Key Stage 2
   id: ks2
   abbr: KS2
@@ -4627,6 +4723,9 @@
   agreed: y
   context_notes:
     bof: The main focus of Building our Futures.
+  groups:
+    bof:
+    - Education and sector terms
 - term: Mantle of the Expert
   id: mantle-of-the-expert
   abbr: ''
@@ -4645,6 +4744,9 @@
   agreed: y
   context_notes:
     bof: Building our Futures uses it in the early years.
+  groups:
+    bof:
+    - Education and sector terms
 - term: Special Educational Needs and Disabilities
   id: send
   abbr: SEND
@@ -4663,6 +4765,9 @@
   agreed: y
   context_notes:
     bof: Building our Futures adapts the Pupil Journey for these pupils, up to age 19.
+  groups:
+    bof:
+    - Education and sector terms
 - term: Transition programme
   id: transition-programme
   abbr: ''
@@ -4678,6 +4783,9 @@
   scope:
   - bof
   agreed: y
+  groups:
+    bof:
+    - Education and sector terms
 - term: Annual Survey of Hours and Earnings
   id: ashe
   abbr: ASHE
@@ -4696,6 +4804,9 @@
   agreed: y
   context_notes:
     bof: Building our Futures uses it, with other research, to estimate its long-term value.
+  groups:
+    bof:
+    - Targeting, data and impact
 - term: Case study
   id: case-study
   abbr: ''
@@ -4713,6 +4824,9 @@
   agreed: y
   context_notes:
     bof: Building our Futures produces one each term, telling one pupil's or one school's story.
+  groups:
+    bof:
+    - Targeting, data and impact
 - term: Income Deprivation Affecting Children Index
   id: idaci
   abbr: IDACI
@@ -4731,6 +4845,9 @@
   agreed: y
   context_notes:
     bof: Building our Futures uses it to choose which schools to work with first.
+  groups:
+    bof:
+    - Targeting, data and impact
 - term: Percy & Mann (2014)
   id: percy-and-mann-2014
   abbr: ''
@@ -4748,6 +4865,9 @@
   agreed: y
   context_notes:
     bof: Building our Futures uses it in its long-term earnings estimates.
+  groups:
+    bof:
+    - Targeting, data and impact
 - term: Pre/post survey
   id: pre-post-survey
   abbr: ''
@@ -4765,6 +4885,9 @@
   scope:
   - bof
   agreed: y
+  groups:
+    bof:
+    - Targeting, data and impact
 - term: Building our Futures All Schools Network
   id: all-schools-network
   abbr: ''
@@ -4781,6 +4904,9 @@
   - bof
   agreed: y
   short_name: All Schools Network
+  groups:
+    bof:
+    - Networks
 - term: Building our Futures Business Network
   id: business-network
   abbr: ''
@@ -4797,6 +4923,9 @@
   - bof
   agreed: y
   short_name: Business Network
+  groups:
+    bof:
+    - Networks
 - term: Building our Futures Primary Schools Network
   id: primary-schools-network
   abbr: ''
@@ -4813,6 +4942,9 @@
   - bof
   agreed: y
   short_name: Primary Schools Network
+  groups:
+    bof:
+    - Networks
 - term: Building our Futures Secondary Schools Network
   id: secondary-schools-network
   abbr: ''
@@ -4829,3 +4961,6 @@
   - bof
   agreed: y
   short_name: Secondary Schools Network
+  groups:
+    bof:
+    - Networks

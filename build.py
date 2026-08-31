@@ -231,7 +231,7 @@ def main():
                 "meta": {"lens": code, "title": cfg.get("title", code), "register": register,
                          "group_order": cfg.get("group_order")},
                 "entries": [dict(entry_json(e), context_note=e.get("context_note") or None,
-                                 short_name=e.get("short_name"),
+                                 short_name=e.get("short_name"), order=e.get("order"),
                                  groups=(e.get("groups") or {}).get(code)) for e in picked],
             }
             json.dump(feed, open(f"{d}/glossary.json","w",encoding="utf-8"), ensure_ascii=False, indent=2)

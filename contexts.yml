@@ -27,4 +27,17 @@ contexts:
     group_order:
       Organisations: [Locally, Tees Valley, North East, Nationally]
       Terms: [VCSE, Local Authorities, Criminal Justice, DWP, "NHS & Public Health", Safeguarding, Sport, Business, Government, Miscellaneous]
-  bof:     { title: "Building Our Futures glossary",    programme: bof,   register: plain,         outputs: [md, json], owner: bof }
+  bof:
+    title: "Building Our Futures glossary"
+    programme: bof
+    register: plain
+    outputs: [md, json]
+    owner: bof
+    # BoF has its own six sections (one level — no subsections). Empty list = a flat section.
+    group_order:
+      Programme and partners: []
+      The Pupil Journey: []
+      Frameworks and accreditation: []
+      Education and sector terms: []
+      Targeting, data and impact: []
+      Networks: []
