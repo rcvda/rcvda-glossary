@@ -4,7 +4,7 @@ Lens of the RCVDA estate glossary for **RCVDA organisation-wide glossary** (76 t
 
 > **Source of truth:** [`glossary.yml`](glossary.yml). Do not edit this README by hand — edit `glossary.yml` and run `python3 build.py`. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The glossary is in two parts: an **Abbreviations** list (70 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (76 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
+The glossary is in two parts: an **Abbreviations** list (71 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (76 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
 
 ## Abbreviations
 
@@ -59,6 +59,7 @@ The glossary is in two parts: an **Abbreviations** list (70 short forms, each wi
 | **PIP** | Personal Independence Payment | [Welfare Reform Act 2012, Part 4](https://www.legislation.gov.uk/ukpga/2012/5/part/4) | — |
 | **PSBR** | Professional, Statutory and Regulatory Bodies | Common usage (education / professional accreditation). | — |
 | **QSG** | Quality Surveillance Group | NHS England — Quality Surveillance Group guidance. | — |
+| **RCBC** | Redcar and Cleveland Borough Council | — | [findthatcharity org ID GB-LAE-RCC](https://findthatcharity.uk/orgid/GB-LAE-RCC) |
 | **RCVDA** | Redcar and Cleveland Voluntary Development Agency | — | [findthatcharity org ID GB-CHC-1135959](https://findthatcharity.uk/orgid/GB-CHC-1135959) |
 | **RSAP** | Rough Sleeping Accommodation Programme | [GOV.UK (MHCLG) — Rough Sleeping Accommodation Programme 2021-24](https://www.gov.uk/government/publications/rough-sleeping-accommodation-programme-2021-24) | — |
 | **RSL** | Registered Social Landlord | [Housing and Regeneration Act 2008](https://www.legislation.gov.uk/ukpga/2008/17/contents) | — |
@@ -139,7 +140,7 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Personal Independence Payment** | PIP | statutory | A non-means-tested benefit that helps with the extra costs of a long-term health condition or disability; it replaced Disability Living Allowance for working-age adults. | [Welfare Reform Act 2012, Part 4](https://www.legislation.gov.uk/ukpga/2012/5/part/4) | — |
 | **Professional, Statutory and Regulatory Bodies** | PSBR | substantive | The bodies that set standards for, accredit or regulate a profession or field of practice. | Common usage (education / professional accreditation). | — |
 | **Quality Surveillance Group** | QSG | substantive | A multi-agency group that shares intelligence and coordinates action on the quality and safety of local health and care services. | NHS England — Quality Surveillance Group guidance. | — |
-| **Redcar and Cleveland Borough Council** |  | organisation | The unitary local authority for the Redcar and Cleveland area. | — | [findthatcharity org ID GB-LAE-RCC](https://findthatcharity.uk/orgid/GB-LAE-RCC) |
+| **Redcar and Cleveland Borough Council** | RCBC | organisation | The unitary local authority for the Redcar and Cleveland area. | — | [findthatcharity org ID GB-LAE-RCC](https://findthatcharity.uk/orgid/GB-LAE-RCC) |
 | **Redcar and Cleveland Voluntary Development Agency** | RCVDA | organisation | The local infrastructure charity supporting voluntary and community groups across Redcar & Cleveland. | — | [findthatcharity org ID GB-CHC-1135959](https://findthatcharity.uk/orgid/GB-CHC-1135959) |
 | **Registered Social Landlord** | RSL | substantive | A non-profit provider of social housing (typically a housing association) registered with, and regulated by, the social housing regulator. | [Housing and Regeneration Act 2008](https://www.legislation.gov.uk/ukpga/2008/17/contents) | — |
 | **Rough Sleeping Accommodation Programme** | RSAP | substantive | A Ministry of Housing, Communities and Local Government capital programme funding move-on accommodation for people who sleep rough or are at risk of doing so; a predecessor to later rough-sleeping programmes. | [GOV.UK (MHCLG) — Rough Sleeping Accommodation Programme 2021-24](https://www.gov.uk/government/publications/rough-sleeping-accommodation-programme-2021-24) | — |

@@ -4,7 +4,7 @@ A single, canonical set of definitions, terms and acronyms for the RCVDA estate.
 
 > **Source of truth:** [`glossary.yml`](glossary.yml). Do not edit this README by hand — edit `glossary.yml` and run `python3 build.py`. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The glossary is in two parts: an **Abbreviations** list (181 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (259 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
+The glossary is in two parts: an **Abbreviations** list (182 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (259 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
 
 ## Abbreviations
 
@@ -143,6 +143,7 @@ The glossary is in two parts: an **Abbreviations** list (181 short forms, each w
 | **PSBR** | Professional, Statutory and Regulatory Bodies | Common usage (education / professional accreditation). | — |
 | **QSG** | Quality Surveillance Group | NHS England — Quality Surveillance Group guidance. | — |
 | **R&C** | Redcar & Cleveland | Local shorthand. | — |
+| **RCBC** | Redcar and Cleveland Borough Council | — | [findthatcharity org ID GB-LAE-RCC](https://findthatcharity.uk/orgid/GB-LAE-RCC) |
 | **RCT** | Randomised Controlled Trial | — | — |
 | **RCVDA** | Redcar and Cleveland Voluntary Development Agency | — | [findthatcharity org ID GB-CHC-1135959](https://findthatcharity.uk/orgid/GB-CHC-1135959) |
 | **REA** | Rapid Evidence Assessment | [UK Parliament POST (Parliamentary Office of Science and Technology) — Rapid Evidence Assessments](https://post.parliament.uk/rapid-evidence-assessments/) | — |
@@ -387,7 +388,7 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Rapid Evidence Assessment** | REA | method | A structured evidence review with a defined search strategy and inclusion criteria, briefer than a full systematic review. | [UK Parliament POST (Parliamentary Office of Science and Technology) — Rapid Evidence Assessments](https://post.parliament.uk/rapid-evidence-assessments/) | — |
 | **Reach, Effectiveness, Adoption, Implementation, Maintenance** | RE-AIM | method | The comparative implementation-science framework (Glasgow, Vogt and Boles, 1999) used to structure the cross-cutting analysis. | Glasgow, Vogt and Boles (1999) — Reach, Effectiveness, Adoption, Implementation, Maintenance evaluation framework. | — |
 | **Recovering Quality of Life** | ReQoL | method | A patient-reported outcome measure (Keetharuth et al.) of quality of life for people with mental health conditions, used in the Changing Futures national evaluation. | Recovering Quality of Life measure (Keetharuth et al.). | — |
-| **Redcar and Cleveland Borough Council** |  | organisation | The unitary local authority for the Redcar and Cleveland area. | — | [findthatcharity org ID GB-LAE-RCC](https://findthatcharity.uk/orgid/GB-LAE-RCC) |
+| **Redcar and Cleveland Borough Council** | RCBC | organisation | The unitary local authority for the Redcar and Cleveland area. | — | [findthatcharity org ID GB-LAE-RCC](https://findthatcharity.uk/orgid/GB-LAE-RCC) |
 | **Redcar and Cleveland Voluntary Development Agency** | RCVDA | organisation | The local infrastructure charity supporting voluntary and community groups across Redcar & Cleveland. | — | [findthatcharity org ID GB-CHC-1135959](https://findthatcharity.uk/orgid/GB-CHC-1135959) |
 | **Redcar & Cleveland** | R&C | acronym | Local shorthand for the Borough of Redcar & Cleveland (and its council). | Local shorthand. | — |
 | **Registered Provider** | RP | statutory | Registered Provider of social housing. The statutory term for a social-housing provider (including housing associations) registered with and regulated by the Regulator of Social Housing under the Housing and Regeneration Act 2008. Preferred to 'housing association' where a statutory or commissioning point is being made. | [Housing and Regeneration Act 2008, Part 2](https://www.legislation.gov.uk/ukpga/2008/17/contents) | — |

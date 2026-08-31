@@ -4,7 +4,7 @@ Lens of the RCVDA estate glossary for **Building Our Futures glossary** (43 term
 
 > **Source of truth:** [`glossary.yml`](glossary.yml). Do not edit this README by hand — edit `glossary.yml` and run `python3 build.py`. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The glossary is in two parts: an **Abbreviations** list (10 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (43 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
+The glossary is in two parts: an **Abbreviations** list (11 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (43 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
 
 ## Abbreviations
 
@@ -18,6 +18,7 @@ The glossary is in two parts: an **Abbreviations** list (10 short forms, each wi
 | **IDACI** | Income Deprivation Affecting Children Index | [MHCLG — English indices of deprivation 2019](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019) | — |
 | **KPI** | Key performance indicator | Standard performance-management term. | — |
 | **KS2** | Key Stage 2 | [National curriculum in England](https://www.gov.uk/government/collections/national-curriculum) | — |
+| **RCBC** | Redcar and Cleveland Borough Council | — | [findthatcharity org ID GB-LAE-RCC](https://findthatcharity.uk/orgid/GB-LAE-RCC) |
 | **RCVDA** | Redcar and Cleveland Voluntary Development Agency | — | [findthatcharity org ID GB-CHC-1135959](https://findthatcharity.uk/orgid/GB-CHC-1135959) |
 | **SEND** | Special Educational Needs and Disabilities | [Children and Families Act 2014, Part 3](https://www.legislation.gov.uk/ukpga/2014/6/part/3) | — |
 
@@ -59,7 +60,7 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Percy and Mann (2014)** |  | substantive | Research on how skills affect future pay. Building our Futures uses it in its long-term earnings estimates. | Percy, C. and Mann, A. (2014). | — |
 | **Pre/post survey** |  | method | A survey run each term, before and after the work. It measures changes in how pupils explore careers. | RCVDA — Building our Futures programme. | — |
 | **Primary Schools Network** |  | local-programme | The main delivery network. It meets each term. | RCVDA — Building our Futures programme. | — |
-| **Redcar and Cleveland Borough Council** |  | organisation | The local council for the Redcar and Cleveland area. Building our Futures works with the council and meets it monthly. | — | [findthatcharity org ID GB-LAE-RCC](https://findthatcharity.uk/orgid/GB-LAE-RCC) |
+| **Redcar and Cleveland Borough Council** | RCBC | organisation | The local council for the Redcar and Cleveland area. Building our Futures works with the council and meets it monthly. | — | [findthatcharity org ID GB-LAE-RCC](https://findthatcharity.uk/orgid/GB-LAE-RCC) |
 | **Redcar and Cleveland Voluntary Development Agency** | RCVDA | organisation | The local charity that supports voluntary and community groups across Redcar & Cleveland. Runs the Building our Futures programme. | — | [findthatcharity org ID GB-CHC-1135959](https://findthatcharity.uk/orgid/GB-CHC-1135959) |
 | **Secondary Schools Network** |  | local-programme | A network that supports the move up to secondary school. | RCVDA — Building our Futures programme. | — |
 | **Skills Builder Universal Framework** |  | method | A skills framework built around eight essential skills. The framework Building our Futures uses. | [Skills Builder Partnership](https://www.skillsbuilder.org/) | — |
