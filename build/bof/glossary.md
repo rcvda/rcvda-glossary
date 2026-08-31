@@ -55,7 +55,7 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Living in the Wider World** |  | substantive | One of the three main parts of the PSHE Association's plan of study. | [PSHE Association](https://pshe-association.org.uk/) | — |
 | **Mantle of the Expert** |  | method | A way of teaching through role-play and inquiry. Building our Futures uses it in the early years. | [Mantle of the Expert](https://www.mantleoftheexpert.com/) | — |
 | **Meet the Employers** |  | local-programme | A first meeting with a local business or project. | RCVDA — Building our Futures programme. | — |
-| **Operator Fund** |  | local-programme | A separate Dogger Bank Wind Farm grant scheme. It gives up to £1,000 to community groups. | RCVDA — Building our Futures programme. | — |
+| **Operator Fund** |  | local-programme | A separate Dogger Bank Wind Farm grant scheme. It gives up to £1,000 to community groups. | [Dogger Bank Wind Farm — Community](https://doggerbank.com/about/community/) | — |
 | **Percy and Mann (2014)** |  | substantive | Research on how skills affect future pay. Building our Futures uses it in its long-term earnings estimates. | Percy, C. and Mann, A. (2014). | — |
 | **Pre/post survey** |  | method | A survey run each term, before and after the work. It measures changes in how pupils explore careers. | RCVDA — Building our Futures programme. | — |
 | **Primary Schools Network** |  | local-programme | The main delivery network. It meets each term. | RCVDA — Building our Futures programme. | — |
