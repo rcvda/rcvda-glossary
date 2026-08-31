@@ -1,0 +1,51 @@
+name: Purge jsDelivr cache
+
+# The website glossary (rcvda-core's [rcvda_glossary] shortcode) fetches the built feeds
+# LIVE from jsDelivr: https://cdn.jsdelivr.net/gh/rcvda/rcvda-glossary@main/build/<lens>/glossary.json .
+# jsDelivr caches a branch ref (@main) for up to ~12h, so a push would otherwise take a while
+# to appear on the sites. This purges every built feed the moment the feeds change on main, so
+# a glossary edit (edit glossary.yml -> build.py -> push) goes live within a minute.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'build/**/glossary.json'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: purge-jsdelivr
+  cancel-in-progress: false
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Purge each built feed on @main
+        run: |
+          set -euo pipefail
+          repo="${GITHUB_REPOSITORY}"   # rcvda/rcvda-glossary
+          found=0
+          for f in build/*/glossary.json; do
+            [ -e "$f" ] || continue
+            found=1
+            url="https://purge.jsdelivr.net/gh/${repo}@main/${f}"
+            echo "Purging ${f}"
+            # jsDelivr's purge endpoint returns JSON; retry a couple of times on transient failure.
+            for attempt in 1 2 3; do
+              if curl -fsS --max-time 30 "$url" >/dev/null; then
+                echo "  ok"
+                break
+              fi
+              echo "  attempt ${attempt} failed"
+              sleep 5
+            done
+          done
+          [ "$found" = 1 ] || { echo "No build/*/glossary.json found"; exit 1; }
+          echo "Done."
