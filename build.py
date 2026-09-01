@@ -137,10 +137,15 @@ def resolve(e, code, register, programme=None):
     r["context_note"] = notes_for(e, code, programme)
     return r, warn
 
-def lens_entries(entries, code, register, programme=None):
+def lens_entries(entries, code, register, programme=None, member_codes=None):
+    # A combined lens (e.g. `clr`) unions all its programme's strand lenses: an entry is in it
+    # if its scope hits ANY member code. A normal lens just matches its own code. De-duped because
+    # each entry is visited once.
+    match = set(member_codes) if member_codes else set()
+    match.add(code)
     picked, warns = [], []
     for e in entries:
-        if code in (e.get("scope") or []):
+        if match & set(e.get("scope") or []):
             r, w = resolve(e, code, register, programme)
             picked.append(r)
             if w: warns.append(w)
@@ -208,7 +213,10 @@ def main():
         register = cfg.get("register","authoritative")
         programme = cfg.get("programme")
         outs = cfg.get("outputs", ["md","json"])
-        picked, warns = lens_entries(entries, code, register, programme); all_warns += warns
+        member_codes = None
+        if cfg.get("combine"):
+            member_codes = {c for c, cc in contexts.items() if cc.get("programme") == programme and c != code}
+        picked, warns = lens_entries(entries, code, register, programme, member_codes); all_warns += warns
         # In a term's HOME lens (all its scope within this programme) show its short_name; the estate
         # master and cross-programme lenses keep the qualified full_term.
         def _disp(e):

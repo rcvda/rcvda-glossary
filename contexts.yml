@@ -16,6 +16,16 @@ contexts:
   clr.hf:  { title: "Housing First / Homelessness deep dive", programme: clr, register: authoritative, outputs: [md, json], owner: clr }
   clr.md:  { title: "Multiple Disadvantage deep dive", programme: clr,   register: authoritative, outputs: [md, json], owner: clr }
 
+  # Combined Community-Led Research lens — unions all five deep-dive strands into one site-wide
+  # CLR glossary (deduplicated). `combine: true` = union this programme's strand lenses.
+  clr:
+    title: "Community-Led Research glossary"
+    programme: clr
+    register: authoritative
+    outputs: [md, json]
+    owner: clr
+    combine: true
+
   # --- Other estate lenses (registered now; entries added in later phases) ---
   rcvda:
     title: "RCVDA organisation-wide glossary"
