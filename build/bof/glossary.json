@@ -931,6 +931,29 @@
       "groups": [
         "Networks"
       ]
+    },
+    {
+      "id": "opal",
+      "term": "OPAL",
+      "abbr": "OPAL",
+      "full_term": "Outdoor Play and Learning Primary Programme",
+      "aliases": [
+        "OPAL",
+        "Outdoor Play and Learning",
+        "Outdoor Play and Learning Primary Programme"
+      ],
+      "type": "method",
+      "definition": "A programme that helps primary schools make playtimes better, with more and better outdoor play.",
+      "source": "Outdoor Play and Learning (OPAL)",
+      "source_url": "https://outdoorplayandlearning.org.uk",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Frameworks and accreditation"
+      ]
     }
   ]
 }

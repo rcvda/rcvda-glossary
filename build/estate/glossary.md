@@ -4,7 +4,7 @@ A single, canonical set of definitions, terms and acronyms for the RCVDA estate.
 
 > **Source of truth:** [`glossary.yml`](glossary.yml). Do not edit this README by hand — edit `glossary.yml` and run `python3 build.py`. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The glossary is in two parts: an **Abbreviations** list (182 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (259 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
+The glossary is in two parts: an **Abbreviations** list (183 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (260 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
 
 ## Abbreviations
 
@@ -135,6 +135,7 @@ The glossary is in two parts: an **Abbreviations** list (182 short forms, each w
 | **NMC** | Nursing and Midwifery Council | [Nursing and Midwifery Order 2001 (SI 2002/253)](https://www.legislation.gov.uk/uksi/2002/253/contents) | [findthatcharity org ID GB-CHC-1091434](https://findthatcharity.uk/orgid/GB-CHC-1091434) |
 | **NRPF** | No Recourse to Public Funds | [Immigration and Asylum Act 1999, s.115(9) (defines a person subject to immigration control, on condition of no recourse to public funds)](https://www.legislation.gov.uk/ukpga/1999/33/section/115) | — |
 | **OHID** | Office for Health Improvement and Disparities | — | [findthatcharity org ID GB-GOVUK-office-for-health-improvement-and-disparities](https://findthatcharity.uk/orgid/GB-GOVUK-office-for-health-improvement-and-disparities) |
+| **OPAL** | Outdoor Play and Learning Primary Programme | [Outdoor Play and Learning (OPAL)](https://outdoorplayandlearning.org.uk) | — |
 | **OPCC** | Office of the Police and Crime Commissioner | [Police Reform and Social Responsibility Act 2011](https://www.legislation.gov.uk/ukpga/2011/13/contents) | — |
 | **PCC** | Police and Crime Commissioner | [Police Reform and Social Responsibility Act 2011](https://www.legislation.gov.uk/ukpga/2011/13/contents) | — |
 | **PCN** | Primary Care Network | [Network Contract DES (NHS England, 2019/20), under the NHS Act 2006](https://www.england.nhs.uk/primary-care/primary-care-networks/network-contract-des/) | — |
@@ -367,6 +368,7 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Office for Health Improvement and Disparities** | OHID | acronym | The Department of Health and Social Care unit that published the 2022 working definition of trauma-informed practice. | — | [findthatcharity org ID GB-GOVUK-office-for-health-improvement-and-disparities](https://findthatcharity.uk/orgid/GB-GOVUK-office-for-health-improvement-and-disparities) |
 | **Office of the Police and Crime Commissioner** | OPCC | organisation | The elected office responsible for the governance of policing in a force area — setting the police and crime plan and holding the Chief Constable to account; created by the Police Reform and Social Responsibility Act 2011. | [Police Reform and Social Responsibility Act 2011](https://www.legislation.gov.uk/ukpga/2011/13/contents) | — |
 | **Operator Fund** |  | local-programme | A separate Dogger Bank Wind Farm grant scheme giving up to £1,000 to community groups. | [Dogger Bank Wind Farm — Community](https://doggerbank.com/about/community/) | — |
+| **Outdoor Play and Learning Primary Programme** | OPAL | method | A school-improvement programme that helps primary schools improve the quality of children's play, especially at break and lunchtimes. | [Outdoor Play and Learning (OPAL)](https://outdoorplayandlearning.org.uk) | — |
 | **Pathfinder Toolkit** |  | substantive | Good-practice guidance on the health-service response to domestic abuse (Pathfinder Consortium, 2020), cited in the statutory guidance as good practice. | Pathfinder Consortium (2020). | — |
 | **Pathways** |  | local-programme | The original Housing First model developed in New York by Sam Tsemberis and Pathways to Housing in 1992 (Tsemberis, 1999). The Pathways model is the high-fidelity baseline against which the seven principles are derived. | Tsemberis, S. (1999) — the Pathways to Housing model, New York; the origin of Housing First. | — |
 | **Percy and Mann (2014)** |  | substantive | Research (Percy and Mann, 2014) on the relationship between skills and future pay. | Percy, C. and Mann, A. (2014). | — |

@@ -1,10 +1,10 @@
 # Building Our Futures glossary — glossary
 
-Lens of the RCVDA estate glossary for **Building Our Futures glossary** (43 terms, plain register). Generated from `glossary.yml`; do not edit by hand.
+Lens of the RCVDA estate glossary for **Building Our Futures glossary** (44 terms, plain register). Generated from `glossary.yml`; do not edit by hand.
 
 > **Source of truth:** [`glossary.yml`](glossary.yml). Do not edit this README by hand — edit `glossary.yml` and run `python3 build.py`. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The glossary is in two parts: an **Abbreviations** list (11 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (43 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
+The glossary is in two parts: an **Abbreviations** list (12 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (44 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
 
 ## Abbreviations
 
@@ -18,6 +18,7 @@ The glossary is in two parts: an **Abbreviations** list (11 short forms, each wi
 | **IDACI** | Income Deprivation Affecting Children Index | [MHCLG — English indices of deprivation 2019](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019) | — |
 | **KPI** | Key performance indicator | Standard performance-management term. | — |
 | **KS2** | Key Stage 2 | [National curriculum in England](https://www.gov.uk/government/collections/national-curriculum) | — |
+| **OPAL** | Outdoor Play and Learning Primary Programme | [Outdoor Play and Learning (OPAL)](https://outdoorplayandlearning.org.uk) | — |
 | **RCBC** | Redcar and Cleveland Borough Council | — | [findthatcharity org ID GB-LAE-RCC](https://findthatcharity.uk/orgid/GB-LAE-RCC) |
 | **RCVDA** | Redcar and Cleveland Voluntary Development Agency | — | [findthatcharity org ID GB-CHC-1135959](https://findthatcharity.uk/orgid/GB-CHC-1135959) |
 | **SEND** | Special Educational Needs and Disabilities | [Children and Families Act 2014, Part 3](https://www.legislation.gov.uk/ukpga/2014/6/part/3) | — |
@@ -57,6 +58,7 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Mantle of the Expert** |  | method | A way of teaching through role-play and inquiry. Building our Futures uses it in the early years. | [Mantle of the Expert](https://www.mantleoftheexpert.com/) | — |
 | **Meet the Employers** |  | local-programme | A first meeting with a local business or project. | RCVDA — Building our Futures programme. | — |
 | **Operator Fund** |  | local-programme | A separate Dogger Bank Wind Farm grant scheme. It gives up to £1,000 to community groups. | [Dogger Bank Wind Farm — Community](https://doggerbank.com/about/community/) | — |
+| **Outdoor Play and Learning Primary Programme** | OPAL | method | A programme that helps primary schools make playtimes better, with more and better outdoor play. | [Outdoor Play and Learning (OPAL)](https://outdoorplayandlearning.org.uk) | — |
 | **Percy and Mann (2014)** |  | substantive | Research on how skills affect future pay. Building our Futures uses it in its long-term earnings estimates. | Percy, C. and Mann, A. (2014). | — |
 | **Pre/post survey** |  | method | A survey run each term, before and after the work. It measures changes in how pupils explore careers. | RCVDA — Building our Futures programme. | — |
 | **Primary Schools Network** |  | local-programme | The main delivery network. It meets each term. | RCVDA — Building our Futures programme. | — |

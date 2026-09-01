@@ -5779,5 +5779,28 @@
     ],
     "context_notes": {},
     "overrides": {}
+  },
+  {
+    "id": "opal",
+    "term": "OPAL",
+    "abbr": "OPAL",
+    "full_term": "Outdoor Play and Learning Primary Programme",
+    "aliases": [
+      "OPAL",
+      "Outdoor Play and Learning",
+      "Outdoor Play and Learning Primary Programme"
+    ],
+    "type": "method",
+    "definition": "A school-improvement programme that helps primary schools improve the quality of children's play, especially at break and lunchtimes.",
+    "source": "Outdoor Play and Learning (OPAL)",
+    "source_url": "https://outdoorplayandlearning.org.uk",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": "A programme that helps primary schools make playtimes better, with more and better outdoor play.",
+    "scope": [
+      "bof"
+    ],
+    "context_notes": {},
+    "overrides": {}
   }
 ]
