@@ -36,7 +36,7 @@ contexts:
     # Section -> ordered subsections, reproducing the rcvda.org.uk static glossary layout.
     group_order:
       Organisations: [Locally, Tees Valley, North East, Nationally]
-      Terms: [VCSE, Local Authorities, Criminal Justice, DWP, "NHS & Public Health", Safeguarding, Sport, Business, Government, Miscellaneous]
+      Terms: [VCSE, Local Authorities, Criminal Justice, DWP, "NHS & Public Health", Safeguarding, "Mental health & capacity law", Sport, Business, Government, Miscellaneous]
   bof:
     title: "Building Our Futures glossary"
     programme: bof

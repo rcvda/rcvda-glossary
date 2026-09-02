@@ -25,7 +25,7 @@ The glossary is in two parts: an **Abbreviations** list (41 short forms, each wi
 | **HDRC ST** | Health Determinants Research Collaboration South Tees | [The South Tees Health Determinants Research Collaboration programme website (NIHR-funded).](https://hdrcsouthtees.co.uk) | — |
 | **HR** | Human resources | Standard management term. | — |
 | **ICB** | Integrated Care Board | [Health and Care Act 2022 (ICBs, Part 1)](https://www.legislation.gov.uk/ukpga/2022/31/contents) | — |
-| **KPI** | Key performance indicator | Standard performance-management term. | — |
+| **KPI** | Key Performance Indicator | Standard performance-management term. | — |
 | **LA** | Local authority | [Local Government Act 1972 (principal councils in England)](https://www.legislation.gov.uk/ukpga/1972/70/contents) | — |
 | **LVRN** | Lancashire Violence Reduction Network | [Lancashire Violence Reduction Network](https://lancsvrn.co.uk) | — |
 | **MD** | Multiple disadvantage | South Tees Delivery Plan (Version 2) / MHCLG (2020) Changing Futures Prospectus (working cohort definition); comparator: Bramley et al. (2015) Hard Edges, Lankelly Chase Foundation. | — |
@@ -74,7 +74,7 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Health Determinants Research Collaboration South Tees** | HDRC ST | local-programme | The National Institute for Health and Care Research (NIHR)-funded local Health Determinants Research Collaboration South Tees, delivered in partnership with Teesside University. The programme within which this deep-dive series — and RCVDA's Community-led Research Programme — is produced. | [The South Tees Health Determinants Research Collaboration programme website (NIHR-funded).](https://hdrcsouthtees.co.uk) | — |
 | **Human resources** | HR | acronym | The function dealing with staffing, employment and people management. | Standard management term. | — |
 | **Integrated Care Board** | ICB | organisation | The statutory NHS body that plans and commissions health services for a defined area. | [Health and Care Act 2022 (ICBs, Part 1)](https://www.legislation.gov.uk/ukpga/2022/31/contents) | — |
-| **Key performance indicator** | KPI | acronym | A measure used to track progress against an objective. | Standard performance-management term. | — |
+| **Key Performance Indicator** | KPI | acronym | A measure used to track progress against an objective. | Standard performance-management term. | — |
 | **Lancashire Violence Reduction Network** | LVRN | substantive | Cited in the implementation literature as a comparator example of trauma-informed practice in a policing context. | [Lancashire Violence Reduction Network](https://lancsvrn.co.uk) | — |
 | **Lived Experience Board** |  | local-programme | The programme body through which people with lived experience gather, coordinate and prioritise what needs to change; the main hub feeding system- and service-change requests to the Programme Board. Underpins the co-production model that runs across all workstreams. | STCFP Board Terms of Reference; South Tees Delivery Plan (Version 2). | — |
 | **Local authority** | LA | organisation | A body responsible for local-government functions in its area; in England, the principal councils established under the Local Government Act 1972. | [Local Government Act 1972 (principal councils in England)](https://www.legislation.gov.uk/ukpga/1972/70/contents) | — |

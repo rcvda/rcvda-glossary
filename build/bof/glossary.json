@@ -17,7 +17,7 @@
       "id": "kpi",
       "term": "KPI",
       "abbr": "KPI",
-      "full_term": "Key performance indicator",
+      "full_term": "Key Performance Indicator",
       "aliases": [
         "KPI",
         "key performance indicator"
@@ -515,6 +515,28 @@
       ],
       "type": "substantive",
       "definition": "One of the three main parts of the PSHE Association's plan of study.",
+      "source": "PSHE Association",
+      "source_url": "https://pshe-association.org.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Frameworks and accreditation"
+      ]
+    },
+    {
+      "id": "pshe",
+      "term": "Personal, Social, Health and Economic education",
+      "abbr": "PSHE",
+      "full_term": "Personal, Social, Health and Economic education",
+      "aliases": [
+        "PSHE",
+        "Personal, Social, Health and Economic education"
+      ],
+      "type": "substantive",
+      "definition": "A school subject in England about health, relationships, money and everyday life.",
       "source": "PSHE Association",
       "source_url": "https://pshe-association.org.uk/",
       "org_ref": null,

@@ -17,6 +17,7 @@
         "DWP",
         "NHS & Public Health",
         "Safeguarding",
+        "Mental health & capacity law",
         "Sport",
         "Business",
         "Government",
@@ -1444,7 +1445,7 @@
       "order": null,
       "groups": [
         "Terms",
-        "Safeguarding"
+        "Mental health & capacity law"
       ]
     },
     {
@@ -1536,7 +1537,7 @@
       "order": null,
       "groups": [
         "Terms",
-        "Safeguarding"
+        "Mental health & capacity law"
       ]
     },
     {
@@ -1559,7 +1560,7 @@
       "order": null,
       "groups": [
         "Terms",
-        "Safeguarding"
+        "Mental health & capacity law"
       ]
     },
     {
@@ -1582,7 +1583,648 @@
       "order": null,
       "groups": [
         "Terms",
-        "Safeguarding"
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "sectioning",
+      "term": "Sectioning",
+      "abbr": null,
+      "full_term": "Detention under the Mental Health Act 1983",
+      "aliases": [
+        "Sectioning",
+        "Section",
+        "Sectioned",
+        "detained under the Mental Health Act"
+      ],
+      "type": "legal-term",
+      "definition": "Everyday term for being detained in hospital for assessment or treatment under a section of the Mental Health Act 1983 without the person's consent; the number (for example 'sectioned under s.2') refers to the section of the Act being used.",
+      "source": "Mental Health Act 1983",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/contents",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "mha-section-2",
+      "term": "Section 2 (assessment)",
+      "abbr": null,
+      "full_term": "Section 2 Mental Health Act 1983 — admission for assessment",
+      "aliases": [
+        "Section 2",
+        "s.2",
+        "MHA Section 2",
+        "admission for assessment"
+      ],
+      "type": "legal-term",
+      "definition": "Detention for assessment (and any treatment that follows) for up to 28 days, on the recommendation of two doctors and an Approved Mental Health Professional; it cannot be renewed.",
+      "source": "Mental Health Act 1983, s.2",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/2",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "mha-section-3",
+      "term": "Section 3 (treatment)",
+      "abbr": null,
+      "full_term": "Section 3 Mental Health Act 1983 — admission for treatment",
+      "aliases": [
+        "Section 3",
+        "s.3",
+        "MHA Section 3",
+        "admission for treatment"
+      ],
+      "type": "legal-term",
+      "definition": "Detention for treatment of a mental disorder, lasting up to six months initially and renewable, on the recommendation of two doctors and an Approved Mental Health Professional; it entitles the person to free s.117 aftercare on discharge.",
+      "source": "Mental Health Act 1983, s.3",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/3",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "mha-section-136",
+      "term": "Section 136",
+      "abbr": null,
+      "full_term": "Section 136 Mental Health Act 1983 — police power to a place of safety",
+      "aliases": [
+        "Section 136",
+        "s.136",
+        "MHA Section 136"
+      ],
+      "type": "legal-term",
+      "definition": "The police power to remove a person who appears to have a mental disorder and to be in immediate need of care or control from a public place to a place of safety so they can be assessed; time-limited to 24 hours (extendable to 36).",
+      "source": "Mental Health Act 1983, s.136",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/136",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "mha-section-117",
+      "term": "Section 117 aftercare",
+      "abbr": null,
+      "full_term": "Section 117 Mental Health Act 1983 — aftercare",
+      "aliases": [
+        "Section 117",
+        "s.117",
+        "aftercare"
+      ],
+      "type": "legal-term",
+      "definition": "The joint duty on the NHS and the local authority to provide free aftercare to a person who has been detained for treatment (for example under s.3), for as long as they need it, to reduce the risk of readmission; amended by the Mental Health Act 2025, not yet in force.",
+      "source": "Mental Health Act 1983, s.117",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/117",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "mha-section-17-leave",
+      "term": "Section 17 leave",
+      "abbr": null,
+      "full_term": "Section 17 Mental Health Act 1983 — leave of absence",
+      "aliases": [
+        "Section 17 leave",
+        "s.17 leave",
+        "leave of absence"
+      ],
+      "type": "legal-term",
+      "definition": "Authorised leave of absence from hospital for a detained patient, granted by the responsible clinician; it may be for a few hours or longer and can carry conditions.",
+      "source": "Mental Health Act 1983, s.17",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/17",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "amhp",
+      "term": "Approved Mental Health Professional",
+      "abbr": "AMHP",
+      "full_term": "Approved Mental Health Professional",
+      "aliases": [
+        "AMHP",
+        "Approved Mental Health Professional"
+      ],
+      "type": "statutory",
+      "definition": "A social worker or other approved professional (not a doctor) who coordinates a Mental Health Act assessment, decides whether detention is the least restrictive option and makes most applications for detention.",
+      "source": "Mental Health Act 1983, s.114",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/114",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "responsible-clinician",
+      "term": "Responsible Clinician",
+      "abbr": "RC",
+      "full_term": "Responsible Clinician (Approved Clinician)",
+      "aliases": [
+        "Responsible Clinician",
+        "RC",
+        "Approved Clinician",
+        "AC"
+      ],
+      "type": "statutory",
+      "definition": "The approved clinician with overall responsibility for a detained patient's case. An Approved Clinician is a professional (often but not always a psychiatrist) approved to take on certain Mental Health Act roles; the Responsible Clinician is the Approved Clinician in charge of a particular patient.",
+      "source": "Mental Health Act 1983, s.34 (and the MHA Code of Practice)",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/34",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "community-treatment-order",
+      "term": "Community Treatment Order",
+      "abbr": "CTO",
+      "full_term": "Community Treatment Order",
+      "aliases": [
+        "CTO",
+        "Community Treatment Order",
+        "supervised community treatment"
+      ],
+      "type": "legal-term",
+      "definition": "An order that lets a patient who has been detained for treatment live in the community under conditions, with the power to recall them to hospital if needed; also called supervised community treatment.",
+      "source": "Mental Health Act 1983, s.17A",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/17A",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "nearest-relative",
+      "term": "Nearest Relative",
+      "abbr": null,
+      "full_term": "Nearest Relative",
+      "aliases": [
+        "Nearest Relative",
+        "nearest relative"
+      ],
+      "type": "legal-term",
+      "definition": "A specific relative, identified by a statutory list in the Mental Health Act, who has certain rights when a person is detained — including being consulted and, in some cases, objecting to detention or applying for discharge. It is distinct from next of kin.",
+      "source": "Mental Health Act 1983, s.26",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/26",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "mha-guardianship",
+      "term": "Guardianship",
+      "abbr": null,
+      "full_term": "Guardianship under the Mental Health Act 1983",
+      "aliases": [
+        "Guardianship",
+        "MHA guardianship"
+      ],
+      "type": "legal-term",
+      "definition": "An order appointing a guardian (usually the local authority) with limited powers over where a person lives and their access to services, used to help someone with a mental disorder live safely in the community.",
+      "source": "Mental Health Act 1983, s.7",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/7",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "mental-health-tribunal",
+      "term": "Mental Health Tribunal",
+      "abbr": null,
+      "full_term": "First-tier Tribunal (Mental Health)",
+      "aliases": [
+        "Mental Health Tribunal",
+        "First-tier Tribunal (Mental Health)",
+        "MHT"
+      ],
+      "type": "legal-term",
+      "definition": "The independent judicial body that reviews whether a person's detention or community treatment under the Mental Health Act is still justified and can order their discharge; in England it is the First-tier Tribunal (Mental Health).",
+      "source": "Mental Health Act 1983, Part V",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/part/V",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "place-of-safety",
+      "term": "Place of safety",
+      "abbr": null,
+      "full_term": "Place of safety",
+      "aliases": [
+        "Place of safety",
+        "place of safety"
+      ],
+      "type": "legal-term",
+      "definition": "A place — usually a hospital, and only exceptionally a police station — to which someone can be taken for a Mental Health Act assessment under s.135 or s.136.",
+      "source": "Mental Health Act 1983, ss.135-136",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/135",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "mental-disorder",
+      "term": "Mental disorder",
+      "abbr": null,
+      "full_term": "Mental disorder (Mental Health Act 1983)",
+      "aliases": [
+        "Mental disorder",
+        "mental disorder"
+      ],
+      "type": "legal-term",
+      "definition": "The Mental Health Act's broad legal definition — any disorder or disability of the mind — which determines who the Act can apply to; dependence on alcohol or drugs alone does not count.",
+      "source": "Mental Health Act 1983, s.1",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/1",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "informal-patient",
+      "term": "Informal patient",
+      "abbr": null,
+      "full_term": "Informal (voluntary) patient",
+      "aliases": [
+        "Informal patient",
+        "voluntary patient",
+        "informal admission"
+      ],
+      "type": "legal-term",
+      "definition": "A person receiving mental-health treatment in hospital who has agreed to be there and is not detained under the Act, and so is generally free to leave; contrasted with a detained (formal or sectioned) patient.",
+      "source": "Mental Health Act 1983, s.131",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/131",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "section-12-doctor",
+      "term": "Section 12 approved doctor",
+      "abbr": null,
+      "full_term": "Section 12 approved doctor",
+      "aliases": [
+        "Section 12 approved doctor",
+        "s.12 doctor",
+        "section 12 doctor"
+      ],
+      "type": "statutory",
+      "definition": "A doctor approved as having special experience in the diagnosis or treatment of mental disorder, whose recommendation is required for detention under the Mental Health Act; at least one of the two doctors in an assessment must be s.12 approved.",
+      "source": "Mental Health Act 1983, s.12",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/12",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "mental-capacity",
+      "term": "Mental capacity",
+      "abbr": null,
+      "full_term": "Mental capacity",
+      "aliases": [
+        "Mental capacity",
+        "capacity",
+        "lacks capacity"
+      ],
+      "type": "legal-term",
+      "definition": "Whether a person is able to make a particular decision at the time it needs to be made. A person lacks capacity if an impairment of, or disturbance in, the mind or brain means they cannot understand, retain, use or weigh the relevant information, or communicate their decision. Capacity is assessed decision by decision and is assumed unless shown otherwise.",
+      "source": "Mental Capacity Act 2005, ss.1-3",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2005/9/contents",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "best-interests",
+      "term": "Best interests",
+      "abbr": null,
+      "full_term": "Best interests (Mental Capacity Act 2005)",
+      "aliases": [
+        "Best interests",
+        "best interests"
+      ],
+      "type": "legal-term",
+      "definition": "The principle that any decision or action taken for a person who lacks capacity must be in their best interests, weighing their past and present wishes, feelings, beliefs and values and following a statutory checklist.",
+      "source": "Mental Capacity Act 2005, s.4",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2005/9/section/4",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "dols",
+      "term": "Deprivation of Liberty Safeguards",
+      "abbr": "DoLS",
+      "full_term": "Deprivation of Liberty Safeguards",
+      "aliases": [
+        "DoLS",
+        "Deprivation of Liberty Safeguards"
+      ],
+      "type": "statutory",
+      "definition": "The legal process for authorising arrangements that deprive a person who lacks capacity of their liberty in a care home or hospital, to make sure the arrangements are necessary and in their best interests. Due to be replaced by the Liberty Protection Safeguards (LPS) under the Mental Capacity (Amendment) Act 2019, not yet in force.",
+      "source": "Mental Capacity Act 2005, Schedule A1",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2005/9/schedule/A1",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "lasting-power-of-attorney",
+      "term": "Lasting Power of Attorney",
+      "abbr": "LPA",
+      "full_term": "Lasting Power of Attorney",
+      "aliases": [
+        "LPA",
+        "Lasting Power of Attorney"
+      ],
+      "type": "legal-term",
+      "definition": "A legal document by which a person, while they still have capacity, appoints one or more attorneys to make decisions on their behalf if they later lose capacity — either for property and financial affairs, or for health and welfare.",
+      "source": "Mental Capacity Act 2005, ss.9-14",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2005/9/part/1/crossheading/lasting-powers-of-attorney",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "court-of-protection",
+      "term": "Court of Protection",
+      "abbr": null,
+      "full_term": "Court of Protection",
+      "aliases": [
+        "Court of Protection",
+        "CoP"
+      ],
+      "type": "organisation",
+      "definition": "The specialist court that makes decisions, and appoints deputies, for people who lack the capacity to make particular decisions about their finances or their welfare.",
+      "source": "Mental Capacity Act 2005, s.45",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2005/9/section/45",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "cop-deputy",
+      "term": "Deputy",
+      "abbr": null,
+      "full_term": "Deputy (Court of Protection)",
+      "aliases": [
+        "Deputy",
+        "Court of Protection deputy"
+      ],
+      "type": "legal-term",
+      "definition": "A person appointed by the Court of Protection to make ongoing decisions on behalf of someone who lacks capacity, where no attorney has been appointed under a Lasting Power of Attorney.",
+      "source": "Mental Capacity Act 2005, s.16",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2005/9/section/16",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "advance-decision",
+      "term": "Advance decision",
+      "abbr": null,
+      "full_term": "Advance decision to refuse treatment",
+      "aliases": [
+        "Advance decision",
+        "advance decision to refuse treatment",
+        "ADRT",
+        "living will",
+        "advance statement"
+      ],
+      "type": "legal-term",
+      "definition": "A decision made by a person while they have capacity to refuse a specified medical treatment in future, which is legally binding if valid and applicable. It differs from an advance statement, which records wishes and preferences but is not legally binding.",
+      "source": "Mental Capacity Act 2005, ss.24-26",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2005/9/part/1/crossheading/advance-decisions-to-refuse-treatment",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "mca-code-of-practice",
+      "term": "Mental Capacity Act Code of Practice",
+      "abbr": "MCA COP",
+      "full_term": "Mental Capacity Act Code of Practice",
+      "aliases": [
+        "MCA COP",
+        "Mental Capacity Act Code of Practice"
+      ],
+      "type": "statutory",
+      "definition": "The statutory guidance on how the Mental Capacity Act should be applied, which professionals and paid carers must have regard to.",
+      "source": "Mental Capacity Act 2005, s.42",
+      "source_url": "https://www.gov.uk/government/publications/mental-capacity-act-code-of-practice",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "imha",
+      "term": "Independent Mental Health Advocate",
+      "abbr": "IMHA",
+      "full_term": "Independent Mental Health Advocate",
+      "aliases": [
+        "IMHA",
+        "Independent Mental Health Advocate"
+      ],
+      "type": "statutory",
+      "definition": "A statutory advocate who helps a person detained under the Mental Health Act (or on a community treatment order or guardianship) understand their rights and be heard in decisions about their care.",
+      "source": "Mental Health Act 1983, s.130A",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1983/20/section/130A",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "rpr",
+      "term": "Relevant Person's Representative",
+      "abbr": "RPR",
+      "full_term": "Relevant Person's Representative",
+      "aliases": [
+        "RPR",
+        "Relevant Person's Representative"
+      ],
+      "type": "statutory",
+      "definition": "A person appointed to represent and support someone subject to a Deprivation of Liberty Safeguards authorisation, keeping in contact with them and helping them use their rights to review and challenge it.",
+      "source": "Mental Capacity Act 2005, Schedule A1",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2005/9/schedule/A1",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
+      ]
+    },
+    {
+      "id": "advocate",
+      "term": "Advocate",
+      "abbr": null,
+      "full_term": "Advocate (independent advocacy)",
+      "aliases": [
+        "Advocate",
+        "advocacy",
+        "independent advocacy"
+      ],
+      "type": "legal-term",
+      "definition": "Someone independent who supports a person to express their views, understand their options and defend their rights, especially when the person might otherwise struggle to be heard. Some advocacy roles are statutory (such as IMHA, IMCA and Care Act advocates); others are non-statutory.",
+      "source": "Care Act 2014, ss.67-68 (independent advocacy duty)",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/67",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Mental health & capacity law"
       ]
     },
     {

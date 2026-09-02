@@ -1,5 +1,19 @@
 # Changelog — rcvda-glossary
 
+## 2026-09-02 — RCVDA lens: "Mental health & capacity law" subsection (31 terms)
+- New Terms subsection **"Mental health & capacity law"** in the `rcvda` lens (`contexts.yml` group_order, after Safeguarding).
+- Added **27 new terms** defined in our own words and sourced to the primary legislation / Codes of Practice (Mental Health Act 1983, Mental Capacity Act 2005, Care Act 2014) — not to any third-party glossary. Mental Health Act: Sectioning, Section 2, Section 3, Section 136, Section 117 aftercare, Section 17 leave, AMHP, Responsible Clinician, Community Treatment Order, Nearest Relative, Guardianship, Mental Health Tribunal, Place of safety, Mental disorder, Informal patient, Section 12 approved doctor. Mental Capacity Act: Mental capacity, Best interests, Deprivation of Liberty Safeguards (with LPS note), Lasting Power of Attorney, Court of Protection, Deputy, Advance decision, MCA Code of Practice. Advocacy: IMHA, Relevant Person's Representative, Advocate.
+- Re-filed 4 existing terms (Mental Health Act, MHA Code of Practice, Mental Capacity Act, IMCA) from Safeguarding into the new subsection.
+- All 27 new entries carry `agreed: n` pending Peter's editorial sign-off.
+- Rebuilt via `build.py`: `rcvda` lens now 103 terms; estate master 288 entries, 8 lenses, no validation errors.
+- Deploy: commit + push so the jsDelivr feed refreshes; purge CI clears `build/rcvda/glossary.json` within ~1 min.
+
+## 2026-09-02 — BoF: PSHE entry added; KPI title-cased
+- Added a dedicated **PSHE** term (`id: pshe`; abbr `PSHE` → *Personal, Social, Health and Economic education*), `type: substantive`, scoped to `bof`, grouped under "Frameworks and accreditation". PSHE is now spelt out in its own entry and in the BoF abbreviations list, so "Living in the Wider World" (which cites the PSHE Association) no longer leaves the abbreviation unexplained.
+- **KPI** `full_term` corrected to Title Case — "Key Performance Indicator" (was "Key performance indicator"). Affects the `bof` and `clr.tip` lenses.
+- Rebuilt via `build.py`: `bof` lens now 45 terms (was 44); estate master 261 entries, 8 lenses, no validation errors.
+- Deploy: commit + push so the jsDelivr feed refreshes, then purge `https://purge.jsdelivr.net/gh/rcvda/rcvda-glossary@main/build/bof/glossary.json`. Offline fallback `rcvda-core/assets/data/glossary/bof.json` to be refreshed on the next rcvda-core release.
+
 ## 2026-08-24 — Per-lens grouping (Phase 4 groundwork)
 - New per-lens `groups` field on entries (`groups: {rcvda: [Section, Subsection]}`) + `group_order` in
   `contexts.yml`, so a lens can reproduce its site's own section layout. Populated the `rcvda` lens from
