@@ -591,21 +591,22 @@
       ]
     },
     {
-      "id": "career-champion",
-      "term": "Building our Futures Career Champion",
+      "id": "careers-champion",
+      "term": "Careers Champion",
       "abbr": null,
-      "full_term": "Career Champion",
+      "full_term": "Careers Champion",
       "aliases": [
-        "Career Champion"
+        "Careers Champion",
+        "Careers champion"
       ],
-      "type": "local-programme",
-      "definition": "A mentor scheme: a career champion supports a school.",
-      "source": "RCVDA — Building our Futures programme.",
+      "type": "substantive",
+      "definition": "The person who leads careers learning in a primary school. Primary schools do not have to have one, but it helps every child meet the world of work.",
+      "source": "Education sector usage.",
       "source_url": null,
       "org_ref": null,
       "org_ref_url": null,
       "context_note": null,
-      "short_name": "Career Champion",
+      "short_name": null,
       "order": null,
       "groups": [
         "Education and sector terms"
@@ -620,8 +621,30 @@
         "Careers lead"
       ],
       "type": "substantive",
-      "definition": "The teacher in charge of careers learning at a school.",
+      "definition": "The general name for the person who leads careers learning in a school. In a primary school they are usually called a Careers Champion; in a secondary school, a Careers Leader.",
       "source": "Education sector usage.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Education and sector terms"
+      ]
+    },
+    {
+      "id": "careers-leader",
+      "term": "Careers Leader",
+      "abbr": null,
+      "full_term": "Careers Leader",
+      "aliases": [
+        "Careers Leader",
+        "Careers leader"
+      ],
+      "type": "statutory",
+      "definition": "The named person who leads a secondary school's careers plan. Every secondary school must have one by law.",
+      "source": "DfE, Careers guidance and access for education and training providers (statutory guidance).",
       "source_url": null,
       "org_ref": null,
       "org_ref_url": null,

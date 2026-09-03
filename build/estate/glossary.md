@@ -4,7 +4,7 @@ A single, canonical set of definitions, terms and acronyms for the RCVDA estate.
 
 > **Source of truth:** [`glossary.yml`](glossary.yml). Do not edit this README by hand — edit `glossary.yml` and run `python3 build.py`. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The glossary is in two parts: an **Abbreviations** list (192 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (288 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
+The glossary is in two parts: an **Abbreviations** list (192 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (289 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
 
 ## Abbreviations
 
@@ -228,13 +228,14 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Building our Futures** | BoF | local-programme | An award-winning primary careers and enrichment programme run in Redcar & Cleveland since 2021 by RCVDA. | [RCVDA — Building our Futures](https://www.buildingourfutures.org.uk) | — |
 | **Building our Futures All Schools Network** |  | local-programme | A network bringing primary and secondary schools together. | RCVDA — Building our Futures programme. | — |
 | **Building our Futures Business Network** |  | local-programme | A termly network of local employers who help shape and run the programme. | RCVDA — Building our Futures programme. | — |
-| **Building our Futures Career Champion** |  | local-programme | A mentoring role in which a career champion supports a school. | RCVDA — Building our Futures programme. | — |
 | **Building our Futures Enrichment offer** |  | local-programme | Extra activities beyond the six Pupil Journey steps, such as Parliament Week and science and technology events. | RCVDA — Building our Futures programme. | — |
 | **Building our Futures Primary Schools Network** |  | local-programme | The programme's main delivery network, meeting each term. | RCVDA — Building our Futures programme. | — |
 | **Building our Futures Pupil Journey** |  | local-programme | A six-step careers framework delivered in primary schools for children aged 7 to 11. | RCVDA — Building our Futures programme. | — |
 | **Building our Futures Secondary Schools Network** |  | local-programme | A network supporting the move up to secondary school. | RCVDA — Building our Futures programme. | — |
 | **Capability, Opportunity, Motivation–Behaviour** | COM-B | substantive | A behaviour-change framework (Michie et al. 2011) used in implementation-science analysis of why training does or does not change practice. | Michie, S., van Stralen, M. and West, R. (2011) Implementation Science. | — |
-| **Careers lead** |  | substantive | The teacher responsible for careers learning at a school. | Education sector usage. | — |
+| **Careers Champion** |  | substantive | The member of staff who leads careers-related learning in a primary school. Primary schools in England are not legally required to appoint one. | Education sector usage. | — |
+| **Careers lead** |  | substantive | The general term for the member of staff who leads careers learning in a school. In a primary school this role is usually called a Careers Champion; in a secondary school, a Careers Leader. | Education sector usage. | — |
+| **Careers Leader** |  | statutory | The named member of staff who leads a secondary school's careers programme against the Gatsby Benchmarks. Secondary schools and academies in England must appoint one. | DfE, Careers guidance and access for education and training providers (statutory guidance). | — |
 | **Careers-related learning** | CRL | substantive | Careers-related learning — the careers learning taught in schools. | RCVDA — Building our Futures programme. | — |
 | **Care Programme Approach** | CPA | substantive | The framework used to assess, plan and coordinate care for people with more complex mental-health needs; now largely superseded by the Community Mental Health Framework. | Department of Health — Care Programme Approach. | — |
 | **Care Quality Commission** | CQC | organisation | The independent regulator of health and adult social care in England. | [Health and Social Care Act 2008 (established the Care Quality Commission)](https://www.legislation.gov.uk/ukpga/2008/14/contents) | [findthatcharity org ID GB-GOR-PB251](https://findthatcharity.uk/orgid/GB-GOR-PB251) |

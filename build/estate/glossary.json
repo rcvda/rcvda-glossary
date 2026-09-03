@@ -6037,20 +6037,21 @@
     "overrides": {}
   },
   {
-    "id": "career-champion",
-    "term": "Building our Futures Career Champion",
+    "id": "careers-champion",
+    "term": "Careers Champion",
     "abbr": null,
-    "full_term": "Building our Futures Career Champion",
+    "full_term": "Careers Champion",
     "aliases": [
-      "Career Champion"
+      "Careers Champion",
+      "Careers champion"
     ],
-    "type": "local-programme",
-    "definition": "A mentoring role in which a career champion supports a school.",
-    "source": "RCVDA — Building our Futures programme.",
+    "type": "substantive",
+    "definition": "The member of staff who leads careers-related learning in a primary school. Primary schools in England are not legally required to appoint one.",
+    "source": "Education sector usage.",
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "A mentor scheme: a career champion supports a school.",
+    "plain": "The person who leads careers learning in a primary school. Primary schools do not have to have one, but it helps every child meet the world of work.",
     "scope": [
       "bof"
     ],
@@ -6066,12 +6067,34 @@
       "Careers lead"
     ],
     "type": "substantive",
-    "definition": "The teacher responsible for careers learning at a school.",
+    "definition": "The general term for the member of staff who leads careers learning in a school. In a primary school this role is usually called a Careers Champion; in a secondary school, a Careers Leader.",
     "source": "Education sector usage.",
     "source_url": null,
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "The teacher in charge of careers learning at a school.",
+    "plain": "The general name for the person who leads careers learning in a school. In a primary school they are usually called a Careers Champion; in a secondary school, a Careers Leader.",
+    "scope": [
+      "bof"
+    ],
+    "context_notes": {},
+    "overrides": {}
+  },
+  {
+    "id": "careers-leader",
+    "term": "Careers Leader",
+    "abbr": null,
+    "full_term": "Careers Leader",
+    "aliases": [
+      "Careers Leader",
+      "Careers leader"
+    ],
+    "type": "statutory",
+    "definition": "The named member of staff who leads a secondary school's careers programme against the Gatsby Benchmarks. Secondary schools and academies in England must appoint one.",
+    "source": "DfE, Careers guidance and access for education and training providers (statutory guidance).",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": "The named person who leads a secondary school's careers plan. Every secondary school must have one by law.",
     "scope": [
       "bof"
     ],

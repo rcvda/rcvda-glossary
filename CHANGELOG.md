@@ -1,5 +1,13 @@
 # Changelog — rcvda-glossary
 
+## 2026-09-03 — BoF lens: careers roles made explicit (Champion / Leader / Lead)
+- **Retired** the `career-champion` entry (a mentoring "Career Champion" scheme) — the "Careers Champion" headword now names the primary careers-lead role.
+- **Added `careers-champion`** (substantive, bof): the member of staff who leads careers-related learning in a *primary* school; primary schools are not legally required to appoint one.
+- **Added `careers-leader`** (statutory, bof): the named person who leads a *secondary* school's careers programme against the Gatsby Benchmarks; secondary schools/academies must appoint one. Sourced to DfE, *Careers guidance and access for education and training providers* (statutory guidance).
+- **Reframed `careers-lead`** as the umbrella term, pointing to Careers Champion (primary) and Careers Leader (secondary).
+- All three `agreed: y` with reading-age-10 `plain` forms. Rebuilt via `build.py`: `bof` lens now 46 terms, no validation errors. Statutory position verified against DfE careers guidance (secondary duty; no equivalent primary duty).
+- Deploy: commit + push so the jsDelivr `build/bof/glossary.json` feed refreshes.
+
 ## 2026-09-02 — `agreed` now gates publication; MH/capacity terms signed off; BoF PSHE + KPI
 - **`agreed` is now enforced by `build.py`.** An entry is emitted to a lens/site feed only when `agreed: y` (case-insensitive); any other value (`n`, blank) holds it back — it stays in `glossary.yml` and the estate master but appears on no site until agreed. Previously `agreed` was documentation only. The build now prints the held-back terms each run. Filter added in `lens_entries()`; the estate master is unchanged (still every term). Documented in CONTRIBUTING.md.
 - Marked the 27 Mental Health Act / Mental Capacity Act terms (rcvda lens) `agreed: y` — signed off, so they stay published (no change to what is live).

@@ -1,10 +1,10 @@
 # Building Our Futures glossary — glossary
 
-Lens of the RCVDA estate glossary for **Building Our Futures glossary** (45 terms, plain register). Generated from `glossary.yml`; do not edit by hand.
+Lens of the RCVDA estate glossary for **Building Our Futures glossary** (46 terms, plain register). Generated from `glossary.yml`; do not edit by hand.
 
 > **Source of truth:** [`glossary.yml`](glossary.yml). Do not edit this README by hand — edit `glossary.yml` and run `python3 build.py`. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The glossary is in two parts: an **Abbreviations** list (13 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (45 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
+The glossary is in two parts: an **Abbreviations** list (13 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (46 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
 
 ## Abbreviations
 
@@ -35,9 +35,10 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Annual Survey of Hours and Earnings** | ASHE | substantive | The official survey of what people earn. Building our Futures uses it, with other research, to estimate its long-term value. | [Office for National Statistics — ASHE](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/annualsurveyofhoursandearningsashemethodologyandguidance) | — |
 | **Building our Futures** | BoF | local-programme | An award-winning primary careers and enrichment programme, run in Redcar & Cleveland since 2021. | [RCVDA — Building our Futures](https://www.buildingourfutures.org.uk) | — |
 | **Business Network** |  | local-programme | A network of local employers who help shape and run the programme. It meets each term. | RCVDA — Building our Futures programme. | — |
-| **Career Champion** |  | local-programme | A mentor scheme: a career champion supports a school. | RCVDA — Building our Futures programme. | — |
 | **Career Journeys and Aspirations** |  | local-programme | What a career is, and what jobs there are in the local area. | RCVDA — Building our Futures programme. | — |
-| **Careers lead** |  | substantive | The teacher in charge of careers learning at a school. | Education sector usage. | — |
+| **Careers Champion** |  | substantive | The person who leads careers learning in a primary school. Primary schools do not have to have one, but it helps every child meet the world of work. | Education sector usage. | — |
+| **Careers lead** |  | substantive | The general name for the person who leads careers learning in a school. In a primary school they are usually called a Careers Champion; in a secondary school, a Careers Leader. | Education sector usage. | — |
+| **Careers Leader** |  | statutory | The named person who leads a secondary school's careers plan. Every secondary school must have one by law. | DfE, Careers guidance and access for education and training providers (statutory guidance). | — |
 | **Careers-related learning** | CRL | substantive | The careers lessons taught in school. Building our Futures uses its own tool to check what a school already does. | RCVDA — Building our Futures programme. | — |
 | **Case study** |  | method | A short written account of one example of impact. Building our Futures produces one each term, telling one pupil's or one school's story. | RCVDA — Building our Futures programme. | — |
 | **CDI KS2 framework** |  | method | A careers framework for Key Stage 2 (ages 7 to 11), made by the Career Development Institute. | [Career Development Institute](https://www.thecdi.net/resources/cdi-framework) | — |

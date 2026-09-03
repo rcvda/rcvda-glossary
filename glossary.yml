@@ -5133,22 +5133,21 @@
   groups:
     bof:
     - Frameworks and accreditation
-- term: Building our Futures Career Champion
-  id: career-champion
+- term: Careers Champion
+  id: careers-champion
   abbr: ''
-  full_term: Building our Futures Career Champion
-  aliases: Career Champion
-  type: local-programme
-  definition: A mentoring role in which a career champion supports a school.
-  plain: 'A mentor scheme: a career champion supports a school.'
-  source: RCVDA — Building our Futures programme.
+  full_term: Careers Champion
+  aliases: Careers Champion|Careers champion
+  type: substantive
+  definition: The member of staff who leads careers-related learning in a primary school. Primary schools in England are not legally required to appoint one.
+  plain: The person who leads careers learning in a primary school. Primary schools do not have to have one, but it helps every child meet the world of work.
+  source: Education sector usage.
   source_url:
   org_ref: ''
   org_ref_url:
   scope:
   - bof
   agreed: y
-  short_name: Career Champion
   groups:
     bof:
     - Education and sector terms
@@ -5158,9 +5157,27 @@
   full_term: Careers lead
   aliases: Careers lead
   type: substantive
-  definition: The teacher responsible for careers learning at a school.
-  plain: The teacher in charge of careers learning at a school.
+  definition: The general term for the member of staff who leads careers learning in a school. In a primary school this role is usually called a Careers Champion; in a secondary school, a Careers Leader.
+  plain: The general name for the person who leads careers learning in a school. In a primary school they are usually called a Careers Champion; in a secondary school, a Careers Leader.
   source: Education sector usage.
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bof
+  agreed: y
+  groups:
+    bof:
+    - Education and sector terms
+- term: Careers Leader
+  id: careers-leader
+  abbr: ''
+  full_term: Careers Leader
+  aliases: Careers Leader|Careers leader
+  type: statutory
+  definition: The named member of staff who leads a secondary school's careers programme against the Gatsby Benchmarks. Secondary schools and academies in England must appoint one.
+  plain: The named person who leads a secondary school's careers plan. Every secondary school must have one by law.
+  source: DfE, Careers guidance and access for education and training providers (statutory guidance).
   source_url:
   org_ref: ''
   org_ref_url:
