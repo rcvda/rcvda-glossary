@@ -1,5 +1,10 @@
 # Changelog — rcvda-glossary
 
+## 2026-09-02 — `agreed` now gates publication; MH/capacity terms signed off; BoF PSHE + KPI
+- **`agreed` is now enforced by `build.py`.** An entry is emitted to a lens/site feed only when `agreed: y` (case-insensitive); any other value (`n`, blank) holds it back — it stays in `glossary.yml` and the estate master but appears on no site until agreed. Previously `agreed` was documentation only. The build now prints the held-back terms each run. Filter added in `lens_entries()`; the estate master is unchanged (still every term). Documented in CONTRIBUTING.md.
+- Marked the 27 Mental Health Act / Mental Capacity Act terms (rcvda lens) `agreed: y` — signed off, so they stay published (no change to what is live).
+- BoF lens: added a dedicated **PSHE** term (abbr → *Personal, Social, Health and Economic education*) and title-cased **KPI** → "Key Performance Indicator".
+
 ## 2026-09-02 — RCVDA lens: "Mental health & capacity law" subsection (31 terms)
 - New Terms subsection **"Mental health & capacity law"** in the `rcvda` lens (`contexts.yml` group_order, after Safeguarding).
 - Added **27 new terms** defined in our own words and sourced to the primary legislation / Codes of Practice (Mental Health Act 1983, Mental Capacity Act 2005, Care Act 2014) — not to any third-party glossary. Mental Health Act: Sectioning, Section 2, Section 3, Section 136, Section 117 aftercare, Section 17 leave, AMHP, Responsible Clinician, Community Treatment Order, Nearest Relative, Guardianship, Mental Health Tribunal, Place of safety, Mental disorder, Informal patient, Section 12 approved doctor. Mental Capacity Act: Mental capacity, Best interests, Deprivation of Liberty Safeguards (with LPS note), Lasting Power of Attorney, Court of Protection, Deputy, Advance decision, MCA Code of Practice. Advocacy: IMHA, Relevant Person's Representative, Advocate.

@@ -29,6 +29,7 @@ An entry looks like this (only `term`, `id`, `type`, `definition` and `scope` ar
 - **`id` is the join key.** Abbreviations collide (AE/A&E; SHAP = Single Homelessness Accommodation
   Programme *and* SHapley Additive exPlanations), so nothing keys on `abbr`. Pick a slug from the term.
 - **`scope` codes must exist in `contexts.yml`.** The build fails otherwise.
+- **`agreed` gates publication.** An entry only reaches a lens/site feed when `agreed: y` (case-insensitive). Any other value (`n`, blank) holds it back: it stays in `glossary.yml` and the estate master, but does not appear on any site until it is agreed. `build.py` prints the held-back terms each run. Use `agreed: n` for drafted-but-not-signed-off terms.
 - **Dual reference.** `source`/`source_url` = the law or authority; `org_ref`/`org_ref_url` = the live
   organisation's Find That Charity ID. Provisions and roles get a source only; non-statutory orgs get an
   org_ref only; some get both.

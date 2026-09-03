@@ -32,6 +32,12 @@ def alpha(t): return re.sub(r"[^a-z0-9]", "", (t or "").lower())
 def esc(t): return (t or "").replace("|", "\\|").replace("\n", " ").strip()
 def full_term(e): return (e.get("full_term") or e.get("term") or "").strip()
 
+def is_agreed(e):
+    """Publication gate: an entry reaches a lens/site feed only when agreed == 'y'
+    (case-insensitive). Any other value ('n', blank, etc.) holds it back — it stays
+    in glossary.yml and the estate master, but does not appear on any site."""
+    return str(e.get("agreed", "")).strip().lower() == "y"
+
 def load():
     with open("glossary.yml", encoding="utf-8") as f:
         return yaml.safe_load(f)
@@ -146,6 +152,8 @@ def lens_entries(entries, code, register, programme=None, member_codes=None):
     picked, warns = [], []
     for e in entries:
         if match & set(e.get("scope") or []):
+            if not is_agreed(e):
+                continue  # held back — not yet agreed
             r, w = resolve(e, code, register, programme)
             picked.append(r)
             if w: warns.append(w)
@@ -199,6 +207,15 @@ def main():
             if c not in valid_note_keys: errs.append(f"'{e['term']}' context_note for unknown lens/programme {c!r}")
     if errs:
         sys.exit("VALIDATION FAILED:\n  " + "\n  ".join(errs))
+
+    # ---- publication gate: report entries held back (agreed != y) ----
+    held = [e for e in entries if not is_agreed(e)]
+    if held:
+        print(f"Holding back {len(held)} un-agreed term(s) (agreed != y) from ALL lens/site feeds "
+              f"(they remain in glossary.yml and the estate master):")
+        for e in held:
+            print(f"  • {e.get('id')}  (scope {e.get('scope') or []})")
+        print()
 
     os.makedirs("build/estate", exist_ok=True)
     # ---- estate master ----
