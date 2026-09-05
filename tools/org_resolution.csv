@@ -1,14 +1,45 @@
 term,id,type,resolver_verdict,resolver_orgid,resolver_match,ftc_url,current_org_ref,decision,override_orgid,note
-Anglo American,anglo-american,organisation,review_high,GB-CHC-1111719,Anglo American Foundation (GB-CHC-1111719),https://findthatcharity.uk/orgid/GB-CHC-1111719,Companies House GB-COH-03564138,keep,,Applied (Companies House).
+Alzheimer's Association,alzheimers-association-usa,organisation,review_low,GB-CHC-296645,Alzheimer's Society (GB-CHC-296645),https://findthatcharity.uk/orgid/GB-CHC-296645,,blank,,OPEN — needs a decision.
+Audit Commission,audit-commission,organisation,auto,GB-GOR-PC343,Audit Commission (GB-GOR-PC343) [INACTIVE],https://findthatcharity.uk/orgid/GB-GOR-PC343,,apply,,OPEN — needs a decision.
+BAPEN,bapen,organisation,auto,GB-CHC-1186719,British Association for Parenteral and Enteral Nutrition (GB-CHC-1186719),https://findthatcharity.uk/orgid/GB-CHC-1186719,,apply,,OPEN — needs a decision.
+BMA,bma,organisation,review_high,GB-CHC-1123387,Indo-British Medical Association Limited (GB-CHC-1123387) [INACTIVE],https://findthatcharity.uk/orgid/GB-CHC-1123387,,apply,GB-COH-00008848,OPEN — needs a decision.
+CURV,curv,organisation,review_low,GB-CHC-1117375,Harm Reduction International (GB-CHC-1117375),https://findthatcharity.uk/orgid/GB-CHC-1117375,,blank,,OPEN — needs a decision.
+Centre for Thriving Places,centre-for-thriving-places,organisation,auto,GB-CHC-1143037,Centre for Thriving Places (GB-CHC-1143037),https://findthatcharity.uk/orgid/GB-CHC-1143037,,apply,,OPEN — needs a decision.
+Citizens Advice,citizens-advice,organisation,auto,GB-CHC-279057,The National Association of Citizens Advice Bureaux (GB-CHC-279057),https://findthatcharity.uk/orgid/GB-CHC-279057,,apply,,OPEN — needs a decision.
+"Citizens Advice Darlington, Redcar and Cleveland",citizens-advice-drc,organisation,auto,GB-CHC-1112414,"Citizens Advice Darlington, Redcar and Cleveland (GB-CHC-1112414)",https://findthatcharity.uk/orgid/GB-CHC-1112414,,apply,,OPEN — needs a decision.
+College of Policing,college-of-policing,organisation,auto,GB-GOVUK-college-of-policing,College of Policing (GB-GOVUK-college-of-policing),https://findthatcharity.uk/orgid/GB-GOVUK-college-of-policing,,apply,,OPEN — needs a decision.
+Court of Protection,court-of-protection,organisation,auto,GB-GOVUK-court-of-protection,Court of Protection (GB-GOVUK-court-of-protection),https://findthatcharity.uk/orgid/GB-GOVUK-court-of-protection,,skip,,OPEN — needs a decision.
+"Department for Environment, Food & Rural Affairs",defra,organisation,auto,GB-GOR-D7,"Department for Environment, Food & Rural Affairs (GB-GOR-D7)",https://findthatcharity.uk/orgid/GB-GOR-D7,,apply,,OPEN — needs a decision.
+DfT,dft,organisation,auto,GB-GOR-D9,Department for Transport (GB-GOR-D9),https://findthatcharity.uk/orgid/GB-GOR-D9,,apply,,OPEN — needs a decision.
+Environment Agency,environment-agency,organisation,auto,GB-GOR-EA199,Environment Agency (GB-GOR-EA199),https://findthatcharity.uk/orgid/GB-GOR-EA199,,apply,,OPEN — needs a decision.
+Institute of Public Care,institute-of-public-care,organisation,review_low,GB-CHC-800065,Institute for Public Policy Research (GB-CHC-800065),https://findthatcharity.uk/orgid/GB-CHC-800065,,blank,,OPEN — needs a decision.
+LGA,lga,organisation,review_high,GB-CHC-1123234,The Leadership Centre for Local Government (GB-CHC-1123234),https://findthatcharity.uk/orgid/GB-CHC-1123234,,blank,,OPEN — needs a decision.
+MaPS,money-and-pensions-service,organisation,review_low,GB-CHC-1045340,Money Advice and Community Support Service (GB-CHC-1045340),https://findthatcharity.uk/orgid/GB-CHC-1045340,,apply,GB-GOR-OT1266,"OPEN — needs a decision. MaPS = original statutory name ""Single Financial Guidance Body"" (renamed 2019)."
+Middlesbrough Citizens Advice,middlesbrough-citizens-advice,organisation,review_high,GB-CHC-1096071,Middlesbrough Citizens Advice Bureau (GB-CHC-1096071),https://findthatcharity.uk/orgid/GB-CHC-1096071,,apply,,OPEN — needs a decision.
+NE Regional Road Safety Resource / TADU,ne-road-safety-tadu,organisation,review_low,GB-CHC-1002819,Basics London (North East Metropolitan Accident Unit) (GB-CHC-1002819),https://findthatcharity.uk/orgid/GB-CHC-1002819,,blank,,OPEN — needs a decision.
+NECS,necs,organisation,review_low,GB-CHC-306077,The North of England Zoological Society (GB-CHC-306077),https://findthatcharity.uk/orgid/GB-CHC-306077,,apply,GB-NHS-0AR,OPEN — needs a decision.
+National Illegal Money Lending Team,imlt,organisation,no_match,,,,,blank,,OPEN — needs a decision.
+Natural England,natural-england,organisation,auto,GB-GOR-PB202,Natural England (GB-GOR-PB202),https://findthatcharity.uk/orgid/GB-GOR-PB202,,apply,,OPEN — needs a decision.
+North East England Chamber of Commerce,north-east-england-chamber-of-commerce,organisation,review_low,GB-CHC-1000858,North East England Guide Association (GB-CHC-1000858),https://findthatcharity.uk/orgid/GB-CHC-1000858,,apply,GB-COH-02938084,OPEN — needs a decision.
+ONS,ons,organisation,auto,GB-GOR-D303,Office for National Statistics (GB-GOR-D303),https://findthatcharity.uk/orgid/GB-GOR-D303,,apply,,OPEN — needs a decision.
+ORR,orr,organisation,auto,GB-GOR-D1117,Office of Rail and Road (GB-GOR-D1117),https://findthatcharity.uk/orgid/GB-GOR-D1117,,apply,,OPEN — needs a decision.
+Ordnance Survey,ordnance-survey,organisation,auto,GB-GOR-D38,Ordnance Survey (GB-GOR-D38),https://findthatcharity.uk/orgid/GB-GOR-D38,,apply,,OPEN — needs a decision.
+PE Scholar,pe-scholar,organisation,no_match,,,,,blank,,OPEN — needs a decision.
+Sport England,sport-england,organisation,auto,GB-GOR-PB190,Sport England (GB-GOR-PB190),https://findthatcharity.uk/orgid/GB-GOR-PB190,,apply,,OPEN — needs a decision.
+WHO,who,organisation,no_match,,,,,blank,,OPEN — needs a decision.
+YJB,youth-justice-board,organisation,auto,GB-GOR-PB302,Youth Justice Board for England and Wales (GB-GOR-PB302),https://findthatcharity.uk/orgid/GB-GOR-PB302,,apply,,OPEN — needs a decision.
+Anglo American,anglo-american,organisation,,,,,Companies House GB-COH-03564138,keep,,Applied (Companies House).
 Beyond Housing,beyond-housing,organisation,,,,,findthatcharity org ID GB-SHPE-LH4401,keep,,Applied (Find That Charity).
-CDPSOFT,cdpsoft,organisation,no_match,,,,Companies House GB-COH-02893590,keep,,Applied (Companies House).
-CFE Research (CFE),cfe-research-cfe,organisation,no_match,,,,findthatcharity org ID GB-COH-03345012,keep,,Applied (Find That Charity).
-CQC,cqc,organisation,auto,GB-GOR-PB251,Care Quality Commission (GB-GOR-PB251),https://findthatcharity.uk/orgid/GB-GOR-PB251,findthatcharity org ID GB-GOR-PB251,keep,,Applied (Find That Charity).
-Clinical Commissioning Group,ccg,organisation,review_low,GB-CHC-1154630,Bridges Tees Valley (GB-CHC-1154630),https://findthatcharity.uk/orgid/GB-CHC-1154630,,blank,,"Abolished class of bodies (replaced by ICBs), not one org."
-Crown Prosecution Service,crown-prosecution-service,organisation,auto,GB-GOR-D101,Crown Prosecution Service (GB-GOR-D101),https://findthatcharity.uk/orgid/GB-GOR-D101,findthatcharity org ID GB-GOR-D101,keep,,Applied (Find That Charity).
+CDPSOFT,cdpsoft,organisation,,,,,Companies House GB-COH-02893590,keep,,Applied (Companies House).
+CFE Research (CFE),cfe-research-cfe,organisation,,,,,findthatcharity org ID GB-COH-03345012,keep,,Applied (Find That Charity).
+CQC,cqc,organisation,,,,,findthatcharity org ID GB-GOR-PB251,keep,,Applied (Find That Charity).
+Clinical Commissioning Group,ccg,organisation,review_low,GB-CHC-1105611,Kingston Clinical Commissioning Group Charity (GB-CHC-1105611),https://findthatcharity.uk/orgid/GB-CHC-1105611,,blank,,"Abolished class of bodies (replaced by ICBs), not one org."
+Crown Prosecution Service,crown-prosecution-service,organisation,,,,,findthatcharity org ID GB-GOR-D101,keep,,Applied (Find That Charity).
+DHSC,dhsc,acronym,,,,,findthatcharity org ID GB-GOR-D12,keep,,Applied.
+DLUHC,dluhc,acronym,,,,,findthatcharity org ID GB-GOVUK-department-for-levelling-up-housing-and-communities,keep,,Applied.
 DWP,dwp,organisation,,,,,findthatcharity org ID GB-GOR-D10,keep,,Applied (Find That Charity).
-Darlington Borough Council,darlington-borough-council,organisation,auto,GB-LAE-DAL,Darlington Borough Council (GB-LAE-DAL),https://findthatcharity.uk/orgid/GB-LAE-DAL,findthatcharity org ID GB-LAE-DAL,keep,,Applied (Find That Charity).
-Department for Education,department-for-education,organisation,auto,GB-GOR-D6,Department for Education (GB-GOR-D6),https://findthatcharity.uk/orgid/GB-GOR-D6,findthatcharity org ID GB-GOR-D6,keep,,Applied (Find That Charity).
+Darlington Borough Council,darlington-borough-council,organisation,,,,,findthatcharity org ID GB-LAE-DAL,keep,,Applied (Find That Charity).
+Department for Education,department-for-education,organisation,,,,,findthatcharity org ID GB-GOR-D6,keep,,Applied (Find That Charity).
 Dogger Bank Wind Farm,dogger-bank-wind-farm,organisation,review_low,GB-CHC-1140260,Bank Farm Rda Limited (GB-CHC-1140260),https://findthatcharity.uk/orgid/GB-CHC-1140260,,blank,,"A legal partnership / joint venture, not a single registered company."
 Equinor,equinor,organisation,review_high,GB-CHC-1184971,The Armed Forces Equine Charity (GB-CHC-1184971),https://findthatcharity.uk/orgid/GB-CHC-1184971,,blank,,Norwegian company; not registered in England & Wales.
 FT,ft,organisation,review_high,GB-CHC-1049274,Manchester University NHS Foundation Trust Charity (GB-CHC-1049274),https://findthatcharity.uk/orgid/GB-CHC-1049274,,blank,,"Generic term (Foundation Trust), not one organisation."
@@ -16,42 +47,44 @@ GMCA,gmca,organisation,,,,,findthatcharity org ID GB-LAE-GMCA (Greater Mancheste
 HCPC,hcpc,organisation,review_low,GB-CHC-1107638,The Association of Health Professions in Ophthalmology (GB-CHC-1107638),https://findthatcharity.uk/orgid/GB-CHC-1107638,,blank,,No Find That Charity entry exists.
 HMPPS,hmpps,organisation,,,,,findthatcharity org ID XI-ROR-03e5xvd80,keep,,Applied (Find That Charity).
 Harbour,harbour,organisation,,,,,findthatcharity org ID GB-CHC-1086897,keep,,Applied (Find That Charity).
-Hartlepool Borough Council,hartlepool-borough-council,organisation,auto,GB-LAE-HPL,Hartlepool Borough Council (GB-LAE-HPL),https://findthatcharity.uk/orgid/GB-LAE-HPL,findthatcharity org ID GB-LAE-HPL,keep,,Applied (Find That Charity).
+Hartlepool Borough Council,hartlepool-borough-council,organisation,,,,,findthatcharity org ID GB-LAE-HPL,keep,,Applied (Find That Charity).
 Homeless Link,homeless-link,organisation,,,,,findthatcharity org ID GB-CHC-1089173,keep,,Applied (Find That Charity).
 ICB,icb,organisation,review_high,GB-CHC-1059946,North Cumbria Hospitals NHS Charity (GB-CHC-1059946),https://findthatcharity.uk/orgid/GB-CHC-1059946,,blank,,"ICBs not yet on FTC; GB-NHS-01H is a stale CCG-era fragment, not the ICB."
 IRISi,irisi,organisation,,,,,findthatcharity org ID GB-CHC-1214477,keep,,Applied (Find That Charity).
 JCUH,jcuh,organisation,,,,,findthatcharity org ID XI-ROR-02vqh3346,keep,,Applied (Find That Charity).
 LA,la,organisation,review_high,GB-CHC-1084419,The Society of Local Authority Chief Executives and Senior Managers (Solace Group) Ltd (GB-CHC-1084419),https://findthatcharity.uk/orgid/GB-CHC-1084419,,blank,,"Generic term (Local Authority), not one organisation."
-Lawn Tennis Association,lawn-tennis-association,organisation,review_high,GB-CHC-1206769,Oxfordshire Lawn Tennis Association (GB-CHC-1206769),https://findthatcharity.uk/orgid/GB-CHC-1206769,Companies House GB-COH-07459469,keep,,Applied (Companies House).
+Lawn Tennis Association,lawn-tennis-association,organisation,,,,,Companies House GB-COH-07459469,keep,,Applied (Companies House).
 Live Well South Tees Board,live-well-south-tees-board,organisation,review_low,GB-CHC-1204999,Live Well North East (GB-CHC-1204999),https://findthatcharity.uk/orgid/GB-CHC-1204999,,blank,,Local partnership board; no org record.
+MHCLG,mhclg,acronym,,,,,findthatcharity org ID GB-GOR-D4,keep,,Applied.
 Middlesbrough Council,middlesbrough-council,organisation,,,,,findthatcharity org ID GB-LAE-MDB,keep,,Applied (Find That Charity).
 Ministry of Justice,ministry-of-justice,organisation,,,,,findthatcharity org ID GB-GOR-D18,keep,,Applied (Find That Charity).
 My Sister's Place (MSP),my-sister-s-place-msp,organisation,,,,,findthatcharity org ID GB-CHC-1137319,keep,,Applied (Find That Charity).
-NAVCA,navca,organisation,auto,GB-CHC-1001635,National Association for Voluntary and Community Action (GB-CHC-1001635),https://findthatcharity.uk/orgid/GB-CHC-1001635,findthatcharity org ID GB-CHC-1001635,keep,,Applied (Find That Charity).
+NAVCA,navca,organisation,,,,,findthatcharity org ID GB-CHC-1001635,keep,,Applied (Find That Charity).
 NENC / NENC ICB,nenc-nenc-icb,organisation,,,,,findthatcharity org ID GB-NHS-01H,keep,,Applied (Find That Charity).
 NHS,nhs,organisation,auto,GB-GOR-PB481,NHS England (GB-GOR-PB481),https://findthatcharity.uk/orgid/GB-GOR-PB481,,blank,,Whole system; NHS England is captured as its own entry.
-NHS England,nhs-england,organisation,review_high,GB-GOR-PB481,NHS England (GB-GOR-PB481),https://findthatcharity.uk/orgid/GB-GOR-PB481,findthatcharity org ID GB-GOR-PB481,keep,,Applied (Find That Charity).
+NHS England,nhs-england,organisation,,,,,findthatcharity org ID GB-GOR-PB481,keep,,Applied (Find That Charity).
 NICE,nice,organisation,,,,,findthatcharity org ID GB-GOR-PB474,keep,,Applied (Find That Charity).
 NIHR,nihr,organisation,,,,,findthatcharity org ID XI-ROR-0187kwz08,keep,,Applied (Find That Charity).
 NMC,nmc,organisation,,,,,findthatcharity org ID GB-CHC-1091434,keep,,Applied (Find That Charity).
 North East Ambulance Service,neas,organisation,auto,GB-CHC-1078575,North East Ambulance Service Trust Fund (GB-CHC-1078575),https://findthatcharity.uk/orgid/GB-CHC-1078575,,blank,,Not locatable — FTC's NHS dataset is CCG-era / out of date.
 North Star,north-star,organisation,,,,,findthatcharity org ID GB-MPR-21256R,keep,,Applied (Find That Charity).
+OHID,ohid,acronym,,,,,findthatcharity org ID GB-GOVUK-office-for-health-improvement-and-disparities,keep,,Applied.
 OPCC,opcc,organisation,,,,,,blank,,OPCCs have no Find That Charity record.
 PCC,pcc,organisation,review_high,GB-CHC-233463,Metropolitan Police Commissioner's Fund (GB-CHC-233463),https://findthatcharity.uk/orgid/GB-CHC-233463,,blank,,No Find That Charity record.
 RCVDA,rcvda,organisation,,,,,findthatcharity org ID GB-CHC-1135959,keep,,Applied (Find That Charity).
 Redcar and Cleveland Borough Council,redcar-and-cleveland-borough-council,organisation,,,,,findthatcharity org ID GB-LAE-RCC,keep,,Applied (Find That Charity).
 SAMHSA,samhsa,organisation,review_low,GB-CHC-1067108,African and Caribbean Mental Health Services (GB-CHC-1067108),https://findthatcharity.uk/orgid/GB-CHC-1067108,,blank,,US federal agency; not on Find That Charity.
-SSE Renewables,sse-renewables,organisation,no_match,,,,Companies House GB-COH-SC117119,keep,,Applied (Companies House).
+SSE Renewables,sse-renewables,organisation,,,,,Companies House GB-COH-SC117119,keep,,Applied (Companies House).
 SWE,swe,organisation,,,,,findthatcharity org ID GB-GOVUK-social-work-england,keep,,Applied (Find That Charity).
 SafeLives,safelives,organisation,,,,,findthatcharity org ID GB-CHC-1106864,keep,,Applied (Find That Charity).
 South Tees Hospitals NHS Foundation Trust,south-tees-hospitals-nhs-foundation-trust,organisation,,,,,findthatcharity org ID GB-NHS-RTR,keep,,Applied (Find That Charity).
 Stockton-on-Tees Borough Council,stockton-on-tees-borough-council,organisation,,,,,findthatcharity org ID GB-LAE-STT,keep,,Applied (Find That Charity).
-Sustrans,sustrans,organisation,no_match,,,,findthatcharity org ID GB-CHC-326550,keep,,Applied (Find That Charity).
+Sustrans,sustrans,organisation,,,,,findthatcharity org ID GB-CHC-326550,keep,,Applied (Find That Charity).
 TEWV,tewv,organisation,,,,,findthatcharity org ID GB-NHS-RX3,keep,,Applied (Find That Charity).
 TICA,tica,organisation,,,,,findthatcharity org ID GB-COH-15441846,keep,,Applied (Find That Charity).
 TSAB,tsab,organisation,no_match,,,,,blank,,Local safeguarding partnership; no org record.
 TVCA,tvca,organisation,,,,,findthatcharity org ID GB-LAE-TVCA,keep,,Applied (Find That Charity).
-Tees Valley Rural Action,tees-valley-rural-action,organisation,auto,GB-CHC-1080282,Tees Valley Rural Action (GB-CHC-1080282),https://findthatcharity.uk/orgid/GB-CHC-1080282,findthatcharity org ID GB-CHC-1080282,keep,,Applied (Find That Charity).
-VONNE,vonne,organisation,auto,GB-CHC-1084083,Voluntary Organisations' Network North East (GB-CHC-1084083),https://findthatcharity.uk/orgid/GB-CHC-1084083,findthatcharity org ID GB-CHC-1084083,keep,,Applied (Find That Charity).
+Tees Valley Rural Action,tees-valley-rural-action,organisation,,,,,findthatcharity org ID GB-CHC-1080282,keep,,Applied (Find That Charity).
+VONNE,vonne,organisation,,,,,findthatcharity org ID GB-CHC-1084083,keep,,Applied (Find That Charity).
 Vårgrønn,vargronn,organisation,no_match,,,,,blank,,Norwegian company; not registered in England & Wales.
 WAWY (We Are With You),wawy-we-are-with-you,organisation,,,,,findthatcharity org ID GB-CHC-1001957,keep,,Applied (Find That Charity).

@@ -51,6 +51,30 @@ Find That Charity only indexes the CFE Research company, so the others reference
 - **Equinor**, **Vårgrønn** — Norwegian companies, not registered in England & Wales.
 - **Dogger Bank Wind Farm** — a legal partnership / joint venture, not one registered company.
 
+## JSNA data-sources batch (2026-09-04) — 55 terms merged; 28 organisations
+
+### Applied (20) — verified before writing
+Government (`GB-GOR-`): ONS `D303`, DfT `D9`, Ordnance Survey `D38`, Sport England `PB190`,
+Natural England `PB202`, ORR `D1117`, YJB `PB302`, Environment Agency `EA199`, Defra `D7`,
+Audit Commission `PC343` (record flagged inactive — body abolished 2015),
+MaPS `OT1266` (FTC lists it under its former statutory name *Single Financial Guidance Body*).
+Charities (`GB-CHC-`): Centre for Thriving Places `1143037`, Citizens Advice `279057`,
+Citizens Advice Darlington, Redcar and Cleveland `1112414`, BAPEN `1186719`,
+Middlesbrough Citizens Advice `1096071`.
+GOV.UK (`GB-GOVUK-`): College of Policing `college-of-policing`.
+NHS (`GB-NHS-`): NECS `0AR` (NHS North of England Commissioning Support Unit).
+Companies House (`GB-COH-`): North East England Chamber of Commerce `02938084`, BMA `00008848`.
+
+### Checked and left blank (confirmed 2026-09-04 by Peter — no usable record)
+- **CURV** (Cleveland Unit for the Reduction of Violence) — hosted by the Cleveland OPCC, which has no FTC record (see OPCC/PCC above).
+- **Institute of Public Care (IPC)** — a unit within Oxford Brookes University; the unit is not separately registered.
+- **NE Regional Road Safety Resource / TADU** — a regional data unit hosted by a local authority; not separately registered.
+- **LGA** (Local Government Association) — checked; no usable FTC or Companies House record.
+- **IMLT** (National Illegal Money Lending Team) — hosted within a local authority; not separately registered.
+- **PE Scholar** — commercial resource provider; no FTC/Companies House record found.
+- **WHO** (World Health Organization) — international UN agency; not on Find That Charity (UK register).
+- **Alzheimer's Association** — US body; not on Find That Charity.
+
 ## The decision worksheet (`org_resolution.csv`)
 One row per organisation entry. The machine fills the `resolver_*` columns and `current_org_ref`; **you**
 fill the `decision` column (and `override_orgid` for a hand-entered id). Columns:
