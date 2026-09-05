@@ -7,6 +7,7 @@ programmes:
   clr:   { title: "Community-Led Research — Changing Futures Deep Dives", site: "rcvda.org.uk (CLR)" }
   bof:   { title: "Building Our Futures", site: "buildingourfutures.org.uk" }
   rcvda: { title: "RCVDA (organisation-wide)", site: "rcvda.org.uk" }
+  jsna:  { title: "JSNA data sources", site: "rcvda.org.uk" }
 
 contexts:
   # --- Community-Led Research deep-dive strands (populated now, from the CF glossary) ---
@@ -36,7 +37,21 @@ contexts:
     # Section -> ordered subsections, reproducing the rcvda.org.uk static glossary layout.
     group_order:
       Organisations: [Locally, Tees Valley, North East, Nationally]
-      Terms: [VCSE, Local Authorities, Criminal Justice, DWP, "NHS & Public Health", Safeguarding, "Mental health & capacity law", Sport, Business, Government, Miscellaneous]
+      Terms: [VCSE, Local Authorities, Criminal Justice, DWP, "NHS & Public Health", Safeguarding, "Mental health & capacity law", Sport, Business, Government, Miscellaneous, "Statistics & data sources", "Employment & skills"]
+  jsna:
+    title: "JSNA data sources glossary"
+    programme: jsna
+    register: authoritative
+    outputs: [md, json]
+    owner: jsna
+    # Flat lens: six source-type sections (no subsections). Empty list = a flat section.
+    group_order:
+      "National statistics & data tools": []
+      "Government & national bodies": []
+      "NHS & health-and-care": []
+      "Local & regional intelligence": []
+      "Voluntary, community & other partners": []
+      "Concepts & definitions": []
   bof:
     title: "Building Our Futures glossary"
     programme: bof
