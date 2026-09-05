@@ -4014,7 +4014,9 @@
   full_term: Detention under the Mental Health Act 1983
   aliases: Sectioning|Section|Sectioned|detained under the Mental Health Act
   type: legal-term
-  definition: Everyday term for being detained in hospital for assessment or treatment under a section of the Mental Health Act 1983 without the person's consent; the number (for example 'sectioned under s.2') refers to the section of the Act being used.
+  definition: Everyday term for being detained in hospital for assessment or treatment under a 
+    section of the Mental Health Act 1983 without the person's consent; the number (for example 
+    'sectioned under s.2') refers to the section of the Act being used.
   source: Mental Health Act 1983
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/contents
   org_ref: ''
@@ -4032,7 +4034,8 @@
   full_term: Section 2 Mental Health Act 1983 — admission for assessment
   aliases: Section 2|s.2|MHA Section 2|admission for assessment
   type: legal-term
-  definition: Detention for assessment (and any treatment that follows) for up to 28 days, on the recommendation of two doctors and an Approved Mental Health Professional; it cannot be renewed.
+  definition: Detention for assessment (and any treatment that follows) for up to 28 days, on the 
+    recommendation of two doctors and an Approved Mental Health Professional; it cannot be renewed.
   source: Mental Health Act 1983, s.2
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/2
   org_ref: ''
@@ -4050,7 +4053,9 @@
   full_term: Section 3 Mental Health Act 1983 — admission for treatment
   aliases: Section 3|s.3|MHA Section 3|admission for treatment
   type: legal-term
-  definition: Detention for treatment of a mental disorder, lasting up to six months initially and renewable, on the recommendation of two doctors and an Approved Mental Health Professional; it entitles the person to free s.117 aftercare on discharge.
+  definition: Detention for treatment of a mental disorder, lasting up to six months initially and 
+    renewable, on the recommendation of two doctors and an Approved Mental Health Professional; it 
+    entitles the person to free s.117 aftercare on discharge.
   source: Mental Health Act 1983, s.3
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/3
   org_ref: ''
@@ -4068,7 +4073,9 @@
   full_term: Section 136 Mental Health Act 1983 — police power to a place of safety
   aliases: Section 136|s.136|MHA Section 136
   type: legal-term
-  definition: The police power to remove a person who appears to have a mental disorder and to be in immediate need of care or control from a public place to a place of safety so they can be assessed; time-limited to 24 hours (extendable to 36).
+  definition: The police power to remove a person who appears to have a mental disorder and to be in
+    immediate need of care or control from a public place to a place of safety so they can be 
+    assessed; time-limited to 24 hours (extendable to 36).
   source: Mental Health Act 1983, s.136
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/136
   org_ref: ''
@@ -4086,7 +4093,9 @@
   full_term: Section 117 Mental Health Act 1983 — aftercare
   aliases: Section 117|s.117|aftercare
   type: legal-term
-  definition: The joint duty on the NHS and the local authority to provide free aftercare to a person who has been detained for treatment (for example under s.3), for as long as they need it, to reduce the risk of readmission; amended by the Mental Health Act 2025, not yet in force.
+  definition: The joint duty on the NHS and the local authority to provide free aftercare to a 
+    person who has been detained for treatment (for example under s.3), for as long as they need it,
+    to reduce the risk of readmission; amended by the Mental Health Act 2025, not yet in force.
   source: Mental Health Act 1983, s.117
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/117
   org_ref: ''
@@ -4104,7 +4113,8 @@
   full_term: Section 17 Mental Health Act 1983 — leave of absence
   aliases: Section 17 leave|s.17 leave|leave of absence
   type: legal-term
-  definition: Authorised leave of absence from hospital for a detained patient, granted by the responsible clinician; it may be for a few hours or longer and can carry conditions.
+  definition: Authorised leave of absence from hospital for a detained patient, granted by the 
+    responsible clinician; it may be for a few hours or longer and can carry conditions.
   source: Mental Health Act 1983, s.17
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/17
   org_ref: ''
@@ -4122,7 +4132,9 @@
   full_term: Approved Mental Health Professional
   aliases: AMHP|Approved Mental Health Professional
   type: statutory
-  definition: A social worker or other approved professional (not a doctor) who coordinates a Mental Health Act assessment, decides whether detention is the least restrictive option and makes most applications for detention.
+  definition: A social worker or other approved professional (not a doctor) who coordinates a Mental
+    Health Act assessment, decides whether detention is the least restrictive option and makes most 
+    applications for detention.
   source: Mental Health Act 1983, s.114
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/114
   org_ref: ''
@@ -4140,7 +4152,10 @@
   full_term: Responsible Clinician (Approved Clinician)
   aliases: Responsible Clinician|RC|Approved Clinician|AC
   type: statutory
-  definition: The approved clinician with overall responsibility for a detained patient's case. An Approved Clinician is a professional (often but not always a psychiatrist) approved to take on certain Mental Health Act roles; the Responsible Clinician is the Approved Clinician in charge of a particular patient.
+  definition: The approved clinician with overall responsibility for a detained patient's case. An 
+    Approved Clinician is a professional (often but not always a psychiatrist) approved to take on 
+    certain Mental Health Act roles; the Responsible Clinician is the Approved Clinician in charge 
+    of a particular patient.
   source: Mental Health Act 1983, s.34 (and the MHA Code of Practice)
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/34
   org_ref: ''
@@ -4158,7 +4173,9 @@
   full_term: Community Treatment Order
   aliases: CTO|Community Treatment Order|supervised community treatment
   type: legal-term
-  definition: An order that lets a patient who has been detained for treatment live in the community under conditions, with the power to recall them to hospital if needed; also called supervised community treatment.
+  definition: An order that lets a patient who has been detained for treatment live in the community
+    under conditions, with the power to recall them to hospital if needed; also called supervised 
+    community treatment.
   source: Mental Health Act 1983, s.17A
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/17A
   org_ref: ''
@@ -4176,7 +4193,9 @@
   full_term: Nearest Relative
   aliases: Nearest Relative|nearest relative
   type: legal-term
-  definition: A specific relative, identified by a statutory list in the Mental Health Act, who has certain rights when a person is detained — including being consulted and, in some cases, objecting to detention or applying for discharge. It is distinct from next of kin.
+  definition: A specific relative, identified by a statutory list in the Mental Health Act, who has 
+    certain rights when a person is detained — including being consulted and, in some cases, 
+    objecting to detention or applying for discharge. It is distinct from next of kin.
   source: Mental Health Act 1983, s.26
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/26
   org_ref: ''
@@ -4194,7 +4213,9 @@
   full_term: Guardianship under the Mental Health Act 1983
   aliases: Guardianship|MHA guardianship
   type: legal-term
-  definition: An order appointing a guardian (usually the local authority) with limited powers over where a person lives and their access to services, used to help someone with a mental disorder live safely in the community.
+  definition: An order appointing a guardian (usually the local authority) with limited powers over 
+    where a person lives and their access to services, used to help someone with a mental disorder 
+    live safely in the community.
   source: Mental Health Act 1983, s.7
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/7
   org_ref: ''
@@ -4212,7 +4233,9 @@
   full_term: First-tier Tribunal (Mental Health)
   aliases: Mental Health Tribunal|First-tier Tribunal (Mental Health)|MHT
   type: legal-term
-  definition: The independent judicial body that reviews whether a person's detention or community treatment under the Mental Health Act is still justified and can order their discharge; in England it is the First-tier Tribunal (Mental Health).
+  definition: The independent judicial body that reviews whether a person's detention or community 
+    treatment under the Mental Health Act is still justified and can order their discharge; in 
+    England it is the First-tier Tribunal (Mental Health).
   source: Mental Health Act 1983, Part V
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/part/V
   org_ref: ''
@@ -4230,7 +4253,8 @@
   full_term: Place of safety
   aliases: Place of safety|place of safety
   type: legal-term
-  definition: A place — usually a hospital, and only exceptionally a police station — to which someone can be taken for a Mental Health Act assessment under s.135 or s.136.
+  definition: A place — usually a hospital, and only exceptionally a police station — to which 
+    someone can be taken for a Mental Health Act assessment under s.135 or s.136.
   source: Mental Health Act 1983, ss.135-136
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/135
   org_ref: ''
@@ -4248,7 +4272,9 @@
   full_term: Mental disorder (Mental Health Act 1983)
   aliases: Mental disorder|mental disorder
   type: legal-term
-  definition: The Mental Health Act's broad legal definition — any disorder or disability of the mind — which determines who the Act can apply to; dependence on alcohol or drugs alone does not count.
+  definition: The Mental Health Act's broad legal definition — any disorder or disability of the 
+    mind — which determines who the Act can apply to; dependence on alcohol or drugs alone does not 
+    count.
   source: Mental Health Act 1983, s.1
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/1
   org_ref: ''
@@ -4266,7 +4292,9 @@
   full_term: Informal (voluntary) patient
   aliases: Informal patient|voluntary patient|informal admission
   type: legal-term
-  definition: A person receiving mental-health treatment in hospital who has agreed to be there and is not detained under the Act, and so is generally free to leave; contrasted with a detained (formal or sectioned) patient.
+  definition: A person receiving mental-health treatment in hospital who has agreed to be there and 
+    is not detained under the Act, and so is generally free to leave; contrasted with a detained 
+    (formal or sectioned) patient.
   source: Mental Health Act 1983, s.131
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/131
   org_ref: ''
@@ -4284,7 +4312,9 @@
   full_term: Section 12 approved doctor
   aliases: Section 12 approved doctor|s.12 doctor|section 12 doctor
   type: statutory
-  definition: A doctor approved as having special experience in the diagnosis or treatment of mental disorder, whose recommendation is required for detention under the Mental Health Act; at least one of the two doctors in an assessment must be s.12 approved.
+  definition: A doctor approved as having special experience in the diagnosis or treatment of mental
+    disorder, whose recommendation is required for detention under the Mental Health Act; at least 
+    one of the two doctors in an assessment must be s.12 approved.
   source: Mental Health Act 1983, s.12
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/12
   org_ref: ''
@@ -4302,7 +4332,10 @@
   full_term: Mental capacity
   aliases: Mental capacity|capacity|lacks capacity
   type: legal-term
-  definition: Whether a person is able to make a particular decision at the time it needs to be made. A person lacks capacity if an impairment of, or disturbance in, the mind or brain means they cannot understand, retain, use or weigh the relevant information, or communicate their decision. Capacity is assessed decision by decision and is assumed unless shown otherwise.
+  definition: Whether a person is able to make a particular decision at the time it needs to be 
+    made. A person lacks capacity if an impairment of, or disturbance in, the mind or brain means 
+    they cannot understand, retain, use or weigh the relevant information, or communicate their 
+    decision. Capacity is assessed decision by decision and is assumed unless shown otherwise.
   source: Mental Capacity Act 2005, ss.1-3
   source_url: https://www.legislation.gov.uk/ukpga/2005/9/contents
   org_ref: ''
@@ -4320,7 +4353,9 @@
   full_term: Best interests (Mental Capacity Act 2005)
   aliases: Best interests|best interests
   type: legal-term
-  definition: The principle that any decision or action taken for a person who lacks capacity must be in their best interests, weighing their past and present wishes, feelings, beliefs and values and following a statutory checklist.
+  definition: The principle that any decision or action taken for a person who lacks capacity must 
+    be in their best interests, weighing their past and present wishes, feelings, beliefs and values
+    and following a statutory checklist.
   source: Mental Capacity Act 2005, s.4
   source_url: https://www.legislation.gov.uk/ukpga/2005/9/section/4
   org_ref: ''
@@ -4338,7 +4373,10 @@
   full_term: Deprivation of Liberty Safeguards
   aliases: DoLS|Deprivation of Liberty Safeguards
   type: statutory
-  definition: The legal process for authorising arrangements that deprive a person who lacks capacity of their liberty in a care home or hospital, to make sure the arrangements are necessary and in their best interests. Due to be replaced by the Liberty Protection Safeguards (LPS) under the Mental Capacity (Amendment) Act 2019, not yet in force.
+  definition: The legal process for authorising arrangements that deprive a person who lacks 
+    capacity of their liberty in a care home or hospital, to make sure the arrangements are 
+    necessary and in their best interests. Due to be replaced by the Liberty Protection Safeguards 
+    (LPS) under the Mental Capacity (Amendment) Act 2019, not yet in force.
   source: Mental Capacity Act 2005, Schedule A1
   source_url: https://www.legislation.gov.uk/ukpga/2005/9/schedule/A1
   org_ref: ''
@@ -4356,9 +4394,12 @@
   full_term: Lasting Power of Attorney
   aliases: LPA|Lasting Power of Attorney
   type: legal-term
-  definition: A legal document by which a person, while they still have capacity, appoints one or more attorneys to make decisions on their behalf if they later lose capacity — either for property and financial affairs, or for health and welfare.
+  definition: A legal document by which a person, while they still have capacity, appoints one or 
+    more attorneys to make decisions on their behalf if they later lose capacity — either for 
+    property and financial affairs, or for health and welfare.
   source: Mental Capacity Act 2005, ss.9-14
-  source_url: https://www.legislation.gov.uk/ukpga/2005/9/part/1/crossheading/lasting-powers-of-attorney
+  source_url: 
+    https://www.legislation.gov.uk/ukpga/2005/9/part/1/crossheading/lasting-powers-of-attorney
   org_ref: ''
   org_ref_url:
   scope:
@@ -4374,7 +4415,8 @@
   full_term: Court of Protection
   aliases: Court of Protection|CoP
   type: organisation
-  definition: The specialist court that makes decisions, and appoints deputies, for people who lack the capacity to make particular decisions about their finances or their welfare.
+  definition: The specialist court that makes decisions, and appoints deputies, for people who lack 
+    the capacity to make particular decisions about their finances or their welfare.
   source: Mental Capacity Act 2005, s.45
   source_url: https://www.legislation.gov.uk/ukpga/2005/9/section/45
   org_ref: ''
@@ -4392,7 +4434,9 @@
   full_term: Deputy (Court of Protection)
   aliases: Deputy|Court of Protection deputy
   type: legal-term
-  definition: A person appointed by the Court of Protection to make ongoing decisions on behalf of someone who lacks capacity, where no attorney has been appointed under a Lasting Power of Attorney.
+  definition: A person appointed by the Court of Protection to make ongoing decisions on behalf of 
+    someone who lacks capacity, where no attorney has been appointed under a Lasting Power of 
+    Attorney.
   source: Mental Capacity Act 2005, s.16
   source_url: https://www.legislation.gov.uk/ukpga/2005/9/section/16
   org_ref: ''
@@ -4410,9 +4454,12 @@
   full_term: Advance decision to refuse treatment
   aliases: Advance decision|advance decision to refuse treatment|ADRT|living will|advance statement
   type: legal-term
-  definition: A decision made by a person while they have capacity to refuse a specified medical treatment in future, which is legally binding if valid and applicable. It differs from an advance statement, which records wishes and preferences but is not legally binding.
+  definition: A decision made by a person while they have capacity to refuse a specified medical 
+    treatment in future, which is legally binding if valid and applicable. It differs from an 
+    advance statement, which records wishes and preferences but is not legally binding.
   source: Mental Capacity Act 2005, ss.24-26
-  source_url: https://www.legislation.gov.uk/ukpga/2005/9/part/1/crossheading/advance-decisions-to-refuse-treatment
+  source_url: 
+    https://www.legislation.gov.uk/ukpga/2005/9/part/1/crossheading/advance-decisions-to-refuse-treatment
   org_ref: ''
   org_ref_url:
   scope:
@@ -4428,7 +4475,8 @@
   full_term: Mental Capacity Act Code of Practice
   aliases: MCA COP|Mental Capacity Act Code of Practice
   type: statutory
-  definition: The statutory guidance on how the Mental Capacity Act should be applied, which professionals and paid carers must have regard to.
+  definition: The statutory guidance on how the Mental Capacity Act should be applied, which 
+    professionals and paid carers must have regard to.
   source: Mental Capacity Act 2005, s.42
   source_url: https://www.gov.uk/government/publications/mental-capacity-act-code-of-practice
   org_ref: ''
@@ -4446,7 +4494,9 @@
   full_term: Independent Mental Health Advocate
   aliases: IMHA|Independent Mental Health Advocate
   type: statutory
-  definition: A statutory advocate who helps a person detained under the Mental Health Act (or on a community treatment order or guardianship) understand their rights and be heard in decisions about their care.
+  definition: A statutory advocate who helps a person detained under the Mental Health Act (or on a 
+    community treatment order or guardianship) understand their rights and be heard in decisions 
+    about their care.
   source: Mental Health Act 1983, s.130A
   source_url: https://www.legislation.gov.uk/ukpga/1983/20/section/130A
   org_ref: ''
@@ -4464,7 +4514,9 @@
   full_term: Relevant Person's Representative
   aliases: RPR|Relevant Person's Representative
   type: statutory
-  definition: A person appointed to represent and support someone subject to a Deprivation of Liberty Safeguards authorisation, keeping in contact with them and helping them use their rights to review and challenge it.
+  definition: A person appointed to represent and support someone subject to a Deprivation of 
+    Liberty Safeguards authorisation, keeping in contact with them and helping them use their rights
+    to review and challenge it.
   source: Mental Capacity Act 2005, Schedule A1
   source_url: https://www.legislation.gov.uk/ukpga/2005/9/schedule/A1
   org_ref: ''
@@ -4482,7 +4534,10 @@
   full_term: Advocate (independent advocacy)
   aliases: Advocate|advocacy|independent advocacy
   type: legal-term
-  definition: Someone independent who supports a person to express their views, understand their options and defend their rights, especially when the person might otherwise struggle to be heard. Some advocacy roles are statutory (such as IMHA, IMCA and Care Act advocates); others are non-statutory.
+  definition: Someone independent who supports a person to express their views, understand their 
+    options and defend their rights, especially when the person might otherwise struggle to be 
+    heard. Some advocacy roles are statutory (such as IMHA, IMCA and Care Act advocates); others are
+    non-statutory.
   source: Care Act 2014, ss.67-68 (independent advocacy duty)
   source_url: https://www.legislation.gov.uk/ukpga/2014/23/section/67
   org_ref: ''
@@ -5083,7 +5138,8 @@
   full_term: Personal, Social, Health and Economic education
   aliases: PSHE|Personal, Social, Health and Economic education
   type: substantive
-  definition: A school subject in England covering health, relationships, economic wellbeing and life in the wider world.
+  definition: A school subject in England covering health, relationships, economic wellbeing and 
+    life in the wider world.
   plain: A school subject in England about health, relationships, money and everyday life.
   source: PSHE Association
   source_url: https://pshe-association.org.uk/
@@ -5139,8 +5195,10 @@
   full_term: Careers Champion
   aliases: Careers Champion|Careers champion
   type: substantive
-  definition: The member of staff who leads careers-related learning in a primary school. Primary schools in England are not legally required to appoint one.
-  plain: The person who leads careers learning in a primary school. Primary schools do not have to have one, but it helps every child meet the world of work.
+  definition: The member of staff who leads careers-related learning in a primary school. Primary 
+    schools in England are not legally required to appoint one.
+  plain: The person who leads careers learning in a primary school. Primary schools do not have to 
+    have one, but it helps every child meet the world of work.
   source: Education sector usage.
   source_url:
   org_ref: ''
@@ -5157,8 +5215,11 @@
   full_term: Careers lead
   aliases: Careers lead
   type: substantive
-  definition: The general term for the member of staff who leads careers learning in a school. In a primary school this role is usually called a Careers Champion; in a secondary school, a Careers Leader.
-  plain: The general name for the person who leads careers learning in a school. In a primary school they are usually called a Careers Champion; in a secondary school, a Careers Leader.
+  definition: The general term for the member of staff who leads careers learning in a school. In a 
+    primary school this role is usually called a Careers Champion; in a secondary school, a Careers 
+    Leader.
+  plain: The general name for the person who leads careers learning in a school. In a primary school
+    they are usually called a Careers Champion; in a secondary school, a Careers Leader.
   source: Education sector usage.
   source_url:
   org_ref: ''
@@ -5175,9 +5236,12 @@
   full_term: Careers Leader
   aliases: Careers Leader|Careers leader
   type: statutory
-  definition: The named member of staff who leads a secondary school's careers programme against the Gatsby Benchmarks. Secondary schools and academies in England must appoint one.
-  plain: The named person who leads a secondary school's careers plan. Every secondary school must have one by law.
-  source: DfE, Careers guidance and access for education and training providers (statutory guidance).
+  definition: The named member of staff who leads a secondary school's careers programme against the
+    Gatsby Benchmarks. Secondary schools and academies in England must appoint one.
+  plain: The named person who leads a secondary school's careers plan. Every secondary school must 
+    have one by law.
+  source: DfE, Careers guidance and access for education and training providers (statutory 
+    guidance).
   source_url:
   org_ref: ''
   org_ref_url:
@@ -5491,9 +5555,9 @@
   full_term: Outdoor Play and Learning Primary Programme
   aliases: OPAL|Outdoor Play and Learning|Outdoor Play and Learning Primary Programme
   type: method
-  definition: A school-improvement programme that helps primary schools improve the quality of
+  definition: A school-improvement programme that helps primary schools improve the quality of 
     children's play, especially at break and lunchtimes.
-  plain: A programme that helps primary schools make playtimes better, with more and better outdoor
+  plain: A programme that helps primary schools make playtimes better, with more and better outdoor 
     play.
   source: Outdoor Play and Learning (OPAL)
   source_url: https://outdoorplayandlearning.org.uk
@@ -5505,3 +5569,1455 @@
   groups:
     bof:
     - Frameworks and accreditation
+
+
+# =====================================================================================
+# JSNA DATA SOURCES — merged 2026-09-04 from proposals/2026-09-04_jsna-data-sources-DRAFT.yml
+# 55 terms (agreed: y), scoped [rcvda, jsna]. Requires the jsna lens + the two new rcvda
+# Terms subsections in contexts.yml (added the same day).
+# =====================================================================================
+
+# ---------------------------------------------------------------------------
+# HIGH PRIORITY (29) — national datasets, government departments, NHS data systems
+# ---------------------------------------------------------------------------
+
+# [High · cited 37×]  # proposed scope: rcvda -> [Organisations, North East]
+- term: NECS
+  id: necs
+  abbr: NECS
+  full_term: North of England Commissioning Support
+  aliases: NECS|North of England Commissioning Support|NECS Business Intelligence
+  type: organisation
+  definition: An NHS commissioning support unit providing business intelligence, analytics and data 
+    services to NHS and public-health bodies across the North East and beyond.
+  source: North of England Commissioning Support (NECS)
+  source_url: https://www.necsu.nhs.uk/
+  org_ref: 'findthatcharity org ID GB-NHS-0AR'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-NHS-0AR
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - North East
+    jsna:
+    - "NHS & health-and-care"
+  note: NHS commissioning support unit (hosted within the NHS); regional. See also [[NECS Real Time 
+    Surveillance System]].
+  agreed: y
+
+# [High · cited 22×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: ONS
+  id: ons
+  abbr: ONS
+  full_term: Office for National Statistics
+  aliases: ONS|Office for National Statistics
+  type: organisation
+  definition: The UK's national statistical institute and largest producer of official statistics — 
+    population, the census, the economy and the labour market — operating at arm's length under the 
+    UK Statistics Authority.
+  source: Office for National Statistics
+  source_url: https://www.ons.gov.uk/
+  org_ref: 'findthatcharity org ID GB-GOR-D303'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-D303
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: Publisher of many JSNA sources below (Census 2021, APS, Claimant Count, Conception 
+    Statistics, OPN).
+  agreed: y
+
+# [High · cited 18×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: Census 2021
+  id: census-2021
+  abbr: ''
+  full_term: Census 2021 (England and Wales)
+  aliases: Census 2021|Census|NOMIS Census
+  type: substantive
+  definition: The Office for National Statistics decennial census of England and Wales, taken on 21 
+    March 2021; the definitive small-area source for population, households and demographics.
+  source: ONS — Census 2021
+  source_url: https://www.ons.gov.uk/census
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: In the JSNAs, Census 2021 figures are frequently accessed through NOMIS 
+    (www.nomisweb.co.uk). Published by [[ONS]].
+  agreed: y
+
+# [High · cited 10×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: DfT
+  id: dft
+  abbr: DfT
+  full_term: Department for Transport
+  aliases: DfT|Department for Transport
+  type: organisation
+  definition: The UK government department responsible for transport policy; publishes national 
+    transport, road-traffic and road-safety statistics.
+  source: GOV.UK — Department for Transport
+  source_url: https://www.gov.uk/government/organisations/department-for-transport
+  org_ref: 'findthatcharity org ID GB-GOR-D9'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-D9
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: ''
+  agreed: y
+
+# [High · cited 9×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: NDTMS
+  id: ndtms
+  abbr: NDTMS
+  full_term: National Drug Treatment Monitoring System
+  aliases: NDTMS|National Drug Treatment Monitoring System
+  type: substantive
+  definition: The national system, run by the Office for Health Improvement and Disparities (OHID), 
+    that collects data on people in drug and alcohol treatment in England.
+  source: OHID — National Drug Treatment Monitoring System (NDTMS)
+  source_url: https://www.ndtms.net/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "NHS & health-and-care"
+  note: Operated by [[OHID]].
+  agreed: y
+
+# [High · cited 6×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: APS
+  id: aps
+  abbr: APS
+  full_term: Annual Population Survey
+  aliases: APS|Annual Population Survey
+  type: substantive
+  definition: A continuous Office for National Statistics household survey providing labour-market, 
+    employment and related estimates for local areas.
+  source: ONS — Annual Population Survey (APS)
+  source_url: 
+    https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/annualpopulationsurveyapsqmi
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: Published by [[ONS]]; often accessed via NOMIS.
+  agreed: y
+
+# [High · cited 4×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: ASCOF
+  id: ascof
+  abbr: ASCOF
+  full_term: Adult Social Care Outcomes Framework
+  aliases: ASCOF|Adult Social Care Outcomes Framework
+  type: substantive
+  definition: The national framework of measures of adult social care outcomes in England, published
+    annually by NHS England (formerly NHS Digital).
+  source: NHS England — Adult Social Care Outcomes Framework (ASCOF)
+  source_url: 
+    https://digital.nhs.uk/data-and-information/publications/statistical/adult-social-care-outcomes-framework-ascof
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "NHS & health-and-care"
+  note: Distinct from [[Adult Social Care]] (the statutory function). Publisher's functions moved 
+    from NHS Digital into NHS England in 2023.
+  agreed: y
+
+# [High · cited 4×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: Ordnance Survey
+  id: ordnance-survey
+  abbr: OS
+  full_term: Ordnance Survey
+  aliases: Ordnance Survey|OS
+  type: organisation
+  definition: Great Britain's national mapping agency (a government-owned company).
+  source: Ordnance Survey
+  source_url: https://www.ordnancesurvey.co.uk/
+  org_ref: 'findthatcharity org ID GB-GOR-D38'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-D38
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: Government-owned company.
+  agreed: y
+
+# [High · cited 4×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: UK local and regional greenhouse gas emissions statistics
+  id: ghg-emissions-la
+  abbr: ''
+  full_term: UK local authority and regional greenhouse gas emissions statistics
+  aliases: Greenhouse gas statistics|UK local authority and regional greenhouse gas emissions 
+    statistics|local greenhouse gas emissions
+  type: substantive
+  definition: National Statistics published by the Department for Energy Security and Net Zero 
+    (DESNZ) giving estimated territorial greenhouse gas emissions for each local authority area.
+  source: DESNZ (GOV.UK) — UK local authority and regional greenhouse gas emissions statistics
+  source_url: 
+    https://www.gov.uk/government/collections/uk-local-authority-and-regional-greenhouse-gas-emissions-statistics
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: ''
+  agreed: y
+
+# [High · cited 4×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: ONS Crime data (Community Safety Partnership area)
+  id: ons-crime-csp
+  abbr: ''
+  full_term: Crime data by Community Safety Partnership area (ONS)
+  aliases: ONS Crime data|Crime data by Community Safety Partnership area
+  type: substantive
+  definition: Office for National Statistics recorded-crime statistics published at Community Safety
+    Partnership / local-authority level.
+  source: ONS — Crime in England and Wales
+  source_url: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: Published by [[ONS]]; underlying data from police recorded crime.
+  agreed: y
+
+# [High · cited 3× · split from Active Lives Survey]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: Sport England
+  id: sport-england
+  abbr: ''
+  full_term: Sport England
+  aliases: Sport England
+  type: organisation
+  definition: The national arm's-length body that invests public and National Lottery funding in 
+    grassroots sport and physical activity in England.
+  source: Sport England
+  source_url: https://www.sportengland.org/
+  org_ref: 'findthatcharity org ID GB-GOR-PB190'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-PB190
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: Produces the [[Active Lives Survey]].
+  agreed: y
+
+# [High · cited 3×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: Active Lives Survey
+  id: active-lives-survey
+  abbr: ''
+  full_term: Active Lives Survey
+  aliases: Active Lives Survey|Active Lives
+  type: substantive
+  definition: A national survey of physical-activity levels among adults and children in England.
+  source: Sport England — Active Lives
+  source_url: https://www.sportengland.org/research-and-data/data/active-lives
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: Published by [[Sport England]].
+  agreed: y
+
+# [High · cited 2×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: Natural England
+  id: natural-england
+  abbr: ''
+  full_term: Natural England
+  aliases: Natural England
+  type: organisation
+  definition: The government's statutory adviser for the natural environment in England.
+  source: GOV.UK — Natural England
+  source_url: https://www.gov.uk/government/organisations/natural-england
+  org_ref: 'findthatcharity org ID GB-GOR-PB202'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-PB202
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: Executive non-departmental public body, sponsored by Defra.
+  agreed: y
+
+# [High · cited 2×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: ORR
+  id: orr
+  abbr: ORR
+  full_term: Office of Rail and Road
+  aliases: ORR|Office of Rail and Road
+  type: organisation
+  definition: The independent regulator for Britain's railways and monitor of National Highways; 
+    publishes rail-usage and station-usage statistics.
+  source: Office of Rail and Road
+  source_url: https://www.orr.gov.uk/
+  org_ref: 'findthatcharity org ID GB-GOR-D1117'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-D1117
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: Rail and road statistics via the ORR data portal (dataportal.orr.gov.uk).
+  agreed: y
+
+# [High · cited 2×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: YJB
+  id: youth-justice-board
+  abbr: YJB
+  full_term: Youth Justice Board for England and Wales
+  aliases: YJB|Youth Justice Board|Youth Justice Board for England and Wales
+  type: organisation
+  definition: The arm's-length body that oversees the youth justice system in England and Wales and 
+    publishes youth justice statistics.
+  source: GOV.UK — Youth Justice Board for England and Wales
+  source_url: https://www.gov.uk/government/organisations/youth-justice-board-for-england-and-wales
+  org_ref: 'findthatcharity org ID GB-GOR-PB302'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-PB302
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: See also [[YOS Case Management System]].
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: MUST
+  id: must-tool
+  abbr: MUST
+  full_term: Malnutrition Universal Screening Tool
+  aliases: MUST|Malnutrition Universal Screening Tool|MUST Service
+  type: substantive
+  definition: The British Association for Parenteral and Enteral Nutrition (BAPEN)'s five-step 
+    screening tool to identify adults who are malnourished or at risk of malnutrition and agree a 
+    care plan.
+  source: BAPEN — Malnutrition Universal Screening Tool (MUST)
+  source_url: https://www.bapen.org.uk/must-and-self-screening/introducing-must/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "NHS & health-and-care"
+  note: Produced by [[BAPEN]]. The 'Source – MUST Service' citation refers to a local 
+    nutrition/screening service applying this tool, not to a national dataset. Confirm the local 
+    service name.
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: Opinions and Lifestyle Survey
+  id: ons-opn
+  abbr: OPN
+  full_term: Opinions and Lifestyle Survey
+  aliases: OPN|Opinions and Lifestyle Survey
+  type: substantive
+  definition: The Office for National Statistics rapid omnibus survey of adults in Great Britain, 
+    covering opinions, behaviours and wellbeing (e.g. internet access, loneliness).
+  source: ONS — Opinions and Lifestyle Survey (OPN)
+  source_url: 
+    https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/methodologies/opinionsandlifestylesurveyqmi
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: Published by [[ONS]].
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: MaPS
+  id: money-and-pensions-service
+  abbr: MaPS
+  full_term: Money and Pensions Service
+  aliases: MaPS|Money and Pensions Service|Single Financial Guidance Body|SFGB
+  type: organisation
+  definition: An arm's-length body sponsored by the Department for Work and Pensions providing free 
+    money and pensions guidance (MoneyHelper).
+  source: Money and Pensions Service
+  source_url: https://maps.org.uk/
+  org_ref: 'findthatcharity org ID GB-GOR-OT1266'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-OT1266
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: Sponsored by [[DWP]]. Runs the [[MaPS Adult Financial Wellbeing Survey]]. Established as the
+    Single Financial Guidance Body (Financial Guidance and Claims Act 2018) and renamed the Money 
+    and Pensions Service by SI 2019/383 (in force 6 April 2019); Find That Charity still lists the 
+    body under its former name.
+  agreed: y
+
+# [High · cited 1× · split from MaPS]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: MaPS Adult Financial Wellbeing Survey
+  id: maps-adult-financial-wellbeing-survey
+  abbr: ''
+  full_term: Adult Financial Wellbeing Survey
+  aliases: Adult Financial Wellbeing Survey|MaPS Adult Financial Wellbeing Survey
+  type: substantive
+  definition: The Money and Pensions Service national survey of adults' financial wellbeing across 
+    the United Kingdom, covering saving, borrowing and financial resilience.
+  source: Money and Pensions Service — Adult Financial Wellbeing Survey
+  source_url: https://maps.org.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: Produced by [[MaPS]]; the 2021 wave is the one cited in the source reports. Confirm the 
+    specific survey landing-page URL before publishing.
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: Fuel poverty statistics
+  id: fuel-poverty-statistics
+  abbr: ''
+  full_term: Fuel poverty statistics (England)
+  aliases: Fuel poverty statistics
+  type: substantive
+  definition: Official statistics on the number and proportion of households in fuel poverty in 
+    England, available by local area, published by the Department for Energy Security and Net Zero 
+    (DESNZ).
+  source: DESNZ (GOV.UK) — Fuel poverty statistics
+  source_url: https://www.gov.uk/government/collections/fuel-poverty-statistics
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: ''
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: National Illegal Money Lending Team
+  id: imlt
+  abbr: IMLT
+  full_term: England Illegal Money Lending Team
+  aliases: IMLT|National Illegal Money Lending Team|England Illegal Money Lending Team|Stop Loan 
+    Sharks
+  type: organisation
+  definition: The national team (operating as Stop Loan Sharks) that investigates illegal money 
+    lending and supports victims of loan sharks in England.
+  source: Stop Loan Sharks — the England Illegal Money Lending Team
+  source_url: https://www.stoploansharks.co.uk/who-we-are/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: ''
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Statistics & data sources] (new) — third-party
+- term: Plumplot
+  id: plumplot
+  abbr: ''
+  full_term: Plumplot
+  aliases: Plumplot
+  type: substantive
+  definition: An independent statistics website that repackages Office for National Statistics and 
+    other public data into local-area profiles and charts.
+  source: Plumplot
+  source_url: https://www.plumplot.co.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: Third-party aggregator, not an official source — trace figures back to the underlying 
+    official dataset where possible.
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: Environment Agency
+  id: environment-agency
+  abbr: EA
+  full_term: Environment Agency
+  aliases: Environment Agency|EA
+  type: organisation
+  definition: The executive non-departmental public body responsible for flood risk, water quality 
+    and environmental protection in England.
+  source: GOV.UK — Environment Agency
+  source_url: https://www.gov.uk/government/organisations/environment-agency
+  org_ref: 'findthatcharity org ID GB-GOR-EA199'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-EA199
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: Sponsored by the [[Department for Environment, Food & Rural Affairs]].
+  agreed: y
+
+# [High · cited 1× · split from Environment Agency / Defra]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: Department for Environment, Food & Rural Affairs
+  id: defra
+  abbr: Defra
+  full_term: Department for Environment, Food & Rural Affairs
+  aliases: Defra|Department for Environment, Food & Rural Affairs|Department for Environment Food & 
+    Rural Affairs
+  type: organisation
+  definition: The UK government department responsible for environmental protection, food and 
+    farming, and rural affairs.
+  source: GOV.UK — Department for Environment, Food & Rural Affairs
+  source_url: 
+    https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs
+  org_ref: 'findthatcharity org ID GB-GOR-D7'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-D7
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: Sponsors the [[Environment Agency]] and [[Natural England]].
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Miscellaneous] — generic; prefer the specific dataset
+- term: GOV.UK
+  id: gov-uk
+  abbr: ''
+  full_term: GOV.UK
+  aliases: GOV.UK|GOV|Gov.uk
+  type: substantive
+  definition: The single UK government website through which departments publish services, guidance 
+    and official statistics.
+  source: GOV.UK
+  source_url: https://www.gov.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: Generic citation — where possible replace with the specific dataset actually used.
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: QOF
+  id: qof
+  abbr: QOF
+  full_term: Quality and Outcomes Framework
+  aliases: QOF|Quality and Outcomes Framework
+  type: substantive
+  definition: The national GP pay-for-performance framework whose data provides recorded prevalence 
+    of long-term conditions; published by NHS England (formerly NHS Digital).
+  source: NHS England — Quality and Outcomes Framework (QOF)
+  source_url: 
+    https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/general-practice-data-hub/quality-outcomes-framework-qof
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "NHS & health-and-care"
+  note: Publisher's functions moved from NHS Digital into NHS England in 2023.
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Statistics & data sources] (new) — confirm product name
+- term: NECS Real Time Surveillance System
+  id: necs-rtss
+  abbr: ''
+  full_term: NECS Real Time Surveillance System
+  aliases: NECS Real Time Surveillance System|Real Time Surveillance System
+  type: substantive
+  definition: A near-real-time / syndromic-surveillance data system operated by North of England 
+    Commissioning Support (NECS), used to monitor health indicators and pressures locally.
+  source: North of England Commissioning Support (NECS)
+  source_url: https://www.necsu.nhs.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "NHS & health-and-care"
+  note: Operated by [[NECS]]. Confirm the exact product/service name before publishing.
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: ONS Conception Statistics
+  id: ons-conception-statistics
+  abbr: ''
+  full_term: Conception statistics, England and Wales (ONS)
+  aliases: ONS Conception Statistics|Conception Statistics
+  type: substantive
+  definition: Office for National Statistics annual statistics on conceptions (including under-18 
+    conceptions) for England and Wales, available by local area.
+  source: ONS — Conception statistics, England and Wales
+  source_url: 
+    https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: Published by [[ONS]].
+  agreed: y
+
+# [High · cited 1× · split from Thriving Places Index]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: Centre for Thriving Places
+  id: centre-for-thriving-places
+  abbr: ''
+  full_term: Centre for Thriving Places
+  aliases: Centre for Thriving Places|Happy City
+  type: organisation
+  definition: A not-for-profit organisation, formerly Happy City, that develops place-based 
+    wellbeing measures and supports local areas to improve wellbeing.
+  source: Centre for Thriving Places
+  source_url: https://www.centreforthrivingplaces.org/
+  org_ref: 'findthatcharity org ID GB-CHC-1143037'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-1143037
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: Produces the [[Thriving Places Index]].
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: Thriving Places Index
+  id: thriving-places-index
+  abbr: TPI
+  full_term: Thriving Places Index
+  aliases: Thriving Places Index|TPI
+  type: substantive
+  definition: A place-based wellbeing measure that scores local areas on the conditions for 
+    wellbeing, sustainability and equality.
+  source: Centre for Thriving Places — Thriving Places Index
+  source_url: https://www.centreforthrivingplaces.org/thriving-places-index/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: Produced by [[Centre for Thriving Places]].
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: College of Policing
+  id: college-of-policing
+  abbr: ''
+  full_term: College of Policing
+  aliases: College of Policing
+  type: organisation
+  definition: The professional body for policing in England and Wales, setting standards, guidance 
+    and training for the police service.
+  source: College of Policing
+  source_url: https://www.college.police.uk/
+  org_ref: 'findthatcharity org ID GB-GOVUK-college-of-policing'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-GOVUK-college-of-policing
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: Produces the [[Crime Reduction Toolkit]].
+  agreed: y
+
+# [High · cited 1× · split from College of Policing]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: Crime Reduction Toolkit
+  id: crime-reduction-toolkit
+  abbr: ''
+  full_term: Crime Reduction Toolkit
+  aliases: Crime Reduction Toolkit
+  type: substantive
+  definition: An evidence resource that summarises what works to reduce crime, rating interventions 
+    by the strength and direction of the underlying evidence.
+  source: College of Policing — Crime Reduction Toolkit
+  source_url: https://www.college.police.uk/research/crime-reduction-toolkit
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: Produced by [[College of Policing]].
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: Audit Commission
+  id: audit-commission
+  abbr: ''
+  full_term: Audit Commission
+  aliases: Audit Commission
+  type: organisation
+  definition: The former public-spending watchdog for local government and the NHS in England, 
+    abolished on 31 March 2015.
+  source: GOV.UK (archived) — Audit Commission
+  source_url: https://www.gov.uk/government/organisations/audit-commission
+  org_ref: 'findthatcharity org ID GB-GOR-PC343'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-GOR-PC343
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: Abolished 2015 — any cited figures are historical.
+  agreed: y
+
+# [High · cited 1×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: ONS Claimant Count
+  id: ons-claimant-count
+  abbr: ''
+  full_term: Claimant Count (ONS)
+  aliases: ONS Claimant Count|Claimant Count
+  type: substantive
+  definition: The Office for National Statistics and Department for Work and Pensions monthly count 
+    of people claiming unemployment-related benefits.
+  source: ONS — Claimant Count
+  source_url: https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "National statistics & data tools"
+  note: Accessed via NOMIS (www.nomisweb.co.uk). Published by [[ONS]].
+  agreed: y
+
+# ---------------------------------------------------------------------------
+# MEDIUM PRIORITY (15) — other acronymed sources; local/regional & literature
+# ---------------------------------------------------------------------------
+
+# [Medium · cited 9×]  # proposed scope: rcvda -> [Organisations, Locally]
+- term: CURV
+  id: curv
+  abbr: CURV
+  full_term: Cleveland Unit for the Reduction of Violence
+  aliases: CURV|Cleveland Unit for the Reduction of Violence
+  type: organisation
+  definition: Cleveland's Violence Reduction Unit, hosted by the Office of the Police and Crime 
+    Commissioner, taking a public-health, multi-agency approach to reducing serious violence.
+  source: Cleveland Police and Crime Commissioner — CURV
+  source_url: https://www.cleveland.pcc.police.uk/curv/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Tees Valley
+    jsna:
+    - "Local & regional intelligence"
+  note: Hosted by the Cleveland Office of the Police and Crime Commissioner. Author of the 
+    [[Cleveland Serious Violence Strategic Needs Assessment]]. A national Violence Reduction Unit 
+    term [[VRU]] already exists.
+  agreed: y
+
+# [Medium · cited 9× · split from CURV]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: Cleveland Serious Violence Strategic Needs Assessment
+  id: cleveland-serious-violence-sna
+  abbr: ''
+  full_term: Cleveland Serious Violence Strategic Needs Assessment
+  aliases: CURV Strategic Needs Assessment|CURV SNA|Cleveland Serious Violence SNA|Cleveland Serious
+    Violence Strategic Needs Assessment
+  type: substantive
+  definition: The assessment of serious violence across the Cleveland area, produced to inform the 
+    local serious-violence strategy under the Serious Violence Duty.
+  source: CURV — Cleveland Serious Violence Strategic Needs Assessment
+  source_url: https://www.cleveland.pcc.police.uk/curv/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "Local & regional intelligence"
+  note: Produced by [[CURV]]; the 2024 edition is the one cited in the source reports.
+  agreed: y
+
+# [Added · general term carrying the CAB abbreviation]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: Citizens Advice
+  id: citizens-advice
+  abbr: CAB
+  full_term: Citizens Advice
+  aliases: CAB|Citizens Advice|Citizens Advice Bureau
+  type: organisation
+  definition: A national network of independent local charities offering free, confidential and 
+    impartial advice on money, benefits, housing, employment and legal matters; known historically 
+    as the Citizens Advice Bureau (CAB).
+  source: Citizens Advice
+  source_url: https://www.citizensadvice.org.uk/
+  org_ref: 'findthatcharity org ID GB-CHC-279057'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-279057
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Voluntary, community & other partners"
+  note: General term that carries the CAB abbreviation. The rebrand from 'Citizens Advice Bureau' to
+    'Citizens Advice' took effect in 2015. Individual offices such as [[Middlesbrough Citizens 
+    Advice]] and [[Citizens Advice Darlington, Redcar and Cleveland]] are separate member entries 
+    and deliberately carry no abbreviation of their own.
+  agreed: y
+
+# [Medium · cited 7×]  # proposed scope: rcvda -> [Organisations, Locally]
+- term: Middlesbrough Citizens Advice
+  id: middlesbrough-citizens-advice
+  abbr: ''
+  full_term: Middlesbrough Citizens Advice
+  aliases: Middlesbrough CAB|Middlesbrough Citizens Advice|Citizens Advice Middlesbrough
+  type: organisation
+  definition: The local Citizens Advice office providing free, independent advice (debt, benefits, 
+    housing) in Middlesbrough.
+  source: Middlesbrough Citizens Advice
+  source_url: https://www.mcab.org.uk/
+  org_ref: 'findthatcharity org ID GB-CHC-1096071'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-1096071
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Locally
+    jsna:
+    - "Voluntary, community & other partners"
+  note: Local member office of [[Citizens Advice]]; carries no abbreviation of its own (CAB is the 
+    general term).
+  agreed: y
+
+# [Medium · cited 5×]  # proposed scope: rcvda -> [Organisations, Locally]
+- term: Citizens Advice Darlington, Redcar and Cleveland
+  id: citizens-advice-drc
+  abbr: ''
+  full_term: Citizens Advice Darlington, Redcar and Cleveland
+  aliases: R&C CAB|Redcar & Cleveland CAB|Redcar & Cleveland Citizens Advice|R&C Citizens Advice 
+    Bureau|Citizens Advice Darlington, Redcar and Cleveland
+  type: organisation
+  definition: The local Citizens Advice office providing free, independent advice across Darlington,
+    Redcar and Cleveland.
+  source: Citizens Advice Darlington, Redcar and Cleveland
+  source_url: https://www.citizensadvicedrc.org.uk/
+  org_ref: 'findthatcharity org ID GB-CHC-1112414'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-1112414
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Tees Valley
+    jsna:
+    - "Voluntary, community & other partners"
+  note: Local member office of [[Citizens Advice]]; carries no abbreviation of its own (CAB is the 
+    general term). The source reports cite it as 'Redcar & Cleveland CAB'; the organisation also 
+    serves Darlington.
+  agreed: y
+
+# [Medium · cited 4×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: PE Scholar
+  id: pe-scholar
+  abbr: ''
+  full_term: PE Scholar
+  aliases: PE Scholar
+  type: organisation
+  definition: A physical-education teaching-resources provider.
+  source: PE Scholar
+  source_url: https://www.pescholar.com/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Voluntary, community & other partners"
+  note: Commercial resource provider, not a statistical source.
+  agreed: y
+
+# [Medium · cited 3×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: POPPI
+  id: poppi
+  abbr: POPPI
+  full_term: Projecting Older People Population Information
+  aliases: POPPI|Projecting Older People Population Information
+  type: substantive
+  definition: An Institute of Public Care tool that projects the population of older people and 
+    related needs for local areas.
+  source: Institute of Public Care — POPPI
+  source_url: https://www.poppi.org.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "Local & regional intelligence"
+  note: Produced by the [[Institute of Public Care]]. Sister tool PANSI (working-age adults) is not 
+    yet in the glossary.
+  agreed: y
+
+# [Medium · cited 3×]  # proposed scope: rcvda -> [Organisations, North East]  (confirm owner)
+- term: NE Regional Road Safety Resource / TADU
+  id: ne-road-safety-tadu
+  abbr: TADU
+  full_term: North East Regional Road Safety Resource / Traffic and Accident Data Unit
+  aliases: TADU|NE Regional Road Safety Resource|North East Regional Road Safety Resource|Traffic 
+    and Accident Data Unit
+  type: organisation
+  definition: The North East regional road-safety data resource and Traffic and Accident Data Unit, 
+    providing road-collision and casualty data for the region.
+  source: North East Regional Road Safety Resource / TADU
+  source_url: ''
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - North East
+    jsna:
+    - "Local & regional intelligence"
+  note: Regional source — confirm the host organisation and a citable URL before publishing.
+  agreed: y
+
+# [Medium · cited 2×]  # proposed scope: rcvda -> [Organisations, Nationally]  (international body)
+- term: WHO
+  id: who
+  abbr: WHO
+  full_term: World Health Organization
+  aliases: WHO|World Health Organization|World Health Organisation
+  type: organisation
+  definition: The United Nations specialised agency for international public health.
+  source: World Health Organization
+  source_url: https://www.who.int/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: International body.
+  agreed: y
+
+# [Medium · cited 2×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+- term: LG Inform
+  id: lg-inform
+  abbr: ''
+  full_term: LG Inform / LG Inform Plus
+  aliases: LG Inform|LGInform|LG Inform Plus|LGInform Plus
+  type: substantive
+  definition: The Local Government Association's free (LG Inform) and subscription (LG Inform Plus) 
+    data-benchmarking service, presenting local-authority performance and area data.
+  source: LGA — LG Inform
+  source_url: https://lginform.local.gov.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "Local & regional intelligence"
+  note: Provided by the [[LGA]].
+  agreed: y
+
+# [Medium · cited 2×]  # proposed scope: rcvda -> [Statistics & data sources] (new) — local operational data
+- term: YOS Case Management System
+  id: yos-cms
+  abbr: ''
+  full_term: Youth Offending Service Case Management System
+  aliases: YOS Case Management System|YOS Case Management
+  type: substantive
+  definition: The local Youth Offending Service's case-management record of young people in the 
+    youth justice system.
+  source: Local Youth Offending Service (Middlesbrough / Redcar & Cleveland)
+  source_url: ''
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "Local & regional intelligence"
+  note: Local operational data, not a public dataset. See also [[YJB]].
+  agreed: y
+
+# [Medium · cited 1×]  # proposed scope: rcvda -> [Organisations, Nationally]  (US body)
+- term: Alzheimer's Association
+  id: alzheimers-association-usa
+  abbr: ''
+  full_term: Alzheimer's Association (United States)
+  aliases: Alzheimer's Association|Alzheimers Association
+  type: organisation
+  definition: The United States non-profit for Alzheimer's care, support and research.
+  source: Alzheimer's Association
+  source_url: https://www.alz.org/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Voluntary, community & other partners"
+  note: US body — a separate organisation from the UK's Alzheimer's Society; do not conflate the 
+    two. (The UK Alzheimer's Society is itself a JSNA data source but sits outside this High/Medium 
+    batch.)
+  agreed: y
+
+# [Medium · cited 1×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: LGA
+  id: lga
+  abbr: LGA
+  full_term: Local Government Association
+  aliases: LGA|Local Government Association
+  type: organisation
+  definition: The national membership body for councils in England and Wales; publishes local-area 
+    data (LG Inform) and sector policy.
+  source: Local Government Association
+  source_url: https://www.local.gov.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Government & national bodies"
+  note: Publisher of [[LG Inform]].
+  agreed: y
+
+# [Medium · cited 1×]  # proposed scope: rcvda -> [Statistics & data sources] (new) — confirm document
+- term: Strategic Housing Market Assessment
+  id: strategic-housing-market-assessment
+  abbr: SHMA
+  full_term: Strategic Housing Market Assessment
+  aliases: SHMA|Strategic Housing Market Assessment
+  type: substantive
+  definition: A local evidence study of housing need and demand across a housing-market area, used 
+    to inform housing and planning policy and Local Plans.
+  source: Strategic Housing Market Assessment
+  source_url: ''
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Statistics & data sources"
+    jsna:
+    - "Local & regional intelligence"
+  note: General concept — a periodically-refreshed study type, not a single document. The 2016 Tees 
+    Valley / South Tees edition is the one cited in the source reports; attach its specific document
+    reference/URL if that instance is to be recorded.
+  agreed: y
+
+# [Medium · cited 1×]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: BMA
+  id: bma
+  abbr: BMA
+  full_term: British Medical Association
+  aliases: BMA|British Medical Association
+  type: organisation
+  definition: The professional association and registered trade union for doctors in the UK.
+  source: British Medical Association
+  source_url: https://www.bma.org.uk/
+  org_ref: 'Companies House GB-COH-00008848'
+  org_ref_url: https://find-and-update.company-information.service.gov.uk/company/00008848
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Voluntary, community & other partners"
+  note: ''
+  agreed: y
+
+
+# ---------------------------------------------------------------------------
+# ADDED IN REVIEW — producer bodies (split from their tools) and labour-market concepts
+# ---------------------------------------------------------------------------
+
+# [Added · producer of POPPI]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: Institute of Public Care
+  id: institute-of-public-care
+  abbr: IPC
+  full_term: Institute of Public Care
+  aliases: IPC|Institute of Public Care
+  type: organisation
+  definition: A specialist health and social care research, consultancy and analysis unit based at 
+    Oxford Brookes University.
+  source: Institute of Public Care, Oxford Brookes University
+  source_url: https://ipc.brookes.ac.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "Local & regional intelligence"
+  note: Produces the [[POPPI]] and PANSI population-projection tools.
+  agreed: y
+
+# [Added · producer of MUST]  # proposed scope: rcvda -> [Organisations, Nationally]
+- term: BAPEN
+  id: bapen
+  abbr: BAPEN
+  full_term: British Association for Parenteral and Enteral Nutrition
+  aliases: BAPEN|British Association for Parenteral and Enteral Nutrition
+  type: organisation
+  definition: A multi-professional association and registered charity concerned with the 
+    recognition, prevention and treatment of malnutrition and with nutritional care.
+  source: British Association for Parenteral and Enteral Nutrition (BAPEN)
+  source_url: https://www.bapen.org.uk/
+  org_ref: 'findthatcharity org ID GB-CHC-1186719'
+  org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-1186719
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - Nationally
+    jsna:
+    - "NHS & health-and-care"
+  note: Produces the [[MUST]] screening tool. Registered charity (England & Wales) 1186719 — the 
+    resolver should pick up its Find That Charity id.
+  agreed: y
+
+# [Added · labour-market concept]  # proposed scope: rcvda -> [Terms, Government]
+- term: Unemployment
+  id: unemployment
+  abbr: ''
+  full_term: Unemployment
+  aliases: Unemployment
+  type: substantive
+  definition: On the internationally standard International Labour Organization (ILO) measure — the 
+    survey measure the Office for National Statistics produces from the Labour Force Survey and 
+    Annual Population Survey — people aged 16 and over who are out of work, have actively sought 
+    work in the past four weeks, and are available to start within two weeks. It is a survey 
+    estimate, distinct from the benefits-based [[ONS Claimant Count]].
+  source: ONS — A guide to labour market statistics
+  source_url: 
+    https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/aguidetolabourmarketstatistics
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Employment & skills"
+    jsna:
+    - "Concepts & definitions"
+  note: Distinct from the benefits-based [[ONS Claimant Count]]; see the contrasting term 
+    [[Economically Inactive]].
+  agreed: y
+  context_notes:
+    rcvda: A survey estimate with wide margins for small areas that cannot identify individual 
+      non-claiming jobseekers, so local employment and skills delivery does not use it — work is 
+      driven by the [[ONS Claimant Count]] and by economic-inactivity rates.
+
+# [Added · labour-market concept]  # proposed scope: rcvda -> [Terms, Government]
+- term: Economically Inactive
+  id: economically-inactive
+  abbr: ''
+  full_term: Economic inactivity
+  aliases: Economically Inactive|Economic inactivity|Economically inactive
+  type: substantive
+  definition: In Office for National Statistics labour-market statistics, people aged 16 to 64 who 
+    are neither in employment nor unemployed — out of work and either not seeking work or not 
+    available to start — for example students, people looking after family or home, the long-term 
+    sick, and the retired.
+  source: ONS — A guide to labour market statistics
+  source_url: 
+    https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/aguidetolabourmarketstatistics
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Employment & skills"
+    jsna:
+    - "Concepts & definitions"
+  note: The contrasting position to [[Unemployment]] — out of work but not counted as unemployed, 
+    because not seeking work or not available to start.
+  agreed: y
+  context_notes:
+    rcvda: The measure local employment and skills work targets in practice — the [[Local Skills 
+      Improvement Plan]] is charged with reducing it. Because a non-claiming jobseeker cannot be 
+      identified locally, out-of-work people absent from the [[ONS Claimant Count]] are in practice 
+      treated here rather than as unemployed, even though the survey-based [[Unemployment]] measure 
+      would formally class an active, available jobseeker as unemployed regardless of claiming.
+
+# [Added · statutory plan · requested]  # proposed scope: rcvda -> [Terms, Government]
+- term: Local Skills Improvement Plan
+  id: local-skills-improvement-plan
+  abbr: LSIP
+  full_term: Local Skills Improvement Plan
+  aliases: LSIP|Local Skills Improvement Plan
+  type: statutory
+  definition: A statutory, employer-led plan setting out the current and future skills and workforce
+    needs of a local area to shape post-16 technical education and training, placed on a statutory 
+    footing by the Skills and Post-16 Education Act 2022.
+  source: Skills and Post-16 Education Act 2022 (Part 1, Chapter 1)
+  source_url: https://www.legislation.gov.uk/ukpga/2022/21/part/1/chapter/1
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Terms
+    - "Employment & skills"
+    jsna:
+    - "Concepts & definitions"
+  note: For the Tees Valley the plan is held jointly by the [[TVCA]] and the [[North East England 
+    Chamber of Commerce]] (the designated Employer Representative Body). It aims to reduce economic 
+    inactivity (see [[Economically Inactive]]) and align training to local employer need.
+  agreed: y
+
+# [Added · Employer Representative Body for the Tees Valley LSIP · requested]  # proposed scope: rcvda -> [Organisations, North East]
+- term: North East England Chamber of Commerce
+  id: north-east-england-chamber-of-commerce
+  abbr: NECC
+  full_term: North East England Chamber of Commerce
+  aliases: NECC|North East Chamber of Commerce|North East England Chamber of Commerce
+  type: organisation
+  definition: The accredited chamber of commerce representing businesses across North East England.
+  source: North East England Chamber of Commerce
+  source_url: https://www.necc.co.uk/
+  org_ref: 'Companies House GB-COH-02938084'
+  org_ref_url: https://find-and-update.company-information.service.gov.uk/company/02938084
+  scope:
+  - rcvda
+  - jsna
+  groups:
+    rcvda:
+    - Organisations
+    - North East
+    jsna:
+    - "Local & regional intelligence"
+  note: The designated Employer Representative Body for the Tees Valley [[Local Skills Improvement 
+    Plan]], which it holds jointly with the [[TVCA]].
+  agreed: y

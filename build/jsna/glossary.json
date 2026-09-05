@@ -1,0 +1,1243 @@
+{
+  "meta": {
+    "lens": "jsna",
+    "title": "JSNA data sources glossary",
+    "register": "authoritative",
+    "group_order": {
+      "National statistics & data tools": [],
+      "Government & national bodies": [],
+      "NHS & health-and-care": [],
+      "Local & regional intelligence": [],
+      "Voluntary, community & other partners": [],
+      "Concepts & definitions": []
+    }
+  },
+  "entries": [
+    {
+      "id": "necs",
+      "term": "NECS",
+      "abbr": "NECS",
+      "full_term": "North of England Commissioning Support",
+      "aliases": [
+        "NECS",
+        "North of England Commissioning Support",
+        "NECS Business Intelligence"
+      ],
+      "type": "organisation",
+      "definition": "An NHS commissioning support unit providing business intelligence, analytics and data services to NHS and public-health bodies across the North East and beyond.",
+      "source": "North of England Commissioning Support (NECS)",
+      "source_url": "https://www.necsu.nhs.uk/",
+      "org_ref": "findthatcharity org ID GB-NHS-0AR",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-NHS-0AR",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "NHS & health-and-care"
+      ]
+    },
+    {
+      "id": "ons",
+      "term": "ONS",
+      "abbr": "ONS",
+      "full_term": "Office for National Statistics",
+      "aliases": [
+        "ONS",
+        "Office for National Statistics"
+      ],
+      "type": "organisation",
+      "definition": "The UK's national statistical institute and largest producer of official statistics — population, the census, the economy and the labour market — operating at arm's length under the UK Statistics Authority.",
+      "source": "Office for National Statistics",
+      "source_url": "https://www.ons.gov.uk/",
+      "org_ref": "findthatcharity org ID GB-GOR-D303",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D303",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "census-2021",
+      "term": "Census 2021",
+      "abbr": null,
+      "full_term": "Census 2021 (England and Wales)",
+      "aliases": [
+        "Census 2021",
+        "Census",
+        "NOMIS Census"
+      ],
+      "type": "substantive",
+      "definition": "The Office for National Statistics decennial census of England and Wales, taken on 21 March 2021; the definitive small-area source for population, households and demographics.",
+      "source": "ONS — Census 2021",
+      "source_url": "https://www.ons.gov.uk/census",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "dft",
+      "term": "DfT",
+      "abbr": "DfT",
+      "full_term": "Department for Transport",
+      "aliases": [
+        "DfT",
+        "Department for Transport"
+      ],
+      "type": "organisation",
+      "definition": "The UK government department responsible for transport policy; publishes national transport, road-traffic and road-safety statistics.",
+      "source": "GOV.UK — Department for Transport",
+      "source_url": "https://www.gov.uk/government/organisations/department-for-transport",
+      "org_ref": "findthatcharity org ID GB-GOR-D9",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D9",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "ndtms",
+      "term": "NDTMS",
+      "abbr": "NDTMS",
+      "full_term": "National Drug Treatment Monitoring System",
+      "aliases": [
+        "NDTMS",
+        "National Drug Treatment Monitoring System"
+      ],
+      "type": "substantive",
+      "definition": "The national system, run by the Office for Health Improvement and Disparities (OHID), that collects data on people in drug and alcohol treatment in England.",
+      "source": "OHID — National Drug Treatment Monitoring System (NDTMS)",
+      "source_url": "https://www.ndtms.net/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "NHS & health-and-care"
+      ]
+    },
+    {
+      "id": "aps",
+      "term": "APS",
+      "abbr": "APS",
+      "full_term": "Annual Population Survey",
+      "aliases": [
+        "APS",
+        "Annual Population Survey"
+      ],
+      "type": "substantive",
+      "definition": "A continuous Office for National Statistics household survey providing labour-market, employment and related estimates for local areas.",
+      "source": "ONS — Annual Population Survey (APS)",
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/annualpopulationsurveyapsqmi",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "ascof",
+      "term": "ASCOF",
+      "abbr": "ASCOF",
+      "full_term": "Adult Social Care Outcomes Framework",
+      "aliases": [
+        "ASCOF",
+        "Adult Social Care Outcomes Framework"
+      ],
+      "type": "substantive",
+      "definition": "The national framework of measures of adult social care outcomes in England, published annually by NHS England (formerly NHS Digital).",
+      "source": "NHS England — Adult Social Care Outcomes Framework (ASCOF)",
+      "source_url": "https://digital.nhs.uk/data-and-information/publications/statistical/adult-social-care-outcomes-framework-ascof",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "NHS & health-and-care"
+      ]
+    },
+    {
+      "id": "ordnance-survey",
+      "term": "Ordnance Survey",
+      "abbr": "OS",
+      "full_term": "Ordnance Survey",
+      "aliases": [
+        "Ordnance Survey",
+        "OS"
+      ],
+      "type": "organisation",
+      "definition": "Great Britain's national mapping agency (a government-owned company).",
+      "source": "Ordnance Survey",
+      "source_url": "https://www.ordnancesurvey.co.uk/",
+      "org_ref": "findthatcharity org ID GB-GOR-D38",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D38",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "ghg-emissions-la",
+      "term": "UK local and regional greenhouse gas emissions statistics",
+      "abbr": null,
+      "full_term": "UK local authority and regional greenhouse gas emissions statistics",
+      "aliases": [
+        "Greenhouse gas statistics",
+        "UK local authority and regional greenhouse gas emissions statistics",
+        "local greenhouse gas emissions"
+      ],
+      "type": "substantive",
+      "definition": "National Statistics published by the Department for Energy Security and Net Zero (DESNZ) giving estimated territorial greenhouse gas emissions for each local authority area.",
+      "source": "DESNZ (GOV.UK) — UK local authority and regional greenhouse gas emissions statistics",
+      "source_url": "https://www.gov.uk/government/collections/uk-local-authority-and-regional-greenhouse-gas-emissions-statistics",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "ons-crime-csp",
+      "term": "ONS Crime data (Community Safety Partnership area)",
+      "abbr": null,
+      "full_term": "Crime data by Community Safety Partnership area (ONS)",
+      "aliases": [
+        "ONS Crime data",
+        "Crime data by Community Safety Partnership area"
+      ],
+      "type": "substantive",
+      "definition": "Office for National Statistics recorded-crime statistics published at Community Safety Partnership / local-authority level.",
+      "source": "ONS — Crime in England and Wales",
+      "source_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "sport-england",
+      "term": "Sport England",
+      "abbr": null,
+      "full_term": "Sport England",
+      "aliases": [
+        "Sport England"
+      ],
+      "type": "organisation",
+      "definition": "The national arm's-length body that invests public and National Lottery funding in grassroots sport and physical activity in England.",
+      "source": "Sport England",
+      "source_url": "https://www.sportengland.org/",
+      "org_ref": "findthatcharity org ID GB-GOR-PB190",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB190",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "active-lives-survey",
+      "term": "Active Lives Survey",
+      "abbr": null,
+      "full_term": "Active Lives Survey",
+      "aliases": [
+        "Active Lives Survey",
+        "Active Lives"
+      ],
+      "type": "substantive",
+      "definition": "A national survey of physical-activity levels among adults and children in England.",
+      "source": "Sport England — Active Lives",
+      "source_url": "https://www.sportengland.org/research-and-data/data/active-lives",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "natural-england",
+      "term": "Natural England",
+      "abbr": null,
+      "full_term": "Natural England",
+      "aliases": [
+        "Natural England"
+      ],
+      "type": "organisation",
+      "definition": "The government's statutory adviser for the natural environment in England.",
+      "source": "GOV.UK — Natural England",
+      "source_url": "https://www.gov.uk/government/organisations/natural-england",
+      "org_ref": "findthatcharity org ID GB-GOR-PB202",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB202",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "orr",
+      "term": "ORR",
+      "abbr": "ORR",
+      "full_term": "Office of Rail and Road",
+      "aliases": [
+        "ORR",
+        "Office of Rail and Road"
+      ],
+      "type": "organisation",
+      "definition": "The independent regulator for Britain's railways and monitor of National Highways; publishes rail-usage and station-usage statistics.",
+      "source": "Office of Rail and Road",
+      "source_url": "https://www.orr.gov.uk/",
+      "org_ref": "findthatcharity org ID GB-GOR-D1117",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D1117",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "youth-justice-board",
+      "term": "YJB",
+      "abbr": "YJB",
+      "full_term": "Youth Justice Board for England and Wales",
+      "aliases": [
+        "YJB",
+        "Youth Justice Board",
+        "Youth Justice Board for England and Wales"
+      ],
+      "type": "organisation",
+      "definition": "The arm's-length body that oversees the youth justice system in England and Wales and publishes youth justice statistics.",
+      "source": "GOV.UK — Youth Justice Board for England and Wales",
+      "source_url": "https://www.gov.uk/government/organisations/youth-justice-board-for-england-and-wales",
+      "org_ref": "findthatcharity org ID GB-GOR-PB302",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PB302",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "must-tool",
+      "term": "MUST",
+      "abbr": "MUST",
+      "full_term": "Malnutrition Universal Screening Tool",
+      "aliases": [
+        "MUST",
+        "Malnutrition Universal Screening Tool",
+        "MUST Service"
+      ],
+      "type": "substantive",
+      "definition": "The British Association for Parenteral and Enteral Nutrition (BAPEN)'s five-step screening tool to identify adults who are malnourished or at risk of malnutrition and agree a care plan.",
+      "source": "BAPEN — Malnutrition Universal Screening Tool (MUST)",
+      "source_url": "https://www.bapen.org.uk/must-and-self-screening/introducing-must/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "NHS & health-and-care"
+      ]
+    },
+    {
+      "id": "ons-opn",
+      "term": "Opinions and Lifestyle Survey",
+      "abbr": "OPN",
+      "full_term": "Opinions and Lifestyle Survey",
+      "aliases": [
+        "OPN",
+        "Opinions and Lifestyle Survey"
+      ],
+      "type": "substantive",
+      "definition": "The Office for National Statistics rapid omnibus survey of adults in Great Britain, covering opinions, behaviours and wellbeing (e.g. internet access, loneliness).",
+      "source": "ONS — Opinions and Lifestyle Survey (OPN)",
+      "source_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/methodologies/opinionsandlifestylesurveyqmi",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "money-and-pensions-service",
+      "term": "MaPS",
+      "abbr": "MaPS",
+      "full_term": "Money and Pensions Service",
+      "aliases": [
+        "MaPS",
+        "Money and Pensions Service",
+        "Single Financial Guidance Body",
+        "SFGB"
+      ],
+      "type": "organisation",
+      "definition": "An arm's-length body sponsored by the Department for Work and Pensions providing free money and pensions guidance (MoneyHelper).",
+      "source": "Money and Pensions Service",
+      "source_url": "https://maps.org.uk/",
+      "org_ref": "findthatcharity org ID GB-GOR-OT1266",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-OT1266",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "maps-adult-financial-wellbeing-survey",
+      "term": "MaPS Adult Financial Wellbeing Survey",
+      "abbr": null,
+      "full_term": "Adult Financial Wellbeing Survey",
+      "aliases": [
+        "Adult Financial Wellbeing Survey",
+        "MaPS Adult Financial Wellbeing Survey"
+      ],
+      "type": "substantive",
+      "definition": "The Money and Pensions Service national survey of adults' financial wellbeing across the United Kingdom, covering saving, borrowing and financial resilience.",
+      "source": "Money and Pensions Service — Adult Financial Wellbeing Survey",
+      "source_url": "https://maps.org.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "fuel-poverty-statistics",
+      "term": "Fuel poverty statistics",
+      "abbr": null,
+      "full_term": "Fuel poverty statistics (England)",
+      "aliases": [
+        "Fuel poverty statistics"
+      ],
+      "type": "substantive",
+      "definition": "Official statistics on the number and proportion of households in fuel poverty in England, available by local area, published by the Department for Energy Security and Net Zero (DESNZ).",
+      "source": "DESNZ (GOV.UK) — Fuel poverty statistics",
+      "source_url": "https://www.gov.uk/government/collections/fuel-poverty-statistics",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "imlt",
+      "term": "National Illegal Money Lending Team",
+      "abbr": "IMLT",
+      "full_term": "England Illegal Money Lending Team",
+      "aliases": [
+        "IMLT",
+        "National Illegal Money Lending Team",
+        "England Illegal Money Lending Team",
+        "Stop Loan Sharks"
+      ],
+      "type": "organisation",
+      "definition": "The national team (operating as Stop Loan Sharks) that investigates illegal money lending and supports victims of loan sharks in England.",
+      "source": "Stop Loan Sharks — the England Illegal Money Lending Team",
+      "source_url": "https://www.stoploansharks.co.uk/who-we-are/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "plumplot",
+      "term": "Plumplot",
+      "abbr": null,
+      "full_term": "Plumplot",
+      "aliases": [
+        "Plumplot"
+      ],
+      "type": "substantive",
+      "definition": "An independent statistics website that repackages Office for National Statistics and other public data into local-area profiles and charts.",
+      "source": "Plumplot",
+      "source_url": "https://www.plumplot.co.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "environment-agency",
+      "term": "Environment Agency",
+      "abbr": "EA",
+      "full_term": "Environment Agency",
+      "aliases": [
+        "Environment Agency",
+        "EA"
+      ],
+      "type": "organisation",
+      "definition": "The executive non-departmental public body responsible for flood risk, water quality and environmental protection in England.",
+      "source": "GOV.UK — Environment Agency",
+      "source_url": "https://www.gov.uk/government/organisations/environment-agency",
+      "org_ref": "findthatcharity org ID GB-GOR-EA199",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-EA199",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "defra",
+      "term": "Department for Environment, Food & Rural Affairs",
+      "abbr": "Defra",
+      "full_term": "Department for Environment, Food & Rural Affairs",
+      "aliases": [
+        "Defra",
+        "Department for Environment, Food & Rural Affairs",
+        "Department for Environment Food & Rural Affairs"
+      ],
+      "type": "organisation",
+      "definition": "The UK government department responsible for environmental protection, food and farming, and rural affairs.",
+      "source": "GOV.UK — Department for Environment, Food & Rural Affairs",
+      "source_url": "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs",
+      "org_ref": "findthatcharity org ID GB-GOR-D7",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D7",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "gov-uk",
+      "term": "GOV.UK",
+      "abbr": null,
+      "full_term": "GOV.UK",
+      "aliases": [
+        "GOV.UK",
+        "GOV",
+        "Gov.uk"
+      ],
+      "type": "substantive",
+      "definition": "The single UK government website through which departments publish services, guidance and official statistics.",
+      "source": "GOV.UK",
+      "source_url": "https://www.gov.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "qof",
+      "term": "QOF",
+      "abbr": "QOF",
+      "full_term": "Quality and Outcomes Framework",
+      "aliases": [
+        "QOF",
+        "Quality and Outcomes Framework"
+      ],
+      "type": "substantive",
+      "definition": "The national GP pay-for-performance framework whose data provides recorded prevalence of long-term conditions; published by NHS England (formerly NHS Digital).",
+      "source": "NHS England — Quality and Outcomes Framework (QOF)",
+      "source_url": "https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/general-practice-data-hub/quality-outcomes-framework-qof",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "NHS & health-and-care"
+      ]
+    },
+    {
+      "id": "necs-rtss",
+      "term": "NECS Real Time Surveillance System",
+      "abbr": null,
+      "full_term": "NECS Real Time Surveillance System",
+      "aliases": [
+        "NECS Real Time Surveillance System",
+        "Real Time Surveillance System"
+      ],
+      "type": "substantive",
+      "definition": "A near-real-time / syndromic-surveillance data system operated by North of England Commissioning Support (NECS), used to monitor health indicators and pressures locally.",
+      "source": "North of England Commissioning Support (NECS)",
+      "source_url": "https://www.necsu.nhs.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "NHS & health-and-care"
+      ]
+    },
+    {
+      "id": "ons-conception-statistics",
+      "term": "ONS Conception Statistics",
+      "abbr": null,
+      "full_term": "Conception statistics, England and Wales (ONS)",
+      "aliases": [
+        "ONS Conception Statistics",
+        "Conception Statistics"
+      ],
+      "type": "substantive",
+      "definition": "Office for National Statistics annual statistics on conceptions (including under-18 conceptions) for England and Wales, available by local area.",
+      "source": "ONS — Conception statistics, England and Wales",
+      "source_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "centre-for-thriving-places",
+      "term": "Centre for Thriving Places",
+      "abbr": null,
+      "full_term": "Centre for Thriving Places",
+      "aliases": [
+        "Centre for Thriving Places",
+        "Happy City"
+      ],
+      "type": "organisation",
+      "definition": "A not-for-profit organisation, formerly Happy City, that develops place-based wellbeing measures and supports local areas to improve wellbeing.",
+      "source": "Centre for Thriving Places",
+      "source_url": "https://www.centreforthrivingplaces.org/",
+      "org_ref": "findthatcharity org ID GB-CHC-1143037",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1143037",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "thriving-places-index",
+      "term": "Thriving Places Index",
+      "abbr": "TPI",
+      "full_term": "Thriving Places Index",
+      "aliases": [
+        "Thriving Places Index",
+        "TPI"
+      ],
+      "type": "substantive",
+      "definition": "A place-based wellbeing measure that scores local areas on the conditions for wellbeing, sustainability and equality.",
+      "source": "Centre for Thriving Places — Thriving Places Index",
+      "source_url": "https://www.centreforthrivingplaces.org/thriving-places-index/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "college-of-policing",
+      "term": "College of Policing",
+      "abbr": null,
+      "full_term": "College of Policing",
+      "aliases": [
+        "College of Policing"
+      ],
+      "type": "organisation",
+      "definition": "The professional body for policing in England and Wales, setting standards, guidance and training for the police service.",
+      "source": "College of Policing",
+      "source_url": "https://www.college.police.uk/",
+      "org_ref": "findthatcharity org ID GB-GOVUK-college-of-policing",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOVUK-college-of-policing",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "crime-reduction-toolkit",
+      "term": "Crime Reduction Toolkit",
+      "abbr": null,
+      "full_term": "Crime Reduction Toolkit",
+      "aliases": [
+        "Crime Reduction Toolkit"
+      ],
+      "type": "substantive",
+      "definition": "An evidence resource that summarises what works to reduce crime, rating interventions by the strength and direction of the underlying evidence.",
+      "source": "College of Policing — Crime Reduction Toolkit",
+      "source_url": "https://www.college.police.uk/research/crime-reduction-toolkit",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "audit-commission",
+      "term": "Audit Commission",
+      "abbr": null,
+      "full_term": "Audit Commission",
+      "aliases": [
+        "Audit Commission"
+      ],
+      "type": "organisation",
+      "definition": "The former public-spending watchdog for local government and the NHS in England, abolished on 31 March 2015.",
+      "source": "GOV.UK (archived) — Audit Commission",
+      "source_url": "https://www.gov.uk/government/organisations/audit-commission",
+      "org_ref": "findthatcharity org ID GB-GOR-PC343",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-PC343",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "ons-claimant-count",
+      "term": "ONS Claimant Count",
+      "abbr": null,
+      "full_term": "Claimant Count (ONS)",
+      "aliases": [
+        "ONS Claimant Count",
+        "Claimant Count"
+      ],
+      "type": "substantive",
+      "definition": "The Office for National Statistics and Department for Work and Pensions monthly count of people claiming unemployment-related benefits.",
+      "source": "ONS — Claimant Count",
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "National statistics & data tools"
+      ]
+    },
+    {
+      "id": "curv",
+      "term": "CURV",
+      "abbr": "CURV",
+      "full_term": "Cleveland Unit for the Reduction of Violence",
+      "aliases": [
+        "CURV",
+        "Cleveland Unit for the Reduction of Violence"
+      ],
+      "type": "organisation",
+      "definition": "Cleveland's Violence Reduction Unit, hosted by the Office of the Police and Crime Commissioner, taking a public-health, multi-agency approach to reducing serious violence.",
+      "source": "Cleveland Police and Crime Commissioner — CURV",
+      "source_url": "https://www.cleveland.pcc.police.uk/curv/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Local & regional intelligence"
+      ]
+    },
+    {
+      "id": "cleveland-serious-violence-sna",
+      "term": "Cleveland Serious Violence Strategic Needs Assessment",
+      "abbr": null,
+      "full_term": "Cleveland Serious Violence Strategic Needs Assessment",
+      "aliases": [
+        "CURV Strategic Needs Assessment",
+        "CURV SNA",
+        "Cleveland Serious Violence SNA",
+        "Cleveland Serious Violence Strategic Needs Assessment"
+      ],
+      "type": "substantive",
+      "definition": "The assessment of serious violence across the Cleveland area, produced to inform the local serious-violence strategy under the Serious Violence Duty.",
+      "source": "CURV — Cleveland Serious Violence Strategic Needs Assessment",
+      "source_url": "https://www.cleveland.pcc.police.uk/curv/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Local & regional intelligence"
+      ]
+    },
+    {
+      "id": "citizens-advice",
+      "term": "Citizens Advice",
+      "abbr": "CAB",
+      "full_term": "Citizens Advice",
+      "aliases": [
+        "CAB",
+        "Citizens Advice",
+        "Citizens Advice Bureau"
+      ],
+      "type": "organisation",
+      "definition": "A national network of independent local charities offering free, confidential and impartial advice on money, benefits, housing, employment and legal matters; known historically as the Citizens Advice Bureau (CAB).",
+      "source": "Citizens Advice",
+      "source_url": "https://www.citizensadvice.org.uk/",
+      "org_ref": "findthatcharity org ID GB-CHC-279057",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-279057",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Voluntary, community & other partners"
+      ]
+    },
+    {
+      "id": "middlesbrough-citizens-advice",
+      "term": "Middlesbrough Citizens Advice",
+      "abbr": null,
+      "full_term": "Middlesbrough Citizens Advice",
+      "aliases": [
+        "Middlesbrough CAB",
+        "Middlesbrough Citizens Advice",
+        "Citizens Advice Middlesbrough"
+      ],
+      "type": "organisation",
+      "definition": "The local Citizens Advice office providing free, independent advice (debt, benefits, housing) in Middlesbrough.",
+      "source": "Middlesbrough Citizens Advice",
+      "source_url": "https://www.mcab.org.uk/",
+      "org_ref": "findthatcharity org ID GB-CHC-1096071",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1096071",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Voluntary, community & other partners"
+      ]
+    },
+    {
+      "id": "citizens-advice-drc",
+      "term": "Citizens Advice Darlington, Redcar and Cleveland",
+      "abbr": null,
+      "full_term": "Citizens Advice Darlington, Redcar and Cleveland",
+      "aliases": [
+        "R&C CAB",
+        "Redcar & Cleveland CAB",
+        "Redcar & Cleveland Citizens Advice",
+        "R&C Citizens Advice Bureau",
+        "Citizens Advice Darlington, Redcar and Cleveland"
+      ],
+      "type": "organisation",
+      "definition": "The local Citizens Advice office providing free, independent advice across Darlington, Redcar and Cleveland.",
+      "source": "Citizens Advice Darlington, Redcar and Cleveland",
+      "source_url": "https://www.citizensadvicedrc.org.uk/",
+      "org_ref": "findthatcharity org ID GB-CHC-1112414",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1112414",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Voluntary, community & other partners"
+      ]
+    },
+    {
+      "id": "pe-scholar",
+      "term": "PE Scholar",
+      "abbr": null,
+      "full_term": "PE Scholar",
+      "aliases": [
+        "PE Scholar"
+      ],
+      "type": "organisation",
+      "definition": "A physical-education teaching-resources provider.",
+      "source": "PE Scholar",
+      "source_url": "https://www.pescholar.com/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Voluntary, community & other partners"
+      ]
+    },
+    {
+      "id": "poppi",
+      "term": "POPPI",
+      "abbr": "POPPI",
+      "full_term": "Projecting Older People Population Information",
+      "aliases": [
+        "POPPI",
+        "Projecting Older People Population Information"
+      ],
+      "type": "substantive",
+      "definition": "An Institute of Public Care tool that projects the population of older people and related needs for local areas.",
+      "source": "Institute of Public Care — POPPI",
+      "source_url": "https://www.poppi.org.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Local & regional intelligence"
+      ]
+    },
+    {
+      "id": "ne-road-safety-tadu",
+      "term": "NE Regional Road Safety Resource / TADU",
+      "abbr": "TADU",
+      "full_term": "North East Regional Road Safety Resource / Traffic and Accident Data Unit",
+      "aliases": [
+        "TADU",
+        "NE Regional Road Safety Resource",
+        "North East Regional Road Safety Resource",
+        "Traffic and Accident Data Unit"
+      ],
+      "type": "organisation",
+      "definition": "The North East regional road-safety data resource and Traffic and Accident Data Unit, providing road-collision and casualty data for the region.",
+      "source": "North East Regional Road Safety Resource / TADU",
+      "source_url": "",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Local & regional intelligence"
+      ]
+    },
+    {
+      "id": "who",
+      "term": "WHO",
+      "abbr": "WHO",
+      "full_term": "World Health Organization",
+      "aliases": [
+        "WHO",
+        "World Health Organization",
+        "World Health Organisation"
+      ],
+      "type": "organisation",
+      "definition": "The United Nations specialised agency for international public health.",
+      "source": "World Health Organization",
+      "source_url": "https://www.who.int/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "lg-inform",
+      "term": "LG Inform",
+      "abbr": null,
+      "full_term": "LG Inform / LG Inform Plus",
+      "aliases": [
+        "LG Inform",
+        "LGInform",
+        "LG Inform Plus",
+        "LGInform Plus"
+      ],
+      "type": "substantive",
+      "definition": "The Local Government Association's free (LG Inform) and subscription (LG Inform Plus) data-benchmarking service, presenting local-authority performance and area data.",
+      "source": "LGA — LG Inform",
+      "source_url": "https://lginform.local.gov.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Local & regional intelligence"
+      ]
+    },
+    {
+      "id": "yos-cms",
+      "term": "YOS Case Management System",
+      "abbr": null,
+      "full_term": "Youth Offending Service Case Management System",
+      "aliases": [
+        "YOS Case Management System",
+        "YOS Case Management"
+      ],
+      "type": "substantive",
+      "definition": "The local Youth Offending Service's case-management record of young people in the youth justice system.",
+      "source": "Local Youth Offending Service (Middlesbrough / Redcar & Cleveland)",
+      "source_url": "",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Local & regional intelligence"
+      ]
+    },
+    {
+      "id": "alzheimers-association-usa",
+      "term": "Alzheimer's Association",
+      "abbr": null,
+      "full_term": "Alzheimer's Association (United States)",
+      "aliases": [
+        "Alzheimer's Association",
+        "Alzheimers Association"
+      ],
+      "type": "organisation",
+      "definition": "The United States non-profit for Alzheimer's care, support and research.",
+      "source": "Alzheimer's Association",
+      "source_url": "https://www.alz.org/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Voluntary, community & other partners"
+      ]
+    },
+    {
+      "id": "lga",
+      "term": "LGA",
+      "abbr": "LGA",
+      "full_term": "Local Government Association",
+      "aliases": [
+        "LGA",
+        "Local Government Association"
+      ],
+      "type": "organisation",
+      "definition": "The national membership body for councils in England and Wales; publishes local-area data (LG Inform) and sector policy.",
+      "source": "Local Government Association",
+      "source_url": "https://www.local.gov.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Government & national bodies"
+      ]
+    },
+    {
+      "id": "strategic-housing-market-assessment",
+      "term": "Strategic Housing Market Assessment",
+      "abbr": "SHMA",
+      "full_term": "Strategic Housing Market Assessment",
+      "aliases": [
+        "SHMA",
+        "Strategic Housing Market Assessment"
+      ],
+      "type": "substantive",
+      "definition": "A local evidence study of housing need and demand across a housing-market area, used to inform housing and planning policy and Local Plans.",
+      "source": "Strategic Housing Market Assessment",
+      "source_url": "",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Local & regional intelligence"
+      ]
+    },
+    {
+      "id": "bma",
+      "term": "BMA",
+      "abbr": "BMA",
+      "full_term": "British Medical Association",
+      "aliases": [
+        "BMA",
+        "British Medical Association"
+      ],
+      "type": "organisation",
+      "definition": "The professional association and registered trade union for doctors in the UK.",
+      "source": "British Medical Association",
+      "source_url": "https://www.bma.org.uk/",
+      "org_ref": "Companies House GB-COH-00008848",
+      "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/00008848",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Voluntary, community & other partners"
+      ]
+    },
+    {
+      "id": "institute-of-public-care",
+      "term": "Institute of Public Care",
+      "abbr": "IPC",
+      "full_term": "Institute of Public Care",
+      "aliases": [
+        "IPC",
+        "Institute of Public Care"
+      ],
+      "type": "organisation",
+      "definition": "A specialist health and social care research, consultancy and analysis unit based at Oxford Brookes University.",
+      "source": "Institute of Public Care, Oxford Brookes University",
+      "source_url": "https://ipc.brookes.ac.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Local & regional intelligence"
+      ]
+    },
+    {
+      "id": "bapen",
+      "term": "BAPEN",
+      "abbr": "BAPEN",
+      "full_term": "British Association for Parenteral and Enteral Nutrition",
+      "aliases": [
+        "BAPEN",
+        "British Association for Parenteral and Enteral Nutrition"
+      ],
+      "type": "organisation",
+      "definition": "A multi-professional association and registered charity concerned with the recognition, prevention and treatment of malnutrition and with nutritional care.",
+      "source": "British Association for Parenteral and Enteral Nutrition (BAPEN)",
+      "source_url": "https://www.bapen.org.uk/",
+      "org_ref": "findthatcharity org ID GB-CHC-1186719",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1186719",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "NHS & health-and-care"
+      ]
+    },
+    {
+      "id": "unemployment",
+      "term": "Unemployment",
+      "abbr": null,
+      "full_term": "Unemployment",
+      "aliases": [
+        "Unemployment"
+      ],
+      "type": "substantive",
+      "definition": "On the internationally standard International Labour Organization (ILO) measure — the survey measure the Office for National Statistics produces from the Labour Force Survey and Annual Population Survey — people aged 16 and over who are out of work, have actively sought work in the past four weeks, and are available to start within two weeks. It is a survey estimate, distinct from the benefits-based [[ONS Claimant Count]].",
+      "source": "ONS — A guide to labour market statistics",
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/aguidetolabourmarketstatistics",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Concepts & definitions"
+      ]
+    },
+    {
+      "id": "economically-inactive",
+      "term": "Economically Inactive",
+      "abbr": null,
+      "full_term": "Economic inactivity",
+      "aliases": [
+        "Economically Inactive",
+        "Economic inactivity",
+        "Economically inactive"
+      ],
+      "type": "substantive",
+      "definition": "In Office for National Statistics labour-market statistics, people aged 16 to 64 who are neither in employment nor unemployed — out of work and either not seeking work or not available to start — for example students, people looking after family or home, the long-term sick, and the retired.",
+      "source": "ONS — A guide to labour market statistics",
+      "source_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/aguidetolabourmarketstatistics",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Concepts & definitions"
+      ]
+    },
+    {
+      "id": "local-skills-improvement-plan",
+      "term": "Local Skills Improvement Plan",
+      "abbr": "LSIP",
+      "full_term": "Local Skills Improvement Plan",
+      "aliases": [
+        "LSIP",
+        "Local Skills Improvement Plan"
+      ],
+      "type": "statutory",
+      "definition": "A statutory, employer-led plan setting out the current and future skills and workforce needs of a local area to shape post-16 technical education and training, placed on a statutory footing by the Skills and Post-16 Education Act 2022.",
+      "source": "Skills and Post-16 Education Act 2022 (Part 1, Chapter 1)",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2022/21/part/1/chapter/1",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Concepts & definitions"
+      ]
+    },
+    {
+      "id": "north-east-england-chamber-of-commerce",
+      "term": "North East England Chamber of Commerce",
+      "abbr": "NECC",
+      "full_term": "North East England Chamber of Commerce",
+      "aliases": [
+        "NECC",
+        "North East Chamber of Commerce",
+        "North East England Chamber of Commerce"
+      ],
+      "type": "organisation",
+      "definition": "The accredited chamber of commerce representing businesses across North East England.",
+      "source": "North East England Chamber of Commerce",
+      "source_url": "https://www.necc.co.uk/",
+      "org_ref": "Companies House GB-COH-02938084",
+      "org_ref_url": "https://find-and-update.company-information.service.gov.uk/company/02938084",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Local & regional intelligence"
+      ]
+    }
+  ]
+}
