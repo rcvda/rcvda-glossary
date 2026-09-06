@@ -1643,7 +1643,7 @@
     local MEAM partnership defines its own cohort within a shared frame.
   source: Making Every Adult Matter (MEAM) — the England-wide coalition (Clinks, Homeless Link and 
     Mind)
-  source_url: https://meam.org.uk
+  source_url: https://meam.org.uk/multiple-needs-and-exclusions/
   org_ref: findthatcharity org ID GB-CHC-1209508
   org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-1209508
   scope:
@@ -1722,6 +1722,10 @@
     the named ''severe and multiple disadvantage''. Do NOT confuse the five areas of need (the cohort)
     with the six delivery workstreams (see Workstream). Merges MD / SMD / ''Multiple disadvantage''.'
   agreed: y
+  context_notes:
+    clr: The sector (MEAM) frames multiple disadvantage as a systemic rather than individual issue —
+      rooted in long-term poverty, trauma, abuse and neglect and compounded by discrimination — and as
+      gendered, with women over-represented at the sharpest end (Gender Matters, 2020).
 - term: Mutually agreed outcome
   id: mutually-agreed-outcome
   abbr: ''
@@ -2410,9 +2414,11 @@
   full_term: Severe and multiple disadvantage
   aliases: severe and multiple disadvantage|SMD
   type: substantive
-  definition: The Hard Edges framing, built around the overlap of homelessness, substance misuse and
-    offending, with mental ill-health and poverty as cross-cutting factors. The foundational UK 
-    prevalence study; used in the series as a comparator to the Changing Futures cohort definition.
+  definition: 'The Hard Edges framing, built around the overlap of homelessness, substance misuse
+    and offending, with mental ill-health and poverty as cross-cutting factors. The foundational UK
+    prevalence study: it estimated 58,000 adults in England experiencing all three domains in any
+    one year, ~164,000 experiencing two of the three, and around 586,000 across all SMD categories
+    (2010/11 data). Used in the series as a comparator to the Changing Futures cohort definition.'
   source: 'Bramley, G. and Fitzpatrick, S. et al. (2015) Hard Edges: Mapping Severe and Multiple Disadvantage
     in England. London: Lankelly Chase Foundation.'
   source_url:
