@@ -1,5 +1,12 @@
 # Changelog — rcvda-glossary
 
+## 2026-09-06 — Multiple-disadvantage cluster: prevalence figures + MEAM framing
+- **SMD (`severe-and-multiple-disadvantage-smd`)**: added the Hard Edges (2015) prevalence estimates to the definition — 58,000 adults in England experiencing all three domains in any one year, ~164,000 two of the three, ~586,000 across all SMD categories (2010/11 data). Kept as the named Hard Edges term.
+- **MD (`multiple-disadvantage-md`)**: definition left atomic (per CONTRIBUTING "definition = atomic identity"); added a `clr` **context note** carrying the MEAM systemic-not-individual framing (rooted in poverty, trauma, abuse, neglect; compounded by discrimination) and the gendered dimension (women over-represented at the sharpest end — Gender Matters 2020).
+- **MEAM (`meam`)**: `source_url` pinned from the site root to the concept page `https://meam.org.uk/multiple-needs-and-exclusions/`.
+- Figures verified against Hard Edges (2015) and Gender Matters (2020) primary sources. Rebuilt via `build.py`: 344 entries, no validation errors; SMD figures render in the clr.md/clr/estate feeds, the MD framing in the clr.md lens.
+- Deploy: glossary content already committed (d8a7669), merged and pushed to `main` — jsDelivr feeds refresh on push. This CHANGELOG entry still needs commit + push.
+
 ## 2026-09-03 — BoF lens: careers roles made explicit (Champion / Leader / Lead)
 - **Retired** the `career-champion` entry (a mentoring "Career Champion" scheme) — the "Careers Champion" headword now names the primary careers-lead role.
 - **Added `careers-champion`** (substantive, bof): the member of staff who leads careers-related learning in a *primary* school; primary schools are not legally required to appoint one.
