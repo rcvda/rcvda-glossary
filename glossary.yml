@@ -7085,7 +7085,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: Getting about by walking, wheeling or cycling instead of going by car.
 - term: Wheeling
   id: wheeling
@@ -7143,7 +7143,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: The government's long-term plan for more walking and cycling in England, and the money to 
     pay for it.
 - term: Local Cycling and Walking Infrastructure Plan
@@ -7163,7 +7163,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: A council's plan for which walking and cycling routes to build or improve over the next few
     years.
 - term: LTN 1/20
@@ -7181,7 +7181,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: The national guide to designing safe cycle lanes, junctions and bike parking.
 - term: National Cycle Network
   id: national-cycle-network
@@ -7252,7 +7252,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: A bike made or changed so that disabled people can ride it, like a trike or a bike you 
     pedal with your hands.
 - term: Cargo bike
@@ -7270,7 +7270,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: A strong bike made for carrying shopping, goods or children.
 - term: Sheffield stand
   id: sheffield-stand
@@ -7287,7 +7287,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: A metal hoop fixed in the ground that you can lock a bike to. Each one holds two bikes.
 - term: Secure cycle parking
   id: secure-cycle-parking
@@ -7304,7 +7304,7 @@
   scope:
   - tvat
   note: Matches the 'Secure cycle parking' category in the Tees Valley cycle-parking dataset.
-  agreed: n
+  agreed: y
   plain: A locked or staffed place to leave your bike, so it is safer from theft.
 - term: Sheltered cycle parking
   id: sheltered-cycle-parking
@@ -7321,7 +7321,7 @@
   scope:
   - tvat
   note: Matches the 'Public sheltered racks' category in the Tees Valley cycle-parking dataset.
-  agreed: n
+  agreed: y
   plain: Bike stands with a roof over them to keep bikes dry.
 - term: Cycle to Work scheme
   id: cycle-to-work-scheme
@@ -7341,7 +7341,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: A way to get a bike through your job and pay for it a bit at a time from your wages, saving
     tax.
 - term: Hierarchy of road users
@@ -7378,7 +7378,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: A traffic-light crossing that people walking and people on bikes can both use.
 - term: Advanced stop line
   id: advanced-stop-line
@@ -7395,7 +7395,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: A box painted at traffic lights where people on bikes can wait in front of cars.
 - term: Shared-use path
   id: shared-use-path
@@ -7412,7 +7412,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: A path that people walking and people on bikes are both allowed to use.
 - term: Bridleway
   id: bridleway
@@ -7429,7 +7429,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: A public path you can walk, cycle or ride a horse along. People on bikes must give way to 
     walkers and horses.
 - term: Dropped kerb
@@ -7450,7 +7450,7 @@
   - tvat
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: A place where the kerb is lowered to road level, so wheelchairs, buggies and bikes can 
     cross easily.
 - term: Modal shift
@@ -7470,7 +7470,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: When people change how they travel, for example leaving the car at home and cycling 
     instead.
 - term: Mobility scooter
@@ -7491,7 +7491,7 @@
   - tvat
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: A small electric vehicle for people who find walking hard. Some can only go on pavements. 
     Bigger ones can also use roads.
 - term: Blue Badge
@@ -7511,7 +7511,7 @@
   - tvat
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: A permit that lets disabled people park closer to where they are going.
 - term: Beach wheelchair
   id: beach-wheelchair
@@ -7548,7 +7548,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: A wheelchair made for rough ground, like grass, gravel, mud or sand.
 - term: Attendant-propelled wheelchair
   id: attendant-propelled-wheelchair
@@ -7565,7 +7565,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: A wheelchair that another person pushes, because the wheels are too small to push yourself.
 - term: Carer
   id: carer
@@ -7582,7 +7582,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: Someone who looks after a family member or friend who needs help, without being paid for 
     it.
 - term: Changing Places toilet
@@ -7601,7 +7601,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: A big accessible toilet with a hoist and a changing bench, for people who need more help 
     than a normal accessible toilet gives.
 - term: RADAR key
@@ -7619,7 +7619,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: A special key that opens locked accessible toilets around the UK.
 - term: Reasonable adjustments
   id: reasonable-adjustments
@@ -7637,7 +7637,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: Changes that organisations must make so disabled people can use their services, like adding
     a ramp.
 - term: Disability
@@ -7674,7 +7674,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: The charity that runs lifeboats and beach lifeguards around the UK coast.
 - term: Beach safety flags
   id: beach-safety-flags
@@ -7692,7 +7692,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: Flags on the beach that show where it is safe to swim. Swim between the red and yellow 
     flags. Never go in the sea when a red flag is flying.
 - term: Tide times
@@ -7710,7 +7710,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: The times when the sea comes in (high tide) and goes out (low tide). They change every day.
 - term: Promenade
   id: promenade
@@ -7726,7 +7726,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: A wide, flat path that runs along the seafront.
 - term: Beach access mat
   id: beach-access-mat
@@ -7780,7 +7780,7 @@
   - bw
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: Someone who gives their time to help, without being paid.
 - term: Food partnership
   id: food-partnership
@@ -7834,7 +7834,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: Everything that gets food from the field to your plate, and what happens to what is left.
 - term: Food insecurity
   id: food-insecurity
@@ -7887,7 +7887,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: A note from a support worker that lets you get food from a food bank.
   context_notes:
     fpt: Services marked 'Voucher needed' on the Food Power Together food map ask for one.
@@ -7906,7 +7906,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: A bag of food from a food bank, with enough to make meals for a few days.
 - term: Independent food bank
   id: independent-food-bank
@@ -7923,7 +7923,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: A food bank run by a local group on its own, not as part of a big national network.
 - term: Trussell
   id: trussell
@@ -7957,7 +7957,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: A network that links up local food banks that are not part of Trussell.
 - term: Cash-first approach
   id: cash-first
@@ -7975,7 +7975,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: Helping people get enough money to buy their own food, so they do not need a food bank.
 - term: Social supermarket
   id: social-supermarket
@@ -8063,7 +8063,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: Food that is still fine to eat but would be thrown away, so it is given away or sold 
     cheaply instead.
 - term: FareShare
@@ -8081,7 +8081,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: A charity that collects spare food from shops and factories and passes it to local groups.
 - term: Community meal
   id: community-meal
@@ -8150,7 +8150,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: When children go hungry in the school holidays because there are no school dinners.
 - term: Free school meals
   id: free-school-meals
@@ -8224,7 +8224,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: A local group that owns land or buildings and runs them for the good of the community.
 - term: Low traffic neighbourhood
   id: low-traffic-neighbourhood
@@ -8260,7 +8260,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: A road by a school that is closed to cars when children arrive and leave.
 - term: Cycle lane
   id: cycle-lane
@@ -8279,7 +8279,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: Part of the road painted for bikes. Cars must not drive in it when it has a solid white 
     line.
 - term: Segregated cycle track
@@ -8297,7 +8297,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: A bike lane with a kerb or barrier between it and the cars.
 - term: Tactile paving
   id: tactile-paving
@@ -8317,7 +8317,7 @@
   - tvat
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: Bumpy paving at crossings and edges that people with sight loss can feel with their feet or
     a cane.
 - term: Cycle hire scheme
@@ -8389,7 +8389,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: The pavement next to a road. You must not cycle on it unless signs say bikes are allowed.
 - term: Dr Bike
   id: dr-bike
@@ -8406,7 +8406,7 @@
   scope:
   - tvat
   note: ''
-  agreed: n
+  agreed: y
   plain: A free or cheap session where someone checks your bike is safe and fixes small problems.
 - term: Accessible toilet
   id: accessible-toilet
@@ -8459,7 +8459,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: A sunflower lanyard or badge that shows someone has a disability you cannot see, and may 
     need help or more time.
 - term: Social model of disability
@@ -8477,7 +8477,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: The idea that people are disabled by things like steps and attitudes, not by their bodies 
     or minds.
 - term: Accessible beach
@@ -8495,7 +8495,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: A beach that is easier for disabled people to get to and enjoy.
 - term: Slipway
   id: slipway
@@ -8512,7 +8512,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: A ramp down to the beach, first built for boats. It is often the way onto the sand with no 
     steps.
 - term: Rip current
@@ -8530,7 +8530,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: A strong flow of water that pulls out to sea and can sweep people away from the beach.
 - term: HM Coastguard
   id: hm-coastguard
@@ -8548,7 +8548,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: The emergency service for the sea and coast. If someone is in trouble at the beach, call 
     999 and ask for the Coastguard.
 - term: Mobility aid
@@ -8583,7 +8583,7 @@
   scope:
   - bw
   note: ''
-  agreed: n
+  agreed: y
   plain: A walking frame with wheels, brakes and often a seat.
 - term: Fuel poverty
   id: fuel-poverty
@@ -8620,7 +8620,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: A free, warm place to go in winter, often with a hot drink and company.
 - term: Benefits check
   id: benefits-check
@@ -8637,7 +8637,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: A check to find out if you could get money or help you are not claiming yet.
 - term: Pension Credit
   id: pension-credit
@@ -8654,7 +8654,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: Extra money for older people on a low income. Getting it can help you get other support 
     too.
 - term: Council Tax Reduction
@@ -8672,7 +8672,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: A discount on your council tax if you are on a low income.
 - term: Food hygiene rating
   id: food-hygiene-rating
@@ -8689,7 +8689,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: A score from 0 to 5 that shows how clean and safe a place that serves food is.
 - term: Food allergens
   id: food-allergens
@@ -8707,7 +8707,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: Foods some people react badly to, like nuts or milk. Places that give out food must say if 
     their food contains them.
 - term: Use-by and best-before dates
@@ -8726,7 +8726,7 @@
   scope:
   - fpt
   note: ''
-  agreed: n
+  agreed: y
   plain: "'Use by' means do not eat it after that date. 'Best before' means it is still fine to eat after
     the date, but may not be as nice."
 - term: Community cooking session

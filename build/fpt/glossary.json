@@ -191,6 +191,27 @@
       "groups": null
     },
     {
+      "id": "volunteer",
+      "term": "Volunteer",
+      "abbr": null,
+      "full_term": "Volunteer",
+      "aliases": [
+        "Volunteer",
+        "volunteers",
+        "volunteering"
+      ],
+      "type": "substantive",
+      "definition": "Someone who gives their time to help, without being paid.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
       "id": "food-partnership",
       "term": "Food partnership",
       "abbr": null,
@@ -223,6 +244,26 @@
       "definition": "A national network that links food partnerships across the UK.",
       "source": "Sustainable Food Places",
       "source_url": "https://www.sustainablefoodplaces.org/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "food-system",
+      "term": "Food system",
+      "abbr": null,
+      "full_term": "Food system",
+      "aliases": [
+        "Food system",
+        "whole food system"
+      ],
+      "type": "substantive",
+      "definition": "Everything that gets food from the field to your plate, and what happens to what is left.",
+      "source": null,
+      "source_url": null,
       "org_ref": null,
       "org_ref_url": null,
       "context_note": null,
@@ -266,6 +307,110 @@
       "definition": "A place that gives free emergency food to people in a crisis. You usually need a voucher from a support worker.",
       "source": "Trussell",
       "source_url": "https://www.trussell.org.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "food-bank-voucher",
+      "term": "Food bank voucher",
+      "abbr": null,
+      "full_term": "Food bank voucher",
+      "aliases": [
+        "Food bank voucher",
+        "food voucher",
+        "referral",
+        "voucher needed"
+      ],
+      "type": "substantive",
+      "definition": "A note from a support worker that lets you get food from a food bank.",
+      "source": "Trussell",
+      "source_url": "https://www.trussell.org.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": "Services marked 'Voucher needed' on the Food Power Together food map ask for one.",
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "food-parcel",
+      "term": "Food parcel",
+      "abbr": null,
+      "full_term": "Food parcel",
+      "aliases": [
+        "Food parcel",
+        "food parcels",
+        "emergency food parcel"
+      ],
+      "type": "substantive",
+      "definition": "A bag of food from a food bank, with enough to make meals for a few days.",
+      "source": "Trussell",
+      "source_url": "https://www.trussell.org.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "independent-food-bank",
+      "term": "Independent food bank",
+      "abbr": null,
+      "full_term": "Independent food bank",
+      "aliases": [
+        "Independent food bank",
+        "independent foodbank"
+      ],
+      "type": "substantive",
+      "definition": "A food bank run by a local group on its own, not as part of a big national network.",
+      "source": "Independent Food Aid Network",
+      "source_url": "https://www.foodaidnetwork.org.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "ifan",
+      "term": "IFAN",
+      "abbr": "IFAN",
+      "full_term": "Independent Food Aid Network",
+      "aliases": [
+        "IFAN",
+        "Independent Food Aid Network"
+      ],
+      "type": "organisation",
+      "definition": "A network that links up local food banks that are not part of Trussell.",
+      "source": "Independent Food Aid Network",
+      "source_url": "https://www.foodaidnetwork.org.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "cash-first",
+      "term": "Cash-first approach",
+      "abbr": null,
+      "full_term": "Cash-first approach",
+      "aliases": [
+        "Cash-first approach",
+        "cash first",
+        "cash-first"
+      ],
+      "type": "method",
+      "definition": "Helping people get enough money to buy their own food, so they do not need a food bank.",
+      "source": "Independent Food Aid Network",
+      "source_url": "https://www.foodaidnetwork.org.uk/",
       "org_ref": null,
       "org_ref_url": null,
       "context_note": null,
@@ -358,6 +503,47 @@
       "groups": null
     },
     {
+      "id": "surplus-food",
+      "term": "Surplus food",
+      "abbr": null,
+      "full_term": "Surplus food",
+      "aliases": [
+        "Surplus food",
+        "food redistribution",
+        "food waste"
+      ],
+      "type": "substantive",
+      "definition": "Food that is still fine to eat but would be thrown away, so it is given away or sold cheaply instead.",
+      "source": "FareShare",
+      "source_url": "https://fareshare.org.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "fareshare",
+      "term": "FareShare",
+      "abbr": null,
+      "full_term": "FareShare",
+      "aliases": [
+        "FareShare",
+        "Fare Share"
+      ],
+      "type": "organisation",
+      "definition": "A charity that collects spare food from shops and factories and passes it to local groups.",
+      "source": "FareShare",
+      "source_url": "https://fareshare.org.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
       "id": "community-meal",
       "term": "Community meal",
       "abbr": null,
@@ -423,6 +609,45 @@
       "groups": null
     },
     {
+      "id": "holiday-hunger",
+      "term": "Holiday hunger",
+      "abbr": null,
+      "full_term": "Holiday hunger",
+      "aliases": [
+        "Holiday hunger"
+      ],
+      "type": "substantive",
+      "definition": "When children go hungry in the school holidays because there are no school dinners.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "community-land-trust",
+      "term": "Community land trust",
+      "abbr": "CLT",
+      "full_term": "Community land trust",
+      "aliases": [
+        "Community land trust",
+        "CLT"
+      ],
+      "type": "statutory",
+      "definition": "A local group that owns land or buildings and runs them for the good of the community.",
+      "source": "Housing and Regeneration Act 2008, s.79",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2008/17/section/79",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
       "id": "fuel-poverty",
       "term": "Fuel poverty",
       "abbr": null,
@@ -436,6 +661,158 @@
       "definition": "When a family cannot afford to heat their home properly, often because the home is hard to keep warm.",
       "source": "Department for Energy Security and Net Zero — Fuel poverty statistics",
       "source_url": "https://www.gov.uk/government/collections/fuel-poverty-statistics",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "warm-space",
+      "term": "Warm space",
+      "abbr": null,
+      "full_term": "Warm space",
+      "aliases": [
+        "Warm space",
+        "warm spaces",
+        "warm hub",
+        "warm bank"
+      ],
+      "type": "substantive",
+      "definition": "A free, warm place to go in winter, often with a hot drink and company.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "benefits-check",
+      "term": "Benefits check",
+      "abbr": null,
+      "full_term": "Benefits check",
+      "aliases": [
+        "Benefits check",
+        "benefit check",
+        "entitlement check",
+        "better off calculation"
+      ],
+      "type": "method",
+      "definition": "A check to find out if you could get money or help you are not claiming yet.",
+      "source": "Citizens Advice — benefits",
+      "source_url": "https://www.citizensadvice.org.uk/benefits/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "pension-credit",
+      "term": "Pension Credit",
+      "abbr": null,
+      "full_term": "Pension Credit",
+      "aliases": [
+        "Pension Credit"
+      ],
+      "type": "statutory",
+      "definition": "Extra money for older people on a low income. Getting it can help you get other support too.",
+      "source": "GOV.UK — Pension Credit",
+      "source_url": "https://www.gov.uk/pension-credit",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "council-tax-reduction",
+      "term": "Council Tax Reduction",
+      "abbr": "CTR",
+      "full_term": "Council Tax Reduction",
+      "aliases": [
+        "Council Tax Reduction",
+        "Council Tax Support",
+        "CTR",
+        "CTS"
+      ],
+      "type": "statutory",
+      "definition": "A discount on your council tax if you are on a low income.",
+      "source": "GOV.UK — Apply for Council Tax Reduction",
+      "source_url": "https://www.gov.uk/apply-council-tax-reduction",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "food-hygiene-rating",
+      "term": "Food hygiene rating",
+      "abbr": null,
+      "full_term": "Food hygiene rating",
+      "aliases": [
+        "Food hygiene rating",
+        "food hygiene rating scheme",
+        "FHRS",
+        "scores on the doors"
+      ],
+      "type": "statutory",
+      "definition": "A score from 0 to 5 that shows how clean and safe a place that serves food is.",
+      "source": "Food Standards Agency — Food Hygiene Rating Scheme",
+      "source_url": "https://www.food.gov.uk/safety-hygiene/food-hygiene-rating-scheme",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "food-allergens",
+      "term": "Food allergens",
+      "abbr": null,
+      "full_term": "Food allergens",
+      "aliases": [
+        "Food allergens",
+        "allergens",
+        "14 allergens",
+        "allergen information"
+      ],
+      "type": "statutory",
+      "definition": "Foods some people react badly to, like nuts or milk. Places that give out food must say if their food contains them.",
+      "source": "Food Standards Agency — Food allergy and intolerance",
+      "source_url": "https://www.food.gov.uk/safety-hygiene/food-allergy-and-intolerance",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "use-by-best-before",
+      "term": "Use-by and best-before dates",
+      "abbr": null,
+      "full_term": "Use-by and best-before dates",
+      "aliases": [
+        "Use-by date",
+        "best-before date",
+        "use by",
+        "best before",
+        "date labels"
+      ],
+      "type": "substantive",
+      "definition": "'Use by' means do not eat it after that date. 'Best before' means it is still fine to eat after the date, but may not be as nice.",
+      "source": "Food Standards Agency — Best before and use-by dates",
+      "source_url": "https://www.food.gov.uk/safety-hygiene/best-before-and-use-by-dates",
       "org_ref": null,
       "org_ref_url": null,
       "context_note": null,

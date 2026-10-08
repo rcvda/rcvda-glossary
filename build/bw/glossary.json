@@ -109,6 +109,70 @@
       "groups": null
     },
     {
+      "id": "dropped-kerb",
+      "term": "Dropped kerb",
+      "abbr": null,
+      "full_term": "Dropped kerb",
+      "aliases": [
+        "Dropped kerb",
+        "dropped curb",
+        "kerb ramp"
+      ],
+      "type": "substantive",
+      "definition": "A place where the kerb is lowered to road level, so wheelchairs, buggies and bikes can cross easily.",
+      "source": "Department for Transport — Inclusive Mobility (2021)",
+      "source_url": "https://www.gov.uk/government/publications/inclusive-mobility-making-transport-accessible-for-passengers-and-pedestrians",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "mobility-scooter",
+      "term": "Mobility scooter",
+      "abbr": null,
+      "full_term": "Mobility scooter",
+      "aliases": [
+        "Mobility scooter",
+        "powered wheelchair",
+        "invalid carriage",
+        "class 2",
+        "class 3"
+      ],
+      "type": "statutory",
+      "definition": "A small electric vehicle for people who find walking hard. Some can only go on pavements. Bigger ones can also use roads.",
+      "source": "Use of Invalid Carriages on Highways Regulations 1988; The Highway Code, rules 36–46",
+      "source_url": "https://www.gov.uk/guidance/the-highway-code/rules-for-users-of-powered-wheelchairs-and-mobility-scooters-36-to-46",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "blue-badge",
+      "term": "Blue Badge",
+      "abbr": null,
+      "full_term": "Blue Badge",
+      "aliases": [
+        "Blue Badge",
+        "disabled parking badge"
+      ],
+      "type": "statutory",
+      "definition": "A permit that lets disabled people park closer to where they are going.",
+      "source": "Chronically Sick and Disabled Persons Act 1970, s.21; GOV.UK — Apply for or renew a Blue Badge",
+      "source_url": "https://www.gov.uk/apply-blue-badge",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
       "id": "beach-wheelchair",
       "term": "Beach wheelchair",
       "abbr": null,
@@ -122,6 +186,130 @@
       "definition": "A wheelchair with big, wide tyres that can roll over sand. Someone usually pushes it for you.",
       "source": null,
       "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "all-terrain-wheelchair",
+      "term": "All-terrain wheelchair",
+      "abbr": null,
+      "full_term": "All-terrain wheelchair",
+      "aliases": [
+        "All-terrain wheelchair",
+        "off-road wheelchair"
+      ],
+      "type": "substantive",
+      "definition": "A wheelchair made for rough ground, like grass, gravel, mud or sand.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "attendant-propelled-wheelchair",
+      "term": "Attendant-propelled wheelchair",
+      "abbr": null,
+      "full_term": "Attendant-propelled wheelchair",
+      "aliases": [
+        "Attendant-propelled wheelchair",
+        "attendant-controlled wheelchair",
+        "transit wheelchair"
+      ],
+      "type": "substantive",
+      "definition": "A wheelchair that another person pushes, because the wheels are too small to push yourself.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "carer",
+      "term": "Carer",
+      "abbr": null,
+      "full_term": "Carer",
+      "aliases": [
+        "Carer",
+        "unpaid carer",
+        "carers"
+      ],
+      "type": "statutory",
+      "definition": "Someone who looks after a family member or friend who needs help, without being paid for it.",
+      "source": "Care Act 2014, s.10",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2014/23/section/10",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "changing-places-toilet",
+      "term": "Changing Places toilet",
+      "abbr": null,
+      "full_term": "Changing Places toilet",
+      "aliases": [
+        "Changing Places",
+        "Changing Places toilet"
+      ],
+      "type": "substantive",
+      "definition": "A big accessible toilet with a hoist and a changing bench, for people who need more help than a normal accessible toilet gives.",
+      "source": "Changing Places Consortium; Building Regulations Approved Document M (2021 amendment)",
+      "source_url": "https://www.changing-places.org/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "radar-key",
+      "term": "RADAR key",
+      "abbr": "NKS",
+      "full_term": "National Key Scheme key",
+      "aliases": [
+        "RADAR key",
+        "Radar key",
+        "NKS key",
+        "National Key Scheme"
+      ],
+      "type": "substantive",
+      "definition": "A special key that opens locked accessible toilets around the UK.",
+      "source": "Disability Rights UK — National Key Scheme",
+      "source_url": "https://www.disabilityrightsuk.org/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "reasonable-adjustments",
+      "term": "Reasonable adjustments",
+      "abbr": null,
+      "full_term": "Reasonable adjustments",
+      "aliases": [
+        "Reasonable adjustments",
+        "reasonable adjustment"
+      ],
+      "type": "statutory",
+      "definition": "Changes that organisations must make so disabled people can use their services, like adding a ramp.",
+      "source": "Equality Act 2010, s.20",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2010/15/section/20",
       "org_ref": null,
       "org_ref_url": null,
       "context_note": null,
@@ -150,6 +338,91 @@
       "groups": null
     },
     {
+      "id": "rnli",
+      "term": "RNLI",
+      "abbr": "RNLI",
+      "full_term": "Royal National Lifeboat Institution",
+      "aliases": [
+        "RNLI",
+        "Royal National Lifeboat Institution"
+      ],
+      "type": "organisation",
+      "definition": "The charity that runs lifeboats and beach lifeguards around the UK coast.",
+      "source": "RNLI",
+      "source_url": "https://rnli.org/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "beach-safety-flags",
+      "term": "Beach safety flags",
+      "abbr": null,
+      "full_term": "Beach safety flags",
+      "aliases": [
+        "Beach safety flags",
+        "red and yellow flags",
+        "red flag",
+        "lifeguard flags"
+      ],
+      "type": "substantive",
+      "definition": "Flags on the beach that show where it is safe to swim. Swim between the red and yellow flags. Never go in the sea when a red flag is flying.",
+      "source": "RNLI — beach safety flags",
+      "source_url": "https://rnli.org/safety/know-the-flags",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "tide-times",
+      "term": "Tide times",
+      "abbr": null,
+      "full_term": "Tide times",
+      "aliases": [
+        "Tide times",
+        "tide table",
+        "high tide",
+        "low tide"
+      ],
+      "type": "substantive",
+      "definition": "The times when the sea comes in (high tide) and goes out (low tide). They change every day.",
+      "source": "UK Hydrographic Office — Admiralty EasyTide predictions",
+      "source_url": "https://easytide.admiralty.co.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "promenade",
+      "term": "Promenade",
+      "abbr": null,
+      "full_term": "Promenade",
+      "aliases": [
+        "Promenade",
+        "prom",
+        "esplanade"
+      ],
+      "type": "substantive",
+      "definition": "A wide, flat path that runs along the seafront.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
       "id": "gift-aid",
       "term": "Gift Aid",
       "abbr": null,
@@ -161,6 +434,48 @@
       "definition": "If you pay UK tax and say yes to Gift Aid, the charity gets an extra 25p from the government for every £1 you give.",
       "source": "GOV.UK — Gift Aid",
       "source_url": "https://www.gov.uk/donating-to-charity/gift-aid",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "volunteer",
+      "term": "Volunteer",
+      "abbr": null,
+      "full_term": "Volunteer",
+      "aliases": [
+        "Volunteer",
+        "volunteers",
+        "volunteering"
+      ],
+      "type": "substantive",
+      "definition": "Someone who gives their time to help, without being paid.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "tactile-paving",
+      "term": "Tactile paving",
+      "abbr": null,
+      "full_term": "Tactile paving",
+      "aliases": [
+        "Tactile paving",
+        "blister paving",
+        "corduroy paving"
+      ],
+      "type": "substantive",
+      "definition": "Bumpy paving at crossings and edges that people with sight loss can feel with their feet or a cane.",
+      "source": "Department for Transport — Guidance on the use of tactile paving surfaces",
+      "source_url": "https://www.gov.uk/government/publications/guidance-on-the-use-of-tactile-paving-surfaces",
       "org_ref": null,
       "org_ref_url": null,
       "context_note": null,
@@ -190,6 +505,131 @@
       "groups": null
     },
     {
+      "id": "hidden-disabilities-sunflower",
+      "term": "Hidden Disabilities Sunflower",
+      "abbr": null,
+      "full_term": "Hidden Disabilities Sunflower",
+      "aliases": [
+        "Hidden Disabilities Sunflower",
+        "sunflower lanyard",
+        "Sunflower lanyard"
+      ],
+      "type": "substantive",
+      "definition": "A sunflower lanyard or badge that shows someone has a disability you cannot see, and may need help or more time.",
+      "source": "Hidden Disabilities Sunflower",
+      "source_url": "https://hdsunflower.com/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "social-model-of-disability",
+      "term": "Social model of disability",
+      "abbr": null,
+      "full_term": "Social model of disability",
+      "aliases": [
+        "Social model of disability",
+        "social model"
+      ],
+      "type": "substantive",
+      "definition": "The idea that people are disabled by things like steps and attitudes, not by their bodies or minds.",
+      "source": "Scope — the social model of disability",
+      "source_url": "https://www.scope.org.uk/social-model-of-disability",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "accessible-beach",
+      "term": "Accessible beach",
+      "abbr": null,
+      "full_term": "Accessible beach",
+      "aliases": [
+        "Accessible beach",
+        "accessible beaches"
+      ],
+      "type": "substantive",
+      "definition": "A beach that is easier for disabled people to get to and enjoy.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "slipway",
+      "term": "Slipway",
+      "abbr": null,
+      "full_term": "Slipway",
+      "aliases": [
+        "Slipway",
+        "slip",
+        "ramp"
+      ],
+      "type": "substantive",
+      "definition": "A ramp down to the beach, first built for boats. It is often the way onto the sand with no steps.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "rip-current",
+      "term": "Rip current",
+      "abbr": null,
+      "full_term": "Rip current",
+      "aliases": [
+        "Rip current",
+        "rip",
+        "rip tide"
+      ],
+      "type": "substantive",
+      "definition": "A strong flow of water that pulls out to sea and can sweep people away from the beach.",
+      "source": "RNLI — rip currents",
+      "source_url": "https://rnli.org/safety/know-the-risks/rip-currents",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "hm-coastguard",
+      "term": "HM Coastguard",
+      "abbr": null,
+      "full_term": "HM Coastguard",
+      "aliases": [
+        "HM Coastguard",
+        "Coastguard",
+        "Maritime and Coastguard Agency",
+        "MCA"
+      ],
+      "type": "organisation",
+      "definition": "The emergency service for the sea and coast. If someone is in trouble at the beach, call 999 and ask for the Coastguard.",
+      "source": "GOV.UK — Maritime and Coastguard Agency",
+      "source_url": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
       "id": "mobility-aid",
       "term": "Mobility aid",
       "abbr": null,
@@ -201,6 +641,27 @@
       ],
       "type": "substantive",
       "definition": "Something that helps you get about, like a walking stick, a frame or a wheelchair.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "rollator",
+      "term": "Rollator",
+      "abbr": null,
+      "full_term": "Rollator",
+      "aliases": [
+        "Rollator",
+        "wheeled walker",
+        "walking frame with wheels"
+      ],
+      "type": "substantive",
+      "definition": "A walking frame with wheels, brakes and often a seat.",
       "source": null,
       "source_url": null,
       "org_ref": null,
