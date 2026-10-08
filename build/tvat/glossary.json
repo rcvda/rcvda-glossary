@@ -248,6 +248,196 @@
       "short_name": null,
       "order": null,
       "groups": null
+    },
+    {
+      "id": "active-travel-england",
+      "term": "Active Travel England",
+      "abbr": "ATE",
+      "full_term": "Active Travel England",
+      "aliases": [
+        "Active Travel England",
+        "ATE"
+      ],
+      "type": "organisation",
+      "definition": "The government body that pays for and checks walking, wheeling and cycling schemes in England.",
+      "source": "GOV.UK — Active Travel England",
+      "source_url": "https://www.gov.uk/government/organisations/active-travel-england",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "national-cycle-network",
+      "term": "National Cycle Network",
+      "abbr": "NCN",
+      "full_term": "National Cycle Network",
+      "aliases": [
+        "National Cycle Network",
+        "NCN"
+      ],
+      "type": "substantive",
+      "definition": "A network of signed routes across the UK for walking, wheeling and cycling.",
+      "source": "Sustrans — the National Cycle Network",
+      "source_url": "https://www.sustrans.org.uk/national-cycle-network",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "bikeability",
+      "term": "Bikeability",
+      "abbr": null,
+      "full_term": "Bikeability",
+      "aliases": [
+        "Bikeability",
+        "cycle training"
+      ],
+      "type": "substantive",
+      "definition": "Cycle training, often run through schools, that teaches people how to ride safely on roads.",
+      "source": "The Bikeability Trust; Department for Transport National Standard for Cycle Training",
+      "source_url": "https://www.bikeability.org.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "e-bike",
+      "term": "E-bike",
+      "abbr": "EAPC",
+      "full_term": "Electrically assisted pedal cycle",
+      "aliases": [
+        "E-bike",
+        "e-bikes",
+        "EAPC",
+        "electric bike",
+        "electrically assisted pedal cycle"
+      ],
+      "type": "statutory",
+      "definition": "A bike with a small electric motor that helps you as you pedal. You must be 14 or over to ride one.",
+      "source": "Electrically Assisted Pedal Cycles Regulations 1983 (as amended); GOV.UK — Electric bike rules",
+      "source_url": "https://www.gov.uk/electric-bike-rules",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "hierarchy-of-road-users",
+      "term": "Hierarchy of road users",
+      "abbr": null,
+      "full_term": "Hierarchy of road users",
+      "aliases": [
+        "Hierarchy of road users",
+        "road user hierarchy"
+      ],
+      "type": "substantive",
+      "definition": "A Highway Code rule. People driving bigger, faster vehicles must take the most care, because they could cause the most harm.",
+      "source": "The Highway Code, introduction, rules H1–H3",
+      "source_url": "https://www.gov.uk/guidance/the-highway-code/introduction",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "cycle-hire-scheme",
+      "term": "Cycle hire scheme",
+      "abbr": null,
+      "full_term": "Cycle hire scheme",
+      "aliases": [
+        "Cycle hire scheme",
+        "bike hire",
+        "bike share",
+        "cycle share",
+        "e-bike hire"
+      ],
+      "type": "substantive",
+      "definition": "A way to rent a bike for a short trip, often using a phone app.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "public-right-of-way",
+      "term": "Public right of way",
+      "abbr": "PROW",
+      "full_term": "Public right of way",
+      "aliases": [
+        "Public right of way",
+        "PROW",
+        "PRoW",
+        "rights of way",
+        "definitive map"
+      ],
+      "type": "statutory",
+      "definition": "A path everyone has the right to use, shown on the council's official map.",
+      "source": "Wildlife and Countryside Act 1981, s.53 (definitive map and statement)",
+      "source_url": "https://www.legislation.gov.uk/ukpga/1981/69/section/53",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "rights-of-way-improvement-plan",
+      "term": "Rights of Way Improvement Plan",
+      "abbr": "ROWIP",
+      "full_term": "Rights of Way Improvement Plan",
+      "aliases": [
+        "Rights of Way Improvement Plan",
+        "ROWIP"
+      ],
+      "type": "statutory",
+      "definition": "A council's plan to make public paths better for walkers, cyclists, horse riders and disabled people.",
+      "source": "Countryside and Rights of Way Act 2000, s.60",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2000/37/section/60",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "mobility-aid",
+      "term": "Mobility aid",
+      "abbr": null,
+      "full_term": "Mobility aid",
+      "aliases": [
+        "Mobility aid",
+        "mobility aids",
+        "mobility equipment"
+      ],
+      "type": "substantive",
+      "definition": "Something that helps you get about, like a walking stick, a frame or a wheelchair.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
     }
   ]
 }

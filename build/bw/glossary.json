@@ -107,6 +107,108 @@
       "short_name": null,
       "order": null,
       "groups": null
+    },
+    {
+      "id": "beach-wheelchair",
+      "term": "Beach wheelchair",
+      "abbr": null,
+      "full_term": "Beach wheelchair",
+      "aliases": [
+        "Beach wheelchair",
+        "beach wheelchairs",
+        "sand wheelchair"
+      ],
+      "type": "substantive",
+      "definition": "A wheelchair with big, wide tyres that can roll over sand. Someone usually pushes it for you.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "disability",
+      "term": "Disability",
+      "abbr": null,
+      "full_term": "Disability",
+      "aliases": [
+        "Disability",
+        "disabled"
+      ],
+      "type": "statutory",
+      "definition": "A health condition or impairment that makes everyday tasks a lot harder, and has lasted or will probably last a year or more.",
+      "source": "Equality Act 2010, s.6 and Schedule 1",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2010/15/section/6",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "gift-aid",
+      "term": "Gift Aid",
+      "abbr": null,
+      "full_term": "Gift Aid",
+      "aliases": [
+        "Gift Aid"
+      ],
+      "type": "statutory",
+      "definition": "If you pay UK tax and say yes to Gift Aid, the charity gets an extra 25p from the government for every £1 you give.",
+      "source": "GOV.UK — Gift Aid",
+      "source_url": "https://www.gov.uk/donating-to-charity/gift-aid",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "accessible-toilet",
+      "term": "Accessible toilet",
+      "abbr": null,
+      "full_term": "Accessible toilet",
+      "aliases": [
+        "Accessible toilet",
+        "disabled toilet",
+        "wheelchair-accessible toilet"
+      ],
+      "type": "substantive",
+      "definition": "A bigger toilet with rails and an alarm cord, made for disabled people.",
+      "source": "Building Regulations Approved Document M",
+      "source_url": "https://www.gov.uk/government/publications/access-to-and-use-of-buildings-approved-document-m",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "mobility-aid",
+      "term": "Mobility aid",
+      "abbr": null,
+      "full_term": "Mobility aid",
+      "aliases": [
+        "Mobility aid",
+        "mobility aids",
+        "mobility equipment"
+      ],
+      "type": "substantive",
+      "definition": "Something that helps you get about, like a walking stick, a frame or a wheelchair.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
     }
   ]
 }

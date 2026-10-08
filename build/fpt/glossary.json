@@ -170,6 +170,321 @@
       "short_name": null,
       "order": null,
       "groups": null
+    },
+    {
+      "id": "gift-aid",
+      "term": "Gift Aid",
+      "abbr": null,
+      "full_term": "Gift Aid",
+      "aliases": [
+        "Gift Aid"
+      ],
+      "type": "statutory",
+      "definition": "If you pay UK tax and say yes to Gift Aid, the charity gets an extra 25p from the government for every £1 you give.",
+      "source": "GOV.UK — Gift Aid",
+      "source_url": "https://www.gov.uk/donating-to-charity/gift-aid",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "food-partnership",
+      "term": "Food partnership",
+      "abbr": null,
+      "full_term": "Food partnership",
+      "aliases": [
+        "Food partnership",
+        "local food partnership"
+      ],
+      "type": "substantive",
+      "definition": "A group of local organisations working together so everyone can get good food.",
+      "source": "Sustainable Food Places",
+      "source_url": "https://www.sustainablefoodplaces.org/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": "Food Power Together is the food partnership for Redcar and Cleveland.",
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "sustainable-food-places",
+      "term": "Sustainable Food Places",
+      "abbr": "SFP",
+      "full_term": "Sustainable Food Places",
+      "aliases": [
+        "Sustainable Food Places",
+        "SFP"
+      ],
+      "type": "organisation",
+      "definition": "A national network that links food partnerships across the UK.",
+      "source": "Sustainable Food Places",
+      "source_url": "https://www.sustainablefoodplaces.org/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "food-insecurity",
+      "term": "Food insecurity",
+      "abbr": null,
+      "full_term": "Food insecurity",
+      "aliases": [
+        "Food insecurity",
+        "food poverty",
+        "food security"
+      ],
+      "type": "substantive",
+      "definition": "Not being sure you can afford or get enough good food.",
+      "source": "DWP — Family Resources Survey (household food security)",
+      "source_url": "https://www.gov.uk/government/collections/family-resources-survey--2",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "food-bank",
+      "term": "Food bank",
+      "abbr": null,
+      "full_term": "Food bank",
+      "aliases": [
+        "Food bank",
+        "foodbank",
+        "foodbanks",
+        "food banks"
+      ],
+      "type": "substantive",
+      "definition": "A place that gives free emergency food to people in a crisis. You usually need a voucher from a support worker.",
+      "source": "Trussell",
+      "source_url": "https://www.trussell.org.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "social-supermarket",
+      "term": "Social supermarket",
+      "abbr": null,
+      "full_term": "Social supermarket",
+      "aliases": [
+        "Social supermarket",
+        "social supermarkets",
+        "community grocery",
+        "community supermarket"
+      ],
+      "type": "substantive",
+      "definition": "A shop selling food and basics at low prices, often for members.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "food-pantry",
+      "term": "Food pantry",
+      "abbr": null,
+      "full_term": "Food pantry",
+      "aliases": [
+        "Food pantry",
+        "pantry",
+        "pantries",
+        "food club"
+      ],
+      "type": "substantive",
+      "definition": "A food club. You pay a small amount each week and choose food worth a lot more.",
+      "source": "Your Local Pantry",
+      "source_url": "https://www.yourlocalpantry.co.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "eco-shop",
+      "term": "Eco shop",
+      "abbr": null,
+      "full_term": "Eco shop",
+      "aliases": [
+        "Eco shop",
+        "eco shops"
+      ],
+      "type": "substantive",
+      "definition": "A low-cost shop selling spare food that would otherwise be thrown away.",
+      "source": "Food Power Together service directory (local usage)",
+      "source_url": "https://www.foodpowertogether.org.uk/food-support/south-bank-eco-shop/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "community-fridge",
+      "term": "Community fridge",
+      "abbr": null,
+      "full_term": "Community fridge",
+      "aliases": [
+        "Community fridge",
+        "community fridges"
+      ],
+      "type": "substantive",
+      "definition": "A fridge in a community space where anyone can take or leave spare food for free.",
+      "source": "Hubbub — Community Fridge Network",
+      "source_url": "https://www.hubbub.org.uk/community-fridge-network",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "community-meal",
+      "term": "Community meal",
+      "abbr": null,
+      "full_term": "Community meal",
+      "aliases": [
+        "Community meal",
+        "hot food",
+        "community café",
+        "lunch club"
+      ],
+      "type": "substantive",
+      "definition": "A free or cheap hot meal you can eat with other people at a community place.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "community-growing-space",
+      "term": "Community growing space",
+      "abbr": null,
+      "full_term": "Community growing space",
+      "aliases": [
+        "Community growing space",
+        "growing space",
+        "community garden",
+        "allotment"
+      ],
+      "type": "substantive",
+      "definition": "A shared garden where local people grow fruit and vegetables together.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "holiday-activities-and-food",
+      "term": "Holiday Activities and Food programme",
+      "abbr": "HAF",
+      "full_term": "Holiday Activities and Food programme",
+      "aliases": [
+        "HAF",
+        "Holiday Activities and Food",
+        "HAF programme"
+      ],
+      "type": "local-programme",
+      "definition": "Free holiday clubs with healthy meals for children who get free school meals.",
+      "source": "Department for Education — Holiday activities and food programme",
+      "source_url": "https://www.gov.uk/government/publications/holiday-activities-and-food-programme",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "fuel-poverty",
+      "term": "Fuel poverty",
+      "abbr": null,
+      "full_term": "Fuel poverty",
+      "aliases": [
+        "Fuel poverty",
+        "fuel poor",
+        "heat or eat"
+      ],
+      "type": "statutory",
+      "definition": "When a family cannot afford to heat their home properly, often because the home is hard to keep warm.",
+      "source": "Department for Energy Security and Net Zero — Fuel poverty statistics",
+      "source_url": "https://www.gov.uk/government/collections/fuel-poverty-statistics",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "community-cooking-session",
+      "term": "Community cooking session",
+      "abbr": null,
+      "full_term": "Community cooking session",
+      "aliases": [
+        "Community cooking session",
+        "cook and eat",
+        "cookery class",
+        "cooking on a budget"
+      ],
+      "type": "substantive",
+      "definition": "A group where you learn to cook cheap, healthy meals, and often eat them together.",
+      "source": null,
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "food-co-op",
+      "term": "Food co-op",
+      "abbr": null,
+      "full_term": "Food co-op",
+      "aliases": [
+        "Food co-op",
+        "food cooperative",
+        "food buying group"
+      ],
+      "type": "substantive",
+      "definition": "A group of people who club together to buy food in bulk, so it costs less.",
+      "source": "Sustain — food co-ops",
+      "source_url": "https://www.sustainweb.org/foodcoops/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
     }
   ]
 }
