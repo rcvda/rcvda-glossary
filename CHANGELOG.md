@@ -1,5 +1,14 @@
 # Changelog — rcvda-glossary
 
+## 2026-10-08 — New lenses: `tvat`, `bw`, `fpt` (rcvda-core OA § 34)
+- **Three new plain-register lenses** registered in `contexts.yml` (programme + context): `tvat` (Tees Valley Active Travel), `bw` (Beach Wheelchairs), `fpt` (Food Power Together). Flat A–Z, no `group_order`.
+- **94 new terms drafted, all `agreed: n`** (held back from every feed until signed off): 34 active-travel terms (tvat), 25 beach-access terms (bw), 35 food-support terms (fpt), with some shared between lenses (e.g. Wheeling, Dropped kerb, Mobility scooter, Blue Badge, Tactile paving and Mobility aid in tvat + bw; Gift Aid and Volunteer in bw + fpt). Lens totals once agreed: tvat 47, bw 35, fpt 45. Each has a definition, a reading-age-10 `plain` form and, where one exists, a primary source. Sign-off sheet regenerated at `tools/agreed_review.csv` (fill `decision`, run `tools/apply_review.py`, rebuild).
+- **Shared local context** scoped into all three: RCVDA, Redcar and Cleveland Borough Council, VCFSE, Tees Valley, TVCA. `tvat` also takes the other four Tees Valley councils, Sustrans, DfT and the Active Lives Survey; `fpt` takes Tees Valley Rural Action, Citizens Advice DRC and Universal Credit.
+- **`plain` forms added** to 13 existing agreed terms that had none (VCFSE, Tees Valley, TVCA, the four other councils, Sustrans, DfT, Active Lives Survey, TVRA, Citizens Advice DRC, Universal Credit). These go live straight away in the new lenses only (no other plain-register lens includes them), so worth a read alongside the review sheet.
+- **Context notes** added for the new lenses: RCVDA (`fpt`, `bw`), TVRA (`fpt`), plus `fpt` notes on Food partnership and Food bank voucher.
+- Rebuilt via `build.py`: estate master 438 entries, 12 lenses, no validation errors. Until the drafts are agreed the new feeds carry only the shared terms (`tvat` 12, `bw` 5, `fpt` 8).
+- Deploy: commit + push so jsDelivr serves `build/{tvat,bw,fpt}/glossary.json`; rcvda-core must also allow-list the three lenses.
+
 ## 2026-09-06 — Multiple-disadvantage cluster: prevalence figures + MEAM framing
 - **SMD (`severe-and-multiple-disadvantage-smd`)**: added the Hard Edges (2015) prevalence estimates to the definition — 58,000 adults in England experiencing all three domains in any one year, ~164,000 two of the three, ~586,000 across all SMD categories (2010/11 data). Kept as the named Hard Edges term.
 - **MD (`multiple-disadvantage-md`)**: definition left atomic (per CONTRIBUTING "definition = atomic identity"); added a `clr` **context note** carrying the MEAM systemic-not-individual framing (rooted in poverty, trauma, abuse, neglect; compounded by discrimination) and the gendered dimension (women over-represented at the sharpest end — Gender Matters 2020).

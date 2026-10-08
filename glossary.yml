@@ -1686,6 +1686,7 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-LAE-MDB
   scope:
   - rcvda
+  - tvat
   agreed: y
   context_notes:
     clr: With Redcar & Cleveland Borough Council, one of the two authorities that make up South 
@@ -1695,6 +1696,7 @@
     rcvda:
     - Organisations
     - Tees Valley
+  plain: "The local council for the Middlesbrough area."
 - term: Multiple disadvantage (MD)
   id: multiple-disadvantage-md
   abbr: MD
@@ -2173,12 +2175,17 @@
   - clr.tip
   - rcvda
   - bof
+  - tvat
+  - bw
+  - fpt
   note: Full name first, then acronym, per BRAND.md §4.
   agreed: y
   plain: The local charity that supports voluntary and community groups across Redcar & Cleveland.
   context_notes:
     clr: The publishing host of this deep-dive series.
     bof: Runs the Building our Futures programme.
+    fpt: "Co-convenes Food Power Together and hosts the partnership."
+    bw: "Beach Wheelchairs is run on behalf of RCVDA."
   groups:
     bof:
     - Programme and partners
@@ -2233,6 +2240,9 @@
   scope:
   - rcvda
   - bof
+  - tvat
+  - bw
+  - fpt
   agreed: y
   plain: The local council for the Redcar and Cleveland area.
   context_notes:
@@ -2584,6 +2594,7 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-LAE-STT
   scope:
   - rcvda
+  - tvat
   agreed: y
   context_notes:
     clr.hf: A member of the Tees Valley Lettings Partnership, though outside the South Tees 
@@ -2592,6 +2603,7 @@
     rcvda:
     - Organisations
     - Tees Valley
+  plain: "The local council for the Stockton-on-Tees area."
 - term: SWE
   id: swe
   abbr: SWE
@@ -2640,8 +2652,12 @@
   org_ref_url:
   scope:
   - clr.hf
+  - tvat
+  - bw
+  - fpt
   note: ''
   agreed: y
+  plain: "The area made up of five council areas: Middlesbrough, Redcar & Cleveland, Stockton-on-Tees, Hartlepool and Darlington."
 - term: Tees Valley Lettings Partnership (TVLP)
   id: tees-valley-lettings-partnership-tvlp
   abbr: TVLP
@@ -2893,6 +2909,9 @@
   scope:
   - clr.hf
   - rcvda
+  - tvat
+  - bw
+  - fpt
   note: 'Dual reference: established by statutory order (SI 2016/449) under the Local Democracy, Economic
     Development and Construction Act 2009, and referenced by its org ID GB-LAE-TVCA.'
   agreed: y
@@ -2900,6 +2919,7 @@
     rcvda:
     - Organisations
     - Tees Valley
+  plain: "The body led by the Tees Valley Mayor that works across all five Tees Valley council areas on things like transport, jobs and skills."
 - term: TVHF (Tees Valley Home Finder)
   id: tvhf-tees-valley-home-finder
   abbr: TVHF
@@ -2939,6 +2959,9 @@
   - clr.md
   - clr.tip
   - rcvda
+  - tvat
+  - bw
+  - fpt
   note: VCFSE is the house standard across the reports (used far more than VCSE); VCSE is folded in 
     as a match-form. 'VCSE Forum' remains a proper name where a report cites that specific body.
   agreed: y
@@ -2948,6 +2971,7 @@
     rcvda:
     - Terms
     - VCSE
+  plain: "Charities, community groups, faith groups and social enterprises: groups that exist to help people, not to make money for owners."
 - term: Vicarious trauma
   id: vicarious-trauma
   abbr: ''
@@ -3135,11 +3159,13 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-LAE-DAL
   scope:
   - rcvda
+  - tvat
   agreed: y
   groups:
     rcvda:
     - Organisations
     - Tees Valley
+  plain: "The local council for the Darlington area."
 - term: Hartlepool Borough Council
   id: hartlepool-borough-council
   abbr: ''
@@ -3153,11 +3179,13 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-LAE-HPL
   scope:
   - rcvda
+  - tvat
   agreed: y
   groups:
     rcvda:
     - Organisations
     - Tees Valley
+  plain: "The local council for the Hartlepool area."
 - term: Sustrans
   id: sustrans
   abbr: ''
@@ -3172,12 +3200,14 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-326550
   scope:
   - rcvda
+  - tvat
   agreed: y
   note: Registered charity 326550, now named Walk Wheel Cycle Trust (formerly Sustrans).
   groups:
     rcvda:
     - Organisations
     - Tees Valley
+  plain: "A charity that makes it easier for people to walk, wheel and cycle. It looks after the National Cycle Network."
 - term: Tees Valley Rural Action
   id: tees-valley-rural-action
   abbr: TVRA
@@ -3192,11 +3222,15 @@
   org_ref_url: https://findthatcharity.uk/orgid/GB-CHC-1080282
   scope:
   - rcvda
+  - fpt
   agreed: y
   groups:
     rcvda:
     - Organisations
     - Tees Valley
+  plain: "A charity that supports villages, rural communities and community groups across the Tees Valley."
+  context_notes:
+    fpt: "Co-convenes Food Power Together."
 - term: VONNE
   id: vonne
   abbr: VONNE
@@ -3679,11 +3713,13 @@
   org_ref_url:
   scope:
   - rcvda
+  - fpt
   agreed: y
   groups:
     rcvda:
     - Terms
     - DWP
+  plain: "The main benefit for people of working age who are on a low income or out of work. It is paid monthly."
 - term: Community Psychiatric Nurse
   id: community-psychiatric-nurse
   abbr: CPN
@@ -5682,6 +5718,7 @@
   scope:
   - rcvda
   - jsna
+  - tvat
   groups:
     rcvda:
     - Organisations
@@ -5692,6 +5729,7 @@
   agreed: y
 
 # [High · cited 9×]  # proposed scope: rcvda -> [Statistics & data sources] (new) or jsna lens
+  plain: "The government department in charge of transport, such as roads, railways and buses."
 - term: NDTMS
   id: ndtms
   abbr: NDTMS
@@ -5885,6 +5923,7 @@
   scope:
   - rcvda
   - jsna
+  - tvat
   groups:
     rcvda:
     - Terms
@@ -5895,6 +5934,7 @@
   agreed: y
 
 # [High · cited 2×]  # proposed scope: rcvda -> [Organisations, Nationally]
+  plain: "A big national survey that asks people in England how active they are."
 - term: Natural England
   id: natural-england
   abbr: ''
@@ -6587,6 +6627,7 @@
   scope:
   - rcvda
   - jsna
+  - fpt
   groups:
     rcvda:
     - Organisations
@@ -6599,6 +6640,7 @@
   agreed: y
 
 # [Medium · cited 4×]  # proposed scope: rcvda -> [Organisations, Nationally]
+  plain: "The local Citizens Advice. It gives free help with money, benefits, debt and housing in Darlington, Redcar and Cleveland."
 - term: PE Scholar
   id: pe-scholar
   abbr: ''
@@ -7027,3 +7069,1698 @@
   note: The designated Employer Representative Body for the Tees Valley [[Local Skills Improvement 
     Plan]], which it holds jointly with the [[TVCA]].
   agreed: y
+- term: Active travel
+  id: active-travel
+  abbr: ''
+  full_term: Active travel
+  aliases: Active travel|active transport
+  type: substantive
+  definition: Making everyday journeys, or parts of journeys, by physically active means — chiefly 
+    walking, wheeling and cycling — rather than by motor vehicle.
+  source: Department for Transport — The second Cycling and Walking Investment Strategy (CWIS2), 
+    2022
+  source_url: 
+    https://www.gov.uk/government/publications/the-second-cycling-and-walking-investment-strategy
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: Getting about by walking, wheeling or cycling instead of going by car.
+- term: Wheeling
+  id: wheeling
+  abbr: ''
+  full_term: Wheeling
+  aliases: Wheeling|wheel
+  type: substantive
+  definition: Travelling at around walking pace using a wheelchair, mobility scooter, rollator or 
+    other wheeled mobility aid; used alongside 'walking' so that active-travel policy includes 
+    people who do not walk.
+  source: Term used in UK active-travel policy (Sustrans; Wheels for Wellbeing; DfT CWIS2)
+  source_url: 
+    https://www.gov.uk/government/publications/the-second-cycling-and-walking-investment-strategy
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  - bw
+  note: Confirm preferred source wording; the term is widely used but has no single statutory 
+    definition.
+  agreed: n
+  plain: Getting about using a wheelchair, mobility scooter or other wheeled aid, at about walking 
+    speed.
+- term: Active Travel England
+  id: active-travel-england
+  abbr: ATE
+  full_term: Active Travel England
+  aliases: Active Travel England|ATE
+  type: organisation
+  definition: The executive agency of the Department for Transport that sets standards for, funds 
+    and inspects walking, wheeling and cycling schemes in England.
+  source: GOV.UK — Active Travel England
+  source_url: https://www.gov.uk/government/organisations/active-travel-england
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: The government body that pays for and checks walking, wheeling and cycling schemes in 
+    England.
+- term: Cycling and Walking Investment Strategy
+  id: cwis
+  abbr: CWIS
+  full_term: Cycling and Walking Investment Strategy
+  aliases: CWIS|CWIS2|Cycling and Walking Investment Strategy
+  type: statutory
+  definition: The Government's statutory strategy for cycling and walking in England, setting 
+    objectives and the funding available to meet them; required by section 21 of the Infrastructure 
+    Act 2015.
+  source: Infrastructure Act 2015, s.21
+  source_url: https://www.legislation.gov.uk/ukpga/2015/7/section/21
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: The government's long-term plan for more walking and cycling in England, and the money to 
+    pay for it.
+- term: Local Cycling and Walking Infrastructure Plan
+  id: lcwip
+  abbr: LCWIP
+  full_term: Local Cycling and Walking Infrastructure Plan
+  aliases: LCWIP|LCWIPs|Local Cycling and Walking Infrastructure Plan
+  type: method
+  definition: A local authority's long-term plan identifying the cycling and walking routes and 
+    improvements needed in its area, prepared using Department for Transport technical guidance.
+  source: 'Department for Transport — Local Cycling and Walking Infrastructure Plans: technical guidance
+    and tools'
+  source_url: 
+    https://www.gov.uk/government/publications/local-cycling-and-walking-infrastructure-plans-technical-guidance-and-tools
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A council's plan for which walking and cycling routes to build or improve over the next few
+    years.
+- term: LTN 1/20
+  id: ltn-1-20
+  abbr: LTN 1/20
+  full_term: 'Local Transport Note 1/20: Cycle Infrastructure Design'
+  aliases: LTN 1/20|LTN 120|Cycle Infrastructure Design
+  type: method
+  definition: The Department for Transport's national design guidance for cycle infrastructure in 
+    England, setting standards for cycle routes, junctions and cycle parking.
+  source: Department for Transport — Cycle infrastructure design (LTN 1/20), 2020
+  source_url: https://www.gov.uk/government/publications/cycle-infrastructure-design-ltn-120
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: The national guide to designing safe cycle lanes, junctions and bike parking.
+- term: National Cycle Network
+  id: national-cycle-network
+  abbr: NCN
+  full_term: National Cycle Network
+  aliases: National Cycle Network|NCN
+  type: substantive
+  definition: The UK-wide network of signed routes for walking, wheeling and cycling, cared for by 
+    Sustrans.
+  source: Sustrans — the National Cycle Network
+  source_url: https://www.sustrans.org.uk/national-cycle-network
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A network of signed routes across the UK for walking, wheeling and cycling.
+- term: Bikeability
+  id: bikeability
+  abbr: ''
+  full_term: Bikeability
+  aliases: Bikeability|cycle training
+  type: substantive
+  definition: The national cycle-training programme in England, based on the National Standard for 
+    Cycle Training, which teaches practical skills for riding on today's roads across three levels.
+  source: The Bikeability Trust; Department for Transport National Standard for Cycle Training
+  source_url: https://www.bikeability.org.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: Cycle training, often run through schools, that teaches people how to ride safely on roads.
+- term: E-bike
+  id: e-bike
+  abbr: EAPC
+  full_term: Electrically assisted pedal cycle
+  aliases: E-bike|e-bikes|EAPC|electric bike|electrically assisted pedal cycle
+  type: statutory
+  definition: A pedal cycle with an electric motor that assists only while the rider pedals, with a 
+    maximum continuous rated power of 250 watts and assistance that stops at 15.5 mph; in Great 
+    Britain it may be ridden like a pedal cycle by anyone aged 14 or over.
+  source: Electrically Assisted Pedal Cycles Regulations 1983 (as amended); GOV.UK — Electric bike 
+    rules
+  source_url: https://www.gov.uk/electric-bike-rules
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A bike with a small electric motor that helps you as you pedal. You must be 14 or over to 
+    ride one.
+- term: Adapted cycle
+  id: adapted-cycle
+  abbr: ''
+  full_term: Adapted cycle
+  aliases: Adapted cycle|adapted bike|inclusive cycling|handcycle|tricycle
+  type: substantive
+  definition: A cycle designed or modified so that disabled people can ride it, such as a tricycle, 
+    handcycle, recumbent, tandem or wheelchair-transporting cycle.
+  source: Wheels for Wellbeing — inclusive cycling
+  source_url: https://wheelsforwellbeing.org.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A bike made or changed so that disabled people can ride it, like a trike or a bike you 
+    pedal with your hands.
+- term: Cargo bike
+  id: cargo-bike
+  abbr: ''
+  full_term: Cargo bike
+  aliases: Cargo bike|cargo cycle|e-cargo bike
+  type: substantive
+  definition: A cycle built to carry heavy loads or passengers, often in a front box or on a long 
+    rear rack, and often electrically assisted.
+  source: Department for Transport — LTN 1/20 (larger cycles)
+  source_url: https://www.gov.uk/government/publications/cycle-infrastructure-design-ltn-120
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A strong bike made for carrying shopping, goods or children.
+- term: Sheffield stand
+  id: sheffield-stand
+  abbr: ''
+  full_term: Sheffield stand
+  aliases: Sheffield stand|cycle stand|bike rack
+  type: substantive
+  definition: A fixed steel stand shaped like an upturned 'U', to which two cycles can be locked by 
+    the frame and a wheel; the commonest form of public cycle parking in the UK.
+  source: Department for Transport — LTN 1/20, chapter 11 (cycle parking)
+  source_url: https://www.gov.uk/government/publications/cycle-infrastructure-design-ltn-120
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A metal hoop fixed in the ground that you can lock a bike to. Each one holds two bikes.
+- term: Secure cycle parking
+  id: secure-cycle-parking
+  abbr: ''
+  full_term: Secure cycle parking
+  aliases: Secure cycle parking|cycle hub|cycle locker|bike locker
+  type: substantive
+  definition: Cycle parking inside a locked or staffed space, such as a cycle hub, compound or 
+    locker, where access is controlled, giving more protection from theft than open stands.
+  source: Department for Transport — LTN 1/20, chapter 11 (cycle parking)
+  source_url: https://www.gov.uk/government/publications/cycle-infrastructure-design-ltn-120
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: Matches the 'Secure cycle parking' category in the Tees Valley cycle-parking dataset.
+  agreed: n
+  plain: A locked or staffed place to leave your bike, so it is safer from theft.
+- term: Sheltered cycle parking
+  id: sheltered-cycle-parking
+  abbr: ''
+  full_term: Sheltered cycle parking
+  aliases: Sheltered cycle parking|covered cycle parking
+  type: substantive
+  definition: Cycle stands with a roof or canopy that protects parked cycles from the weather; 
+    usually open to anyone.
+  source: Department for Transport — LTN 1/20, chapter 11 (cycle parking)
+  source_url: https://www.gov.uk/government/publications/cycle-infrastructure-design-ltn-120
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: Matches the 'Public sheltered racks' category in the Tees Valley cycle-parking dataset.
+  agreed: n
+  plain: Bike stands with a roof over them to keep bikes dry.
+- term: Cycle to Work scheme
+  id: cycle-to-work-scheme
+  abbr: ''
+  full_term: Cycle to Work scheme
+  aliases: Cycle to Work scheme|cycle to work|bike to work scheme
+  type: statutory
+  definition: A salary-sacrifice arrangement under which an employer loans cycles and cyclists' 
+    safety equipment to employees free of income tax on the benefit, using the exemption in section 
+    244 of the Income Tax (Earnings and Pensions) Act 2003.
+  source: Income Tax (Earnings and Pensions) Act 2003, s.244; DfT — Cycle to Work scheme 
+    implementation guidance
+  source_url: 
+    https://www.gov.uk/government/publications/cycle-to-work-scheme-implementation-guidance
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A way to get a bike through your job and pay for it a bit at a time from your wages, saving
+    tax.
+- term: Hierarchy of road users
+  id: hierarchy-of-road-users
+  abbr: ''
+  full_term: Hierarchy of road users
+  aliases: Hierarchy of road users|road user hierarchy
+  type: substantive
+  definition: The Highway Code principle, introduced in January 2022, that road users who can cause 
+    the greatest harm have the greatest responsibility to reduce the danger they pose to others, 
+    with pedestrians at the top, then cyclists, horse riders and motorcyclists.
+  source: The Highway Code, introduction, rules H1–H3
+  source_url: https://www.gov.uk/guidance/the-highway-code/introduction
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A Highway Code rule. People driving bigger, faster vehicles must take the most care, 
+    because they could cause the most harm.
+- term: Toucan crossing
+  id: toucan-crossing
+  abbr: ''
+  full_term: Toucan crossing
+  aliases: Toucan crossing|toucan
+  type: substantive
+  definition: A signal-controlled crossing that pedestrians and cyclists can use together; there is 
+    no flashing amber phase, and cyclists may ride across.
+  source: The Highway Code, rule 25
+  source_url: https://www.gov.uk/guidance/the-highway-code/rules-for-pedestrians-1-to-35
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A traffic-light crossing that people walking and people on bikes can both use.
+- term: Advanced stop line
+  id: advanced-stop-line
+  abbr: ASL
+  full_term: Advanced stop line
+  aliases: Advanced stop line|ASL|cycle box|bike box
+  type: substantive
+  definition: A second stop line at traffic lights, set ahead of the main stop line, creating a 
+    reserved area where cyclists can wait in front of motor traffic.
+  source: The Highway Code, rule 178
+  source_url: https://www.gov.uk/guidance/the-highway-code/using-the-road-159-to-203
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A box painted at traffic lights where people on bikes can wait in front of cars.
+- term: Shared-use path
+  id: shared-use-path
+  abbr: ''
+  full_term: Shared-use path
+  aliases: Shared-use path|shared path|shared-use route
+  type: substantive
+  definition: A path away from the carriageway that people walking, wheeling and cycling are all 
+    legally allowed to use, with or without a marked separation between them.
+  source: Department for Transport — LTN 1/20
+  source_url: https://www.gov.uk/government/publications/cycle-infrastructure-design-ltn-120
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A path that people walking and people on bikes are both allowed to use.
+- term: Bridleway
+  id: bridleway
+  abbr: ''
+  full_term: Bridleway
+  aliases: Bridleway|bridle path|public bridleway
+  type: statutory
+  definition: A public right of way on which the public may walk, ride or lead a horse, and ride a 
+    pedal cycle, cyclists giving way to walkers and horse riders.
+  source: Countryside Act 1968, s.30
+  source_url: https://www.legislation.gov.uk/ukpga/1968/41/section/30
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A public path you can walk, cycle or ride a horse along. People on bikes must give way to 
+    walkers and horses.
+- term: Dropped kerb
+  id: dropped-kerb
+  abbr: ''
+  full_term: Dropped kerb
+  aliases: Dropped kerb|dropped curb|kerb ramp
+  type: substantive
+  definition: A section of kerb lowered to the level of the road so that people using wheelchairs, 
+    mobility scooters, pushchairs or cycles can cross without a step; at crossings it is usually 
+    paired with tactile paving.
+  source: Department for Transport — Inclusive Mobility (2021)
+  source_url: 
+    https://www.gov.uk/government/publications/inclusive-mobility-making-transport-accessible-for-passengers-and-pedestrians
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  - bw
+  note: ''
+  agreed: n
+  plain: A place where the kerb is lowered to road level, so wheelchairs, buggies and bikes can 
+    cross easily.
+- term: Modal shift
+  id: modal-shift
+  abbr: ''
+  full_term: Modal shift
+  aliases: Modal shift|mode shift
+  type: substantive
+  definition: A change in the way people make journeys from one mode of transport to another — in 
+    transport policy, usually from the private car to walking, wheeling, cycling or public 
+    transport.
+  source: Standard transport-planning term; used in DfT's Cycling and Walking Investment Strategy
+  source_url: 
+    https://www.gov.uk/government/publications/the-second-cycling-and-walking-investment-strategy
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: When people change how they travel, for example leaving the car at home and cycling 
+    instead.
+- term: Mobility scooter
+  id: mobility-scooter
+  abbr: ''
+  full_term: Mobility scooter
+  aliases: Mobility scooter|powered wheelchair|invalid carriage|class 2|class 3
+  type: statutory
+  definition: A battery-powered vehicle for people with limited mobility; in law an 'invalid 
+    carriage', either Class 2 (for pavements, up to 4 mph) or Class 3 (may also be used on roads at 
+    up to 8 mph, and must be registered with the DVLA).
+  source: Use of Invalid Carriages on Highways Regulations 1988; The Highway Code, rules 36–46
+  source_url: 
+    https://www.gov.uk/guidance/the-highway-code/rules-for-users-of-powered-wheelchairs-and-mobility-scooters-36-to-46
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  - bw
+  note: ''
+  agreed: n
+  plain: A small electric vehicle for people who find walking hard. Some can only go on pavements. 
+    Bigger ones can also use roads.
+- term: Blue Badge
+  id: blue-badge
+  abbr: ''
+  full_term: Blue Badge
+  aliases: Blue Badge|disabled parking badge
+  type: statutory
+  definition: A parking permit for disabled people, issued by local councils, that allows the holder
+    to park closer to their destination, including in some places where others cannot.
+  source: Chronically Sick and Disabled Persons Act 1970, s.21; GOV.UK — Apply for or renew a Blue 
+    Badge
+  source_url: https://www.gov.uk/apply-blue-badge
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  - bw
+  note: ''
+  agreed: n
+  plain: A permit that lets disabled people park closer to where they are going.
+- term: Beach wheelchair
+  id: beach-wheelchair
+  abbr: ''
+  full_term: Beach wheelchair
+  aliases: Beach wheelchair|beach wheelchairs|sand wheelchair
+  type: substantive
+  definition: A wheelchair built to travel over sand, shingle and soft ground, typically with wide, 
+    low-pressure 'balloon' tyres and a sturdy, rust-resistant frame; most are pushed by a companion 
+    rather than self-propelled.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: Generic description; check it matches the chairs the scheme lends (e.g. whether any are 
+    self-propelled or floating).
+  agreed: n
+  plain: A wheelchair with big, wide tyres that can roll over sand. Someone usually pushes it for 
+    you.
+- term: All-terrain wheelchair
+  id: all-terrain-wheelchair
+  abbr: ''
+  full_term: All-terrain wheelchair
+  aliases: All-terrain wheelchair|off-road wheelchair
+  type: substantive
+  definition: A manual or powered wheelchair designed for rough or uneven ground such as grass, 
+    gravel, mud, beaches and countryside paths, using larger, wider or tracked wheels.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: A wheelchair made for rough ground, like grass, gravel, mud or sand.
+- term: Attendant-propelled wheelchair
+  id: attendant-propelled-wheelchair
+  abbr: ''
+  full_term: Attendant-propelled wheelchair
+  aliases: Attendant-propelled wheelchair|attendant-controlled wheelchair|transit wheelchair
+  type: substantive
+  definition: A manual wheelchair designed to be pushed by another person, with push handles and 
+    wheels too small for the user to propel it themselves.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: A wheelchair that another person pushes, because the wheels are too small to push yourself.
+- term: Carer
+  id: carer
+  abbr: ''
+  full_term: Carer
+  aliases: Carer|unpaid carer|carers
+  type: statutory
+  definition: An adult who provides or intends to provide care for another adult, other than under a
+    contract or as voluntary work.
+  source: Care Act 2014, s.10
+  source_url: https://www.legislation.gov.uk/ukpga/2014/23/section/10
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: Someone who looks after a family member or friend who needs help, without being paid for 
+    it.
+- term: Changing Places toilet
+  id: changing-places-toilet
+  abbr: ''
+  full_term: Changing Places toilet
+  aliases: Changing Places|Changing Places toilet
+  type: substantive
+  definition: A larger accessible toilet with a height-adjustable changing bench, a ceiling hoist 
+    and room for up to two carers, for people who cannot use a standard accessible toilet; required 
+    in certain new large public buildings in England since 2021.
+  source: Changing Places Consortium; Building Regulations Approved Document M (2021 amendment)
+  source_url: https://www.changing-places.org/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: A big accessible toilet with a hoist and a changing bench, for people who need more help 
+    than a normal accessible toilet gives.
+- term: RADAR key
+  id: radar-key
+  abbr: NKS
+  full_term: National Key Scheme key
+  aliases: RADAR key|Radar key|NKS key|National Key Scheme
+  type: substantive
+  definition: A standard key that opens accessible toilets fitted with National Key Scheme locks 
+    across the UK, so disabled people can use them while they stay locked to others.
+  source: Disability Rights UK — National Key Scheme
+  source_url: https://www.disabilityrightsuk.org/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: A special key that opens locked accessible toilets around the UK.
+- term: Reasonable adjustments
+  id: reasonable-adjustments
+  abbr: ''
+  full_term: Reasonable adjustments
+  aliases: Reasonable adjustments|reasonable adjustment
+  type: statutory
+  definition: Changes that service providers and employers must make, under the Equality Act 2010, 
+    to remove or reduce a substantial disadvantage that disabled people face — to how things are 
+    done, to physical features, or by providing extra aids.
+  source: Equality Act 2010, s.20
+  source_url: https://www.legislation.gov.uk/ukpga/2010/15/section/20
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: Changes that organisations must make so disabled people can use their services, like adding
+    a ramp.
+- term: Disability
+  id: disability
+  abbr: ''
+  full_term: Disability
+  aliases: Disability|disabled
+  type: statutory
+  definition: A physical or mental impairment that has a substantial and long-term adverse effect on
+    a person's ability to carry out normal day-to-day activities; 'long-term' means it has lasted, 
+    or is likely to last, at least 12 months.
+  source: Equality Act 2010, s.6 and Schedule 1
+  source_url: https://www.legislation.gov.uk/ukpga/2010/15/section/6
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: A health condition or impairment that makes everyday tasks a lot harder, and has lasted or 
+    will probably last a year or more.
+- term: RNLI
+  id: rnli
+  abbr: RNLI
+  full_term: Royal National Lifeboat Institution
+  aliases: RNLI|Royal National Lifeboat Institution
+  type: organisation
+  definition: The charity that runs the lifeboat service around the coasts of the UK and Ireland and
+    provides lifeguards on many beaches.
+  source: RNLI
+  source_url: https://rnli.org/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: The charity that runs lifeboats and beach lifeguards around the UK coast.
+- term: Beach safety flags
+  id: beach-safety-flags
+  abbr: ''
+  full_term: Beach safety flags
+  aliases: Beach safety flags|red and yellow flags|red flag|lifeguard flags
+  type: substantive
+  definition: 'The flags used by lifeguards on UK beaches: red-and-yellow flags mark the lifeguarded area
+    for swimming and bodyboarding; black-and-white chequered flags mark the area for surfboards, kayaks
+    and other craft; a red flag means it is dangerous to enter the water.'
+  source: RNLI — beach safety flags
+  source_url: https://rnli.org/safety/know-the-flags
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: Flags on the beach that show where it is safe to swim. Swim between the red and yellow 
+    flags. Never go in the sea when a red flag is flying.
+- term: Tide times
+  id: tide-times
+  abbr: ''
+  full_term: Tide times
+  aliases: Tide times|tide table|high tide|low tide
+  type: substantive
+  definition: The predicted times of high and low water at a stretch of coast, which change daily; 
+    checking them shows when the beach will be covered by the sea.
+  source: UK Hydrographic Office — Admiralty EasyTide predictions
+  source_url: https://easytide.admiralty.co.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: The times when the sea comes in (high tide) and goes out (low tide). They change every day.
+- term: Promenade
+  id: promenade
+  abbr: ''
+  full_term: Promenade
+  aliases: Promenade|prom|esplanade
+  type: substantive
+  definition: A paved public walkway along a seafront, usually level and set above the beach.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: A wide, flat path that runs along the seafront.
+- term: Beach access mat
+  id: beach-access-mat
+  abbr: ''
+  full_term: Beach access mat
+  aliases: Beach access mat|beach mat|access mat
+  type: substantive
+  definition: A roll-out mat laid across sand to create a firm surface for wheelchairs, pushchairs 
+    and people with limited mobility.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: Generic term; keep only if mats are (or will be) used at the scheme's beaches.
+  agreed: n
+  plain: A mat laid on the sand to make a firm path for wheelchairs and buggies.
+- term: Gift Aid
+  id: gift-aid
+  abbr: ''
+  full_term: Gift Aid
+  aliases: Gift Aid
+  type: statutory
+  definition: A UK tax relief that lets charities and community amateur sports clubs claim an extra 
+    25p for every £1 donated by a UK taxpayer, provided the donor makes a Gift Aid declaration.
+  source: GOV.UK — Gift Aid
+  source_url: https://www.gov.uk/donating-to-charity/gift-aid
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  - fpt
+  note: ''
+  agreed: n
+  plain: If you pay UK tax and say yes to Gift Aid, the charity gets an extra 25p from the 
+    government for every £1 you give.
+- term: Volunteer
+  id: volunteer
+  abbr: ''
+  full_term: Volunteer
+  aliases: Volunteer|volunteers|volunteering
+  type: substantive
+  definition: Someone who chooses to give their time, unpaid, to help an organisation, the community
+    or other people.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  - fpt
+  note: ''
+  agreed: n
+  plain: Someone who gives their time to help, without being paid.
+- term: Food partnership
+  id: food-partnership
+  abbr: ''
+  full_term: Food partnership
+  aliases: Food partnership|local food partnership
+  type: substantive
+  definition: A cross-sector partnership of local organisations — community groups, businesses, 
+    public bodies and others — that works together to improve the local food system, from growing 
+    and cooking to access to food.
+  source: Sustainable Food Places
+  source_url: https://www.sustainablefoodplaces.org/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A group of local organisations working together so everyone can get good food.
+  context_notes:
+    fpt: Food Power Together is the food partnership for Redcar and Cleveland.
+- term: Sustainable Food Places
+  id: sustainable-food-places
+  abbr: SFP
+  full_term: Sustainable Food Places
+  aliases: Sustainable Food Places|SFP
+  type: organisation
+  definition: A UK network of local food partnerships working to make healthy, sustainable food a 
+    defining feature of their area, with an award scheme for places.
+  source: Sustainable Food Places
+  source_url: https://www.sustainablefoodplaces.org/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A national network that links food partnerships across the UK.
+- term: Food system
+  id: food-system
+  abbr: ''
+  full_term: Food system
+  aliases: Food system|whole food system
+  type: substantive
+  definition: Everything involved in feeding people — growing, processing, transporting, selling, 
+    cooking, eating and disposing of food — and the people, businesses and rules involved.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: Everything that gets food from the field to your plate, and what happens to what is left.
+- term: Food insecurity
+  id: food-insecurity
+  abbr: ''
+  full_term: Food insecurity
+  aliases: Food insecurity|food poverty|food security
+  type: substantive
+  definition: Not having secure access, at all times, to enough safe and nutritious food because of 
+    a lack of money or other resources; measured in UK official statistics through the household 
+    food-security questions in the Family Resources Survey.
+  source: DWP — Family Resources Survey (household food security)
+  source_url: https://www.gov.uk/government/collections/family-resources-survey--2
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: Not being sure you can afford or get enough good food.
+- term: Food bank
+  id: food-bank
+  abbr: ''
+  full_term: Food bank
+  aliases: Food bank|foodbank|foodbanks|food banks
+  type: substantive
+  definition: A charitable service that gives emergency food parcels, free of charge, to people in 
+    crisis, usually on referral from a professional or agency that issues a voucher.
+  source: Trussell
+  source_url: https://www.trussell.org.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A place that gives free emergency food to people in a crisis. You usually need a voucher 
+    from a support worker.
+- term: Food bank voucher
+  id: food-bank-voucher
+  abbr: ''
+  full_term: Food bank voucher
+  aliases: Food bank voucher|food voucher|referral|voucher needed
+  type: substantive
+  definition: A referral issued by a frontline professional — such as an advice worker, social 
+    worker or health visitor — that allows a person to collect food from a food bank.
+  source: Trussell
+  source_url: https://www.trussell.org.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A note from a support worker that lets you get food from a food bank.
+  context_notes:
+    fpt: Services marked 'Voucher needed' on the Food Power Together food map ask for one.
+- term: Food parcel
+  id: food-parcel
+  abbr: ''
+  full_term: Food parcel
+  aliases: Food parcel|food parcels|emergency food parcel
+  type: substantive
+  definition: A pre-packed bag or box of mainly non-perishable food, meant to provide nutritionally 
+    balanced meals for a set number of days.
+  source: Trussell
+  source_url: https://www.trussell.org.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A bag of food from a food bank, with enough to make meals for a few days.
+- term: Independent food bank
+  id: independent-food-bank
+  abbr: ''
+  full_term: Independent food bank
+  aliases: Independent food bank|independent foodbank
+  type: substantive
+  definition: A food bank that is not part of the Trussell network; many belong to the Independent 
+    Food Aid Network.
+  source: Independent Food Aid Network
+  source_url: https://www.foodaidnetwork.org.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A food bank run by a local group on its own, not as part of a big national network.
+- term: Trussell
+  id: trussell
+  abbr: ''
+  full_term: Trussell
+  aliases: Trussell|Trussell Trust
+  type: organisation
+  definition: The UK charity, formerly the Trussell Trust, that supports a national network of food 
+    banks and campaigns to end the need for them.
+  source: Trussell
+  source_url: https://www.trussell.org.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A national charity that supports a big network of food banks.
+- term: IFAN
+  id: ifan
+  abbr: IFAN
+  full_term: Independent Food Aid Network
+  aliases: IFAN|Independent Food Aid Network
+  type: organisation
+  definition: A UK network of independent food banks and other food-aid providers that campaigns for
+    a cash-first approach to food insecurity.
+  source: Independent Food Aid Network
+  source_url: https://www.foodaidnetwork.org.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A network that links up local food banks that are not part of Trussell.
+- term: Cash-first approach
+  id: cash-first
+  abbr: ''
+  full_term: Cash-first approach
+  aliases: Cash-first approach|cash first|cash-first
+  type: method
+  definition: An approach to food insecurity that puts getting money into people's hands — through 
+    benefits advice, grants or cash payments — first, so they can buy their own food, with food aid 
+    as a last resort.
+  source: Independent Food Aid Network
+  source_url: https://www.foodaidnetwork.org.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: Helping people get enough money to buy their own food, so they do not need a food bank.
+- term: Social supermarket
+  id: social-supermarket
+  abbr: ''
+  full_term: Social supermarket
+  aliases: Social supermarket|social supermarkets|community grocery|community supermarket
+  type: substantive
+  definition: A shop that sells food and household essentials at reduced prices, often using surplus
+    stock, usually to members who live locally or meet set criteria, and often with wider support on
+    offer.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: The Food Power Together map lists community groceries under social supermarkets.
+  agreed: n
+  plain: A shop selling food and basics at low prices, often for members.
+- term: Food pantry
+  id: food-pantry
+  abbr: ''
+  full_term: Food pantry
+  aliases: Food pantry|pantry|pantries|food club
+  type: substantive
+  definition: A membership food club where members pay a small weekly fee in return for a choice of 
+    groceries worth considerably more.
+  source: Your Local Pantry
+  source_url: https://www.yourlocalpantry.co.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A food club. You pay a small amount each week and choose food worth a lot more.
+- term: Eco shop
+  id: eco-shop
+  abbr: ''
+  full_term: Eco shop
+  aliases: Eco shop|eco shops
+  type: substantive
+  definition: A low-cost community shop selling surplus food that would otherwise go to waste, for a
+    small donation or fee, usually to anyone who signs up.
+  source: Food Power Together service directory (local usage)
+  source_url: https://www.foodpowertogether.org.uk/food-support/south-bank-eco-shop/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: Local term; definition drawn from the eco shops listed on the FPT map — confirm with 
+    partners.
+  agreed: n
+  plain: A low-cost shop selling spare food that would otherwise be thrown away.
+- term: Community fridge
+  id: community-fridge
+  abbr: ''
+  full_term: Community fridge
+  aliases: Community fridge|community fridges
+  type: substantive
+  definition: A shared fridge in a public or community space where surplus food from shops, 
+    businesses and households is shared free with anyone.
+  source: Hubbub — Community Fridge Network
+  source_url: https://www.hubbub.org.uk/community-fridge-network
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A fridge in a community space where anyone can take or leave spare food for free.
+- term: Surplus food
+  id: surplus-food
+  abbr: ''
+  full_term: Surplus food
+  aliases: Surplus food|food redistribution|food waste
+  type: substantive
+  definition: Good-to-eat food that would otherwise be wasted — for example through over-production,
+    short dates or packaging errors — which can be redistributed to people through charities and 
+    community groups.
+  source: FareShare
+  source_url: https://fareshare.org.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: Food that is still fine to eat but would be thrown away, so it is given away or sold 
+    cheaply instead.
+- term: FareShare
+  id: fareshare
+  abbr: ''
+  full_term: FareShare
+  aliases: FareShare|Fare Share
+  type: organisation
+  definition: The UK charity network that redistributes surplus food from the food industry to 
+    charities and community groups.
+  source: FareShare
+  source_url: https://fareshare.org.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A charity that collects spare food from shops and factories and passes it to local groups.
+- term: Community meal
+  id: community-meal
+  abbr: ''
+  full_term: Community meal
+  aliases: Community meal|hot food|community café|lunch club
+  type: substantive
+  definition: A free or low-cost cooked meal served in a community setting such as a church, 
+    community centre or café, often offering company and support as well as food.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: Covers the 'Hot food' category on the FPT map.
+  agreed: n
+  plain: A free or cheap hot meal you can eat with other people at a community place.
+- term: Community growing space
+  id: community-growing-space
+  abbr: ''
+  full_term: Community growing space
+  aliases: Community growing space|growing space|community garden|allotment
+  type: substantive
+  definition: A shared piece of land, such as a community garden or allotment, where local people 
+    grow fruit, vegetables and flowers together.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A shared garden where local people grow fruit and vegetables together.
+- term: Holiday Activities and Food programme
+  id: holiday-activities-and-food
+  abbr: HAF
+  full_term: Holiday Activities and Food programme
+  aliases: HAF|Holiday Activities and Food|HAF programme
+  type: local-programme
+  definition: A Department for Education-funded programme, delivered by local councils, that offers 
+    free healthy meals and enriching activities in the school holidays to children who receive 
+    benefits-related free school meals.
+  source: Department for Education — Holiday activities and food programme
+  source_url: https://www.gov.uk/government/publications/holiday-activities-and-food-programme
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: Free holiday clubs with healthy meals for children who get free school meals.
+- term: Holiday hunger
+  id: holiday-hunger
+  abbr: ''
+  full_term: Holiday hunger
+  aliases: Holiday hunger
+  type: substantive
+  definition: Food insecurity that children experience during the school holidays, when they do not 
+    receive free school meals.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: When children go hungry in the school holidays because there are no school dinners.
+- term: Free school meals
+  id: free-school-meals
+  abbr: FSM
+  full_term: Free school meals
+  aliases: Free school meals|FSM|school dinners
+  type: statutory
+  definition: Meals provided free at school to pupils from families who receive certain benefits, 
+    including Universal Credit, and to all infant pupils (Reception to Year 2) in state-funded 
+    schools in England.
+  source: GOV.UK — Apply for free school meals
+  source_url: https://www.gov.uk/apply-free-school-meals
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: Eligibility rules change; re-check against GOV.UK before agreeing.
+  agreed: n
+  plain: Free school dinners for children from families on some benefits, and for all children in 
+    Reception to Year 2.
+- term: Healthy Start
+  id: healthy-start
+  abbr: ''
+  full_term: Healthy Start
+  aliases: Healthy Start|Healthy Start card|Healthy Start vouchers
+  type: statutory
+  definition: An NHS scheme that gives people who are at least 10 weeks pregnant, or have a child 
+    under four, and who receive certain benefits, a prepaid card to buy milk, fruit, vegetables, 
+    pulses and infant formula, plus free vitamins.
+  source: NHS — Healthy Start
+  source_url: https://www.healthystart.nhs.uk/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A free NHS payment card for families on some benefits, to buy milk, fruit and vegetables 
+    for young children.
+- term: Household Support Fund
+  id: household-support-fund
+  abbr: HSF
+  full_term: Household Support Fund
+  aliases: Household Support Fund|HSF
+  type: local-programme
+  definition: Government funding given to local councils in England to help households most in need 
+    with the cost of essentials such as food, energy and water.
+  source: DWP — Household Support Fund guidance for local councils
+  source_url: 
+    https://www.gov.uk/government/publications/household-support-fund-guidance-for-local-councils
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: Time-limited fund renewed year by year; confirm it is still running (or what replaced it) 
+    before agreeing.
+  agreed: n
+  plain: Government money that councils use to help families in need pay for food, energy and water.
+- term: Community land trust
+  id: community-land-trust
+  abbr: CLT
+  full_term: Community land trust
+  aliases: Community land trust|CLT
+  type: statutory
+  definition: A non-profit, community-controlled body that owns and manages land or other assets for
+    the long-term benefit of a local community.
+  source: Housing and Regeneration Act 2008, s.79
+  source_url: https://www.legislation.gov.uk/ukpga/2008/17/section/79
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A local group that owns land or buildings and runs them for the good of the community.
+- term: Low traffic neighbourhood
+  id: low-traffic-neighbourhood
+  abbr: LTN
+  full_term: Low traffic neighbourhood
+  aliases: Low traffic neighbourhood|LTN|low-traffic neighbourhood
+  type: substantive
+  definition: A group of residential streets where through motor traffic is stopped by filters such 
+    as bollards, planters or camera-enforced gates, while every address can still be reached by car.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: Abbreviation clashes with LTN 1/20 (Local Transport Note) — the id keeps them apart; 
+    consider whether to show the abbreviation at all.
+  agreed: n
+  plain: A set of streets where cars can still get to every home, but cannot cut through, so the 
+    streets are quieter for walking and cycling.
+- term: School Street
+  id: school-street
+  abbr: ''
+  full_term: School Street
+  aliases: School Street|School Streets
+  type: substantive
+  definition: A road outside a school that is closed to motor traffic at drop-off and pick-up times,
+    so children can walk, wheel, scoot or cycle to school more safely.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A road by a school that is closed to cars when children arrive and leave.
+- term: Cycle lane
+  id: cycle-lane
+  abbr: ''
+  full_term: Cycle lane
+  aliases: Cycle lane|bike lane|mandatory cycle lane|advisory cycle lane
+  type: substantive
+  definition: A lane marked on the carriageway for cycles. A mandatory lane, marked by a solid white
+    line, must not be entered by other vehicles while it is in operation; an advisory lane, marked 
+    by a broken line, should not be entered unless it is unavoidable.
+  source: The Highway Code, rule 140
+  source_url: 
+    https://www.gov.uk/guidance/the-highway-code/general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: Part of the road painted for bikes. Cars must not drive in it when it has a solid white 
+    line.
+- term: Segregated cycle track
+  id: segregated-cycle-track
+  abbr: ''
+  full_term: Segregated cycle track
+  aliases: Segregated cycle track|protected cycle lane|cycle track|stepped cycle track
+  type: substantive
+  definition: A cycle route physically separated from motor traffic, and usually from people 
+    walking, by kerbs, islands or a change in level.
+  source: Department for Transport — LTN 1/20
+  source_url: https://www.gov.uk/government/publications/cycle-infrastructure-design-ltn-120
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A bike lane with a kerb or barrier between it and the cars.
+- term: Tactile paving
+  id: tactile-paving
+  abbr: ''
+  full_term: Tactile paving
+  aliases: Tactile paving|blister paving|corduroy paving
+  type: substantive
+  definition: Textured paving that blind and partially sighted people can feel underfoot or with a 
+    cane, used to warn of crossings, platform edges and other hazards; different patterns carry 
+    different meanings.
+  source: Department for Transport — Guidance on the use of tactile paving surfaces
+  source_url: 
+    https://www.gov.uk/government/publications/guidance-on-the-use-of-tactile-paving-surfaces
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  - bw
+  note: ''
+  agreed: n
+  plain: Bumpy paving at crossings and edges that people with sight loss can feel with their feet or
+    a cane.
+- term: Cycle hire scheme
+  id: cycle-hire-scheme
+  abbr: ''
+  full_term: Cycle hire scheme
+  aliases: Cycle hire scheme|bike hire|bike share|cycle share|e-bike hire
+  type: substantive
+  definition: A scheme that lets people hire a cycle, often an e-bike, for short trips, collecting 
+    and returning it at docking stations or marked parking zones, usually through an app.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A way to rent a bike for a short trip, often using a phone app.
+- term: Public right of way
+  id: public-right-of-way
+  abbr: PROW
+  full_term: Public right of way
+  aliases: Public right of way|PROW|PRoW|rights of way|definitive map
+  type: statutory
+  definition: A route the public has a legal right to use, recorded on the local council's 
+    definitive map; the main types are footpaths, bridleways, restricted byways and byways open to 
+    all traffic.
+  source: Wildlife and Countryside Act 1981, s.53 (definitive map and statement)
+  source_url: https://www.legislation.gov.uk/ukpga/1981/69/section/53
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A path everyone has the right to use, shown on the council's official map.
+- term: Rights of Way Improvement Plan
+  id: rights-of-way-improvement-plan
+  abbr: ROWIP
+  full_term: Rights of Way Improvement Plan
+  aliases: Rights of Way Improvement Plan|ROWIP
+  type: statutory
+  definition: A plan that each highway authority must publish and review, assessing how well its 
+    local rights of way meet the needs of walkers, cyclists, horse riders and people with mobility 
+    problems, and setting out improvements.
+  source: Countryside and Rights of Way Act 2000, s.60
+  source_url: https://www.legislation.gov.uk/ukpga/2000/37/section/60
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A council's plan to make public paths better for walkers, cyclists, horse riders and 
+    disabled people.
+- term: Footway
+  id: footway
+  abbr: ''
+  full_term: Footway
+  aliases: Footway|pavement|cycling on the pavement
+  type: statutory
+  definition: The legal term for the pavement alongside a road, set aside for people on foot; 
+    cycling on it is not allowed unless it is signed as shared use.
+  source: The Highway Code, rule 64
+  source_url: https://www.gov.uk/guidance/the-highway-code/rules-for-cyclists-59-to-82
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: The pavement next to a road. You must not cycle on it unless signs say bikes are allowed.
+- term: Dr Bike
+  id: dr-bike
+  abbr: ''
+  full_term: Dr Bike
+  aliases: Dr Bike|bike check|bike maintenance session
+  type: substantive
+  definition: A free or low-cost drop-in session where a mechanic checks cycles for safety and makes
+    small repairs and adjustments on the spot.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - tvat
+  note: ''
+  agreed: n
+  plain: A free or cheap session where someone checks your bike is safe and fixes small problems.
+- term: Accessible toilet
+  id: accessible-toilet
+  abbr: ''
+  full_term: Accessible toilet
+  aliases: Accessible toilet|disabled toilet|wheelchair-accessible toilet
+  type: substantive
+  definition: A toilet designed for disabled people, with more space, grab rails and an emergency 
+    alarm cord; many are locked with a National Key Scheme (RADAR) key.
+  source: Building Regulations Approved Document M
+  source_url: 
+    https://www.gov.uk/government/publications/access-to-and-use-of-buildings-approved-document-m
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: A bigger toilet with rails and an alarm cord, made for disabled people.
+- term: Transfer
+  id: transfer
+  abbr: ''
+  full_term: Transfer
+  aliases: Transfer|transferring|wheelchair transfer
+  type: substantive
+  definition: Moving from one seat to another — for example from your own wheelchair into a beach 
+    wheelchair — with or without help from another person or equipment such as a transfer board or 
+    hoist.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: Check what help volunteers can and cannot give with transfers before agreeing.
+  agreed: n
+  plain: Moving from one seat to another, like from your wheelchair into a beach wheelchair.
+- term: Hidden Disabilities Sunflower
+  id: hidden-disabilities-sunflower
+  abbr: ''
+  full_term: Hidden Disabilities Sunflower
+  aliases: Hidden Disabilities Sunflower|sunflower lanyard|Sunflower lanyard
+  type: substantive
+  definition: A scheme in which people wear a sunflower lanyard, pin or badge to show discreetly 
+    that they have a non-visible disability and may need help, understanding or more time.
+  source: Hidden Disabilities Sunflower
+  source_url: https://hdsunflower.com/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: A sunflower lanyard or badge that shows someone has a disability you cannot see, and may 
+    need help or more time.
+- term: Social model of disability
+  id: social-model-of-disability
+  abbr: ''
+  full_term: Social model of disability
+  aliases: Social model of disability|social model
+  type: substantive
+  definition: The idea that people are disabled by barriers in society — such as steps, attitudes or
+    a lack of information — rather than by their impairment or condition.
+  source: Scope — the social model of disability
+  source_url: https://www.scope.org.uk/social-model-of-disability
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: The idea that people are disabled by things like steps and attitudes, not by their bodies 
+    or minds.
+- term: Accessible beach
+  id: accessible-beach
+  abbr: ''
+  full_term: Accessible beach
+  aliases: Accessible beach|accessible beaches
+  type: substantive
+  definition: A beach with features that make it easier for disabled people to reach and enjoy, such
+    as step-free access, accessible toilets and parking, and equipment like beach wheelchairs.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: A beach that is easier for disabled people to get to and enjoy.
+- term: Slipway
+  id: slipway
+  abbr: ''
+  full_term: Slipway
+  aliases: Slipway|slip|ramp
+  type: substantive
+  definition: A ramp running down from the promenade or shore towards the sea, originally for 
+    launching boats; often the step-free route onto a beach.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: A ramp down to the beach, first built for boats. It is often the way onto the sand with no 
+    steps.
+- term: Rip current
+  id: rip-current
+  abbr: ''
+  full_term: Rip current
+  aliases: Rip current|rip|rip tide
+  type: substantive
+  definition: A strong current running out to sea from the shore, which can quickly carry people 
+    into deeper water.
+  source: RNLI — rip currents
+  source_url: https://rnli.org/safety/know-the-risks/rip-currents
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: A strong flow of water that pulls out to sea and can sweep people away from the beach.
+- term: HM Coastguard
+  id: hm-coastguard
+  abbr: ''
+  full_term: HM Coastguard
+  aliases: HM Coastguard|Coastguard|Maritime and Coastguard Agency|MCA
+  type: organisation
+  definition: The emergency service, part of the Maritime and Coastguard Agency, that coordinates 
+    search and rescue at sea and around the UK coast; in an emergency at the coast, call 999 and ask
+    for the Coastguard.
+  source: GOV.UK — Maritime and Coastguard Agency
+  source_url: https://www.gov.uk/government/organisations/maritime-and-coastguard-agency
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: The emergency service for the sea and coast. If someone is in trouble at the beach, call 
+    999 and ask for the Coastguard.
+- term: Mobility aid
+  id: mobility-aid
+  abbr: ''
+  full_term: Mobility aid
+  aliases: Mobility aid|mobility aids|mobility equipment
+  type: substantive
+  definition: Any equipment that helps a person move about, such as a walking stick, crutches, a 
+    walking frame, a rollator, a wheelchair or a mobility scooter.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  - tvat
+  note: ''
+  agreed: n
+  plain: Something that helps you get about, like a walking stick, a frame or a wheelchair.
+- term: Rollator
+  id: rollator
+  abbr: ''
+  full_term: Rollator
+  aliases: Rollator|wheeled walker|walking frame with wheels
+  type: substantive
+  definition: A walking frame with three or four wheels, hand brakes and usually a seat for resting.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - bw
+  note: ''
+  agreed: n
+  plain: A walking frame with wheels, brakes and often a seat.
+- term: Fuel poverty
+  id: fuel-poverty
+  abbr: ''
+  full_term: Fuel poverty
+  aliases: Fuel poverty|fuel poor|heat or eat
+  type: statutory
+  definition: In England, a household is fuel poor if it lives in a home with an energy-efficiency 
+    rating of band D or below and, after paying for the energy it needs, would be left with an 
+    income below the poverty line (the Low Income Low Energy Efficiency measure).
+  source: Department for Energy Security and Net Zero — Fuel poverty statistics
+  source_url: https://www.gov.uk/government/collections/fuel-poverty-statistics
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: When a family cannot afford to heat their home properly, often because the home is hard to 
+    keep warm.
+- term: Warm space
+  id: warm-space
+  abbr: ''
+  full_term: Warm space
+  aliases: Warm space|warm spaces|warm hub|warm bank
+  type: substantive
+  definition: A free, welcoming, heated public space — often in a library, church or community 
+    centre — where people can keep warm and find company in winter, sometimes with hot drinks or 
+    food.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A free, warm place to go in winter, often with a hot drink and company.
+- term: Benefits check
+  id: benefits-check
+  abbr: ''
+  full_term: Benefits check
+  aliases: Benefits check|benefit check|entitlement check|better off calculation
+  type: method
+  definition: A review of a person's circumstances to find out which benefits, grants and discounts 
+    they could claim but may be missing.
+  source: Citizens Advice — benefits
+  source_url: https://www.citizensadvice.org.uk/benefits/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A check to find out if you could get money or help you are not claiming yet.
+- term: Pension Credit
+  id: pension-credit
+  abbr: ''
+  full_term: Pension Credit
+  aliases: Pension Credit
+  type: statutory
+  definition: A means-tested benefit for people over State Pension age on a low income; receiving it
+    can also open the door to other help, such as with housing costs, council tax and heating.
+  source: GOV.UK — Pension Credit
+  source_url: https://www.gov.uk/pension-credit
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: Extra money for older people on a low income. Getting it can help you get other support 
+    too.
+- term: Council Tax Reduction
+  id: council-tax-reduction
+  abbr: CTR
+  full_term: Council Tax Reduction
+  aliases: Council Tax Reduction|Council Tax Support|CTR|CTS
+  type: statutory
+  definition: A reduction in council tax for people on a low income or claiming certain benefits, 
+    run by each local council under its own local scheme.
+  source: GOV.UK — Apply for Council Tax Reduction
+  source_url: https://www.gov.uk/apply-council-tax-reduction
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A discount on your council tax if you are on a low income.
+- term: Food hygiene rating
+  id: food-hygiene-rating
+  abbr: ''
+  full_term: Food hygiene rating
+  aliases: Food hygiene rating|food hygiene rating scheme|FHRS|scores on the doors
+  type: statutory
+  definition: A score from 0 to 5 given by the local council after inspecting a food business, 
+    showing how well it meets food hygiene law; 5 means hygiene standards are very good.
+  source: Food Standards Agency — Food Hygiene Rating Scheme
+  source_url: https://www.food.gov.uk/safety-hygiene/food-hygiene-rating-scheme
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A score from 0 to 5 that shows how clean and safe a place that serves food is.
+- term: Food allergens
+  id: food-allergens
+  abbr: ''
+  full_term: Food allergens
+  aliases: Food allergens|allergens|14 allergens|allergen information
+  type: statutory
+  definition: Ingredients that can cause allergic reactions; food businesses, including charities 
+    and community groups that provide food, must tell people if their food contains any of the 14 
+    major allergens set out in law.
+  source: Food Standards Agency — Food allergy and intolerance
+  source_url: https://www.food.gov.uk/safety-hygiene/food-allergy-and-intolerance
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: Foods some people react badly to, like nuts or milk. Places that give out food must say if 
+    their food contains them.
+- term: Use-by and best-before dates
+  id: use-by-best-before
+  abbr: ''
+  full_term: Use-by and best-before dates
+  aliases: Use-by date|best-before date|use by|best before|date labels
+  type: substantive
+  definition: 'Date labels on food. A use-by date is about safety: food must not be eaten, sold or given
+    away after it. A best-before date is about quality: food can still be eaten, and redistributed, after
+    it if it is in good condition.'
+  source: Food Standards Agency — Best before and use-by dates
+  source_url: https://www.food.gov.uk/safety-hygiene/best-before-and-use-by-dates
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: "'Use by' means do not eat it after that date. 'Best before' means it is still fine to eat after
+    the date, but may not be as nice."
+- term: Community cooking session
+  id: community-cooking-session
+  abbr: ''
+  full_term: Community cooking session
+  aliases: Community cooking session|cook and eat|cookery class|cooking on a budget
+  type: substantive
+  definition: A group session where people learn to cook simple, low-cost, healthy meals, often 
+    eating together afterwards.
+  source: ''
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A group where you learn to cook cheap, healthy meals, and often eat them together.
+- term: Food co-op
+  id: food-co-op
+  abbr: ''
+  full_term: Food co-op
+  aliases: Food co-op|food cooperative|food buying group
+  type: substantive
+  definition: A food-buying group run by its members, who pool their money to buy food in bulk at 
+    wholesale prices and share it out.
+  source: Sustain — food co-ops
+  source_url: https://www.sustainweb.org/foodcoops/
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - fpt
+  note: ''
+  agreed: n
+  plain: A group of people who club together to buy food in bulk, so it costs less.

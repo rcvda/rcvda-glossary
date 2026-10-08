@@ -8,6 +8,9 @@ programmes:
   bof:   { title: "Building Our Futures", site: "buildingourfutures.org.uk" }
   rcvda: { title: "RCVDA (organisation-wide)", site: "rcvda.org.uk" }
   jsna:  { title: "JSNA data sources", site: "rcvda.org.uk" }
+  tvat:  { title: "Tees Valley Active Travel", site: "teesvalleyactivetravel.org.uk" }
+  bw:    { title: "Beach Wheelchairs", site: "beachwheelchairs.org.uk" }
+  fpt:   { title: "Food Power Together", site: "foodpowertogether.org.uk" }
 
 contexts:
   # --- Community-Led Research deep-dive strands (populated now, from the CF glossary) ---
@@ -66,3 +69,23 @@ contexts:
       Education and sector terms: []
       Targeting, data and impact: []
       Networks: []
+
+  # --- Newer public sites (OA 34, 2026-10-08): plain register, flat A-Z (no group_order). ---
+  tvat:
+    title: "Tees Valley Active Travel glossary"
+    programme: tvat
+    register: plain
+    outputs: [md, json]
+    owner: tvat
+  bw:
+    title: "Beach Wheelchairs glossary"
+    programme: bw
+    register: plain
+    outputs: [md, json]
+    owner: bw
+  fpt:
+    title: "Food Power Together glossary"
+    programme: fpt
+    register: plain
+    outputs: [md, json]
+    owner: fpt

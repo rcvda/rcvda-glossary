@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "lens": "tvat",
+    "title": "Tees Valley Active Travel glossary",
+    "register": "plain",
+    "group_order": null
+  },
+  "entries": [
+    {
+      "id": "middlesbrough-council",
+      "term": "Middlesbrough Council",
+      "abbr": null,
+      "full_term": "Middlesbrough Council",
+      "aliases": [
+        "Middlesbrough Council",
+        "MBC",
+        "Middlesbrough Borough Council"
+      ],
+      "type": "organisation",
+      "definition": "The local council for the Middlesbrough area.",
+      "source": null,
+      "source_url": null,
+      "org_ref": "findthatcharity org ID GB-LAE-MDB",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-MDB",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "rcvda",
+      "term": "RCVDA",
+      "abbr": "RCVDA",
+      "full_term": "Redcar and Cleveland Voluntary Development Agency",
+      "aliases": [
+        "RCVDA"
+      ],
+      "type": "organisation",
+      "definition": "The local charity that supports voluntary and community groups across Redcar & Cleveland.",
+      "source": null,
+      "source_url": null,
+      "org_ref": "findthatcharity org ID GB-CHC-1135959",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "redcar-and-cleveland-borough-council",
+      "term": "Redcar and Cleveland Borough Council",
+      "abbr": "RCBC",
+      "full_term": "Redcar and Cleveland Borough Council",
+      "aliases": [
+        "Redcar and Cleveland Borough Council",
+        "Redcar & Cleveland Borough Council",
+        "RCBC"
+      ],
+      "type": "organisation",
+      "definition": "The local council for the Redcar and Cleveland area.",
+      "source": null,
+      "source_url": null,
+      "org_ref": "findthatcharity org ID GB-LAE-RCC",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-RCC",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "stockton-on-tees-borough-council",
+      "term": "Stockton-on-Tees Borough Council",
+      "abbr": null,
+      "full_term": "Stockton-on-Tees Borough Council",
+      "aliases": [
+        "Stockton-on-Tees Borough Council",
+        "Stockton Council",
+        "SBC"
+      ],
+      "type": "organisation",
+      "definition": "The local council for the Stockton-on-Tees area.",
+      "source": null,
+      "source_url": null,
+      "org_ref": "findthatcharity org ID GB-LAE-STT",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-STT",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "tees-valley",
+      "term": "Tees Valley",
+      "abbr": null,
+      "full_term": "Tees Valley",
+      "aliases": [
+        "Tees Valley"
+      ],
+      "type": "local-programme",
+      "definition": "The area made up of five council areas: Middlesbrough, Redcar & Cleveland, Stockton-on-Tees, Hartlepool and Darlington.",
+      "source": "Tees Valley Combined Authority geography.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "tvca",
+      "term": "TVCA",
+      "abbr": "TVCA",
+      "full_term": "Tees Valley Combined Authority",
+      "aliases": [
+        "TVCA",
+        "Tees Valley Combined Authority"
+      ],
+      "type": "organisation",
+      "definition": "The body led by the Tees Valley Mayor that works across all five Tees Valley council areas on things like transport, jobs and skills.",
+      "source": "Tees Valley Combined Authority Order 2016 (SI 2016/449), under the Local Democracy, Economic Development and Construction Act 2009",
+      "source_url": "https://www.legislation.gov.uk/uksi/2016/449/contents/made",
+      "org_ref": "findthatcharity org ID GB-LAE-TVCA",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-TVCA",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "vcfse",
+      "term": "VCFSE",
+      "abbr": "VCFSE",
+      "full_term": "Voluntary, Community, Faith and Social Enterprise",
+      "aliases": [
+        "VCFSE",
+        "VCSE",
+        "voluntary, community and social enterprise",
+        "voluntary, community, faith and social enterprise",
+        "Voluntary, Community and Social Enterprise"
+      ],
+      "type": "acronym",
+      "definition": "Charities, community groups, faith groups and social enterprises: groups that exist to help people, not to make money for owners.",
+      "source": "Sector-standard term.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "darlington-borough-council",
+      "term": "Darlington Borough Council",
+      "abbr": null,
+      "full_term": "Darlington Borough Council",
+      "aliases": [
+        "Darlington Borough Council"
+      ],
+      "type": "organisation",
+      "definition": "The local council for the Darlington area.",
+      "source": "Darlington Borough Council",
+      "source_url": "https://www.darlington.gov.uk",
+      "org_ref": "findthatcharity org ID GB-LAE-DAL",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-DAL",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "hartlepool-borough-council",
+      "term": "Hartlepool Borough Council",
+      "abbr": null,
+      "full_term": "Hartlepool Borough Council",
+      "aliases": [
+        "Hartlepool Borough Council"
+      ],
+      "type": "organisation",
+      "definition": "The local council for the Hartlepool area.",
+      "source": "Hartlepool Borough Council",
+      "source_url": "https://www.hartlepool.gov.uk",
+      "org_ref": "findthatcharity org ID GB-LAE-HPL",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-HPL",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "sustrans",
+      "term": "Sustrans",
+      "abbr": null,
+      "full_term": "Sustrans",
+      "aliases": [
+        "Sustrans",
+        "Sustainable Transport",
+        "Walk Wheel Cycle Trust"
+      ],
+      "type": "organisation",
+      "definition": "A charity that makes it easier for people to walk, wheel and cycle. It looks after the National Cycle Network.",
+      "source": "Sustrans",
+      "source_url": "https://www.sustrans.org.uk",
+      "org_ref": "findthatcharity org ID GB-CHC-326550",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-326550",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "dft",
+      "term": "DfT",
+      "abbr": "DfT",
+      "full_term": "Department for Transport",
+      "aliases": [
+        "DfT",
+        "Department for Transport"
+      ],
+      "type": "organisation",
+      "definition": "The government department in charge of transport, such as roads, railways and buses.",
+      "source": "GOV.UK — Department for Transport",
+      "source_url": "https://www.gov.uk/government/organisations/department-for-transport",
+      "org_ref": "findthatcharity org ID GB-GOR-D9",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D9",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "active-lives-survey",
+      "term": "Active Lives Survey",
+      "abbr": null,
+      "full_term": "Active Lives Survey",
+      "aliases": [
+        "Active Lives Survey",
+        "Active Lives"
+      ],
+      "type": "substantive",
+      "definition": "A big national survey that asks people in England how active they are.",
+      "source": "Sport England — Active Lives",
+      "source_url": "https://www.sportengland.org/research-and-data/data/active-lives",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "lens": "fpt",
+    "title": "Food Power Together glossary",
+    "register": "plain",
+    "group_order": null
+  },
+  "entries": [
+    {
+      "id": "rcvda",
+      "term": "RCVDA",
+      "abbr": "RCVDA",
+      "full_term": "Redcar and Cleveland Voluntary Development Agency",
+      "aliases": [
+        "RCVDA"
+      ],
+      "type": "organisation",
+      "definition": "The local charity that supports voluntary and community groups across Redcar & Cleveland.",
+      "source": null,
+      "source_url": null,
+      "org_ref": "findthatcharity org ID GB-CHC-1135959",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1135959",
+      "context_note": "Co-convenes Food Power Together and hosts the partnership.",
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "redcar-and-cleveland-borough-council",
+      "term": "Redcar and Cleveland Borough Council",
+      "abbr": "RCBC",
+      "full_term": "Redcar and Cleveland Borough Council",
+      "aliases": [
+        "Redcar and Cleveland Borough Council",
+        "Redcar & Cleveland Borough Council",
+        "RCBC"
+      ],
+      "type": "organisation",
+      "definition": "The local council for the Redcar and Cleveland area.",
+      "source": null,
+      "source_url": null,
+      "org_ref": "findthatcharity org ID GB-LAE-RCC",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-RCC",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "tees-valley",
+      "term": "Tees Valley",
+      "abbr": null,
+      "full_term": "Tees Valley",
+      "aliases": [
+        "Tees Valley"
+      ],
+      "type": "local-programme",
+      "definition": "The area made up of five council areas: Middlesbrough, Redcar & Cleveland, Stockton-on-Tees, Hartlepool and Darlington.",
+      "source": "Tees Valley Combined Authority geography.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "tvca",
+      "term": "TVCA",
+      "abbr": "TVCA",
+      "full_term": "Tees Valley Combined Authority",
+      "aliases": [
+        "TVCA",
+        "Tees Valley Combined Authority"
+      ],
+      "type": "organisation",
+      "definition": "The body led by the Tees Valley Mayor that works across all five Tees Valley council areas on things like transport, jobs and skills.",
+      "source": "Tees Valley Combined Authority Order 2016 (SI 2016/449), under the Local Democracy, Economic Development and Construction Act 2009",
+      "source_url": "https://www.legislation.gov.uk/uksi/2016/449/contents/made",
+      "org_ref": "findthatcharity org ID GB-LAE-TVCA",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-LAE-TVCA",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "vcfse",
+      "term": "VCFSE",
+      "abbr": "VCFSE",
+      "full_term": "Voluntary, Community, Faith and Social Enterprise",
+      "aliases": [
+        "VCFSE",
+        "VCSE",
+        "voluntary, community and social enterprise",
+        "voluntary, community, faith and social enterprise",
+        "Voluntary, Community and Social Enterprise"
+      ],
+      "type": "acronym",
+      "definition": "Charities, community groups, faith groups and social enterprises: groups that exist to help people, not to make money for owners.",
+      "source": "Sector-standard term.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "tees-valley-rural-action",
+      "term": "Tees Valley Rural Action",
+      "abbr": "TVRA",
+      "full_term": "Tees Valley Rural Action",
+      "aliases": [
+        "TVRA",
+        "Tees Valley Rural Action"
+      ],
+      "type": "organisation",
+      "definition": "A charity that supports villages, rural communities and community groups across the Tees Valley.",
+      "source": "Tees Valley Rural Action",
+      "source_url": null,
+      "org_ref": "findthatcharity org ID GB-CHC-1080282",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1080282",
+      "context_note": "Co-convenes Food Power Together.",
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "universal-credit",
+      "term": "Universal Credit",
+      "abbr": "UC",
+      "full_term": "Universal Credit",
+      "aliases": [
+        "UC",
+        "Universal Credit"
+      ],
+      "type": "statutory",
+      "definition": "The main benefit for people of working age who are on a low income or out of work. It is paid monthly.",
+      "source": "Welfare Reform Act 2012, Part 1",
+      "source_url": "https://www.legislation.gov.uk/ukpga/2012/5/part/1",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "citizens-advice-drc",
+      "term": "Citizens Advice Darlington, Redcar and Cleveland",
+      "abbr": null,
+      "full_term": "Citizens Advice Darlington, Redcar and Cleveland",
+      "aliases": [
+        "R&C CAB",
+        "Redcar & Cleveland CAB",
+        "Redcar & Cleveland Citizens Advice",
+        "R&C Citizens Advice Bureau",
+        "Citizens Advice Darlington, Redcar and Cleveland"
+      ],
+      "type": "organisation",
+      "definition": "The local Citizens Advice. It gives free help with money, benefits, debt and housing in Darlington, Redcar and Cleveland.",
+      "source": "Citizens Advice Darlington, Redcar and Cleveland",
+      "source_url": "https://www.citizensadvicedrc.org.uk/",
+      "org_ref": "findthatcharity org ID GB-CHC-1112414",
+      "org_ref_url": "https://findthatcharity.uk/orgid/GB-CHC-1112414",
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    }
+  ]
+}
