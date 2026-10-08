@@ -13,7 +13,7 @@ from ruamel.yaml import YAML
 HERE=os.path.dirname(os.path.abspath(__file__)); GLOSS=os.path.join(HERE,"..","glossary.yml"); CSVP=os.path.join(HERE,"agreed_review.csv")
 def main():
     if not os.path.exists(CSVP): sys.exit("tools/agreed_review.csv not found — run the review generator first.")
-    rows={r["id"]:r for r in csv.DictReader(open(CSVP,encoding="utf-8"))}
+    rows={r["id"]:r for r in csv.DictReader(open(CSVP,encoding="utf-8-sig"))}
     yaml=YAML(); yaml.preserve_quotes=True; yaml.width=100
     d=yaml.load(open(GLOSS,encoding="utf-8"))
     approved=edited=dropped=held=0; drop_ids=set()
