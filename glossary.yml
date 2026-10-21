@@ -7147,7 +7147,7 @@
   plain: The government's long-term plan for more walking and cycling in England, and the money to 
     pay for it.
 - term: Local Cycling and Walking Infrastructure Plan
-  id: lcwip
+  id: local-cycling-and-walking-infrastructure-plan
   abbr: LCWIP
   full_term: Local Cycling and Walking Infrastructure Plan
   aliases: LCWIP|LCWIPs|Local Cycling and Walking Infrastructure Plan
@@ -8763,3 +8763,57 @@
   note: ''
   agreed: y
   plain: A group of people who club together to buy food in bulk, so it costs less.
+- term: Primary care
+  id: primary-care
+  aliases: Primary care|Primary healthcare
+  type: substantive
+  definition: "The first level of NHS care, provided in the community rather than in hospital and usually a person's first point of contact for a health need — general practice, community pharmacy, dental and optometry (eye) services."
+  plain: "The everyday NHS services you go to first, like a GP, pharmacy, dentist or optician."
+  source: "National Health Service Act 2006 (primary care services — primary medical (Part 4), dental (Part 5), ophthalmic (Part 6) and pharmaceutical (Part 7) services)"
+  source_url: https://www.legislation.gov.uk/ukpga/2006/41/contents
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  note: ''
+  agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
+- term: Secondary care
+  id: secondary-care
+  aliases: Secondary care|Secondary healthcare
+  type: substantive
+  definition: "Specialist health care, usually delivered in or from a hospital and normally reached by referral from [[Primary care]]; it covers both planned (elective) treatment and emergency care."
+  plain: "More specialist NHS care, usually at a hospital, that a GP or other service refers you to."
+  source: "National Health Service Act 2006, s.3 (Integrated Care Board duty to arrange hospital and other health services), as amended by the Health and Care Act 2022"
+  source_url: https://www.legislation.gov.uk/ukpga/2006/41/section/3
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  note: "Descriptive category rather than a single statutory term; sourced to the Integrated Care Board commissioning duty under which these hospital and specialist services are arranged."
+  agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
+- term: Acute care
+  id: acute-care
+  aliases: Acute care|Acute hospital care
+  type: substantive
+  definition: "Short-term treatment for a serious injury, a sudden or severe episode of illness, an urgent medical condition, or recovery from surgery — typically delivered in hospital."
+  plain: "Hospital treatment for something serious, sudden or urgent."
+  source: "National Health Service Act 2006, s.25 (NHS trusts) — the framework for the acute (hospital) trusts that deliver acute care"
+  source_url: https://www.legislation.gov.uk/ukpga/2006/41/section/25
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  note: "Descriptive category rather than a single statutory term; anchored to the acute NHS trusts established under the Act that deliver it. Distinct from [[A&E]], which is one emergency service within it."
+  agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health

@@ -1,5 +1,11 @@
 # Changelog — rcvda-glossary
 
+## 2026-10-21 — NHS care-level terms (rcvda); LCWIP id re-slug
+- **Three new `rcvda`-lens terms**, all `agreed: y`, grouped under Terms → NHS & Public Health: **Primary care** (`primary-care`), **Secondary care** (`secondary-care`), **Acute care** (`acute-care`). Each `type: substantive` with a reading-age-10 `plain` form. Sources pinned to the National Health Service Act 2006 (legislation.gov.uk): primary care → Parts 4–7 (medical, dental, ophthalmic, pharmaceutical); secondary care → s.3 ICB commissioning duty as amended by the Health and Care Act 2022; acute care → s.25 (NHS trusts). Secondary and acute carry a `note` flagging each as a descriptive category rather than a single statutory term; acute cross-links to `[[A&E]]`.
+- **Re-slugged LCWIP** per CONTRIBUTING (slug from the term, never the abbreviation): `id: lcwip` → `local-cycling-and-walking-infrastructure-plan`. `abbr` and `aliases` unchanged (still LCWIP). Matching id updated in `tools/agreed_review.csv`; no wiki-links keyed on the old id.
+- Rebuilt via `build.py`: estate master 441 entries, 12 lenses, no validation errors. The 8 pre-existing un-agreed drafts remain held back (unchanged).
+- Deploy: commit + push so the jsDelivr feeds refresh (allow for CDN cache lag).
+
 ## 2026-10-08 — New lenses: `tvat`, `bw`, `fpt` (rcvda-core OA § 34)
 - **Three new plain-register lenses** registered in `contexts.yml` (programme + context): `tvat` (Tees Valley Active Travel), `bw` (Beach Wheelchairs), `fpt` (Food Power Together). Flat A–Z, no `group_order`.
 - **94 new terms drafted, all `agreed: n`** (held back from every feed until signed off): 34 active-travel terms (tvat), 25 beach-access terms (bw), 35 food-support terms (fpt), with some shared between lenses (e.g. Wheeling, Dropped kerb, Mobility scooter, Blue Badge, Tactile paving and Mobility aid in tvat + bw; Gift Aid and Volunteer in bw + fpt). Lens totals once agreed: tvat 47, bw 35, fpt 45. Each has a definition, a reading-age-10 `plain` form and, where one exists, a primary source. Sign-off sheet regenerated at `tools/agreed_review.csv` (fill `decision`, run `tools/apply_review.py`, rebuild).
