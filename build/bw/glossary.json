@@ -109,6 +109,26 @@
       "groups": null
     },
     {
+      "id": "wheeling",
+      "term": "Wheeling",
+      "abbr": null,
+      "full_term": "Wheeling",
+      "aliases": [
+        "Wheeling",
+        "wheel"
+      ],
+      "type": "substantive",
+      "definition": "Getting about using a wheelchair, mobility scooter or other wheeled aid, at about walking speed.",
+      "source": "Term used in UK active-travel policy (Sustrans; Wheels for Wellbeing; DfT CWIS2)",
+      "source_url": "https://www.gov.uk/government/publications/the-second-cycling-and-walking-investment-strategy",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
       "id": "dropped-kerb",
       "term": "Dropped kerb",
       "abbr": null,
@@ -497,6 +517,27 @@
       "definition": "A bigger toilet with rails and an alarm cord, made for disabled people.",
       "source": "Building Regulations Approved Document M",
       "source_url": "https://www.gov.uk/government/publications/access-to-and-use-of-buildings-approved-document-m",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "transfer",
+      "term": "Transfer",
+      "abbr": null,
+      "full_term": "Transfer",
+      "aliases": [
+        "Transfer",
+        "transferring",
+        "wheelchair transfer"
+      ],
+      "type": "substantive",
+      "definition": "Moving from one seat to another, like from your wheelchair into a beach wheelchair.",
+      "source": null,
+      "source_url": null,
       "org_ref": null,
       "org_ref_url": null,
       "context_note": null,

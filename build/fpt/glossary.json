@@ -378,6 +378,26 @@
       "groups": null
     },
     {
+      "id": "trussell",
+      "term": "Trussell",
+      "abbr": null,
+      "full_term": "Trussell",
+      "aliases": [
+        "Trussell",
+        "Trussell Trust"
+      ],
+      "type": "organisation",
+      "definition": "A national charity that supports a big network of food banks.",
+      "source": "Trussell",
+      "source_url": "https://www.trussell.org.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
       "id": "ifan",
       "term": "IFAN",
       "abbr": "IFAN",
@@ -620,6 +640,88 @@
       "definition": "When children go hungry in the school holidays because there are no school dinners.",
       "source": null,
       "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "free-school-meals",
+      "term": "Free school meals",
+      "abbr": "FSM",
+      "full_term": "Free school meals",
+      "aliases": [
+        "Free school meals",
+        "FSM",
+        "school dinners"
+      ],
+      "type": "statutory",
+      "definition": "Free school dinners for any child whose family gets Universal Credit, for children whose families get some other benefits, and for every child in Reception to Year 2.",
+      "source": "GOV.UK — Apply for free school meals",
+      "source_url": "https://www.gov.uk/apply-free-school-meals",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "healthy-start",
+      "term": "Healthy Start",
+      "abbr": null,
+      "full_term": "Healthy Start",
+      "aliases": [
+        "Healthy Start",
+        "Healthy Start card",
+        "Healthy Start vouchers"
+      ],
+      "type": "statutory",
+      "definition": "A free NHS payment card for families on some benefits, to buy milk, fruit and vegetables for young children.",
+      "source": "NHS — Healthy Start",
+      "source_url": "https://www.healthystart.nhs.uk/",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "household-support-fund",
+      "term": "Household Support Fund",
+      "abbr": "HSF",
+      "full_term": "Household Support Fund",
+      "aliases": [
+        "Household Support Fund",
+        "HSF"
+      ],
+      "type": "local-programme",
+      "definition": "Government money that councils used (2021 to March 2026) to help families in need pay for food, energy and water.",
+      "source": "DWP — Household Support Fund guidance for local councils",
+      "source_url": "https://www.gov.uk/government/publications/household-support-fund-guidance-for-local-councils",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "crisis-and-resilience-fund",
+      "term": "Crisis and Resilience Fund",
+      "abbr": "CRF",
+      "full_term": "Crisis and Resilience Fund",
+      "aliases": [
+        "Crisis and Resilience Fund",
+        "CRF"
+      ],
+      "type": "local-programme",
+      "definition": "Government money that councils use to help people on a low income who hit a money crisis or can't afford the basics.",
+      "source": "GOV.UK — Crisis and Resilience Fund: guidance for local authorities in England (1 April 2026 to 31 March 2029)",
+      "source_url": "https://www.gov.uk/government/publications/crisis-and-resilience-fund-guidance-for-local-authorities-in-england-1-april-2026-to-31-march-2029",
       "org_ref": null,
       "org_ref_url": null,
       "context_note": null,

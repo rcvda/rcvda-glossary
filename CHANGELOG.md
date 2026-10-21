@@ -1,5 +1,12 @@
 # Changelog — rcvda-glossary
 
+## 2026-10-21 — Held-term sign-off (fpt/tvat/bw); FSM + HSF updated; Crisis and Resilience Fund added
+- **Signed off 7 of the 8 held-back drafts to `agreed: y`:** Wheeling (tvat, bw), Trussell (fpt), Healthy Start (fpt), Low traffic neighbourhood (tvat — `LTN` abbreviation retained/shown), Transfer (bw), plus Free school meals and Household Support Fund below. **Beach access mat** (bw) remains held (`agreed: n`) pending confirmation the scheme's beaches use access mats.
+- **Free school meals** (fpt): definition and plain updated for the September 2026 Universal Credit expansion — the earnings threshold is removed and all pupils in households on Universal Credit are now eligible, alongside universal infant free meals (Reception–Year 2). Source GOV.UK. Internal re-check note cleared; agreed.
+- **Household Support Fund** (fpt): reframed as the time-limited fund that ran 2021–March 2026, with a note cross-linking to its successor; agreed. **Crisis and Resilience Fund** (fpt, new; abbr CRF): added — the DWP-funded, council-delivered scheme that replaced HSF from April 2026 and runs to 31 March 2029, sourced to the GOV.UK local-authority guidance, cross-linked to `[[Household Support Fund]]`.
+- Rebuilt via `build.py`: estate master 442 entries, 12 lenses, no validation errors. One term (beach-access-mat) still held.
+- Deploy: commit + push so the jsDelivr feeds refresh (allow for CDN cache lag).
+
 ## 2026-10-21 — NHS care-level terms (rcvda); LCWIP id re-slug
 - **Three new `rcvda`-lens terms**, all `agreed: y`, grouped under Terms → NHS & Public Health: **Primary care** (`primary-care`), **Secondary care** (`secondary-care`), **Acute care** (`acute-care`). Each `type: substantive` with a reading-age-10 `plain` form. Sources pinned to the National Health Service Act 2006 (legislation.gov.uk): primary care → Parts 4–7 (medical, dental, ophthalmic, pharmaceutical); secondary care → s.3 ICB commissioning duty as amended by the Health and Care Act 2022; acute care → s.25 (NHS trusts). Secondary and acute carry a `note` flagging each as a descriptive category rather than a single statutory term; acute cross-links to `[[A&E]]`.
 - **Re-slugged LCWIP** per CONTRIBUTING (slug from the term, never the abbreviation): `id: lcwip` → `local-cycling-and-walking-infrastructure-plan`. `abbr` and `aliases` unchanged (still LCWIP). Matching id updated in `tools/agreed_review.csv`; no wiki-links keyed on the old id.

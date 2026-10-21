@@ -1,10 +1,10 @@
 # Tees Valley Active Travel glossary — glossary
 
-Lens of the RCVDA estate glossary for **Tees Valley Active Travel glossary** (45 terms, plain register). Generated from `glossary.yml`; do not edit by hand.
+Lens of the RCVDA estate glossary for **Tees Valley Active Travel glossary** (47 terms, plain register). Generated from `glossary.yml`; do not edit by hand.
 
 > **Source of truth:** [`glossary.yml`](glossary.yml). Do not edit this README by hand — edit `glossary.yml` and run `python3 build.py`. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The glossary is in two parts: an **Abbreviations** list (14 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (45 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
+The glossary is in two parts: an **Abbreviations** list (15 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (47 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
 
 ## Abbreviations
 
@@ -16,6 +16,7 @@ The glossary is in two parts: an **Abbreviations** list (14 short forms, each wi
 | **DfT** | Department for Transport | [GOV.UK — Department for Transport](https://www.gov.uk/government/organisations/department-for-transport) | [findthatcharity org ID GB-GOR-D9](https://findthatcharity.uk/orgid/GB-GOR-D9) |
 | **EAPC** | Electrically assisted pedal cycle | [Electrically Assisted Pedal Cycles Regulations 1983 (as amended); GOV.UK — Electric bike rules](https://www.gov.uk/electric-bike-rules) | — |
 | **LCWIP** | Local Cycling and Walking Infrastructure Plan | [Department for Transport — Local Cycling and Walking Infrastructure Plans: technical guidance and tools](https://www.gov.uk/government/publications/local-cycling-and-walking-infrastructure-plans-technical-guidance-and-tools) | — |
+| **LTN** | Low traffic neighbourhood | — | — |
 | **LTN 1/20** | Local Transport Note 1/20: Cycle Infrastructure Design | [Department for Transport — Cycle infrastructure design (LTN 1/20), 2020](https://www.gov.uk/government/publications/cycle-infrastructure-design-ltn-120) | — |
 | **NCN** | National Cycle Network | [Sustrans — the National Cycle Network](https://www.sustrans.org.uk/national-cycle-network) | — |
 | **PROW** | Public right of way | [Wildlife and Countryside Act 1981, s.53 (definitive map and statement)](https://www.legislation.gov.uk/ukpga/1981/69/section/53) | — |
@@ -54,6 +55,7 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Hierarchy of road users** |  | substantive | A Highway Code rule. People driving bigger, faster vehicles must take the most care, because they could cause the most harm. | [The Highway Code, introduction, rules H1–H3](https://www.gov.uk/guidance/the-highway-code/introduction) | — |
 | **Local Cycling and Walking Infrastructure Plan** | LCWIP | method | A council's plan for which walking and cycling routes to build or improve over the next few years. | [Department for Transport — Local Cycling and Walking Infrastructure Plans: technical guidance and tools](https://www.gov.uk/government/publications/local-cycling-and-walking-infrastructure-plans-technical-guidance-and-tools) | — |
 | **Local Transport Note 1/20: Cycle Infrastructure Design** | LTN 1/20 | method | The national guide to designing safe cycle lanes, junctions and bike parking. | [Department for Transport — Cycle infrastructure design (LTN 1/20), 2020](https://www.gov.uk/government/publications/cycle-infrastructure-design-ltn-120) | — |
+| **Low traffic neighbourhood** | LTN | substantive | A set of streets where cars can still get to every home, but cannot cut through, so the streets are quieter for walking and cycling. | — | — |
 | **Middlesbrough Council** |  | organisation | The local council for the Middlesbrough area. | — | [findthatcharity org ID GB-LAE-MDB](https://findthatcharity.uk/orgid/GB-LAE-MDB) |
 | **Mobility aid** |  | substantive | Something that helps you get about, like a walking stick, a frame or a wheelchair. | — | — |
 | **Mobility scooter** |  | statutory | A small electric vehicle for people who find walking hard. Some can only go on pavements. Bigger ones can also use roads. | [Use of Invalid Carriages on Highways Regulations 1988; The Highway Code, rules 36–46](https://www.gov.uk/guidance/the-highway-code/rules-for-users-of-powered-wheelchairs-and-mobility-scooters-36-to-46) | — |
@@ -76,6 +78,7 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Tees Valley Combined Authority** | TVCA | organisation | The body led by the Tees Valley Mayor that works across all five Tees Valley council areas on things like transport, jobs and skills. | [Tees Valley Combined Authority Order 2016 (SI 2016/449), under the Local Democracy, Economic Development and Construction Act 2009](https://www.legislation.gov.uk/uksi/2016/449/contents/made) | [findthatcharity org ID GB-LAE-TVCA](https://findthatcharity.uk/orgid/GB-LAE-TVCA) |
 | **Toucan crossing** |  | substantive | A traffic-light crossing that people walking and people on bikes can both use. | [The Highway Code, rule 25](https://www.gov.uk/guidance/the-highway-code/rules-for-pedestrians-1-to-35) | — |
 | **Voluntary, Community, Faith and Social Enterprise** | VCFSE | acronym | Charities, community groups, faith groups and social enterprises: groups that exist to help people, not to make money for owners. | Sector-standard term. | — |
+| **Wheeling** |  | substantive | Getting about using a wheelchair, mobility scooter or other wheeled aid, at about walking speed. | [Term used in UK active-travel policy (Sustrans; Wheels for Wellbeing; DfT CWIS2)](https://www.gov.uk/government/publications/the-second-cycling-and-walking-investment-strategy) | — |
 
 ---
 

@@ -9168,12 +9168,12 @@
       "school dinners"
     ],
     "type": "statutory",
-    "definition": "Meals provided free at school to pupils from families who receive certain benefits, including Universal Credit, and to all infant pupils (Reception to Year 2) in state-funded schools in England.",
+    "definition": "Meals provided free at school. In England, pupils are eligible if their household receives Universal Credit (from September 2026, with no earnings threshold) or certain other qualifying benefits; all infant pupils (Reception to Year 2) in state-funded schools also receive free meals.",
     "source": "GOV.UK — Apply for free school meals",
     "source_url": "https://www.gov.uk/apply-free-school-meals",
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "Free school dinners for children from families on some benefits, and for all children in Reception to Year 2.",
+    "plain": "Free school dinners for any child whose family gets Universal Credit, for children whose families get some other benefits, and for every child in Reception to Year 2.",
     "scope": [
       "fpt"
     ],
@@ -9213,12 +9213,34 @@
       "HSF"
     ],
     "type": "local-programme",
-    "definition": "Government funding given to local councils in England to help households most in need with the cost of essentials such as food, energy and water.",
+    "definition": "A time-limited government fund that gave local councils in England money to help households most in need with the cost of essentials such as food, energy and water. It ran from 2021 to March 2026.",
     "source": "DWP — Household Support Fund guidance for local councils",
     "source_url": "https://www.gov.uk/government/publications/household-support-fund-guidance-for-local-councils",
     "org_ref": null,
     "org_ref_url": null,
-    "plain": "Government money that councils use to help families in need pay for food, energy and water.",
+    "plain": "Government money that councils used (2021 to March 2026) to help families in need pay for food, energy and water.",
+    "scope": [
+      "fpt"
+    ],
+    "context_notes": {},
+    "overrides": {}
+  },
+  {
+    "id": "crisis-and-resilience-fund",
+    "term": "Crisis and Resilience Fund",
+    "abbr": "CRF",
+    "full_term": "Crisis and Resilience Fund",
+    "aliases": [
+      "Crisis and Resilience Fund",
+      "CRF"
+    ],
+    "type": "local-programme",
+    "definition": "A government fund that gives local councils in England money to help people on low incomes who face a sudden financial crisis or cannot afford essential costs, usually through crisis payments and housing-related support.",
+    "source": "GOV.UK — Crisis and Resilience Fund: guidance for local authorities in England (1 April 2026 to 31 March 2029)",
+    "source_url": "https://www.gov.uk/government/publications/crisis-and-resilience-fund-guidance-for-local-authorities-in-england-1-april-2026-to-31-march-2029",
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": "Government money that councils use to help people on a low income who hit a money crisis or can't afford the basics.",
     "scope": [
       "fpt"
     ],

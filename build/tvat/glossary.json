@@ -270,6 +270,26 @@
       "groups": null
     },
     {
+      "id": "wheeling",
+      "term": "Wheeling",
+      "abbr": null,
+      "full_term": "Wheeling",
+      "aliases": [
+        "Wheeling",
+        "wheel"
+      ],
+      "type": "substantive",
+      "definition": "Getting about using a wheelchair, mobility scooter or other wheeled aid, at about walking speed.",
+      "source": "Term used in UK active-travel policy (Sustrans; Wheels for Wellbeing; DfT CWIS2)",
+      "source_url": "https://www.gov.uk/government/publications/the-second-cycling-and-walking-investment-strategy",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
       "id": "active-travel-england",
       "term": "Active Travel England",
       "abbr": "ATE",
@@ -724,6 +744,27 @@
       "definition": "A permit that lets disabled people park closer to where they are going.",
       "source": "Chronically Sick and Disabled Persons Act 1970, s.21; GOV.UK — Apply for or renew a Blue Badge",
       "source_url": "https://www.gov.uk/apply-blue-badge",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "low-traffic-neighbourhood",
+      "term": "Low traffic neighbourhood",
+      "abbr": "LTN",
+      "full_term": "Low traffic neighbourhood",
+      "aliases": [
+        "Low traffic neighbourhood",
+        "LTN",
+        "low-traffic neighbourhood"
+      ],
+      "type": "substantive",
+      "definition": "A set of streets where cars can still get to every home, but cannot cut through, so the streets are quieter for walking and cycling.",
+      "source": null,
+      "source_url": null,
       "org_ref": null,
       "org_ref_url": null,
       "context_note": null,

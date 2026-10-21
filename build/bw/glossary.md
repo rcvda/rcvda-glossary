@@ -1,10 +1,10 @@
 # Beach Wheelchairs glossary — glossary
 
-Lens of the RCVDA estate glossary for **Beach Wheelchairs glossary** (32 terms, plain register). Generated from `glossary.yml`; do not edit by hand.
+Lens of the RCVDA estate glossary for **Beach Wheelchairs glossary** (34 terms, plain register). Generated from `glossary.yml`; do not edit by hand.
 
 > **Source of truth:** [`glossary.yml`](glossary.yml). Do not edit this README by hand — edit `glossary.yml` and run `python3 build.py`. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The glossary is in two parts: an **Abbreviations** list (6 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (32 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
+The glossary is in two parts: an **Abbreviations** list (6 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (34 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
 
 ## Abbreviations
 
@@ -53,8 +53,10 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Tees Valley** |  | local-programme | The area made up of five council areas: Middlesbrough, Redcar & Cleveland, Stockton-on-Tees, Hartlepool and Darlington. | Tees Valley Combined Authority geography. | — |
 | **Tees Valley Combined Authority** | TVCA | organisation | The body led by the Tees Valley Mayor that works across all five Tees Valley council areas on things like transport, jobs and skills. | [Tees Valley Combined Authority Order 2016 (SI 2016/449), under the Local Democracy, Economic Development and Construction Act 2009](https://www.legislation.gov.uk/uksi/2016/449/contents/made) | [findthatcharity org ID GB-LAE-TVCA](https://findthatcharity.uk/orgid/GB-LAE-TVCA) |
 | **Tide times** |  | substantive | The times when the sea comes in (high tide) and goes out (low tide). They change every day. | [UK Hydrographic Office — Admiralty EasyTide predictions](https://easytide.admiralty.co.uk/) | — |
+| **Transfer** |  | substantive | Moving from one seat to another, like from your wheelchair into a beach wheelchair. | — | — |
 | **Voluntary, Community, Faith and Social Enterprise** | VCFSE | acronym | Charities, community groups, faith groups and social enterprises: groups that exist to help people, not to make money for owners. | Sector-standard term. | — |
 | **Volunteer** |  | substantive | Someone who gives their time to help, without being paid. | — | — |
+| **Wheeling** |  | substantive | Getting about using a wheelchair, mobility scooter or other wheeled aid, at about walking speed. | [Term used in UK active-travel policy (Sustrans; Wheels for Wellbeing; DfT CWIS2)](https://www.gov.uk/government/publications/the-second-cycling-and-walking-investment-strategy) | — |
 
 ---
 
