@@ -1,5 +1,11 @@
 # Changelog — rcvda-glossary
 
+## 2026-10-22 — SWEP: id re-slug + source pinned
+- **Severe Weather Emergency Protocol**: re-slugged `id: swep` → `severe-weather-emergency-protocol` per CONTRIBUTING (slug from the term, not the abbreviation); `abbr` and `aliases` unchanged (still SWEP). No wiki-links keyed on the old id.
+- Pinned the previously-empty `source_url` and named the source: MHCLG — "Supporting vulnerable people before and during cold weather: guidance for those providing services to rough sleepers" (gov.uk).
+- Rebuilt via `build.py`: estate master 442 entries, 12 lenses, no validation errors.
+- Deploy: commit + push so the jsDelivr feeds refresh (allow for CDN cache lag).
+
 ## 2026-10-21 — Held-term sign-off (fpt/tvat/bw); FSM + HSF updated; Crisis and Resilience Fund added
 - **Signed off 7 of the 8 held-back drafts to `agreed: y`:** Wheeling (tvat, bw), Trussell (fpt), Healthy Start (fpt), Low traffic neighbourhood (tvat — `LTN` abbreviation retained/shown), Transfer (bw), plus Free school meals and Household Support Fund below. **Beach access mat** (bw) remains held (`agreed: n`) pending confirmation the scheme's beaches use access mats.
 - **Free school meals** (fpt): definition and plain updated for the September 2026 Universal Credit expansion — the earnings threshold is removed and all pupils in households on Universal Credit are now eligible, alongside universal infant free meals (Reception–Year 2). Source GOV.UK. Internal re-check note cleared; agreed.

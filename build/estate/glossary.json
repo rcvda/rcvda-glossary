@@ -4177,7 +4177,7 @@
     "overrides": {}
   },
   {
-    "id": "swep",
+    "id": "severe-weather-emergency-protocol",
     "term": "Severe Weather Emergency Protocol",
     "abbr": "SWEP",
     "full_term": "Severe Weather Emergency Protocol",
@@ -4187,8 +4187,8 @@
     ],
     "type": "substantive",
     "definition": "Local arrangements to provide emergency accommodation for people sleeping rough during severe weather; a discretionary, non-statutory response prompted by cold-weather and other severe-weather thresholds.",
-    "source": "MHCLG rough sleeping / cold weather provision guidance.",
-    "source_url": null,
+    "source": "MHCLG — Supporting vulnerable people before and during cold weather: guidance for those providing services to rough sleepers",
+    "source_url": "https://www.gov.uk/guidance/supporting-vulnerable-people-before-and-during-cold-weather-for-those-providing-services-to-rough-sleepers",
     "org_ref": null,
     "org_ref_url": null,
     "plain": null,

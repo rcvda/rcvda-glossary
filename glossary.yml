@@ -3542,7 +3542,7 @@
     - Terms
     - Local Authorities
 - term: Severe Weather Emergency Protocol
-  id: swep
+  id: severe-weather-emergency-protocol
   abbr: SWEP
   full_term: Severe Weather Emergency Protocol
   aliases: SWEP|Severe Weather Emergency Protocol
@@ -3550,8 +3550,8 @@
   definition: Local arrangements to provide emergency accommodation for people sleeping rough during
     severe weather; a discretionary, non-statutory response prompted by cold-weather and other 
     severe-weather thresholds.
-  source: MHCLG rough sleeping / cold weather provision guidance.
-  source_url:
+  source: "MHCLG — Supporting vulnerable people before and during cold weather: guidance for those providing services to rough sleepers"
+  source_url: https://www.gov.uk/guidance/supporting-vulnerable-people-before-and-during-cold-weather-for-those-providing-services-to-rough-sleepers
   org_ref: ''
   org_ref_url:
   scope:
