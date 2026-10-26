@@ -2735,22 +2735,15 @@
   full_term: Thrive Partnership
   aliases: Thrive Partnership|THRIVE|Thrive
   type: local-programme
-  definition: 'The Redcar and Cleveland partnership delivering England''s first integrated Domestic Abuse
-    and Substance Use (IDAS) service model: collaborative, trauma-informed support. THRIVE stands for
-    Trusting, Hopeful, Resilient, Involved, Valued and Empowered. Partners: We Are With You (drug and
-    alcohol support), Redcar and Cleveland Borough Council, Harbour Support Services (domestic abuse),
-    Recovery Connections and Intuitive Thinking Skills.'
-  source: We Are With You — the Thrive Partnership (Redcar and Cleveland; England's first integrated
-    Domestic Abuse and Substance Use model); Thrive Impact Report 2024–2025
-  source_url: 
-    https://www.wearewithyou.org.uk/latest/news-and-views/women-stronger-together-a-three-way-conversation-with-the-thrive-partnership
+  definition: 'The Redcar and Cleveland partnership delivering England''s first integrated Domestic Abuse and Substance Use (IDAS) service model: collaborative, trauma-informed support, commenced April 2022. Three partner charities deliver it: We Are With You (lead provider; core substance-misuse service), Harbour Support Services (core domestic-abuse service) and Intuitive Thinking Skills (recovery-based programme), working closely with Recovery Connections and other local partners. Built on shared values of being Trusting, Hopeful, Resilient, Involved, Valued and Empowered.'
+  source: We Are With You — Thrive Impact Report 2024/25; corroborated by the South Tees Changing Futures Housing First Service Specification (February 2024)
+  source_url: https://www.wearewithyou.org.uk/latest/news-and-views/women-stronger-together-a-three-way-conversation-with-the-thrive-partnership
   org_ref: ''
   org_ref_url:
   scope:
   - clr.da
   - clr.hf
-  note: IDAS = Integrated Domestic Abuse and Substance Use. THRIVE = Trusting, Hopeful, Resilient, 
-    Involved, Valued, Empowered.
+  note: 'IDAS = Integrated Domestic Abuse and Substance Use. THRIVE values: Trusting, Hopeful, Resilient, Involved, Valued, Empowered. Commissioned by Redcar and Cleveland Borough Council (commissioner, not a delivery partner). Recovery Connections is a close collaborator and, with the council''s internal services, sits within ACT Middlesbrough (see act-middlesbrough) — the Middlesbrough counterpart; do not list either as a THRIVE partner.'
   agreed: y
 - term: TICA
   id: tica
@@ -3561,6 +3554,100 @@
     rcvda:
     - Terms
     - Local Authorities
+- term: National Severe Weather Warning Service
+  id: national-severe-weather-warning-service
+  abbr: NSWWS
+  full_term: National Severe Weather Warning Service
+  aliases: NSWWS|National Severe Weather Warning Service|Met Office weather warnings
+  type: substantive
+  definition: "The Met Office service that issues impact-based warnings of severe weather across the UK, colour-coded Yellow, Amber or Red according to how likely the weather is and how severe its impacts could be; it covers hazards such as wind, rain, snow, ice, fog, thunderstorms, lightning and extreme heat."
+  source: Met Office — Weather warnings guide
+  source_url: https://weather.metoffice.gov.uk/guides/warnings
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - Government
+- term: Weather-Health Alerts
+  id: weather-health-alerts
+  abbr: WHA
+  full_term: Weather-Health Alerts
+  aliases: WHA|Weather-Health Alerts|Weather-Health Alerting System|weather health alert
+  type: substantive
+  definition: "A joint service from the UK Health Security Agency and the Met Office that warns health and care services, and the public, when hot or cold weather is likely to affect people's health; it issues Heat-Health Alerts and Cold-Health Alerts at green, yellow, amber or red levels for each region of England."
+  source: UK Health Security Agency — Weather-Health Alerting System
+  source_url: https://www.gov.uk/guidance/weather-health-alerting-system
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  note: "Provided under the [[Adverse Weather and Health Plan]]; covers the [[Cold-Health Alert]] and the [[Heat-Health Alert]]."
+  agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
+- term: Cold-Health Alert
+  id: cold-health-alert
+  abbr: CHA
+  full_term: Cold-Health Alert
+  aliases: CHA|Cold-Health Alert|Cold Health Alert
+  type: substantive
+  definition: "An alert in the [[Weather-Health Alerts]] service warning that cold weather is likely to affect people's health, issued by the UK Health Security Agency and the Met Office at green, yellow, amber or red levels for each region of England."
+  source: UK Health Security Agency — Weather-Health Alerting System
+  source_url: https://www.gov.uk/guidance/weather-health-alerting-system
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  note: "May inform local responses to cold weather, such as activating a [[Severe Weather Emergency Protocol]]."
+  agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
+- term: Heat-Health Alert
+  id: heat-health-alert
+  abbr: HHA
+  full_term: Heat-Health Alert
+  aliases: HHA|Heat-Health Alert|Heat Health Alert
+  type: substantive
+  definition: "An alert in the [[Weather-Health Alerts]] service warning that hot weather is likely to affect people's health, issued by the UK Health Security Agency and the Met Office at green, yellow, amber or red levels for each region of England."
+  source: UK Health Security Agency — Weather-Health Alerting System
+  source_url: https://www.gov.uk/guidance/weather-health-alerting-system
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  note: ''
+  agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
+- term: Adverse Weather and Health Plan
+  id: adverse-weather-and-health-plan
+  abbr: AWHP
+  full_term: Adverse Weather and Health Plan
+  aliases: AWHP|Adverse Weather and Health Plan|Cold Weather Plan|Heatwave Plan
+  type: substantive
+  definition: "The UK Health Security Agency's national plan for protecting health from the effects of hot weather, cold weather and other adverse weather in England."
+  source: UK Health Security Agency — Adverse Weather and Health Plan (2026 to 2027)
+  source_url: https://assets.publishing.service.gov.uk/media/69cbbd2b024cdf09254f3f57/Adverse_Weather_and_Health_Plan_2026_2027.pdf
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  note: "Provides the framework for the [[Weather-Health Alerts]] service. Replaced the Cold Weather Plan for England and the Heatwave Plan for England in 2023."
+  agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
 - term: Team around the individual
   id: tati
   abbr: TATI

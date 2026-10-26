@@ -1014,6 +1014,128 @@
       ]
     },
     {
+      "id": "national-severe-weather-warning-service",
+      "term": "National Severe Weather Warning Service",
+      "abbr": "NSWWS",
+      "full_term": "National Severe Weather Warning Service",
+      "aliases": [
+        "NSWWS",
+        "National Severe Weather Warning Service",
+        "Met Office weather warnings"
+      ],
+      "type": "substantive",
+      "definition": "The Met Office service that issues impact-based warnings of severe weather across the UK, colour-coded Yellow, Amber or Red according to how likely the weather is and how severe its impacts could be; it covers hazards such as wind, rain, snow, ice, fog, thunderstorms, lightning and extreme heat.",
+      "source": "Met Office — Weather warnings guide",
+      "source_url": "https://weather.metoffice.gov.uk/guides/warnings",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "Government"
+      ]
+    },
+    {
+      "id": "weather-health-alerts",
+      "term": "Weather-Health Alerts",
+      "abbr": "WHA",
+      "full_term": "Weather-Health Alerts",
+      "aliases": [
+        "WHA",
+        "Weather-Health Alerts",
+        "Weather-Health Alerting System",
+        "weather health alert"
+      ],
+      "type": "substantive",
+      "definition": "A joint service from the UK Health Security Agency and the Met Office that warns health and care services, and the public, when hot or cold weather is likely to affect people's health; it issues Heat-Health Alerts and Cold-Health Alerts at green, yellow, amber or red levels for each region of England.",
+      "source": "UK Health Security Agency — Weather-Health Alerting System",
+      "source_url": "https://www.gov.uk/guidance/weather-health-alerting-system",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "NHS & Public Health"
+      ]
+    },
+    {
+      "id": "cold-health-alert",
+      "term": "Cold-Health Alert",
+      "abbr": "CHA",
+      "full_term": "Cold-Health Alert",
+      "aliases": [
+        "CHA",
+        "Cold-Health Alert",
+        "Cold Health Alert"
+      ],
+      "type": "substantive",
+      "definition": "An alert in the [[Weather-Health Alerts]] service warning that cold weather is likely to affect people's health, issued by the UK Health Security Agency and the Met Office at green, yellow, amber or red levels for each region of England.",
+      "source": "UK Health Security Agency — Weather-Health Alerting System",
+      "source_url": "https://www.gov.uk/guidance/weather-health-alerting-system",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "NHS & Public Health"
+      ]
+    },
+    {
+      "id": "heat-health-alert",
+      "term": "Heat-Health Alert",
+      "abbr": "HHA",
+      "full_term": "Heat-Health Alert",
+      "aliases": [
+        "HHA",
+        "Heat-Health Alert",
+        "Heat Health Alert"
+      ],
+      "type": "substantive",
+      "definition": "An alert in the [[Weather-Health Alerts]] service warning that hot weather is likely to affect people's health, issued by the UK Health Security Agency and the Met Office at green, yellow, amber or red levels for each region of England.",
+      "source": "UK Health Security Agency — Weather-Health Alerting System",
+      "source_url": "https://www.gov.uk/guidance/weather-health-alerting-system",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "NHS & Public Health"
+      ]
+    },
+    {
+      "id": "adverse-weather-and-health-plan",
+      "term": "Adverse Weather and Health Plan",
+      "abbr": "AWHP",
+      "full_term": "Adverse Weather and Health Plan",
+      "aliases": [
+        "AWHP",
+        "Adverse Weather and Health Plan",
+        "Cold Weather Plan",
+        "Heatwave Plan"
+      ],
+      "type": "substantive",
+      "definition": "The UK Health Security Agency's national plan for protecting health from the effects of hot weather, cold weather and other adverse weather in England.",
+      "source": "UK Health Security Agency — Adverse Weather and Health Plan (2026 to 2027)",
+      "source_url": "https://assets.publishing.service.gov.uk/media/69cbbd2b024cdf09254f3f57/Adverse_Weather_and_Health_Plan_2026_2027.pdf",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "NHS & Public Health"
+      ]
+    },
+    {
       "id": "tati",
       "term": "Team around the individual",
       "abbr": "TATI",
