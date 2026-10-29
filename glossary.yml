@@ -75,6 +75,20 @@
   note: Fixes an acronym collision — 'AE' was wrongly picking up the 'A&E' (Accident & Emergency) 
     source. Distinct from the MD report's 'A&E' entry.
   agreed: y
+- term: Clinical Lead
+  id: clinical-lead
+  abbr: ''
+  full_term: Clinical Lead
+  aliases: Clinical Lead|IRIS Clinical Lead
+  type: local-programme
+  definition: 'A named GP within an Identification and Referral to Improve Safety (IRIS)-accredited practice who acts as the practice''s honorary domestic-abuse ambassador: the clinical point of contact the Advocate Educator (AE) builds a case-consultation relationship with, and the route through which whole-practice training and clinical-system prompts are embedded and sustained inside the surgery. Part of the IRIS specification; distinct from the Advocate Educator, which is a specialist domestic-abuse worker role rather than a clinical one.'
+  source: The Identification and Referral to Improve Safety (IRIS) programme specification, which defines the Clinical Lead role.
+  source_url:
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - clr.da
+  agreed: y
 - term: A&E
   id: a-e
   abbr: A&E

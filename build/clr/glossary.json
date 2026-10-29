@@ -88,6 +88,26 @@
       "groups": null
     },
     {
+      "id": "clinical-lead",
+      "term": "Clinical Lead",
+      "abbr": null,
+      "full_term": "Clinical Lead",
+      "aliases": [
+        "Clinical Lead",
+        "IRIS Clinical Lead"
+      ],
+      "type": "local-programme",
+      "definition": "A named GP within an Identification and Referral to Improve Safety (IRIS)-accredited practice who acts as the practice's honorary domestic-abuse ambassador: the clinical point of contact the Advocate Educator (AE) builds a case-consultation relationship with, and the route through which whole-practice training and clinical-system prompts are embedded and sustained inside the surgery. Part of the IRIS specification; distinct from the Advocate Educator, which is a specialist domestic-abuse worker role rather than a clinical one.",
+      "source": "The Identification and Referral to Improve Safety (IRIS) programme specification, which defines the Clinical Lead role.",
+      "source_url": null,
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
       "id": "a-e",
       "term": "A&E",
       "abbr": "A&E",
