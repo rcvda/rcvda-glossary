@@ -2749,7 +2749,7 @@
   full_term: Thrive Partnership
   aliases: Thrive Partnership|THRIVE|Thrive
   type: local-programme
-  definition: 'The Redcar and Cleveland partnership delivering England''s first integrated Domestic Abuse and Substance Use (IDAS) service model: collaborative, trauma-informed support, commenced April 2022. Three partner charities deliver it: We Are With You (lead provider; core substance-misuse service), Harbour Support Services (core domestic-abuse service) and Intuitive Thinking Skills (recovery-based programme), working closely with Recovery Connections and other local partners. Built on shared values of being Trusting, Hopeful, Resilient, Involved, Valued and Empowered.'
+  definition: 'The Redcar and Cleveland partnership delivering England''s first integrated Domestic Abuse and Substance Use (IDAS) service model: collaborative, trauma-informed support, commenced April 2022. Redcar and Cleveland Borough Council is its commissioning partner; the service is delivered by three partner charities: We Are With You (lead provider; core substance-misuse service), Harbour Support Services (core domestic-abuse service) and Intuitive Thinking Skills (recovery-based programme), working closely with Recovery Connections and other local partners. Built on shared values of being Trusting, Hopeful, Resilient, Involved, Valued and Empowered.'
   source: We Are With You — Thrive Impact Report 2024/25; corroborated by the South Tees Changing Futures Housing First Service Specification (February 2024)
   source_url: https://www.wearewithyou.org.uk/latest/news-and-views/women-stronger-together-a-three-way-conversation-with-the-thrive-partnership
   org_ref: ''
@@ -2757,7 +2757,7 @@
   scope:
   - clr.da
   - clr.hf
-  note: 'IDAS = Integrated Domestic Abuse and Substance Use. THRIVE values: Trusting, Hopeful, Resilient, Involved, Valued, Empowered. Commissioned by Redcar and Cleveland Borough Council (commissioner, not a delivery partner). Recovery Connections is a close collaborator and, with the council''s internal services, sits within ACT Middlesbrough (see act-middlesbrough) — the Middlesbrough counterpart; do not list either as a THRIVE partner.'
+  note: 'IDAS = Integrated Domestic Abuse and Substance Use. THRIVE values: Trusting, Hopeful, Resilient, Involved, Valued, Empowered. Redcar and Cleveland Borough Council is the commissioning partner (part of the partnership, but not one of the three delivery charities). Recovery Connections is a close collaborator and, with the council''s internal services, sits within ACT Middlesbrough (see act-middlesbrough) — the Middlesbrough counterpart; do not list either as a THRIVE partner.'
   agreed: y
 - term: TICA
   id: tica
