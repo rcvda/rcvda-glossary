@@ -8930,3 +8930,23 @@
     rcvda:
     - Terms
     - NHS & Public Health
+- term: SSMTRG
+  id: ssmtrg
+  abbr: SSMTRG
+  full_term: Supplementary Substance Misuse Treatment and Recovery Grant
+  aliases: SSMTRG|Supplementary Substance Misuse Treatment and Recovery Grant|Supplemental Substance Misuse Treatment and Recovery Grant|Public Health Supplementary Substance Misuse Treatment and Recovery Grant
+  type: statutory
+  definition: A ring-fenced central-government grant to local authorities that supplements the drug and alcohol treatment element of the Public Health Grant, funding additional substance-misuse treatment and recovery capacity.
+  plain: Extra ring-fenced government money for drug and alcohol treatment, on top of the main public health grant.
+  source: Office for Health Improvement and Disparities / Department of Health and Social Care — Supplementary Substance Misuse Treatment and Recovery Grant determination
+  source_url: ''
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - rcvda
+  note: One of the ring-fenced substance-misuse funding streams within the Public Health Grant, distinct from the non-ring-fenced discretionary element. Also written "Supplemental". Part-funds the Harbour GP Link Worker post in the Changing Futures Domestic Abuse deep dive.
+  agreed: y
+  groups:
+    rcvda:
+    - Terms
+    - NHS & Public Health
