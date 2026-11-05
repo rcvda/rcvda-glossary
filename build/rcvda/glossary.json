@@ -3884,6 +3884,31 @@
         "Terms",
         "NHS & Public Health"
       ]
+    },
+    {
+      "id": "ssmtrg",
+      "term": "SSMTRG",
+      "abbr": "SSMTRG",
+      "full_term": "Supplementary Substance Misuse Treatment and Recovery Grant",
+      "aliases": [
+        "SSMTRG",
+        "Supplementary Substance Misuse Treatment and Recovery Grant",
+        "Supplemental Substance Misuse Treatment and Recovery Grant",
+        "Public Health Supplementary Substance Misuse Treatment and Recovery Grant"
+      ],
+      "type": "statutory",
+      "definition": "A ring-fenced central-government grant to local authorities that supplements the drug and alcohol treatment element of the Public Health Grant, funding additional substance-misuse treatment and recovery capacity.",
+      "source": "Office for Health Improvement and Disparities / Department of Health and Social Care — Supplementary Substance Misuse Treatment and Recovery Grant determination",
+      "source_url": "",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": null,
+      "short_name": null,
+      "order": null,
+      "groups": [
+        "Terms",
+        "NHS & Public Health"
+      ]
     }
   ]
 }

@@ -1,5 +1,12 @@
 # Changelog — rcvda-glossary
 
+## 2026-11-05 — Research-method terms added (clr): Literature Review, Desktop Review
+- **Literature Review** (`literature-review`, `type: method`, scope `clr`, `agreed: y`): added — the desk-based review method restricted to academic and research evidence, using a stated search strategy and inclusion criteria, with critical appraisal and synthesis; ranges from a narrative review to a full systematic review. Sourced to Grant and Booth (2009), *A typology of reviews* (Health Information and Libraries Journal, 26(2), 91–108). Context note (clr) cross-links to `[[Desktop Review]]`.
+- **Desktop Review** (`desktop-review`, `type: method`, scope `clr`, `agreed: y`): added — the broad desk-based method drawing solely on existing material (published and grey literature; policy and government documents; administrative and statistical data; organisational reports), with no new primary data from fieldwork, surveys or interviews. Aliases: Desk Review, Desk-based Research, Desk Research. No single canonical methods authority, so `source`/`source_url` left blank. Context note (clr) cross-links to `[[Literature Review]]`.
+- **Build re-sync (no source edit):** this rebuild also brought earlier `glossary.yml` edits into their lens outputs — SSMTRG (rcvda), and the Advocate Educator and Thrive Partnership definitions (clr.da, clr.hf) — which had not previously been rebuilt. `glossary.yml` unchanged for these; `build/` now matches source.
+- Rebuilt via `build.py`: estate master 451 entries, 12 lenses, no validation errors. One pre-existing term (beach-access-mat) remains held back (`agreed: n`), unchanged.
+- Deploy: commit + push so the jsDelivr feeds refresh (allow for CDN cache lag).
+
 ## 2026-10-22 — SWEP: id re-slug + source pinned
 - **Severe Weather Emergency Protocol**: re-slugged `id: swep` → `severe-weather-emergency-protocol` per CONTRIBUTING (slug from the term, not the abbreviation); `abbr` and `aliases` unchanged (still SWEP). No wiki-links keyed on the old id.
 - Pinned the previously-empty `source_url` and named the source: MHCLG — "Supporting vulnerable people before and during cold weather: guidance for those providing services to rough sleepers" (gov.uk).

@@ -78,7 +78,7 @@
       ],
       "type": "local-programme",
       "definition": "The Identification and Referral to Improve Safety (IRIS)-embedded specialist domestic-abuse worker who delivers whole-practice training to a GP practice and provides one-to-one advocacy to patients. In Middlesbrough the role is based at My Sister's Place.",
-      "source": "The Identification and Referral to Improve Safety (IRIS) programme, which defines the Advocate Educator (AE) role; delivered locally at My Sister's Place, Middlesbrough (the postholder holds the SafeLives Older Persons Violence Advisor qualification).",
+      "source": "The Identification and Referral to Improve Safety (IRIS) programme, which defines the Advocate Educator (AE) role; delivered locally at My Sister's Place, Middlesbrough (the postholder is a fully qualified Level 3 IDVA who also holds the SafeLives Older Persons Violence Advisor qualification).",
       "source_url": null,
       "org_ref": null,
       "org_ref_url": null,
@@ -2798,7 +2798,7 @@
         "Thrive"
       ],
       "type": "local-programme",
-      "definition": "The Redcar and Cleveland partnership delivering England's first integrated Domestic Abuse and Substance Use (IDAS) service model: collaborative, trauma-informed support, commenced April 2022. Three partner charities deliver it: We Are With You (lead provider; core substance-misuse service), Harbour Support Services (core domestic-abuse service) and Intuitive Thinking Skills (recovery-based programme), working closely with Recovery Connections and other local partners. Built on shared values of being Trusting, Hopeful, Resilient, Involved, Valued and Empowered.",
+      "definition": "The Redcar and Cleveland partnership delivering England's first integrated Domestic Abuse and Substance Use (IDAS) service model: collaborative, trauma-informed support, commenced April 2022. Redcar and Cleveland Borough Council is its commissioning partner; the service is delivered by three partner charities: We Are With You (lead provider; core substance-misuse service), Harbour Support Services (core domestic-abuse service) and Intuitive Thinking Skills (recovery-based programme), working closely with Recovery Connections and other local partners. Built on shared values of being Trusting, Hopeful, Resilient, Involved, Valued and Empowered.",
       "source": "We Are With You — Thrive Impact Report 2024/25; corroborated by the South Tees Changing Futures Housing First Service Specification (February 2024)",
       "source_url": "https://www.wearewithyou.org.uk/latest/news-and-views/women-stronger-together-a-three-way-conversation-with-the-thrive-partnership",
       "org_ref": null,
@@ -3168,6 +3168,48 @@
       "org_ref": "findthatcharity org ID GB-GOR-D18",
       "org_ref_url": "https://findthatcharity.uk/orgid/GB-GOR-D18",
       "context_note": "Commissioned the Intensive Supervision Courts pilot and published the process evaluation cited in the Multiple Disadvantage report.",
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "literature-review",
+      "term": "Literature Review",
+      "abbr": null,
+      "full_term": "Literature Review",
+      "aliases": [
+        "Literature Review",
+        "Lit Review"
+      ],
+      "type": "method",
+      "definition": "A review method that systematically appraises the published academic and research literature on a defined question, using a stated search strategy and inclusion criteria to identify relevant studies, critically appraising their quality and synthesising their findings to establish the current state of knowledge. Ranges in rigour from a narrative review to a full systematic review.",
+      "source": "Grant and Booth (2009) — A typology of reviews, Health Information and Libraries Journal, 26(2), 91–108.",
+      "source_url": "https://doi.org/10.1111/j.1471-1842.2009.00848.x",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": "The desk-based review method restricted to academic and research evidence; narrower than a [[Desktop Review]], which also draws on grey literature, policy and administrative sources.",
+      "short_name": null,
+      "order": null,
+      "groups": null
+    },
+    {
+      "id": "desktop-review",
+      "term": "Desktop Review",
+      "abbr": null,
+      "full_term": "Desktop Review",
+      "aliases": [
+        "Desktop Review",
+        "Desk Review",
+        "Desk-based Research",
+        "Desk Research"
+      ],
+      "type": "method",
+      "definition": "A research method that draws solely on existing, already-available material — published and grey literature, policy and government documents, administrative and statistical data, and organisational reports — gathering and synthesising what is already known for a defined purpose, without generating new primary data through fieldwork, surveys or interviews.",
+      "source": null,
+      "source_url": "",
+      "org_ref": null,
+      "org_ref_url": null,
+      "context_note": "The broad desk-based method; a [[Literature Review]] is its narrower form, restricted to academic and research evidence.",
       "short_name": null,
       "order": null,
       "groups": null

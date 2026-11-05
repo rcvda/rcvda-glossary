@@ -1,10 +1,10 @@
 # RCVDA organisation-wide glossary — glossary
 
-Lens of the RCVDA estate glossary for **RCVDA organisation-wide glossary** (166 terms, authoritative register). Generated from `glossary.yml`; do not edit by hand.
+Lens of the RCVDA estate glossary for **RCVDA organisation-wide glossary** (167 terms, authoritative register). Generated from `glossary.yml`; do not edit by hand.
 
 > **Source of truth:** [`glossary.yml`](glossary.yml). Do not edit this README by hand — edit `glossary.yml` and run `python3 build.py`. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The glossary is in two parts: an **Abbreviations** list (113 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (166 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
+The glossary is in two parts: an **Abbreviations** list (114 short forms, each with the words it stands for, its source and its organisation reference where one exists) and the **Glossary of terms** (167 entries, each defined once under its spelt-out name with a type and an authoritative source). A term that has an abbreviation is defined in the terms section; the abbreviation points to it. Statutory terms link to the exact section on legislation.gov.uk.
 
 ## Abbreviations
 
@@ -104,6 +104,7 @@ The glossary is in two parts: an **Abbreviations** list (113 short forms, each w
 | **SEQF** | Supported Employment Quality Framework | British Association for Supported Employment (BASE). | — |
 | **SHMA** | Strategic Housing Market Assessment | Strategic Housing Market Assessment | — |
 | **SMARTER** | Specific, Meaningful, Achievable, Relevant, Time-bound, Evaluate, Re-adjust | Objective-setting framework (extension of SMART). | — |
+| **SSMTRG** | Supplementary Substance Misuse Treatment and Recovery Grant | Office for Health Improvement and Disparities / Department of Health and Social Care — Supplementary Substance Misuse Treatment and Recovery Grant determination | — |
 | **SWEP** | Severe Weather Emergency Protocol | [MHCLG — Supporting vulnerable people before and during cold weather: guidance for those providing services to rough sleepers](https://www.gov.uk/guidance/supporting-vulnerable-people-before-and-during-cold-weather-for-those-providing-services-to-rough-sleepers) | — |
 | **TADU** | North East Regional Road Safety Resource / Traffic and Accident Data Unit | North East Regional Road Safety Resource / TADU | — |
 | **TATI** | Team around the individual | Practice model (multi-agency). | — |
@@ -274,6 +275,7 @@ Types: *Statutory terms* — Rooted in an Act of Parliament; the source links to
 | **Sport England** |  | organisation | The national arm's-length body that invests public and National Lottery funding in grassroots sport and physical activity in England. | [Sport England](https://www.sportengland.org/) | [findthatcharity org ID GB-GOR-PB190](https://findthatcharity.uk/orgid/GB-GOR-PB190) |
 | **Stockton-on-Tees Borough Council** |  | organisation | The unitary local authority for the Stockton-on-Tees area, in the Tees Valley. | — | [findthatcharity org ID GB-LAE-STT](https://findthatcharity.uk/orgid/GB-LAE-STT) |
 | **Strategic Housing Market Assessment** | SHMA | substantive | A local evidence study of housing need and demand across a housing-market area, used to inform housing and planning policy and Local Plans. | Strategic Housing Market Assessment | — |
+| **Supplementary Substance Misuse Treatment and Recovery Grant** | SSMTRG | statutory | A ring-fenced central-government grant to local authorities that supplements the drug and alcohol treatment element of the Public Health Grant, funding additional substance-misuse treatment and recovery capacity. | Office for Health Improvement and Disparities / Department of Health and Social Care — Supplementary Substance Misuse Treatment and Recovery Grant determination | — |
 | **Supported Employment Quality Framework** | SEQF | method | A quality standard for supported-employment services helping disabled people and those with health conditions into work. | British Association for Supported Employment (BASE). | — |
 | **Sustrans** |  | organisation | The sustainable-transport charity and custodian of the National Cycle Network; 'Sustrans' is short for 'sustainable transport'. | [Sustrans](https://www.sustrans.org.uk) | [findthatcharity org ID GB-CHC-326550](https://findthatcharity.uk/orgid/GB-CHC-326550) |
 | **Team around the individual** | TATI | method | A coordinated, person-centred approach bringing the relevant workers around one individual to plan and deliver joined-up support. | Practice model (multi-agency). | — |

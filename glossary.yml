@@ -8950,3 +8950,37 @@
     rcvda:
     - Terms
     - NHS & Public Health
+- term: Literature Review
+  id: literature-review
+  abbr: ''
+  full_term: Literature Review
+  aliases: Literature Review|Lit Review
+  type: method
+  definition: A review method that systematically appraises the published academic and research literature on a defined question, using a stated search strategy and inclusion criteria to identify relevant studies, critically appraising their quality and synthesising their findings to establish the current state of knowledge. Ranges in rigour from a narrative review to a full systematic review.
+  context_notes:
+    clr: The desk-based review method restricted to academic and research evidence; narrower than a [[Desktop Review]], which also draws on grey literature, policy and administrative sources.
+  source: Grant and Booth (2009) — A typology of reviews, Health Information and Libraries Journal, 26(2), 91–108.
+  source_url: https://doi.org/10.1111/j.1471-1842.2009.00848.x
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - clr
+  note: ''
+  agreed: y
+- term: Desktop Review
+  id: desktop-review
+  abbr: ''
+  full_term: Desktop Review
+  aliases: Desktop Review|Desk Review|Desk-based Research|Desk Research
+  type: method
+  definition: A research method that draws solely on existing, already-available material — published and grey literature, policy and government documents, administrative and statistical data, and organisational reports — gathering and synthesising what is already known for a defined purpose, without generating new primary data through fieldwork, surveys or interviews.
+  context_notes:
+    clr: The broad desk-based method; a [[Literature Review]] is its narrower form, restricted to academic and research evidence.
+  source: ''
+  source_url: ''
+  org_ref: ''
+  org_ref_url:
+  scope:
+  - clr
+  note: ''
+  agreed: y
