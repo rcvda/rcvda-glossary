@@ -930,11 +930,11 @@
   agreed: y
 - term: Harbour
   id: harbour
-  abbr: ''
-  full_term: Harbour
+  abbr: Harbour
+  full_term: Harbour Support Services
   aliases: Harbour
   type: organisation
-  definition: Harbour Support Services — the specialist domestic-abuse charity delivering the Redcar
+  definition: The specialist domestic-abuse charity delivering the Redcar
     & Cleveland model; with Changing Futures funding it hosts the GP Link Worker.
   source: ''
   source_url:
