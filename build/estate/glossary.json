@@ -1123,13 +1123,13 @@
   {
     "id": "harbour",
     "term": "Harbour",
-    "abbr": null,
-    "full_term": "Harbour",
+    "abbr": "Harbour",
+    "full_term": "Harbour Support Services",
     "aliases": [
       "Harbour"
     ],
     "type": "organisation",
-    "definition": "Harbour Support Services — the specialist domestic-abuse charity delivering the Redcar & Cleveland model; with Changing Futures funding it hosts the GP Link Worker.",
+    "definition": "The specialist domestic-abuse charity delivering the Redcar & Cleveland model; with Changing Futures funding it hosts the GP Link Worker.",
     "source": null,
     "source_url": null,
     "org_ref": "findthatcharity org ID GB-CHC-1086897",
@@ -1907,11 +1907,11 @@
   },
   {
     "id": "lw-gp-link-worker",
-    "term": "LW / GP Link Worker",
+    "term": "GP Link Worker",
     "abbr": null,
-    "full_term": "LW / GP Link Worker",
+    "full_term": "GP Link Worker",
     "aliases": [
-      "LW"
+      "Link Worker"
     ],
     "type": "local-programme",
     "definition": "The Harbour-employed GP Independent Domestic Violence Advocate / Advisor (IDVA) in Redcar & Cleveland. Dual-remit covering domestic abuse and substance use within the THRIVE partnership. 3.",
@@ -3290,7 +3290,7 @@
       "Thrive"
     ],
     "type": "local-programme",
-    "definition": "The Redcar and Cleveland partnership delivering England's first integrated Domestic Abuse and Substance Use (IDAS) service model: collaborative, trauma-informed support, commenced April 2022. Redcar and Cleveland Borough Council is its commissioning partner; the service is delivered by three partner charities: We Are With You (lead provider; core substance-misuse service), Harbour Support Services (core domestic-abuse service) and Intuitive Thinking Skills (recovery-based programme), working closely with Recovery Connections and other local partners. Built on shared values of being Trusting, Hopeful, Resilient, Involved, Valued and Empowered.",
+    "definition": "The Redcar and Cleveland partnership delivering England's first integrated Domestic Abuse and Substance Use (IDAS) service model: collaborative, trauma-informed support. THRIVE stands for Trusting, Hopeful, Resilient, Involved, Valued and Empowered. Partners: We Are With You (drug and alcohol support), Redcar and Cleveland Borough Council, Harbour Support Services (domestic abuse), Recovery Connections and Intuitive Thinking Skills.",
     "source": "We Are With You — Thrive Impact Report 2024/25; corroborated by the South Tees Changing Futures Housing First Service Specification (February 2024)",
     "source_url": "https://www.wearewithyou.org.uk/latest/news-and-views/women-stronger-together-a-three-way-conversation-with-the-thrive-partnership",
     "org_ref": null,
@@ -10247,6 +10247,48 @@
     "context_notes": {
       "clr": "The broad desk-based method; a [[Literature Review]] is its narrower form, restricted to academic and research evidence."
     },
+    "overrides": {}
+  },
+  {
+    "id": "incadva",
+    "term": "INCADVA",
+    "abbr": "INCADVA",
+    "full_term": "Inter-Collegiate and Agency Domestic Violence Abuse",
+    "aliases": [
+      "INCADVA"
+    ],
+    "type": "organisation",
+    "definition": "A forum of royal colleges and agencies whose recommended actions for the healthcare response to domestic abuse are set out in the Domestic Abuse Act 2021 section 84 statutory guidance (which lists implementing the IRIS programme among them).",
+    "source": "Domestic Abuse Statutory Guidance (Home Office, 2022) — section 84, Domestic Abuse Act 2021.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "context_notes": {},
+    "overrides": {}
+  },
+  {
+    "id": "qaly",
+    "term": "QALY",
+    "abbr": "QALY",
+    "full_term": "Quality-Adjusted Life Year",
+    "aliases": [
+      "QALY"
+    ],
+    "type": "substantive",
+    "definition": "A measure combining length of life and quality of life into a single figure, where one QALY is one year of life in full health; used to judge the cost-effectiveness of health interventions (cost per QALY).",
+    "source": "NICE health technology evaluation methods.",
+    "source_url": null,
+    "org_ref": null,
+    "org_ref_url": null,
+    "plain": null,
+    "scope": [
+      "clr.da"
+    ],
+    "context_notes": {},
     "overrides": {}
   }
 ]
