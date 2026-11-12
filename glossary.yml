@@ -8984,3 +8984,15 @@
   - clr
   note: ''
   agreed: y
+- term: INCADVA
+  id: incadva
+  abbr: INCADVA
+  full_term: Inter-Collegiate and Agency Domestic Violence Abuse
+  aliases: INCADVA
+  type: organisation
+  definition: A forum of royal colleges and agencies whose recommended actions for the healthcare response to domestic abuse are set out in the Domestic Abuse Act 2021 section 84 statutory guidance (which lists implementing the IRIS programme among them).
+  source: Domestic Abuse Statutory Guidance (Home Office, 2022) — section 84, Domestic Abuse Act 2021.
+  source_url:
+  scope:
+  - clr.da
+  agreed: y
