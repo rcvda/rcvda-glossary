@@ -8996,3 +8996,15 @@
   scope:
   - clr.da
   agreed: y
+- term: QALY
+  id: qaly
+  abbr: QALY
+  full_term: Quality-Adjusted Life Year
+  aliases: QALY
+  type: substantive
+  definition: A measure combining length of life and quality of life into a single figure, where one QALY is one year of life in full health; used to judge the cost-effectiveness of health interventions (cost per QALY).
+  source: NICE health technology evaluation methods.
+  source_url:
+  scope:
+  - clr.da
+  agreed: y
